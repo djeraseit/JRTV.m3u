@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,TEST
+#EXTVLCOPT:https-user-agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FHHzV1b.jpg" group-title="INFO",Lista SmartTV LTV Tecnotuto
 https://latinotv-usuarios.ltvtecnotuto.workers.dev/0:/Colorful%20Futuristic%20Neon%20Gaming%20Channel%20Youtube%20Outro.mp4
 #EXTINF:-1 tvg-logo="https://imgur.com/5TKzHnS.png" group-title="INFO",Telegram: grupo LTV ROKU Y M3U

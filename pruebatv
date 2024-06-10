@@ -1,0 +1,103 @@
+```m3u
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://x.playerlatino.live//azteca1.png",AZTECA UNO
+#EXTVLCOPT:http-user-agent=MXPlayer/1.83.0 (Linux; Android 12; es-ES; SHARK KTUS-H0 Build/KTUS2208100OS00MP2 test-keys)
+http://gzytv.vip:8880/Paredes40/cms94kQYmz/632
+
+#EXTINF:-1 tvg-logo="https://x.playerlatino.live//azteca1.png",AZTECA UNO
+#EXTVLCOPT:http-user-agent=MXPlayer/1.83.0 (Linux; Android 12; es-ES; SHARK KTUS-H0 Build/KTUS2208100OS00MP2 test-keys)
+https://u.m3uts.xyz/stream/hls/4.m3u8
+
+#EXTINF:-1 tvg-logo="https://x.playerlatino.live//azteca1.png",AZTECA UNO
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+
+#EXTINF:-1 tvg-logo="https://x.playerlatino.live//adn40.png",ADN 40
+#EXTVLCOPT:http-user-agent=Ultimate Player/1.0.4
+https://u.m3uts.xyz/stream/hls/447.m3u8
+
+#EXTINF:-1 tvg-logo="https://x.playerlatino.live/lasestrellas.png",LAS ESTRELLAS
+#EXTVLCOPT:http-user-agent=Ultimate Player/1.0.4
+https://u.m3uts.xyz/stream/hls/411.m3u8
+
+#EXTINF:-1 tvg-logo="https://x.playerlatino.live/lasestrellas.png",LAS ESTRELLAS
+https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8?hdnea=exp=1664336881~acl=/*~hmac=1ec2d2fbd8abe6748c87141ee89bc75436f4eec73a5811fe4190ce6cc435f208
+
+#EXTINF:-1 tvg-logo="https://x.playerlatino.live/lasestrellas.png",LAS ESTRELLAS HD
+#EXTVLCOPT:http-user-agent=Ultimate Player/1.0.4
+https://u.m3uts.xyz/stream/hls/636.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/forotv.png",FORO TV
+http://tv.nousiptv.com:8080/live/Veronicafleitas/2528/1155869.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/imagentv.png",IMAGEN TV
+#EXTVLCOPT:http-user-agent=Ultimate Player/1.0.4
+https://u.m3uts.xyz/stream/hls/643.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/imagentv.png",IMAGEN TV
+http://tv.nousiptv.com:8080/Veronicafleitas/2528/1124600
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/Excelsior_TV_HD.png/revision/latest?cb=20160619174953",Excelsior Tv
+https://stream-04.sv4.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLpsS_Lru1BkKv3e29JojPW7FzrDpgMOcitxFzbOeIK_H)/dm/3/x82z4if/d/live-1.m3u8#cell=lsv4
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canal5.png",CANAL 5 HD
+#EXTVLCOPT:http-user-agent=Ultimate Player/1.0.4
+https://u.m3uts.xyz/stream/hls/941.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canal5.png",CANAL 5
+http://tv.nousiptv.com:8080/live/Veronicafleitas/2528/1155866.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Multimedios_Television.png",MULTIMEDIOS
+#EXTVLCOPT:http-user-agent=Ultimate Player/1.0.4
+https://u.m3uts.xyz/stream/hls/155.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Milenio_Television.png",Milenio
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+
+#EXTINF:-1 tvg-logo="https://x.playerlatino.live/azteca7.png",AZTECA 7
+#EXTVLCOPT:http-user-agent=Ultimate Player/1.0.4
+https://u.m3uts.xyz/stream/hls/5.m3u8
+
+#EXTINF:-1 tvg-logo="https://x.playerlatino.live/azteca7.png",AZTECA 7
+http://tv.nousiptv.com:8080/live/Veronicafleitas/2528/1155862.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/aplus.png",A Mas+
+#EXTVLCOPT:http-user-agent=Ultimate Player/1.0.4
+https://u.m3uts.xyz/stream/hls/406.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/aplus.png",A Mas+
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn140.picsart.com/278369393029211.png",NU9VE
+http://tv.nousiptv.com:8080/live/Veronicafleitas/2528/1155855.m3u8
+
+#EXTINF:-1 tvg-logo="https://x.playerlatino.live/estrellatv.png",ESTRELLA TV
+#EXTVLCOPT:http-user-agent=Ultimate Player/1.0.4
+https://u.m3uts.xyz/stream/hls/177.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azclic.png",AZ CLIC HD
+#EXTVLCOPT:http-user-agent=Ultimate Player/1.0.4
+https://u.m3uts.xyz/stream/hls/165.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_mundo-mediano.png",AZ MUNDO
+http://tv.nousiptv.com:8080/live/Veronicafleitas/2528/4055.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_cinema-mediano.png",AZ CINEMA
+#EXTVLCOPT:http-user-agent=Ultimate Player/1.0.4
+https://u.m3uts.xyz/stream/hls/186.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canalonce.png",ONCE HD
+#EXTVLCOPT:http-user-agent=Ultimate Player/1.0.4
+https://u.m3uts.xyz/stream/hls/15.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/teleformula.png",TELEFORMULA
+#EXTVLCOPT:http-user-agent=Ultimate Player/1.0.4
+https://u.m3uts.xyz/stream/hls/182.m3u8
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/tvmas.png",TVMAS
+http://tv.nousiptv.com:8080/live/Veronicafleitas/2528/33365.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/125px-Russia-today-logo.svg.png",RT
+#EXTVLCOPT:http-user-agent=Ultimate Player/1.0.4
+https://u.m3uts.xyz/stream/hls/781.m3u8
+```

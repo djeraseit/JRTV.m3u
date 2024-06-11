@@ -1,3 +1,6 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+
 #EXTINF:-1 tvg-name="Mi Novia Favorita (Dual) (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p3wZ3Ojq7v1ngnKuFLyoCo8KWln.jpg" group-title="Romance",Mi Novia Favorita (Dual) (2022)
 http://gzytv.vip:8880/movie/jonathanparedeszom/CgU7dXRuTA/1080011.mkv
 #EXTINF:-1 tvg-name="El efecto Marcus: Los casos del Departamento Q (Lat) (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sEneMGx9S0SO08wSAPlgD83ysmO.jpg" group-title="Suspense",El efecto Marcus: Los casos del Departamento Q (Lat) (2021)

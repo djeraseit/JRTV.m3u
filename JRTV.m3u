@@ -1,4 +1,4 @@
-#EXTM3U url-tvg=""
+#EXTM3U 
 #EXTINF:-1 tvg-id="Aztecauno.mx" tvg-name="AZTECA UNO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="A- TV MX",AZTECA UNO
 http://gzytv.vip:8880/live/jonathanparedeszom/CgU7dXRuTA/2527.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="LAS ESTRELLAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Las_Estrellas_2017_Navidad.svg/revision/latest/scale-to-width-down/250?cb=20230202024114&path-prefix=es" group-title="A- TV MX",LAS ESTRELLAS
@@ -296,7 +296,7 @@ https://livelist01.yowi.tv/lista/abb87f329d0ed03072b1930e9636a53e8076c8d5/master
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="G- MUSICA CHILL OUT" tvg-logo="https://hqm.es/wp-content/uploads/chill-out-hqm-logo.png" group-title="G- MUSICA",G- MUSICA CHILL OUT
 https://livelist01.yowi.tv/lista/183a351ddb0e57af6d735256226e6033c32219ab/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="G- MUSICA BALADAS" tvg-logo="https://hqm.es/wp-content/uploads/baladas-hqm-logo.png" group-title="G- MUSICA",G- MUSICA BALADAS
-}https://livelist01.yowi.tv/lista/5d7d2c21e0ec7a8a99fd1fdbc52cbdc0782f77fc/master.m3u8
+https://livelist01.yowi.tv/lista/5d7d2c21e0ec7a8a99fd1fdbc52cbdc0782f77fc/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="G- MUSICA FLOK" tvg-logo="https://hqm.es/wp-content/uploads/folk-hqm-logo.png" group-title="G- MUSICA",G- MUSICA FLOK
 https://livelist01.yowi.tv/lista/9f5310c179e8e840188d183be235f755b18cf703/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="G- MUSICA DANCE" tvg-logo="https://hqm.es/wp-content/uploads/dance-hqm-logo.png" group-title="G- MUSICA",G- MUSICA DANCE
@@ -395,59 +395,3 @@ http://168.228.194.33:48001/play/a030/index.m3u8
 http://181.78.105.146:8800/play/a012
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADRENALINA SPORTS HD" tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2018/08/adrenalina-sports.network.png" group-title="H- DEPORTES",ADRENALINA SPORTS HD
 https://linear-393.frequency.stream/393/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_Deportes_1.svg/1200px-Movistar_Deportes_1.svg.png" group-title="H- DEPORTES",MOVISTAR SPORTS
-http://191.97.49.194:8000/play/a02f/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR LA LIGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="H- DEPORTES",MOVISTAR LA LIGA
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/79634.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="H- DEPORTES",WIN SPORTS
-http://200.59.188.3:8000/play/a00n
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WIN SPORTS PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/200px-Win_Sports%2B_logo.svg.png" group-title="H- DEPORTES",WIN SPORTS PLUS
-http://177.53.153.20:8001/play/a03j/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="H- DEPORTES",BEIN SPORTS
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/50421.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TIGO SPORTS" tvg-logo="https://th.bing.com/th/id/R.d9e08c3205afcf0a6a2a9b91f1b849ef?rik=SXhZ7dSfPiECaw&riu=http%3a%2f%2fandabolivia.com%2fwp-content%2fuploads%2f2018%2f05%2ftigo-sports.png&ehk=enXRtyb%2bSKMEquecsDcEbATCWPgbcqEe0YEqdg4NlaM%3d&risl=&pid=ImgRaw&r=0" group-title="H- DEPORTES",TIGO SPORTS
-http://45.5.117.172:8000/play/a02v/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TYCSPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1280px-TyC_Sports_logo.svg.png" group-title="H- DEPORTES",TYCSPORTS
-http://45.166.92.22:58001/play/a04d/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALF" tvg-logo="https://th.bing.com/th/id/R.8093c4913f46b6a7c9fbfd7442dc2002?rik=XMJVNX3hGLWAFg&riu=http%3a%2f%2ffanart.tv%2ffanart%2ftv%2f78020%2fhdclearart%2falf-5835b6ec28f6e.png&ehk=DpWgKU8dyXY53wBZMaQ9FaZupb3KO4yp8oG6Y0MDy%2f4%3d&risl=&pid=ImgRaw&r=0" group-title="I- 24/7",ALF
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/2321.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANIMANIACS" tvg-logo="https://vignette.wikia.nocookie.net/animaniacs/images/d/d9/Animaniacs_%285%29.png" group-title="I- 24/7",ANIMANIACS
-http://185.155.103.50:8080/Tony1Cuellar/eHSreBzZkg7a/2090871
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EL CHAVO DEL OCHO" tvg-logo="https://www.vippng.com/png/full/201-2013595_el-chavo-el-chavo-del-8-letra.png" group-title="I- 24/7",EL CHAVO DEL OCHO
-http://twomonkeys.live:80/Josue123/Josue123/1039819
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHAPULIN COLORADO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/480px-El_Chapul%C3%ADn_Colorado_logo.svg.png" group-title="I- 24/7",CHAPULIN COLORADO
-http://twomonkeys.live:80/Josue123/Josue123/1039705
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CORRECAMINOS" tvg-logo="https://i.pinimg.com/originals/0f/50/36/0f5036f3966e6bb4fc610c4a7342869b.png" group-title="I- 24/7",CORRECAMINOS
-http://185.155.103.50:8080/Tony1Cuellar/eHSreBzZkg7a/2090952
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FUTURAMA" tvg-logo="https://pngimg.com/uploads/futurama/futurama_PNG26.png" group-title="I- 24/7",FUTURAMA
-http://twomonkeys.live:80/Josue123/Josue123/1039821
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PANTERA ROSA" tvg-logo="https://i2.wp.com/formby.es/wp-content/uploads/2014/05/pinkpantherlogo.png" group-title="I- 24/7",PANTERA ROSA
-http://185.155.103.50:8080/Tony1Cuellar/eHSreBzZkg7a/2090971
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DINOSAURIOS" tvg-logo="https://miro.medium.com/max/1380/1*5FDqv_Jqlk___XP0eFZptQ.png" group-title="I- 24/7",DINOSAURIOS
-http://185.155.103.50:8080/Tony1Cuellar/eHSreBzZkg7a/2090879
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 DREAMWORKS" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-DreamWorks-1.png" group-title="I- 24/7",24/7 DREAMWORKS
-http://tv.deluxeprime.net:8080/anrj91/TpwfHPjkLHMJ/176809
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 DISNEY PIXAR" tvg-logo="https://1000logos.net/wp-content/uploads/2017/08/Pixar-symbol-500x155.jpg" group-title="I- 24/7",24/7 DISNEY PIXAR
-http://lobo-tv.live:8080/Daleplayperu52/tVFeXytHnZ/2090939
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 MARVEL" tvg-logo="http://vignette4.wikia.nocookie.net/marvelmovies/images/e/ed/Marvel_Studios_2016_Transparent_Logo.png" group-title="I- 24/7",24/7 MARVEL
-http://185.155.103.50:8080/Tony1Cuellar/eHSreBzZkg7a/177987
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DRAGON BALL" tvg-logo="https://i.imgur.com/ZnwLln5.png" group-title="I- 24/7",DRAGON BALL
-http://185.155.103.50:8080/Tony1Cuellar/eHSreBzZkg7a/2090998
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/originals/e3/46/83/e34683b61a49dfd0974b73821de6a339.png" group-title="I- 24/7",DRAGON BALL Z
-http://185.155.103.50:8080/Tony1Cuellar/eHSreBzZkg7a/2091001
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DRAGON BALL GT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Dragon_Ball_GT_logo.png/1280px-Dragon_Ball_GT_logo.png" group-title="I- 24/7",DRAGON BALL GT
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/65621.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DRAGON BALL SUPER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Dragon_Ball_Super.png" group-title="I- 24/7",DRAGON BALL SUPER
-http://185.155.103.50:8080/Tony1Cuellar/eHSreBzZkg7a/2091000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NARUTO" tvg-logo="https://www.logolynx.com/images/logolynx/4f/4f0ca4a99c82adc701d1c18856708d3a.png" group-title="I- 24/7",NARUTO
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=eba192f4-cd23-11eb-9091-0242ac110002&sid=eba192f4-cd23-11eb-9091-0242ac110002&userId=
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CABALLEROS DEL ZODIACO" tvg-logo="https://th.bing.com/th/id/R404141aa90894f89d7090785b3e1685d?rik=ml589mK99ne4GQ&pid=ImgRaw" group-title="I- 24/7",CABALLEROS DEL ZODIACO
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/366841.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="THE THEORY OF BIG BANG" tvg-logo="https://i.kym-cdn.com/photos/images/facebook/001/018/269/b21.png" group-title="I- 24/7",THE THEORY OF BIG BANG
-http://185.155.103.50:8080/Tony1Cuellar/eHSreBzZkg7a/2091018
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LOS SIMPSON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Logo_The_Simpsons.svg/1024px-Logo_The_Simpsons.svg.png" group-title="I- 24/7",LOS SIMPSON
-http://twomonkeys.live:80/Josue123/Josue123/1039738
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="THUNDERCATS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Thundercats_logo_2011.png/250px-Thundercats_logo_2011.png" group-title="I- 24/7",THUNDERCATS
-http://185.155.103.50:8080/Tony1Cuellar/eHSreBzZkg7a/2090987
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MALCOLM EL DE EN MEDIO" tvg-logo="https://www.malcolminthemiddle.co.uk/wp-content/uploads/2019/04/Logo.png" group-title="I- 24/7",MALCOLM EL DE EN MEDIO
-http://185.155.103.50:8080/Tony1Cuellar/eHSreBzZkg7a/2091027

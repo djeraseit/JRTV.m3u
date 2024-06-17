@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://micartelera.com.ar/images/peliculas/poster/Intensamente-2-01.jpg" group-title="MOVIES ESTRENOS HD",INTENSAMENTE 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9RTiAs9eXXyl10J0airgMNEkBuqZ-iU7CUA&usqp=CAU" group-title="MOVIES ESTRENOS HD",INTENSAMENTE 2
 #EXTVLCOPT:https-user-agent=PuraKura Play
-http://alfatv.lat:2082/movie/OficialTv457/N3bfWvmGRtwd/339050.mkv
+http://home-playtv.com:8080/movie/usermarce0002/MGQPM/546897.mp4
 
 #EXTINF:-1 tvg-logo="https://www.cweb.com/wp-content/uploads/2024/03/garfield-1.jpg" group-title="MOVIES ESTRENOS HD",GARFIELD
 https://www.polimorhdd.online/stuff/garfield.mp4

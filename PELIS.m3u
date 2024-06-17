@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://micartelera.com.ar/images/peliculas/poster/Intensamente-2-01.jpg" group-title="MOVIES ESTRENOS HD",INTENSAMENTE 2
+#EXTVLCOPT:http-user-agent=PuraKura Play
 http://alfatv.lat:2082/movie/OficialTv457/N3bfWvmGRtwd/339050.mkv
 
 #EXTINF:-1 tvg-logo="https://www.cweb.com/wp-content/uploads/2024/03/garfield-1.jpg" group-title="MOVIES ESTRENOS HD",GARFIELD

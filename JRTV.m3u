@@ -156,9 +156,9 @@ http://45.166.92.22:58001/play/a02v/index.m3u8
 #EXTINF:-1 tvg-id="BabyFirst.mx" tvg-name="BABY FIRST" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/5a/BabyFirst.svg/953px-BabyFirst.svg.png" group-title="D- INFANTIL",BABY FIRST
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1984/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Hbo_blanco.png" group-title="E- PREMIUM",HBO
-http://gzytv.vip:8880/live/jonathanparedeszom/CgU7dXRuTA/469.m3u8
+http://gzytv.vip:8880/live/jonathanparedeszom/CgU7dXRuTA/858.m3u8
 #EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_2_latinoamerica-mediano.png" group-title="E- PREMIUM",HBO2
-http://gzytv.vip:8880/live/jonathanparedeszom/CgU7dXRuTA/806.m3u8
+http://home-playtv.com:8080/live/usermarce0002/MGQPM/286151.ts
 #EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO FAMILY" tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097892735-HBO-Family-pequenio.png" group-title="E- PREMIUM",HBO FAMILY
 http://gzytv.vip:8880/live/jonathanparedeszom/CgU7dXRuTA/861.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Latino" tvg-logo="https://w7.pngwing.com/pngs/743/649/png-transparent-hbo-latino-hd-logo-thumbnail.png" group-title="E- PREMIUM",HBO Latino

@@ -1,16 +1,24 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9RTiAs9eXXyl10J0airgMNEkBuqZ-iU7CUA&usqp=CAU" group-title="MOVIES ESTRENOS HD",INTENSAMENTE 2
-#EXTVLCOPT:https-user-agent=PuraKura Play
-http://home-playtv.com:8080/movie/usermarce0002/MGQPM/546897.mp4
-
-#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/img/2c/28/2c28d9fed637b36d2a740d7752f42dd5.jpeg" group-title="MOVIES ESTRENOS HD",Bad Boys: Ride or Die
-http://home-playtv.com:8080/movie/usermarce0002/MGQPM/545986.mp4
-
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Garfield_La_pelaicula-655366875-large.jpg" group-title="MOVIES ESTRENOS HD",GARFIELD
-http://home-playtv.com:8080/movie/usermarce0002/MGQPM/546280.mp4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBYbE913ZGYHx3Gimtz7sqknGX6mu2NOAeGw&usqp=CAU" group-title="MOVIES ESTRENOS HD",ATLAS
+#EXTINF:-1 tvg-logo="https://www.lahiguera.net/cinemania/pelicula/10978/del_reves_2-cartel-11675.jpg" group-title="MOVIES ESTRENOS HD",INTENSAMENTE 2
+https://www.polimorhdd.online/stuff/intensamente2.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/0956c33463c39a4106e3454a0203b6a37edd7d6e2a8847884604a06c35510d4a.jpg" group-title="MOVIES ESTRENOS HD",TAROT
+https://www.polimorhdd.online/stuff/tarot.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Gho_aoP_mV8/maxresdefault.jpg" group-title="MOVIES ESTRENOS HD",THE STRANGER: CHAPTER 1
+https://www.polimorhdd.online/stuff/extranos1.mp4
+#EXTINF:-1 tvg-logo="https://www.lahiguera.net/cinemania/pelicula/7245/bad_boys_ride_or_die-cartel-11738.jpg" group-title="MOVIES ESTRENOS HD",BAD BOYS: RIDE OR DIE
+https://www.polimorhdd.online/stuff/badboys4.mp4
+#EXTINF:-1 tvg-logo="https://www.tvinsider.com/wp-content/uploads/2023/12/civil-war.jpg" group-title="MOVIES ESTRENOS HD",CIVIL WAR
+http://vod.tuxchannel.mx/peliculas/720/civil%20war%202024.mkv
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.i6-pLmFBnyrcmLyrjiq6UQHaEK?rs=1&pid=ImgDetMain" group-title="MOVIES ESTRENOS HD",EN LAS PROFUNDIDADES DEL SENA
+https://www.polimor.club/movies/sena.mp4
+#EXTINF:-1 tvg-logo="https://herculesdiario.es/wp-content/uploads/2024/06/gqXJxxp.png" group-title="MOVIES ESTRENOS HD",HIT MAN: ASESINO POR CASUALIDAD
+https://www.polimor.club/movies/hitman.mp4
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.nLJf8RE260oIxVx2jwdjwgAAAA?rs=1&pid=ImgDetMain" group-title="MOVIES ESTRENOS HD",EL DURO
+http://vod.tuxchannel.mx/peliculas/720/road%20house%202024.mkv
+#EXTINF:-1 tvg-logo="https://www.cweb.com/wp-content/uploads/2024/03/garfield-1.jpg" group-title="MOVIES ESTRENOS HD",GARFIELD
+https://www.polimorhdd.online/stuff/garfield.mp4
+#EXTINF:-1 tvg-logo="https://www.heavenofhorror.com/wp-content/uploads/2024/05/Atlas-Netflix-Review.jpg" group-title="MOVIES ESTRENOS HD",ATLAS
 http://vod.tuxchannel.mx/peliculas/720/atlas%202024.mkv
-#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/img/1a/c5/1ac51424d548ea66282f994f826e2652.jpg" group-title="MOVIES ESTRENOS HD",LA PRIMERA PROFECIA
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/mNhWMRE8IC0/maxresdefault.jpg" group-title="MOVIES ESTRENOS HD",LA PRIMERA PROFECIA
 https://www.polimor.club/movies/profecia.mp4
 #EXTINF:-1 tvg-logo="https://th.bing.com/th?id=OIF.eUEumUqe74ekF9qP5%2b%2fvIw&rs=1&pid=ImgDetMain" group-title="MOVIES ESTRENOS HD",SOUTH PARK: EL FIN DE LA OBESIDAD
 https://www.polimorhdd.online/stuff/cartman.mp4
@@ -392,7 +400,7 @@ http://158.69.224.17:88/edmian/Polite.Society.2023.720p%20(1).mkv
 http://158.69.224.17:88/edmian/Air.2023.720p%20(1).mkv
 #EXTINF:-1 tvg-logo="https://th.bing.com/th?id=OIF.Vt3yHm7EEHKzauLq%2fEkUQw&pid=ImgDet&rs=1" group-title="MOVIES ESTRENOS HD",CRATER
 http://158.69.224.17:88/edmian/Crater.2023.720p%20(1).mkv
-#EXTINF:-1 tvg-logo="https://editorial.aristeguinoticias.com/wp-content/uploads/2022/11/Que_viva_mexico-poster.jpeg" group-title="MOVIES ESTRENOS HD",¡QUE VIVA A-TV MX!
+#EXTINF:-1 tvg-logo="https://editorial.aristeguinoticias.com/wp-content/uploads/2022/11/Que_viva_mexico-poster.jpeg" group-title="MOVIES ESTRENOS HD",¡QUE VIVA MEXICO!
 http://158.69.224.17:88/edmian/Que%20viva%20M%c3%a9xico.2023.720P.mkv
 #EXTINF:-1 tvg-logo="https://www.nintenderos.com/wp-content/uploads/2023/02/pelicula-marios.jpg" group-title="MOVIES ESTRENOS HD",SUPER MARIO BROS: LA PELICULA 
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fabril%2FVer%20S%C3%BAper%20Mario%20Bros-%20La%20pel%C3%ADcula%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4

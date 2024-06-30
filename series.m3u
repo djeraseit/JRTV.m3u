@@ -1,21 +1,109 @@
-#EXTM3U
+#EXTINF:-1 tvg-id="CLAROSPORTS" tvg-name="CLARO SPORTS " tvg-logo="http://alfatv.lat:2082/images/f72436626558bf8537eb572e1fc29f9d.png" group-title="A- DEPORTES",CLARO SPORTS 
+http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/237634
+#EXTINF:-1 tvg-id="0" tvg-name="ESPN 2 MEX" tvg-logo="http://alfatv.lat:2082/images/013a2cad6d3d325cf8ecdc85e794554d.png" group-title="A- DEPORTES",ESPN 2 MEX
+http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/237655
+#EXTINF:-1 tvg-id="FoxSp.Mx" tvg-name="FOX SPORTS 1 HD" tvg-logo="http://alfatv.lat:2082/images/926d44a464ac7e319e73bc6671dabc5c.png" group-title="A- DEPORTES",FOX SPORTS 1 HD
+http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/237660
+#EXTINF:-1 tvg-id="FoxSp2.Mx" tvg-name="FOX SPORTS 2 HD" tvg-logo="http://alfatv.lat:2082/images/cd49f7b1391803857aa5586cf6940bb8.png" group-title="A- DEPORTES",FOX SPORTS 2 HD
+http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/237663
+#EXTINF:-1 tvg-id="UTDN Mx" tvg-name="TUDN MEXICO UHD" tvg-logo="http://alfatv.lat:2082/images/f5961d06289cc89727550e4ace63d675.png" group-title="A- DEPORTES",TUDN MEXICO UHD
+http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/237673
+#EXTINF:-1 tvg-id="ESPN.Mx" tvg-name="ESPN 1 MX" tvg-logo="http://alfatv.lat:2082/images/83ee670f5eb4abd0fc0a82e848922ce1.png" group-title="A- DEPORTES",ESPN 1 MX
+http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/237716
+#EXTINF:-1 tvg-id="ESPN3HD.Mx" tvg-name="ESPN 3 MX" tvg-logo="http://alfatv.lat:2082/images/9371e1d403f4839ef435ad366f930d15.png" group-title="A- DEPORTES",ESPN 3 MX
+http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/237718
+#EXTINF:-1 tvg-id="FoxSp3" tvg-name="FOX SPORTS 3" tvg-logo="http://alfatv.lat:2082/images/0d9b9d51882a6d967ce468ba3da721b0.png" group-title="A- DEPORTES",FOX SPORTS 3
+http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/237722
+#EXTINF:-1 tvg-id="FOX SPORTS PREMIUM" tvg-name="FOX SPORTS PREMIUM" tvg-logo="http://alfatv.lat:2082/images/1ae842c474a83db6700efb3bd08f44cc.png" group-title="A- DEPORTES",FOX SPORTS PREMIUM
+http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/237723
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ONETORO" tvg-logo="http://alfatv.lat:2082/images/0e16b624e6ec18629b1df66b747b9287.png" group-title="A- DEPORTES",ONETORO
+http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/243559
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ONETORO " tvg-logo="http://alfatv.lat:2082/images/0e16b624e6ec18629b1df66b747b9287.png" group-title="A- DEPORTES",ONETORO 
+http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/244207
+#EXTINF:-1 tvg-id="ESPNDep" tvg-name="ESPN DEPORTES HD" tvg-logo="http://alfatv.lat:2082/images/1a105bdbe35564778d65369756a205f6.png" group-title="A- DEPORTES",ESPN DEPORTES HD
+http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/244240
+#EXTINF:-1 tvg-id="FOX SPORTS 3" tvg-name="FOX SPORTS 3 FHD" tvg-logo="http://alfatv.lat:2082/images/0d9b9d51882a6d967ce468ba3da721b0.png" group-title="A- DEPORTES",FOX SPORTS 3 FHD
+http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/244250
+#EXTINF:-1 tvg-id="UTDN Mx" tvg-name="TUDN MX" tvg-logo="https://i.ibb.co/vz4Nzyn/TUDN.png" group-title="A- DEPORTES",TUDN MX
+http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/244264
+#EXTINF:-1 tvg-id="UTDN Mx" tvg-name="TUDN MX HD" tvg-logo="http://alfatv.lat:2082/images/f5961d06289cc89727550e4ace63d675.png" group-title="A- DEPORTES",TUDN MX HD
+http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/244265
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TUDN USA" tvg-logo="http://alfatv.lat:2082/images/f5961d06289cc89727550e4ace63d675.png" group-title="A- DEPORTES",TUDN USA
+http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/244266
+#EXTINF:-1 tvg-id="ESPNDep" tvg-name="ESPN DEPORTES" tvg-logo="http://alfatv.lat:2082/images/1a105bdbe35564778d65369756a205f6.png" group-title="A- DEPORTES",ESPN DEPORTES
+http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/263186
+#EXTINF:-1 tvg-id="CLAROSPORTS" tvg-name="CLARO SPORTS" tvg-logo="http://alfatv.lat:2082/images/f72436626558bf8537eb572e1fc29f9d.png" group-title="A- DEPORTES",CLARO SPORTS
+http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/266228
+#EXTINF:-1 tvg-id="espn-3.mx" tvg-name="ESPN 3" tvg-logo="http://alfatv.lat:2082/images/9371e1d403f4839ef435ad366f930d15.png" group-title="A- DEPORTES",ESPN 3
+http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/266231
+#EXTINF:-1 tvg-id="TUDN.Cntro" tvg-name="TUDN" tvg-logo="http://alfatv.lat:2082/images/f5961d06289cc89727550e4ace63d675.png" group-title="A- DEPORTES",TUDN
+http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/268850
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX SPORTS 1 hd" tvg-logo="http://alfatv.lat:2082/images/926d44a464ac7e319e73bc6671dabc5c.png" group-title="A- DEPORTES",FOX SPORTS 1 hd
+http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/304155
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX SPORTS PREMIUM" tvg-logo="http://alfatv.lat:2082/images/1ae842c474a83db6700efb3bd08f44cc.png" group-title="A- DEPORTES",FOX SPORTS PREMIUM
+http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/304156
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX SPORTS 2 FHD" tvg-logo="http://alfatv.lat:2082/images/cd49f7b1391803857aa5586cf6940bb8.png" group-title="A- DEPORTES",FOX SPORTS 2 FHD
+http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/304157
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN 2 FHD" tvg-logo="http://alfatv.lat:2082/images/013a2cad6d3d325cf8ecdc85e794554d.png" group-title="A- DEPORTES",ESPN 2 FHD
+http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/304159
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN 3 HD" tvg-logo="http://alfatv.lat:2082/images/9371e1d403f4839ef435ad366f930d15.png" group-title="A- DEPORTES",ESPN 3 HD
+http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/304160
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZONA TUDN" tvg-logo="http://alfatv.lat:2082/images/f5961d06289cc89727550e4ace63d675.png" group-title="A- DEPORTES",ZONA TUDN
+http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/335582
 
-#EXTINF:-1 tvg-name="Mi Novia Favorita (Dual) (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p3wZ3Ojq7v1ngnKuFLyoCo8KWln.jpg" group-title="Romance",Mi Novia Favorita (Dual) (2022)
-http://gzytv.vip:8880/movie/jonathanparedeszom/CgU7dXRuTA/1080011.mkv
-#EXTINF:-1 tvg-name="El efecto Marcus: Los casos del Departamento Q (Lat) (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sEneMGx9S0SO08wSAPlgD83ysmO.jpg" group-title="Suspense",El efecto Marcus: Los casos del Departamento Q (Lat) (2021)
-http://gzytv.vip:8880/movie/jonathanparedeszom/CgU7dXRuTA/1080010.mp4
-#EXTINF:-1 tvg-name="Little Birds (Dual) (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ZHGIfi8RZEPrKwHU5Ecbpx9J18.jpg" group-title="Drama",Little Birds (Dual) (2011)
-http://gzytv.vip:8880/movie/jonathanparedeszom/CgU7dXRuTA/1080006.mp4
-#EXTINF:-1 tvg-name="La herencia tiene un precio (Dual) (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w0N9wVv0904itL2Gwdvon2AR4IU.jpg" group-title="Comedy",La herencia tiene un precio (Dual) (2024)
-http://gzytv.vip:8880/movie/jonathanparedeszom/CgU7dXRuTA/1080005.mkv
-#EXTINF:-1 tvg-name="Kali (Dual) (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6G2asNhF8v9htu53JkmtHge23f.jpg" group-title="Action",Kali (Dual) (2024)
-http://gzytv.vip:8880/movie/jonathanparedeszom/CgU7dXRuTA/1079992.mkv
-#EXTINF:-1 tvg-name="En buenas manos 2 (Dual) (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6dSKsk00OzZY8ZMaL5vJlJjJwJM.jpg" group-title="Drama",En buenas manos 2 (Dual) (2024)
-http://gzytv.vip:8880/movie/jonathanparedeszom/CgU7dXRuTA/1079965.mp4
-#EXTINF:-1 tvg-name="Spy x Family Código: Blanco (Lat) (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jfjW3mQiCTL001ZVfUQ8bQ19zTD.jpg" group-title="Animation",Spy x Family Código: Blanco (Lat) (2023)
-http://gzytv.vip:8880/movie/jonathanparedeszom/CgU7dXRuTA/1079955.mp4
-#EXTINF:-1 tvg-name="Hakkodasan (Sub) (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1solwae6RKtIL2eP8AOjTqSJOBk.jpg" group-title="Drama",Hakkodasan (Sub) (1977)
-http://gzytv.vip:8880/movie/jonathanparedeszom/CgU7dXRuTA/1079954.mp4
-#EXTINF:-1 tvg-name="Evidências do Amor (Dual) (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gXg0cuvdri0u9yZPKOHmRPgGpR0.jpg" group-title="Comedy",Evidências do Amor (Dual) (2024)
-http://gzytv.vip:8880/movie/jonathanparedeszom/CgU7dXRuTA/1079953.mkv
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="18:00 Argentina vs Perú (Copa América) 29 Jun op1" tvg-logo="http://alfatv.lat:2082/images/563face2167f27cff0a6585d2cad76f4.png" group-title="B- COPA AMÉRICA",18:00 Argentina vs Perú (Copa América) 29 Jun op1
+http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/339675
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="18:00 Argentina vs Perú (Copa América) 29 Jun op2" tvg-logo="http://alfatv.lat:2082/images/563face2167f27cff0a6585d2cad76f4.png" group-title="B- COPA AMÉRICA",18:00 Argentina vs Perú (Copa América) 29 Jun op2
+http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/339676
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="18:00 Canadá vs Chile (Copa América) 29 Jun op1" tvg-logo="http://alfatv.lat:2082/images/563face2167f27cff0a6585d2cad76f4.png" group-title="B- COPA AMÉRICA",18:00 Canadá vs Chile (Copa América) 29 Jun op1
+http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/339677
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="18:00 Canadá vs Chile (Copa América) 29 Jun op2" tvg-logo="http://alfatv.lat:2082/images/563face2167f27cff0a6585d2cad76f4.png" group-title="B- COPA AMÉRICA",18:00 Canadá vs Chile (Copa América) 29 Jun op2
+http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/339678
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="18:00 Jamaica vs Venezuela (Copa América) 30 Jun op1" tvg-logo="http://alfatv.lat:2082/images/563face2167f27cff0a6585d2cad76f4.png" group-title="B- COPA AMÉRICA",18:00 Jamaica vs Venezuela (Copa América) 30 Jun op1
+http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/339679
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="18:00 Jamaica vs Venezuela (Copa América) 30 Jun op2" tvg-logo="http://alfatv.lat:2082/images/563face2167f27cff0a6585d2cad76f4.png" group-title="B- COPA AMÉRICA",18:00 Jamaica vs Venezuela (Copa América) 30 Jun op2
+http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/339680
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="18:00 México vs Ecuador (Copa América) 30 Jun op1" tvg-logo="http://alfatv.lat:2082/images/563face2167f27cff0a6585d2cad76f4.png" group-title="B- COPA AMÉRICA",18:00 México vs Ecuador (Copa América) 30 Jun op1
+http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/339681
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="18:00 México vs Ecuador (Copa América) 30 Jun op2" tvg-logo="http://alfatv.lat:2082/images/563face2167f27cff0a6585d2cad76f4.png" group-title="B- COPA AMÉRICA",18:00 México vs Ecuador (Copa América) 30 Jun op2
+http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/339682
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="19:00 Boliva vs Panamá (Copa América) 01 Jul op1" tvg-logo="http://alfatv.lat:2082/images/563face2167f27cff0a6585d2cad76f4.png" group-title="B- COPA AMÉRICA",19:00 Boliva vs Panamá (Copa América) 01 Jul op1
+http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/339683
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="19:00 USA vs Uruguay (Copa América) 01 Jul op1" tvg-logo="http://alfatv.lat:2082/images/563face2167f27cff0a6585d2cad76f4.png" group-title="B- COPA AMÉRICA",19:00 USA vs Uruguay (Copa América) 01 Jul op1
+http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/339684
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="19:00 USA vs Uruguay (Copa América) 01 Jul op2" tvg-logo="http://alfatv.lat:2082/images/563face2167f27cff0a6585d2cad76f4.png" group-title="B- COPA AMÉRICA",19:00 USA vs Uruguay (Copa América) 01 Jul op2
+http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/339685
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="19:00 Brasil vs Colombia (Copa América) 02 Jul op2" tvg-logo="http://alfatv.lat:2082/images/563face2167f27cff0a6585d2cad76f4.png" group-title="B- COPA AMÉRICA",19:00 Brasil vs Colombia (Copa América) 02 Jul op2
+http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/339686
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="19:00 Costa Rica vs Paraguay (Copa América) 02 Jul op1" tvg-logo="http://alfatv.lat:2082/images/563face2167f27cff0a6585d2cad76f4.png" group-title="B- COPA AMÉRICA",19:00 Costa Rica vs Paraguay (Copa América) 02 Jul op1
+http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/339687
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="19:00 Costa Rica vs Paraguay (Copa América) 02 Jul op2" tvg-logo="http://alfatv.lat:2082/images/563face2167f27cff0a6585d2cad76f4.png" group-title="B- COPA AMÉRICA",19:00 Costa Rica vs Paraguay (Copa América) 02 Jul op2
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="10:00 Inglaterra vs Eslovaquia 30 Jun op1" tvg-logo="http://alfatv.lat:2082/images/52deb8d3f37316915b288fc4bd795537.png" group-title="C- EUROCOPA ELIMINACION DIRECTA",10:00 Inglaterra vs Eslovaquia 30 Jun op1
+http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/340714
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="10:00 Inglaterra vs Eslovaquia 30 Jun op2" tvg-logo="http://alfatv.lat:2082/images/52deb8d3f37316915b288fc4bd795537.png" group-title="C- EUROCOPA ELIMINACION DIRECTA",10:00 Inglaterra vs Eslovaquia 30 Jun op2
+http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/340715
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="13:00 España vs Georgia 30 Jun op1" tvg-logo="http://alfatv.lat:2082/images/52deb8d3f37316915b288fc4bd795537.png" group-title="C- EUROCOPA ELIMINACION DIRECTA",13:00 España vs Georgia 30 Jun op1
+http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/340716
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="13:00 España vs Georgia 30 Jun op2" tvg-logo="http://alfatv.lat:2082/images/52deb8d3f37316915b288fc4bd795537.png" group-title="C- EUROCOPA ELIMINACION DIRECTA",13:00 España vs Georgia 30 Jun op2
+http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/340717
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="10:00 Francia vs Bélgica 01 Jul op1" tvg-logo="http://alfatv.lat:2082/images/52deb8d3f37316915b288fc4bd795537.png" group-title="C- EUROCOPA ELIMINACION DIRECTA",10:00 Francia vs Bélgica 01 Jul op1
+http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/340718
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="10:00 Francia vs Bélgica 01 Jul op2" tvg-logo="http://alfatv.lat:2082/images/52deb8d3f37316915b288fc4bd795537.png" group-title="C- EUROCOPA ELIMINACION DIRECTA",10:00 Francia vs Bélgica 01 Jul op2
+http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/340719
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="13:00 Portugal vs Eslovenia 01 Jul op1" tvg-logo="http://alfatv.lat:2082/images/52deb8d3f37316915b288fc4bd795537.png" group-title="C- EUROCOPA ELIMINACION DIRECTA",13:00 Portugal vs Eslovenia 01 Jul op1
+http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/340720
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="13:00 Portugal vs Eslovenia 01 Jul op2" tvg-logo="http://alfatv.lat:2082/images/52deb8d3f37316915b288fc4bd795537.png" group-title="C- EUROCOPA ELIMINACION DIRECTA",13:00 Portugal vs Eslovenia 01 Jul op2
+http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/340721
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="10:00 Rumania vs Holanda 02 Jul op1" tvg-logo="http://alfatv.lat:2082/images/52deb8d3f37316915b288fc4bd795537.png" group-title="C- EUROCOPA ELIMINACION DIRECTA",10:00 Rumania vs Holanda 02 Jul op1
+http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/340722
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="10:00 Rumania vs Holanda 02 Jul op2" tvg-logo="http://alfatv.lat:2082/images/52deb8d3f37316915b288fc4bd795537.png" group-title="C- EUROCOPA ELIMINACION DIRECTA",10:00 Rumania vs Holanda 02 Jul op2
+http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/340723
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="13:00 Austria vs Turquía 02 Jul op1" tvg-logo="http://alfatv.lat:2082/images/52deb8d3f37316915b288fc4bd795537.png" group-title="C- EUROCOPA ELIMINACION DIRECTA",13:00 Austria vs Turquía 02 Jul op1
+http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/340724
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="13:00 Austria vs Turquía 02 Jul op2" tvg-logo="http://alfatv.lat:2082/images/52deb8d3f37316915b288fc4bd795537.png" group-title="C- EUROCOPA ELIMINACION DIRECTA",13:00 Austria vs Turquía 02 Jul op2
+http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/340725
 

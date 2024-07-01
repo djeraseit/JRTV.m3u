@@ -1,858 +1,770 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALF" tvg-logo="https://th.bing.com/th/id/R.8093c4913f46b6a7c9fbfd7442dc2002?rik=XMJVNX3hGLWAFg&riu=http%3a%2f%2ffanart.tv%2ffanart%2ftv%2f78020%2fhdclearart%2falf-5835b6ec28f6e.png&ehk=DpWgKU8dyXY53wBZMaQ9FaZupb3KO4yp8oG6Y0MDy%2f4%3d&risl=&pid=ImgRaw&r=0" group-title="A- 24/7",ALF
-http://gzytv.vip:8880/live/jonathanparedeszom/CgU7dXRuTA/744.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANIMANIACS" tvg-logo="https://vignette.wikia.nocookie.net/animaniacs/images/d/d9/Animaniacs_%285%29.png" group-title="A- 24/7",ANIMANIACS
-http://gzytv.vip:8880/live/jonathanparedeszom/CgU7dXRuTA/333.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EL CHAVO DEL OCHO" tvg-logo="https://www.vippng.com/png/full/201-2013595_el-chavo-el-chavo-del-8-letra.png" group-title="A- 24/7",EL CHAVO DEL OCHO
-http://gzytv.vip:8880/live/jonathanparedeszom/CgU7dXRuTA/748.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHAPULIN COLORADO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/480px-El_Chapul%C3%ADn_Colorado_logo.svg.png" group-title="A- 24/7",CHAPULIN COLORADO
-http://gzytv.vip:8880/live/jonathanparedeszom/CgU7dXRuTA/747.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CORRECAMINOS" tvg-logo="https://i.pinimg.com/originals/0f/50/36/0f5036f3966e6bb4fc610c4a7342869b.png" group-title="A- 24/7",CORRECAMINOS
-http://gzytv.vip:8880/live/jonathanparedeszom/CgU7dXRuTA/352.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FUTURAMA" tvg-logo="https://pngimg.com/uploads/futurama/futurama_PNG26.png" group-title="A- 24/7",FUTURAMA
-http://twomonkeys.live:80/Josue123/Josue123/1039821
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PANTERA ROSA" tvg-logo="https://i2.wp.com/formby.es/wp-content/uploads/2014/05/pinkpantherlogo.png" group-title="A- 24/7",PANTERA ROSA
-http://185.155.103.50:8080/Tony1Cuellar/eHSreBzZkg7a/2090971
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DINOSAURIOS" tvg-logo="https://miro.medium.com/max/1380/1*5FDqv_Jqlk___XP0eFZptQ.png" group-title="I- 24/7",DINOSAURIOS
-http://185.155.103.50:8080/Tony1Cuellar/eHSreBzZkg7a/2090879
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 DREAMWORKS" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-DreamWorks-1.png" group-title="A- 24/7",24/7 DREAMWORKS
-http://tv.deluxeprime.net:8080/anrj91/TpwfHPjkLHMJ/176809
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 DISNEY PIXAR" tvg-logo="https://1000logos.net/wp-content/uploads/2017/08/Pixar-symbol-500x155.jpg" group-title="A- 24/7",24/7 DISNEY PIXAR
-http://lobo-tv.live:8080/Daleplayperu52/tVFeXytHnZ/2090939
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 MARVEL" tvg-logo="http://vignette4.wikia.nocookie.net/marvelmovies/images/e/ed/Marvel_Studios_2016_Transparent_Logo.png" group-title="A- 24/7",24/7 MARVEL
-http://185.155.103.50:8080/Tony1Cuellar/eHSreBzZkg7a/177987
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DRAGON BALL" tvg-logo="https://i.imgur.com/ZnwLln5.png" group-title="A- 24/7",DRAGON BALL
-http://185.155.103.50:8080/Tony1Cuellar/eHSreBzZkg7a/2090998
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/originals/e3/46/83/e34683b61a49dfd0974b73821de6a339.png" group-title="A- 24/7",DRAGON BALL Z
-http://185.155.103.50:8080/Tony1Cuellar/eHSreBzZkg7a/2091001
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DRAGON BALL GT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Dragon_Ball_GT_logo.png/1280px-Dragon_Ball_GT_logo.png" group-title="A- 24/7",DRAGON BALL GT
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/65621.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DRAGON BALL SUPER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Dragon_Ball_Super.png" group-title="A- 24/7",DRAGON BALL SUPER
-http://185.155.103.50:8080/Tony1Cuellar/eHSreBzZkg7a/2091000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NARUTO" tvg-logo="https://www.logolynx.com/images/logolynx/4f/4f0ca4a99c82adc701d1c18856708d3a.png" group-title="I- 24/7",NARUTO
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=eba192f4-cd23-11eb-9091-0242ac110002&sid=eba192f4-cd23-11eb-9091-0242ac110002&userId=
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CABALLEROS DEL ZODIACO" tvg-logo="https://th.bing.com/th/id/R404141aa90894f89d7090785b3e1685d?rik=ml589mK99ne4GQ&pid=ImgRaw" group-title="A- 24/7",CABALLEROS DEL ZODIACO
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/366841.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="THE THEORY OF BIG BANG" tvg-logo="https://i.kym-cdn.com/photos/images/facebook/001/018/269/b21.png" group-title="A- 24/7",THE THEORY OF BIG BANG
-http://185.155.103.50:8080/Tony1Cuellar/eHSreBzZkg7a/2091018
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LOS SIMPSON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Logo_The_Simpsons.svg/1024px-Logo_The_Simpsons.svg.png" group-title="A- 24/7",LOS SIMPSON
-http://twomonkeys.live:80/Josue123/Josue123/1039738
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="THUNDERCATS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Thundercats_logo_2011.png/250px-Thundercats_logo_2011.png" group-title="A- 24/7",THUNDERCATS
-http://185.155.103.50:8080/Tony1Cuellar/eHSreBzZkg7a/2090987
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MALCOLM EL DE EN MEDIO" tvg-logo="https://www.malcolminthemiddle.co.uk/wp-content/uploads/2019/04/Logo.png" group-title="A- 24/7",MALCOLM EL DE EN MEDIO
-http://gzytv.vip:8880/live/jonathanparedeszom/CgU7dXRuTA/749.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | 50 Clasicos de Disney" tvg-logo="https://imgur.com/bnW3TtE.png" group-title="24 7 Infantil",24/7 I | 50 Clasicos de Disney
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1950.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Adventure Time" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/vpnV0g2VOounP0kHNi86oBPceMY.jpg" group-title="24 7 Infantil",24/7 I | Adventure Time
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/332.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Angry Birds" tvg-logo="https://imgur.com/Aw0WtI7.png" group-title="24 7 Infantil",24/7 I | Angry Birds
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/2592.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Animaniacs" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/wmPZzLov9OhiknK4jW4qE6mgvHf.jpg" group-title="24 7 Infantil",24/7 I | Animaniacs
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/333.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Aquaman" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/5S6BbTIu18CLEHRDdNzCLzSKAMq.jpg" group-title="24 7 Infantil",24/7 I | Aquaman
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/334.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Art Atack" tvg-logo="https://i.imgur.com/Texm3Jw.png" group-title="24 7 Infantil",24/7 I | Art Atack
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1036.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Autobus Magico" tvg-logo="https://imgur.com/M8K7LwH.png" group-title="24 7 Infantil",24/7 I | Autobus Magico
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/2593.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Bakugan" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/uW2xawK5brroGov2dyhuT0bUeva.jpg" group-title="24 7 Infantil",24/7 I | Bakugan
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/349.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Barbie" tvg-logo="https://imgur.com/Rt4wVX9.png" group-title="24 7 Infantil",24/7 I | Barbie
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/2594.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Batman (1992)" tvg-logo="https://i.imgur.com/W7R5Zac.png" group-title="24 7 Infantil",24/7 I | Batman (1992)
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1115.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Beetlejuice" tvg-logo="https://i.imgur.com/cAEsEY0.png" group-title="24 7 Infantil",24/7 I | Beetlejuice
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/350.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Ben 10" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/pT0NlYVIkwM2zAw9oUkePwrOlxW.jpg" group-title="24 7 Infantil",24/7 I | Ben 10
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/335.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Bob Esponja 1-6" tvg-logo="https://i.imgur.com/0R6W4HT.png" group-title="24 7 Infantil",24/7 I | Bob Esponja 1-6
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1065.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Bob Esponja 7-12" tvg-logo="https://i.imgur.com/0R6W4HT.png" group-title="24 7 Infantil",24/7 I | Bob Esponja 7-12
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1066.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Bugs Bunny" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/5xBZf79KRD3cQjOkkwdS1IDmuyX.jpg" group-title="24 7 Infantil",24/7 I | Bugs Bunny
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/336.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Candy Candy" tvg-logo="https://i.imgur.com/RPgZnI3.png" group-title="24 7 Infantil",24/7 I | Candy Candy
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/206.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Chapulin animado" tvg-logo="https://i.imgur.com/AJa6ToH.png" group-title="24 7 Infantil",24/7 I | Chapulin animado
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/338.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Coraje el Perro Cobarde" tvg-logo="https://i.ibb.co/j5gSDbS/Cora-Je-perro.png" group-title="24 7 Infantil",24/7 I | Coraje el Perro Cobarde
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/2596.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Coyote y Correcaminos" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/76rz994icSRNHBZuAHmsRwVROsy.jpg" group-title="24 7 Infantil",24/7 I | Coyote y Correcaminos
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/352.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Dinosaurios" tvg-logo="https://ih1.redbubble.net/image.3790899799.4176/st,large,507x507-pad,600x600,f8f8f8.jpg" group-title="24 7 Infantil",24/7 I | Dinosaurios
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/537.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Disney Movies" tvg-logo="https://i.imgur.com/MclBXDy.png" group-title="24 7 Infantil",24/7 I | Disney Movies
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/500.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Disney Pixar Movies" tvg-logo="https://i.imgur.com/mh1guK3.png" group-title="24 7 Infantil",24/7 I | Disney Pixar Movies
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1111.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Disney Pixar Movies 2" tvg-logo="https://i.imgur.com/mh1guK3.png" group-title="24 7 Infantil",24/7 I | Disney Pixar Movies 2
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1112.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Don Gato y Su Pandilla" tvg-logo="https://imgur.com/v9OY7Nv.png" group-title="24 7 Infantil",24/7 I | Don Gato y Su Pandilla
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/2598.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Dora y Sus Amigos En La Ciudad" tvg-logo="https://imgur.com/fix11Cp.png" group-title="24 7 Infantil",24/7 I | Dora y Sus Amigos En La Ciudad
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/2599.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Doraemon" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/9ZN1P32SHviL3SV51qLivxycvcx.jpg" group-title="24 7 Infantil",24/7 I | Doraemon
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/353.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Dos perros tontos" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/3Lyc5VqhTqq76vmKUn1an8rlnP7.jpg" group-title="24 7 Infantil",24/7 I | Dos perros tontos
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/339.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | El Chavo Animado" tvg-logo="https://imgur.com/7sJ8GCF.png" group-title="24 7 Infantil",24/7 I | El Chavo Animado
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/2600.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | El Conde Pátula" tvg-logo="https://imgur.com/Wx9nUoO.png" group-title="24 7 Infantil",24/7 I | El Conde Pátula
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/2601.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | El Galactico" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/v698D2DB3oPzau6W55tiA2QI4Eu.jpg" group-title="24 7 Infantil",24/7 I | El Galactico
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/340.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | El inspector Ardilla" tvg-logo="https://i.imgur.com/ZfUlke6.png" group-title="24 7 Infantil",24/7 I | El inspector Ardilla
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/342.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | El Inspector Gadget" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/ayYkEcvuArO5mpI4Dxnqq3Z5WEQ.jpg" group-title="24 7 Infantil",24/7 I | El Inspector Gadget
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/343.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | El Narrador De Cuentos" tvg-logo="https://i.imgur.com/wbfORgQ.png" group-title="24 7 Infantil",24/7 I | El Narrador De Cuentos
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/170.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | El Vengador" tvg-logo="https://i.pinimg.com/1200x/ac/90/35/ac9035610508f61c3a394070f5c6e3eb.jpg" group-title="24 7 Infantil",24/7 I | El Vengador
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/341.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | GooseBumps" tvg-logo="https://i.imgur.com/C5cECw6.png" group-title="24 7 Infantil",24/7 I | GooseBumps
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/434.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Halcones Galacticos" tvg-logo="https://i.imgur.com/o849jKJ.png" group-title="24 7 Infantil",24/7 I | Halcones Galacticos
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/2603.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Hanna Barbera" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/sanSoQeO0TZMi4cg30EWVg2CnCV.jpg" group-title="24 7 Infantil",24/7 I | Hanna Barbera
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/344.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Hey Arnold" tvg-logo="https://imgur.com/SXhuLAr.png" group-title="24 7 Infantil",24/7 I | Hey Arnold
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/2604.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Jefe En Pañales" tvg-logo="https://www.themoviedb.org/t/p/original/eaEnRulLVc6ziCXcHMsvnUShPAz.jpg" group-title="24 7 Infantil",24/7 I | Jefe En Pañales
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/355.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Johnny Bravo" tvg-logo="https://imgur.com/fv9Q5F7.png" group-title="24 7 Infantil",24/7 I | Johnny Bravo
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/2606.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Jorge el Curioso" tvg-logo="http://i.imgur.com/caUuPhU.png" group-title="24 7 Infantil",24/7 I | Jorge el Curioso
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/504.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Kenan & Kel" tvg-logo="https://i.imgur.com/1EvOY6r.png" group-title="24 7 Infantil",24/7 I | Kenan & Kel
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/988.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | La Casa De Mickey Mouse" tvg-logo="https://i.imgur.com/C39rRRM.png" group-title="24 7 Infantil",24/7 I | La Casa De Mickey Mouse
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/2607.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | La Pantera Rosa" tvg-logo="https://i.imgur.com/rHkCdng.png" group-title="24 7 Infantil",24/7 I | La Pantera Rosa
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/2608.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | La Vaca y El Pollito" tvg-logo="https://i.imgur.com/MevFdjs.png" group-title="24 7 Infantil",24/7 I | La Vaca y El Pollito
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/2609.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Las Chicas Superpoderosas" tvg-logo="https://i.ibb.co/6NkCyNH/superpoderosas.png" group-title="24 7 Infantil",24/7 I | Las Chicas Superpoderosas
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/2610.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Le temes a la oscuridad" tvg-logo="https://2.bp.blogspot.com/-LUKCLKVjxZk/VyPGrHmBpUI/AAAAAAAAKMs/KNKATEntb5cfJxONWprntc58imaZCjmUACLcB/s1600/le-temes-a-la-oscuridad.png" group-title="24 7 Infantil",24/7 I | Le temes a la oscuridad
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/501.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Lego Movies" tvg-logo="https://i.ibb.co/bJ5GJzk/lego.png" group-title="24 7 Infantil",24/7 I | Lego Movies
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1134.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Looney Toons" tvg-logo="https://i.imgur.com/Y8uhyOg.png" group-title="24 7 Infantil",24/7 I | Looney Toons
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1062845.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Looney Toons Baby" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/mYAzqridtCAfda4HlbNQfwGsa99.jpg" group-title="24 7 Infantil",24/7 I | Looney Toons Baby
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/354.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Los Castores Cascarrabias" tvg-logo="https://i.ibb.co/qB29CRq/castores-casca.png" group-title="24 7 Infantil",24/7 I | Los Castores Cascarrabias
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/2611.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Los Pequeños Picapiedras" tvg-logo="https://i.ibb.co/99xdCzf/Los-peque-os-Picapiedra.png" group-title="24 7 Infantil",24/7 I | Los Pequeños Picapiedras
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/2612.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Los Picapiedras" tvg-logo="https://i.ibb.co/rFQTvG2/Los-picapiedra.png" group-title="24 7 Infantil",24/7 I | Los Picapiedras
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/2613.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Los Pitufos" tvg-logo="https://i.ibb.co/sQypNsV/Los-pitufos.png" group-title="24 7 Infantil",24/7 I | Los Pitufos
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/2614.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Masha y el oso" tvg-logo="https://i.ibb.co/jr5bYVB/Masha-y-el-Oso.png" group-title="24 7 Infantil",24/7 I | Masha y el oso
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/2615.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Mickey Mouse" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/aAJ5T2Ab28vbbP9s6wWqdtK3arQ.jpg" group-title="24 7 Infantil",24/7 I | Mickey Mouse
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/345.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | One Punch Man" tvg-logo="https://i.imgur.com/eHTczsJ.png" group-title="24 7 Infantil",24/7 I | One Punch Man
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/176.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Pajaro Loco" tvg-logo="https://i.ibb.co/2cyw33b/Pajaro-loco.png" group-title="24 7 Infantil",24/7 I | Pajaro Loco
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/2616.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Pato Aventuras" tvg-logo="http://i.imgur.com/FSvoyFg.png" group-title="24 7 Infantil",24/7 I | Pato Aventuras
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/480.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Patrulla Canina" tvg-logo="https://i.ibb.co/426s0rn/Patrulla.png" group-title="24 7 Infantil",24/7 I | Patrulla Canina
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/2617.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Peppa Pig" tvg-logo="http://i.imgur.com/xVNi7MG.png" group-title="24 7 Infantil",24/7 I | Peppa Pig
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1078099.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Pinguinos De Madagascar" tvg-logo="https://i.ibb.co/VjnVL0T/Madagascar.png" group-title="24 7 Infantil",24/7 I | Pinguinos De Madagascar
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/2618.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Pocoyo" tvg-logo="http://i.imgur.com/V9g3xQA.png" group-title="24 7 Infantil",24/7 I | Pocoyo
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/506.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Pokemon" tvg-logo="http://i.imgur.com/63APoYf.png" group-title="24 7 Infantil",24/7 I | Pokemon
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1078098.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Popeye" tvg-logo="https://i.imgur.com/Ufrds4r.png" group-title="24 7 Infantil",24/7 I | Popeye
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/214.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Power Rangers" tvg-logo="https://i.ibb.co/NtSGjvg/power-rangers.png" group-title="24 7 Infantil",24/7 I | Power Rangers
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1283.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Puca" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/xQjSUOEQTrCqDoBiEYIrNlajCD.jpg" group-title="24 7 Infantil",24/7 I | Puca
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/346.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Ranma 1/2" tvg-logo="http://i.imgur.com/k2OzMqo.png" group-title="24 7 Infantil",24/7 I | Ranma 1/2
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/503.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Rugrats (Aventuras en Panales)" tvg-logo="https://i.imgur.com/QhRmFAZ.png" group-title="24 7 Infantil",24/7 I | Rugrats (Aventuras en Panales)
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1006.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Scooby-Doo" tvg-logo="https://i.ibb.co/C2RDQrg/Scooby.png" group-title="24 7 Infantil",24/7 I | Scooby-Doo
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/2619.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Spiderman (1997)" tvg-logo="https://i.imgur.com/epDuzge.png" group-title="24 7 Infantil",24/7 I | Spiderman (1997)
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1114.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Super Campeones" tvg-logo="https://i.ibb.co/ngM0BFp/Supercampeones.png" group-title="24 7 Infantil",24/7 I | Super Campeones
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/2620.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Thundercats" tvg-logo="https://i.ibb.co/4pBNGdC/thundercats.png" group-title="24 7 Infantil",24/7 I | Thundercats
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/2621.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Timon & Pumba" tvg-logo="https://i.ibb.co/f4tQgFn/hakuna.png" group-title="24 7 Infantil",24/7 I | Timon & Pumba
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/2622.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Tom & Jerry" tvg-logo="https://i.ibb.co/pv1mb3m/Tom-Jerry.png" group-title="24 7 Infantil",24/7 I | Tom & Jerry
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1219.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Toy Story" tvg-logo="https://i.imgur.com/AKrSonk.png" group-title="24 7 Infantil",24/7 I | Toy Story
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1130.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Vampirina" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/18Mmri8vmBKbGbiymFPlSHlg71o.jpg" group-title="24 7 Infantil",24/7 I | Vampirina
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/347.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | X Men (1992)" tvg-logo="https://i.imgur.com/cjo7ddT.png" group-title="24 7 Infantil",24/7 I | X Men (1992)
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1113.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Yu-Gi-Oh" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/3VD5QDTu0rQgRvERBMXtAvg0oIC.jpg" group-title="24 7 Infantil",24/7 I | Yu-Gi-Oh
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/348.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| 16 Veranos" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/c/cd/TheWayWeWere.jpg/revision/latest?cb=20190629174129&path-prefix=es" group-title="24 7 Novelas",24/7 N| 16 Veranos
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/276.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| A Corazon Abierto" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/82FlOKGpr1YSeEKwh2aDmxURs7v.jpg" group-title="24 7 Novelas",24/7 N| A Corazon Abierto
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/367.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Adrenalina" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/q9pB0IoLjDGiSNt0A3Mf9riPeWw.jpg" group-title="24 7 Novelas",24/7 N| Adrenalina
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/356.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Adrián Esta De Visita" tvg-logo="https://en-images.kinorium.com/movie/1080/235593.jpg?1527901817" group-title="24 7 Novelas",24/7 N| Adrián Esta De Visita
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/368.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Al diablo los Guapos" tvg-logo="https://i.ibb.co/0czPcBj/al-diablo.png" group-title="24 7 Novelas",24/7 N| Al diablo los Guapos
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/771.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Alegrijes y Rebujos" tvg-logo="https://i.ibb.co/jyn50Cj/alebriges.png" group-title="24 7 Novelas",24/7 N| Alegrijes y Rebujos
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/770.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Alias El Mexicano" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/pwn3dP5EbK1Grz8vBGUEVEqkVS5.jpg" group-title="24 7 Novelas",24/7 N| Alias El Mexicano
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/413.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Alma Mia" tvg-logo="https://canvas.tubitv.com/7939ec6e-2005-4703-87bd-d23ca1f70236/UMIAyt?w=256&h=368" group-title="24 7 Novelas",24/7 N| Alma Mia
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/299.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Amame" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/q4So9MyLTZMInq8L3Vj0epZa4xh.jpg" group-title="24 7 Novelas",24/7 N| Amame
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/357.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Amanda Amores Que Matan" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTBiMDc2MGMtNTA5My00NWI0LTlhMjUtMTVjZDdiN2YwN2RkXkEyXkFqcGdeQXVyMTMzNTM1NDM@._V1_FMjpg_UX1000_.jpg" group-title="24 7 Novelas",24/7 N| Amanda Amores Que Matan
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/369.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Amanda Sabater" tvg-logo="https://pics.filmaffinity.com/amanda_sabater-432087688-mmed.jpg" group-title="24 7 Novelas",24/7 N| Amanda Sabater
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/300.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Amantes" tvg-logo="https://www.themoviedb.org/t/p/w500/peie5zSVGdQ4cRdcQI8wBfQSqGP.jpg" group-title="24 7 Novelas",24/7 N| Amantes
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/261.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Amantes Del Desierto" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/b7UfZRpkdbn6rbGnljOXYRxHq2Y.jpg" group-title="24 7 Novelas",24/7 N| Amantes Del Desierto
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/314.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Amar y vivir" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/oTmIP28BCEtgWBdxRMgK33nS0EA.jpg" group-title="24 7 Novelas",24/7 N| Amar y vivir
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/377.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Amigas y rivales" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/l1ufpjYSfQ0yqf860oXmlIaFS1M.jpg" group-title="24 7 Novelas",24/7 N| Amigas y rivales
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/378.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Amor A Domicilio" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/47E2hQ18Z4VYCZQRykdDxD4j7l7.jpg" group-title="24 7 Novelas",24/7 N| Amor A Domicilio
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/358.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Amor A La Planca" tvg-logo="https://pics.filmaffinity.com/Amor_a_la_plancha_Serie_de_TV-637088605-large.jpg" group-title="24 7 Novelas",24/7 N| Amor A La Planca
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/303.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Amor A Palos" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDZjM2YyYzctMjQ0Ny00MGFhLWJlMWItODE4ZjNmZjc1MjI4XkEyXkFqcGdeQXVyMjI4OTg3MTc@._V1_.jpg" group-title="24 7 Novelas",24/7 N| Amor A Palos
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/262.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Amor En Custodia" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/jJKjDGAbPMagzjlds4Y21SIOoPU.jpg" group-title="24 7 Novelas",24/7 N| Amor En Custodia
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/302.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Amor eterno" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/al6OCoVRgdHhkGLVSvx4NPb4TJY.jpg" group-title="24 7 Novelas",24/7 N| Amor eterno
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/379.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Amor Musical" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/3/30/Poster_Shut_Up_Flower_Boy_Band.png/revision/latest?cb=20220623034306&path-prefix=es" group-title="24 7 Novelas",24/7 N| Amor Musical
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/277.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Amores De Fin De Siglo" tvg-logo="https://pics.filmaffinity.com/Amores_de_fin_de_siglo_Serie_de_TV-479971677-large.jpg" group-title="24 7 Novelas",24/7 N| Amores De Fin De Siglo
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/263.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Angel De La Guardia" tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2005/9/w1280/fKPXIK077SqNR3S8tqRsa9pYNHS.jpg" group-title="24 7 Novelas",24/7 N| Angel De La Guardia
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/313.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Apuesta Final" tvg-logo="https://pictures.betaseries.com/fonds/poster/b7b4b25fdd246b190375433954f0defd.jpg" group-title="24 7 Novelas",24/7 N| Apuesta Final
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/278.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Astuta Y Soltera" tvg-logo="https://i.pinimg.com/1200x/25/4d/4c/254d4c4f5587db6027e7c5d79527363e.jpg" group-title="24 7 Novelas",24/7 N| Astuta Y Soltera
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/279.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Beatiful Man" tvg-logo="https://bombasoju.files.wordpress.com/2013/11/jang-keun-seuk.jpg" group-title="24 7 Novelas",24/7 N| Beatiful Man
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/280.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Belleza Juvenil" tvg-logo="https://static.wikia.nocookie.net/drama/images/4/42/412px-Babyfaced_Beauty-p2.jpg/revision/latest?cb=20111204180657&path-prefix=es" group-title="24 7 Novelas",24/7 N| Belleza Juvenil
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/281.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| BKN" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/gUK8YxL0W25sdwB99vXw76Owf0m.jpg" group-title="24 7 Novelas",24/7 N| BKN
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/359.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Bloque De Busqueda" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/1LU5gO3gVOm9IgxLfhSBpMUVYW6.jpg" group-title="24 7 Novelas",24/7 N| Bloque De Busqueda
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/410.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Bulyaseong" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Night_Light_Poster.jpg" group-title="24 7 Novelas",24/7 N| Bulyaseong
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/282.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Cafe con aroma de mujer" tvg-logo="https://i.imgur.com/rtNrP0O.png" group-title="24 7 Novelas",24/7 N| Cafe con aroma de mujer
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/964.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Calido Y Acogedor" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/pQ1PjmVu2VoIKixGU8g0TcdBFat.jpg" group-title="24 7 Novelas",24/7 N| Calido Y Acogedor
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/283.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Candela" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/jvRxWYlVPtuoRmPqDhEvf6RF2pH.jpg" group-title="24 7 Novelas",24/7 N| Candela
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/312.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Cara Sucia" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2UwOGFkOTItMWNmOC00YjkxLTgwMGMtZDZjOTRmNmZhZjZlXkEyXkFqcGdeQXVyODgzMDY4MDc@._V1_.jpg" group-title="24 7 Novelas",24/7 N| Cara Sucia
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/264.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Casa De Muñecos" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/ciQpnI4Hf9Dj5DdokYDWOzxAw47.jpg" group-title="24 7 Novelas",24/7 N| Casa De Muñecos
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/360.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Chapa Tu Combi" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTRjOWNiMjAtMmM4Ny00YmY0LTg2ODYtNmQyMzU3MmU4MzY0XkEyXkFqcGdeQXVyMjY3NjE4Mw@@._V1_UY1200_CR759,0,630,1200_AL_.jpg" group-title="24 7 Novelas",24/7 N| Chapa Tu Combi
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/317.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Chicas De Oficina" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/foMmyGrwtIaI9vbDYPFjGg06xwc.jpg" group-title="24 7 Novelas",24/7 N| Chicas De Oficina
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/284.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Chicos En Busca De Amor" tvg-logo="https://nbp1.files.wordpress.com/2014/05/chicos-en-busca-del-amor-portada.jpg" group-title="24 7 Novelas",24/7 N| Chicos En Busca De Amor
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/285.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Cindera Man" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Cinderella_Man-poster.jpg" group-title="24 7 Novelas",24/7 N| Cindera Man
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/286.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Clase Ejecutiva" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmEyYjI2ZWQtZWU2MC00ODIyLTk1ZGUtNWUzZjA1ODRlMzViXkEyXkFqcGdeQXVyMzM0NTc2MTE@._V1_.jpg" group-title="24 7 Novelas",24/7 N| Clase Ejecutiva
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/311.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Colorina" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDVkZDlmZGYtY2MzNC00MTY0LWI0NTYtZDk3ZWUyMmY1NjQ2XkEyXkFqcGdeQXVyNjExODE1MDc@._V1_.jpg" group-title="24 7 Novelas",24/7 N| Colorina
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/318.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Como dice el dicho" tvg-logo="https://i.imgur.com/QAsfN3b.png" group-title="24 7 Novelas",24/7 N| Como dice el dicho
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1048.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Contrato Para Una Boda" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/f/fd/MDwRRf5.png/revision/latest?cb=20170525201846&path-prefix=es" group-title="24 7 Novelas",24/7 N| Contrato Para Una Boda
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/287.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Cuna de lobos" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/n1xy8a7n6GpKEjqxkMFbe8TGC1x.jpg" group-title="24 7 Novelas",24/7 N| Cuna de lobos
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/380.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Damo" tvg-logo="https://i.mydramalist.com/akA7vc.jpg?v=1" group-title="24 7 Novelas",24/7 N| Damo
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/288.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| De Las 5 A Las 9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/From_Five_to_Nine_%285%E2%86%929%E3%80%9C%E7%A7%81%E3%81%AB%E6%81%8B%E3%81%97%E3%81%9F%E3%81%8A%E5%9D%8A%E3%81%95%E3%82%93%E3%80%9C%29_Promotional_poster.jpg" group-title="24 7 Novelas",24/7 N| De Las 5 A Las 9
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/289.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| De Mujeres" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Poster_of_El_pais_de_las_mujeres.jpg" group-title="24 7 Novelas",24/7 N| De Mujeres
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/265.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| De Nuevo Un Final Feliz" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/i4ZrXTE2z48MCzBtRuBbFHb5jTi.jpg" group-title="24 7 Novelas",24/7 N| De Nuevo Un Final Feliz
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/291.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Del Cielo Al Infierno" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/tmsjJ1F3fPMm9BIRTJCgAZ2lV7q.jpg" group-title="24 7 Novelas",24/7 N| Del Cielo Al Infierno
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/290.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Diomedes Diaz" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/dloUU6Qy5yDVIBd6EUhatBCiRsL.jpg" group-title="24 7 Novelas",24/7 N| Diomedes Diaz
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/403.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Doctors" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/f/ff/Doctors-SBS2016.jpg/revision/latest?cb=20190518213251&path-prefix=es" group-title="24 7 Novelas",24/7 N| Doctors
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/292.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Dulce Ilusion" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/hOHg94gqQG5mSTBf20ZMKFpqo2B.jpg" group-title="24 7 Novelas",24/7 N| Dulce Ilusion
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/266.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Ecomoda" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/yMwHYtRmbE91pFjorzgfgS6JpKn.jpg" group-title="24 7 Novelas",24/7 N| Ecomoda
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/310.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Educando A La Princesa" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/7l2aN9cT7CZ8QPUKknlRsiTAx0k.jpg" group-title="24 7 Novelas",24/7 N| Educando A La Princesa
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/293.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| El Amor Es Mas Fuerte" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_918043-MCO53914662181_022023-O.webp" group-title="24 7 Novelas",24/7 N| El Amor Es Mas Fuerte
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/309.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| El Arbol De Gabriel" tvg-logo="https://pics.filmaffinity.com/el_arbol_de_gabriel-595684958-mmed.jpg" group-title="24 7 Novelas",24/7 N| El Arbol De Gabriel
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/267.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| El Autentico Rodrigo Leal" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/czwSK0M4XbnJHMdHA1ehJaww9Ph.jpg" group-title="24 7 Novelas",24/7 N| El Autentico Rodrigo Leal
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/308.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| El Capo" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/hTwfFidPtRU3BUH8mK90jWyPyBr.jpg" group-title="24 7 Novelas",24/7 N| El Capo
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/404.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| El Capo" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/hTwfFidPtRU3BUH8mK90jWyPyBr.jpg" group-title="24 7 Novelas",24/7 N| El Capo
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/414.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| El Chapo" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/2ClXk4PoOGmkk676y4q6T26GJOb.jpg" group-title="24 7 Novelas",24/7 N| El Chapo
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/415.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| El Chema" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/wuA7gcwhDMbZ4Y1lscXRrgmaJIi.jpg" group-title="24 7 Novelas",24/7 N| El Chema
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/417.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| El clon" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/61KPceoQCcmgoiCGGWURFJn9ICA.jpg" group-title="24 7 Novelas",24/7 N| El clon
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/381.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| El Desafio" tvg-logo="https://pics.filmaffinity.com/el_desafio-585015617-mmed.jpg" group-title="24 7 Novelas",24/7 N| El Desafio
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/268.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| El Encantador" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/vrSIfbePV6wVs2oGQJ6hgbV0jcy.jpg" group-title="24 7 Novelas",24/7 N| El Encantador
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/307.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| El Fantasma Del Gran Hotel" tvg-logo="https://imagenes.estudiosrcn.com/imgrcnventasinternacionales/poster_76.jpg" group-title="24 7 Novelas",24/7 N| El Fantasma Del Gran Hotel
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/306.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| El Fenix" tvg-logo="https://static.wikia.nocookie.net/drama/images/e/e5/Phoenix1.jpg/revision/latest?cb=20120521023519&path-prefix=es" group-title="24 7 Novelas",24/7 N| El Fenix
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/294.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| El General Naranjo" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/90I52FvezOBC9IX4LeTmaY3SNtS.jpg" group-title="24 7 Novelas",24/7 N| El General Naranjo
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/416.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| El Hada De Las Pesas" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/8SW0FS3U4nJQVIQj1hecU2Fon8Z.jpg" group-title="24 7 Novelas",24/7 N| El Hada De Las Pesas
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/295.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| El Inutil" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/n1shKImitZJw14XfSllaHNc77CB.jpg" group-title="24 7 Novelas",24/7 N| El Inutil
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/305.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| El Pasado No Perdona" tvg-logo="https://pics.filmaffinity.com/El_pasado_no_perdona_Serie_de_TV-877235071-large.jpg" group-title="24 7 Novelas",24/7 N| El Pasado No Perdona
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/304.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| El Penultimo Beso" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2I3MWEzNTUtMWU3My00ZGE4LWFmZjUtZWM3MTcxMzY0M2U3XkEyXkFqcGdeQXVyMzM0NTc2MTE@._V1_.jpg" group-title="24 7 Novelas",24/7 N| El Penultimo Beso
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/315.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| El Recluso" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/2Cs9p1kl6s2i1LfFmcquoFb56yl.jpg" group-title="24 7 Novelas",24/7 N| El Recluso
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/418.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| El ultimo rey" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/3YVQ6gsDnMYQWQCavtWE5bSfyJ2.jpg" group-title="24 7 Novelas",24/7 N| El ultimo rey
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/382.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| En la piel de Alicia" tvg-logo="https://image.tmdb.org/t/p/w500/ruKyT6ese4jBNNMGgdDXRPARtwE.jpg" group-title="24 7 Novelas",24/7 N| En la piel de Alicia
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/319.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Eres Mi Tesoro" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/ggZ2gayxB8Rl6qkWECrv4mdGUi6.jpg" group-title="24 7 Novelas",24/7 N| Eres Mi Tesoro
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/361.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Estefania" tvg-logo="https://pics.filmaffinity.com/estefania_tv_series-979910645-large.jpg" group-title="24 7 Novelas",24/7 N| Estefania
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/269.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Eternamente Manuela" tvg-logo="https://artworks.thetvdb.com/banners/v4/series/415305/posters/61f34117ebe23.jpg" group-title="24 7 Novelas",24/7 N| Eternamente Manuela
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/316.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Fuera De Control" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/tJ2JiKMTnfecAI8TmWZI5YwjpLA.jpg" group-title="24 7 Novelas",24/7 N| Fuera De Control
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/362.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Guajira" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/7REqccC6Q0MHr6j1rn2E3ah5ynT.jpg" group-title="24 7 Novelas",24/7 N| Guajira
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/301.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Hombre De La Princesa" tvg-logo="https://www.themoviedb.org/t/p/w500/pZllYmfO30HU5CvN3RmNAVqgd0r.jpg" group-title="24 7 Novelas",24/7 N| Hombre De La Princesa
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/296.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Hoy Te Vi" tvg-logo="https://pics.filmaffinity.com/hoy_te_vi-321384010-large.jpg" group-title="24 7 Novelas",24/7 N| Hoy Te Vi
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/270.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Hugo chaves" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/sEThDZHGrhD6UPDVnP7skTAa6mF.jpg" group-title="24 7 Novelas",24/7 N| Hugo chaves
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/383.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Invicto" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/3NfN3EmF62Z5wCwYyNpMzrqp7Ox.jpg" group-title="24 7 Novelas",24/7 N| Invicto
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/412.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Isa TKM" tvg-logo="https://pics.filmaffinity.com/isa_tkm_serie_de_tv-497731769-large.jpg" group-title="24 7 Novelas",24/7 N| Isa TKM
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/271.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Isabella Mujer Enamorada" tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/1999/8/w1280/sBE8SPuabZmtiriieoOc4k5UsX.jpg" group-title="24 7 Novelas",24/7 N| Isabella Mujer Enamorada
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/320.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Juana La Virgen" tvg-logo="https://pics.filmaffinity.com/juana_la_virgen_tv_series-949288725-large.jpg" group-title="24 7 Novelas",24/7 N| Juana La Virgen
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/272.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Kassandra" tvg-logo="https://pics.filmaffinity.com/kassandra-242869718-large.jpg" group-title="24 7 Novelas",24/7 N| Kassandra
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/273.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| La Dama Rosa" tvg-logo="https://pics.filmaffinity.com/la_dama_de_rosa-731434068-large.jpg" group-title="24 7 Novelas",24/7 N| La Dama Rosa
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/274.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| La Fiera" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/3UQmw8rGl9BWks30i097ZZapEpU.jpg" group-title="24 7 Novelas",24/7 N| La Fiera
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/363.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| La hija del mariachi" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/a9J1rl8X4klFNMLTFGIJIHIjXgf.jpg" group-title="24 7 Novelas",24/7 N| La hija del mariachi
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/385.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| La Invasora" tvg-logo="https://pics.filmaffinity.com/la_invasora-995323804-mmed.jpg" group-title="24 7 Novelas",24/7 N| La Invasora
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/275.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| La Madrastra" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/kt8bb1jcMlcYObzPpoQYV8Adf9p.jpg" group-title="24 7 Novelas",24/7 N| La Madrastra
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/364.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| La Piloto" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/upX2fGyD4tPjJJLIOuJlB3yp2OK.jpg" group-title="24 7 Novelas",24/7 N| La Piloto
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/424.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| La prepago" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/s8f5VSb1ANC9rjLgcS3lJLuK12W.jpg" group-title="24 7 Novelas",24/7 N| La prepago
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/386.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| La reina Del Flow 2" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/fuVuDYrs8sxvEolnYr0wCSvtyTi.jpg" group-title="24 7 Novelas",24/7 N| La reina Del Flow 2
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/387.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| La Reina Del Sur" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/p11t8ckTC6EiuVw5FGFKdc2Z7GH.jpg" group-title="24 7 Novelas",24/7 N| La Reina Del Sur
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/384.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| La Reina Del Sur" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/p11t8ckTC6EiuVw5FGFKdc2Z7GH.jpg" group-title="24 7 Novelas",24/7 N| La Reina Del Sur
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/420.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| La rosa de Guadalupe" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/fdKDNIGDKyWVn7m36s9bGkvM1ai.jpg" group-title="24 7 Novelas",24/7 N| La rosa de Guadalupe
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/388.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| La Viuda Negra" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/xkdGdQDXzL6uKDgSJRz3oJqOcrC.jpg" group-title="24 7 Novelas",24/7 N| La Viuda Negra
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/428.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Laberinto De Alicia" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/oSCAR7t0XYcqHn4oczTjqFLhr0S.jpg" group-title="24 7 Novelas",24/7 N| Laberinto De Alicia
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/365.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Las Dos Carolinas" tvg-logo="http://i.imgur.com/e1WDWyY.png" group-title="24 7 Novelas",24/7 N| Las Dos Carolinas
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/366.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Leandro diaz" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/d6voDsM0it0GPnhfzXiHWLaX0ff.jpg" group-title="24 7 Novelas",24/7 N| Leandro diaz
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/389.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Liveman" tvg-logo="https://static.wikia.nocookie.net/drama/images/c/c5/Are_You_Human_Too-KBS2-2018-01.jpg/revision/latest?cb=20180509130741&path-prefix=es" group-title="24 7 Novelas",24/7 N| Liveman
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/297.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Lobos De Mar" tvg-logo="https://image.tmdb.org/t/p/w500/4kiSBRowPVOhcCraZ7XjV8iF0wx.jpg" group-title="24 7 Novelas",24/7 N| Lobos De Mar
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/321.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Loquito Por Ti" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/vh40gJ4JLNEbqOT6lILjS1cwzgr.jpg" group-title="24 7 Novelas",24/7 N| Loquito Por Ti
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/405.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Luz de luna" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/tXHXhsuAU8B2mJs4AkEpsYzk75.jpg" group-title="24 7 Novelas",24/7 N| Luz de luna
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/390.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Luz Maria" tvg-logo="https://image.tmdb.org/t/p/w500/qzmQRXc5vdPbmPWx0zpw6A7hb5n.jpg" group-title="24 7 Novelas",24/7 N| Luz Maria
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/322.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Maria Felix" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/w4vFoA48nSU1ORKVmcTWOwtzPgw.jpg" group-title="24 7 Novelas",24/7 N| Maria Felix
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/421.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Maria la del barrio" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/xGMquh71mh3w3QzUrl1AhCniHys.jpg" group-title="24 7 Novelas",24/7 N| Maria la del barrio
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/406.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Maria mercedes" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/3sMyQjtS7H9Vxxo6vCMPoHz6vHD.jpg" group-title="24 7 Novelas",24/7 N| Maria mercedes
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/391.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| María Emilia" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRmYzU0YzgtZWM0YS00NTU4LWEwNDgtZjUyMjNhZTQ1Y2EzXkEyXkFqcGdeQXVyMjQ4NDAyMDI@._V1_.jpg" group-title="24 7 Novelas",24/7 N| María Emilia
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/325.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Matilde Dedos Verdes" tvg-logo="https://pics.filmaffinity.com/Matilde_Dedos_Verdes_Serie_de_TV-914529206-large.jpg" group-title="24 7 Novelas",24/7 N| Matilde Dedos Verdes
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/370.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Mi Nombre Es Lara" tvg-logo="https://www.themoviedb.org/t/p/original/imJ5Me7i1SuE1kRRIYYeFFevO1t.jpg" group-title="24 7 Novelas",24/7 N| Mi Nombre Es Lara
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/371.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Mi Preciosa Señorita" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/d/df/MyFairLady.png/revision/latest?cb=20160401052455&path-prefix=es" group-title="24 7 Novelas",24/7 N| Mi Preciosa Señorita
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/298.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Mi Vida Sin Ti" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDhmZjQ2MDMtZGQ1MC00ODUxLTlhMmEtN2YyMjZhZTViYTIzXkEyXkFqcGdeQXVyMjY3NjE4Mw@@._V1_QL75_UY281_CR156,0,190,281_.jpg" group-title="24 7 Novelas",24/7 N| Mi Vida Sin Ti
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/326.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Milagros" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDlkMGIzMjUtNTEyNy00YjMyLWI4OGUtNjQyNWMzNjE0NGRhXkEyXkFqcGdeQXVyMjQ4NDAyMDI@._V1_.jpg" group-title="24 7 Novelas",24/7 N| Milagros
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/327.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Mis Tres Marias" tvg-logo="https://www.themoviedb.org/t/p/w500/nEsAW0vFwbRrsPaZcT9UwCcRMCS.jpg" group-title="24 7 Novelas",24/7 N| Mis Tres Marias
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/328.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Misterio" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2RhMzU5MmYtZDZlNC00NjcwLTg4NjItZDMwNTc1ODczOGNhXkEyXkFqcGdeQXVyNjUzNDQyMjQ@._V1_QL75_UY281_CR93,0,190,281_.jpg" group-title="24 7 Novelas",24/7 N| Misterio
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/324.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Mujercitas" tvg-logo="https://www.themoviedb.org/t/p/w500/8ZO0MAcqa43KeZpjTwB0JpJFTeh.jpg" group-title="24 7 Novelas",24/7 N| Mujercitas
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/323.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Mujeres De Lujo" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/z7onz8ccOhVsuC4bsW79zqq4x0D.jpg" group-title="24 7 Novelas",24/7 N| Mujeres De Lujo
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/372.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Muñecas De La Mafia" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/pbfAC5bYLeO86MsjFm9XIMOI455.jpg" group-title="24 7 Novelas",24/7 N| Muñecas De La Mafia
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/422.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Pedro El Escamoso" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/v0DhAsHHiFpMmbe6zWG6F15gh4f.jpg" group-title="24 7 Novelas",24/7 N| Pedro El Escamoso
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/392.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Pobre Diabla" tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2009/7/w1280/z3yRegBgU1ImzamN5aIUSTkZ1hm.jpg" group-title="24 7 Novelas",24/7 N| Pobre Diabla
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/331.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Poné a Francella" tvg-logo="http://i.imgur.com/r4xhaCe.png" group-title="24 7 Novelas",24/7 N| Poné a Francella
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/177.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Porque el amor manda" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/1sDrTKOllfCnGrchEQQDGtO0dgp.jpg" group-title="24 7 Novelas",24/7 N| Porque el amor manda
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/393.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Primera Dama" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/n5od5ytT2mgRwyvonNOqEaB6yx6.jpg" group-title="24 7 Novelas",24/7 N| Primera Dama
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/373.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Rebelde" tvg-logo="https://i.ibb.co/9qWzyvV/rEBELDE.png" group-title="24 7 Novelas",24/7 N| Rebelde
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1140.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Regreso A La Guaca" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/eCeFKkSZVWgIVmGCDCBlpmcVv23.jpg" group-title="24 7 Novelas",24/7 N| Regreso A La Guaca
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/425.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Reina De Corazones" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/5xdC1a8pSCKdacd2ijVZzhP1a1E.jpg" group-title="24 7 Novelas",24/7 N| Reina De Corazones
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/394.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Rio Oscuro" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/cLhloPDi9rjp09vtw3VTYyxTTyP.jpg" group-title="24 7 Novelas",24/7 N| Rio Oscuro
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/374.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Rosario Tijeras" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/q03eQL8AUx49lVH6IT3IlmWzhQu.jpg" group-title="24 7 Novelas",24/7 N| Rosario Tijeras
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/395.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Secretos En El Jardin" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/v7edNZCC6L7ZHJMSLFlXKZQleZi.jpg" group-title="24 7 Novelas",24/7 N| Secretos En El Jardin
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/375.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Señora Acero" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/vXhBxsvpW2mGuXRbIK5Yazdp8Zg.jpg" group-title="24 7 Novelas",24/7 N| Señora Acero
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/426.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Si Nos Dejan" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/WSVadXbkEc2K6c0WIiodzwrDsx.jpg" group-title="24 7 Novelas",24/7 N| Si Nos Dejan
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/396.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Sobreviviendo A Escobar" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/97xpke32aNz0XSl6OHLilu9GK63.jpg" group-title="24 7 Novelas",24/7 N| Sobreviviendo A Escobar
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/427.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Soñadoras" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/uVgKsSeh3ZvPYuAbk2rU0SBlAmU.jpg" group-title="24 7 Novelas",24/7 N| Soñadoras
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/397.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Todo Por Mi Familia" tvg-logo="https://www.themoviedb.org/t/p/original/v9HVM1LhLb6b0TZRW45YG646ibh.jpg" group-title="24 7 Novelas",24/7 N| Todo Por Mi Familia
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/398.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Todo Sobre Camila" tvg-logo="https://pics.filmaffinity.com/Todo_sobre_Camila_Serie_de_TV-579514443-mmed.jpg" group-title="24 7 Novelas",24/7 N| Todo Sobre Camila
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/329.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Valiente Amor" tvg-logo="https://pics.filmaffinity.com/Valiente_amor_Serie_de_TV-107245120-large.jpg" group-title="24 7 Novelas",24/7 N| Valiente Amor
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/330.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Valio La Pena" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/wnGzbcYmAQ12iUnGVLqnbzkns38.jpg" group-title="24 7 Novelas",24/7 N| Valio La Pena
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/376.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Vecinos 2005" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/fjNITzBxWcxnVVYVyRAXya9Z9YU.jpg" group-title="24 7 Novelas",24/7 N| Vecinos 2005
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/399.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Xica Da Silva" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/nildSBtxkstaw0h4rSI7gVZTrMU.jpg" group-title="24 7 Novelas",24/7 N| Xica Da Silva
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/400.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 N| Yo Soy Betty La Fea" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/iEBOiXiDGaxVR6w8aKgG5MEusuO.jpg" group-title="24 7 Novelas",24/7 N| Yo Soy Betty La Fea
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/401.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | A Happy Madison" tvg-logo="https://i.ibb.co/k4c5x0S/cinema-vector-illustration-png-242108.jpg" group-title="24 7 Peliculas",24/7 P | A Happy Madison
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1951.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Alien Saga" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/e4fiJmy9YHCpCpQwgWtvv6uoUWb.jpg" group-title="24 7 Peliculas",24/7 P | Alien Saga
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/408.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Arma Mortal" tvg-logo="https://i.imgur.com/JNBONEm.png" group-title="24 7 Peliculas",24/7 P | Arma Mortal
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/409.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Camino Hacia El Terror" tvg-logo="https://i.imgur.com/iPRD9ag.png" group-title="24 7 Peliculas",24/7 P | Camino Hacia El Terror
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/161.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Cantinflas" tvg-logo="https://i.ibb.co/nP812jH/cant.png" group-title="24 7 Peliculas",24/7 P | Cantinflas
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/745.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Cantinflas part2" tvg-logo="https://i.ibb.co/vqCsG8d/Cantinflas.png" group-title="24 7 Peliculas",24/7 P | Cantinflas part2
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/162.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Chucky" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0024/6810/brand.gif" group-title="24 7 Peliculas",24/7 P | Chucky
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/163.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Cine Retro" tvg-logo="http://i.imgur.com/Ix7o1fG.png" group-title="24 7 Peliculas",24/7 P | Cine Retro
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/507.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Cine Terror" tvg-logo="https://www.pngitem.com/pimgs/m/144-1442268_horror-hd-photo-imagenes-de-terror-png-transparent.png" group-title="24 7 Peliculas",24/7 P | Cine Terror
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/502.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Cinema 05" tvg-logo="https://i.ibb.co/y5BVm1Z/Cinema06.png" group-title="24 7 Peliculas",24/7 P | Cinema 05
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/508.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Cinema 06" tvg-logo="https://i.ibb.co/y5BVm1Z/Cinema06.png" group-title="24 7 Peliculas",24/7 P | Cinema 06
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/509.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Cinema 09" tvg-logo="https://i.ibb.co/y5BVm1Z/Cinema06.png" group-title="24 7 Peliculas",24/7 P | Cinema 09
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/510.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Cinema 11" tvg-logo="https://i.ibb.co/y5BVm1Z/Cinema06.png" group-title="24 7 Peliculas",24/7 P | Cinema 11
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/511.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Cinema 13" tvg-logo="https://i.ibb.co/y5BVm1Z/Cinema06.png" group-title="24 7 Peliculas",24/7 P | Cinema 13
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/512.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Cinema 14" tvg-logo="https://i.ibb.co/y5BVm1Z/Cinema06.png" group-title="24 7 Peliculas",24/7 P | Cinema 14
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/513.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Cinema 15" tvg-logo="https://i.ibb.co/y5BVm1Z/Cinema06.png" group-title="24 7 Peliculas",24/7 P | Cinema 15
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/514.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Cinema 16" tvg-logo="https://i.ibb.co/y5BVm1Z/Cinema06.png" group-title="24 7 Peliculas",24/7 P | Cinema 16
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/515.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Cinema 17" tvg-logo="https://i.ibb.co/y5BVm1Z/Cinema06.png" group-title="24 7 Peliculas",24/7 P | Cinema 17
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/516.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Cinema 18" tvg-logo="https://i.ibb.co/y5BVm1Z/Cinema06.png" group-title="24 7 Peliculas",24/7 P | Cinema 18
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/517.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Cinema 20" tvg-logo="https://i.ibb.co/y5BVm1Z/Cinema06.png" group-title="24 7 Peliculas",24/7 P | Cinema 20
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/518.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Cinema 22" tvg-logo="https://i.ibb.co/y5BVm1Z/Cinema06.png" group-title="24 7 Peliculas",24/7 P | Cinema 22
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/519.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Cinema 23" tvg-logo="https://i.ibb.co/y5BVm1Z/Cinema06.png" group-title="24 7 Peliculas",24/7 P | Cinema 23
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/520.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Cinema 24" tvg-logo="http://swedtv.vip/logos/Cine_tv_peliculas_y_series/Cinema.png" group-title="24 7 Peliculas",24/7 P | Cinema 24
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/521.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Cinema 25" tvg-logo="https://i.ibb.co/y5BVm1Z/Cinema06.png" group-title="24 7 Peliculas",24/7 P | Cinema 25
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/522.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Cinema 26" tvg-logo="https://i.ibb.co/y5BVm1Z/Cinema06.png" group-title="24 7 Peliculas",24/7 P | Cinema 26
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/523.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Cinema 29" tvg-logo="https://i.ibb.co/y5BVm1Z/Cinema06.png" group-title="24 7 Peliculas",24/7 P | Cinema 29
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/524.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Cinema 30" tvg-logo="https://i.ibb.co/y5BVm1Z/Cinema06.png" group-title="24 7 Peliculas",24/7 P | Cinema 30
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/525.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Cinema 31" tvg-logo="https://i.ibb.co/y5BVm1Z/Cinema06.png" group-title="24 7 Peliculas",24/7 P | Cinema 31
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/526.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Cinema 33" tvg-logo="https://i.ibb.co/y5BVm1Z/Cinema06.png" group-title="24 7 Peliculas",24/7 P | Cinema 33
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/527.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Cinema Accion Full HD" tvg-logo="https://i.ibb.co/k4c5x0S/cinema-vector-illustration-png-242108.jpg" group-title="24 7 Peliculas",24/7 P | Cinema Accion Full HD
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1952.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Cinema Comedia" tvg-logo="https://i.imgur.com/Hsn6iNm.png" group-title="24 7 Peliculas",24/7 P | Cinema Comedia
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1132.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Cinema Dreamworks Full HD" tvg-logo="https://i.ibb.co/k4c5x0S/cinema-vector-illustration-png-242108.jpg" group-title="24 7 Peliculas",24/7 P | Cinema Dreamworks Full HD
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1953.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Cinema Familia Full HD" tvg-logo="https://i.ibb.co/k4c5x0S/cinema-vector-illustration-png-242108.jpg" group-title="24 7 Peliculas",24/7 P | Cinema Familia Full HD
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1954.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Cinema Horror Full HD" tvg-logo="https://i.ibb.co/k4c5x0S/cinema-vector-illustration-png-242108.jpg" group-title="24 7 Peliculas",24/7 P | Cinema Horror Full HD
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1955.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Cinema Marvel Studio Full HD" tvg-logo="https://i.ibb.co/k4c5x0S/cinema-vector-illustration-png-242108.jpg" group-title="24 7 Peliculas",24/7 P | Cinema Marvel Studio Full HD
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1956.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Cinema VIP 01 HD" tvg-logo="https://i.ibb.co/NKZzzvB/dos-butacas-rojas-brillantes-del-cine-cubo-de-papel-con-palomitas-en-asiento-icono-asunto-industria.jpg" group-title="24 7 Peliculas",24/7 P | Cinema VIP 01 HD
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1957.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Cinema VIP 02 HD" tvg-logo="https://i.ibb.co/NKZzzvB/dos-butacas-rojas-brillantes-del-cine-cubo-de-papel-con-palomitas-en-asiento-icono-asunto-industria.jpg" group-title="24 7 Peliculas",24/7 P | Cinema VIP 02 HD
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1958.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Cinema VIP 03 HD" tvg-logo="https://i.ibb.co/NKZzzvB/dos-butacas-rojas-brillantes-del-cine-cubo-de-papel-con-palomitas-en-asiento-icono-asunto-industria.jpg" group-title="24 7 Peliculas",24/7 P | Cinema VIP 03 HD
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1959.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Cinema VIP 04 HD" tvg-logo="https://i.ibb.co/NKZzzvB/dos-butacas-rojas-brillantes-del-cine-cubo-de-papel-con-palomitas-en-asiento-icono-asunto-industria.jpg" group-title="24 7 Peliculas",24/7 P | Cinema VIP 04 HD
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1960.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Cinema VIP 05 HD" tvg-logo="https://i.ibb.co/NKZzzvB/dos-butacas-rojas-brillantes-del-cine-cubo-de-papel-con-palomitas-en-asiento-icono-asunto-industria.jpg" group-title="24 7 Peliculas",24/7 P | Cinema VIP 05 HD
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1961.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Cinema VIP 06 HD" tvg-logo="https://i.ibb.co/NKZzzvB/dos-butacas-rojas-brillantes-del-cine-cubo-de-papel-con-palomitas-en-asiento-icono-asunto-industria.jpg" group-title="24 7 Peliculas",24/7 P | Cinema VIP 06 HD
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1962.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Cinema VIP 07 HD" tvg-logo="https://i.ibb.co/NKZzzvB/dos-butacas-rojas-brillantes-del-cine-cubo-de-papel-con-palomitas-en-asiento-icono-asunto-industria.jpg" group-title="24 7 Peliculas",24/7 P | Cinema VIP 07 HD
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1963.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Cinema VIP 08 HD" tvg-logo="https://i.ibb.co/NKZzzvB/dos-butacas-rojas-brillantes-del-cine-cubo-de-papel-con-palomitas-en-asiento-icono-asunto-industria.jpg" group-title="24 7 Peliculas",24/7 P | Cinema VIP 08 HD
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1964.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Cinema VIP 09 HD" tvg-logo="https://i.ibb.co/NKZzzvB/dos-butacas-rojas-brillantes-del-cine-cubo-de-papel-con-palomitas-en-asiento-icono-asunto-industria.jpg" group-title="24 7 Peliculas",24/7 P | Cinema VIP 09 HD
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1965.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Cinema VIP 10 HD" tvg-logo="https://i.ibb.co/NKZzzvB/dos-butacas-rojas-brillantes-del-cine-cubo-de-papel-con-palomitas-en-asiento-icono-asunto-industria.jpg" group-title="24 7 Peliculas",24/7 P | Cinema VIP 10 HD
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1966.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Cinema VIP 11 HD" tvg-logo="https://i.ibb.co/NKZzzvB/dos-butacas-rojas-brillantes-del-cine-cubo-de-papel-con-palomitas-en-asiento-icono-asunto-industria.jpg" group-title="24 7 Peliculas",24/7 P | Cinema VIP 11 HD
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1967.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Cinema VIP 12 HD" tvg-logo="https://i.ibb.co/NKZzzvB/dos-butacas-rojas-brillantes-del-cine-cubo-de-papel-con-palomitas-en-asiento-icono-asunto-industria.jpg" group-title="24 7 Peliculas",24/7 P | Cinema VIP 12 HD
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1968.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | CinePeruano" tvg-logo="https://i.imgur.com/zNq5ZrW.png" group-title="24 7 Peliculas",24/7 P | CinePeruano
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/164.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Harry Potter" tvg-logo="https://loodibee.com/wp-content/uploads/Harry-Potter-Logo-2004-2011.png" group-title="24 7 Peliculas",24/7 P | Harry Potter
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/538.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Los Critters" tvg-logo="https://i.imgur.com/htuLac3.png" group-title="24 7 Peliculas",24/7 P | Los Critters
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/174.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Marvel Cine Animations" tvg-logo="https://i.ibb.co/SBTPVYF/40556.jpg" group-title="24 7 Peliculas",24/7 P | Marvel Cine Animations
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1331.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Mi Pobre Angelito" tvg-logo="https://i.imgur.com/cVXC47i.png" group-title="24 7 Peliculas",24/7 P | Mi Pobre Angelito
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/175.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Pedro Infante" tvg-logo="http://i.imgur.com/0Xfktas.png" group-title="24 7 Peliculas",24/7 P | Pedro Infante
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1078100.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Picardía Mexicana" tvg-logo="https://i.imgur.com/v6kIKp1.png" group-title="24 7 Peliculas",24/7 P | Picardía Mexicana
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1053.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Play! Cinema Happy Madison" tvg-logo="https://i.imgur.com/GUGcxBf.png" group-title="24 7 Peliculas",24/7 P | Play! Cinema Happy Madison
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1129.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Play! Cinema Horror" tvg-logo="https://i.imgur.com/YZGdUkl.png" group-title="24 7 Peliculas",24/7 P | Play! Cinema Horror
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1127.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Play! Cinema Navidad" tvg-logo="https://i.imgur.com/dEVmlDH.png" group-title="24 7 Peliculas",24/7 P | Play! Cinema Navidad
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1128.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Pluto Cine Acción" tvg-logo="https://i.imgur.com/qT2wMM8.png" group-title="24 7 Peliculas",24/7 P | Pluto Cine Acción
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1300.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Pluto Cine Comedia" tvg-logo="https://i.imgur.com/qT2wMM8.png" group-title="24 7 Peliculas",24/7 P | Pluto Cine Comedia
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1302.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Pluto Cine Drama" tvg-logo="https://i.imgur.com/qT2wMM8.png" group-title="24 7 Peliculas",24/7 P | Pluto Cine Drama
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1303.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Pluto Cine Estelar" tvg-logo="https://i.imgur.com/pnmvCxE.png" group-title="24 7 Peliculas",24/7 P | Pluto Cine Estelar
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1298.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Pluto Cine Estrellas de Acción" tvg-logo="https://i.imgur.com/qT2wMM8.png" group-title="24 7 Peliculas",24/7 P | Pluto Cine Estrellas de Acción
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1301.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Pluto Cine Familia" tvg-logo="https://i.imgur.com/qT2wMM8.png" group-title="24 7 Peliculas",24/7 P | Pluto Cine Familia
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1307.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Pluto Cine Romance" tvg-logo="https://i.imgur.com/qT2wMM8.png" group-title="24 7 Peliculas",24/7 P | Pluto Cine Romance
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1304.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Pluto Cine Suspenso" tvg-logo="https://i.imgur.com/qT2wMM8.png" group-title="24 7 Peliculas",24/7 P | Pluto Cine Suspenso
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1305.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Pluto Cine Terror" tvg-logo="https://i.imgur.com/qT2wMM8.png" group-title="24 7 Peliculas",24/7 P | Pluto Cine Terror
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1306.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Saw" tvg-logo="https://i.imgur.com/jCukSlr.png" group-title="24 7 Peliculas",24/7 P | Saw
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/178.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | ScaryMovie" tvg-logo="https://i.imgur.com/srSRZaK.png" group-title="24 7 Peliculas",24/7 P | ScaryMovie
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/179.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Star Wars" tvg-logo="https://i.imgur.com/WpNPVUm.png" group-title="24 7 Peliculas",24/7 P | Star Wars
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1066615.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Starz East FHD" tvg-logo="https://i.imgur.com/Qchu2nx.png" group-title="24 7 Peliculas",24/7 P | Starz East FHD
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/982.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Starz encore Action HD" tvg-logo="https://i.imgur.com/Qchu2nx.png" group-title="24 7 Peliculas",24/7 P | Starz encore Action HD
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/983.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Starz encore Western HD" tvg-logo="https://i.picasion.com/pic92/d9e44966e779fc3912367b2b5a5e188e.gif" group-title="24 7 Peliculas",24/7 P | Starz encore Western HD
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/984.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Starz Family HD" tvg-logo="https://i.picasion.com/pic92/38048b8dc7dac625a6ea04d94231e3ba.gif" group-title="24 7 Peliculas",24/7 P | Starz Family HD
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/985.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Tin Tan" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/kqzd3OS9m9PqvA4t9vvxK9kFUgA.jpg" group-title="24 7 Peliculas",24/7 P | Tin Tan
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/2002.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Tremors" tvg-logo="https://i.imgur.com/46U3coE.png" group-title="24 7 Peliculas",24/7 P | Tremors
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/180.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Volver Al Futuro" tvg-logo="https://i.imgur.com/9QjOZmu.png" group-title="24 7 Peliculas",24/7 P | Volver Al Futuro
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/182.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| 1000 Maneras de Morir" tvg-logo="https://i.ibb.co/1Trr3dx/100-maneras.png" group-title="24 7 Series",A- 24/7 S| 1000 Maneras de Morir
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/743.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| 40 y 20" tvg-logo="https://i.ibb.co/ZYwjNV1/40-y-20.png" group-title="24 7 Series",A- 24/7 S| 40 y 20
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/763.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| Acapulco Shore" tvg-logo="https://i.imgur.com/0gl1FmN.png" group-title="24 7 Series",A- 24/7 S| Acapulco Shore
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1102.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| Alerta Aeropuerto" tvg-logo="https://i.ibb.co/nj2wpKQ/Alerta.png" group-title="24 7 Series",A- 24/7 S| Alerta Aeropuerto
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1695.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| ALF" tvg-logo="https://i.ibb.co/P1xCk7n/Alf.png" group-title="24 7 Series",A- 24/7 S| ALF
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/744.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| American Dad" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/bvW6xP8gu9Bo6AiIeHHQOFKSTmQ.jpg" group-title="24 7 Series",A- 24/7 S| American Dad
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/429.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| American Horror Stories" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/6z8xmLHJTuZPOQ0sXhW23oFZReb.jpg" group-title="24 7 Series",A- 24/7 S| American Horror Stories
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/407.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| American Horror Story T1-4" tvg-logo="https://i.ibb.co/f8PhDXf/AHS.png" group-title="24 7 Series",A- 24/7 S| American Horror Story T1-4
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/752.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| Automan" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/4dOlxvavpgpDyAFmLNIre1JmcCf.jpg" group-title="24 7 Series",A- 24/7 S| Automan
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/439.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| Años Maravillosos" tvg-logo="https://i.ibb.co/8MjWssB/twy.png" group-title="24 7 Series",A- 24/7 S| Años Maravillosos
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/772.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| Bojack Horseman" tvg-logo="https://ih1.redbubble.net/image.1774176061.0546/flat,750x,075,f-pad,750x1000,f8f8f8.jpg" group-title="24 7 Series",A- 24/7 S| Bojack Horseman
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/430.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| Bonanza" tvg-logo="https://i.imgur.com/aKafyhD.png" group-title="24 7 Series",A- 24/7 S| Bonanza
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/440.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| Caballeros del Zodiaco" tvg-logo="https://i.ibb.co/gwBkNbY/caballeros.png" group-title="24 7 Series",A- 24/7 S| Caballeros del Zodiaco
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/775.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| Casita de Terror Simpson" tvg-logo="https://i.ibb.co/GFss0sP/casita.png" group-title="24 7 Series",A- 24/7 S| Casita de Terror Simpson
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/784.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| Caso Cerrado" tvg-logo="https://i.ibb.co/jLjDCMN/caso-cerrado.png" group-title="24 7 Series",A- 24/7 S| Caso Cerrado
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/767.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| Chespirito" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/fBK5YTjBtyNTyToENeuSQHmLtgF.jpg" group-title="24 7 Series",A- 24/7 S| Chespirito
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/438.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| Chespirito 2" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/fBK5YTjBtyNTyToENeuSQHmLtgF.jpg" group-title="24 7 Series",A- 24/7 S| Chespirito 2
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/437.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| Chicago Fire" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/iiI1YU8akLYWdWuX1qHuMYPvSHC.jpg" group-title="24 7 Series",A- 24/7 S| Chicago Fire
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/411.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| Chicago Party Aunt" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/2iGvVnhvIpzyPLqK18LvgQ3PgPk.jpg" group-title="24 7 Series",A- 24/7 S| Chicago Party Aunt
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/431.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| Cobra Kai HD" tvg-logo="https://i.imgur.com/WADGPCg.png" group-title="24 7 Series",A- 24/7 S| Cobra Kai HD
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/746.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| CSI" tvg-logo="http://i.imgur.com/mv9swVy.png" group-title="24 7 Series",A- 24/7 S| CSI
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/505.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| Cuentos De La Cripta" tvg-logo="https://i.imgur.com/HiF4dXo.png" group-title="24 7 Series",A- 24/7 S| Cuentos De La Cripta
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/165.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| Desafio sobre fuego" tvg-logo="https://i.imgur.com/p8NIAbD.png" group-title="24 7 Series",A- 24/7 S| Desafio sobre fuego
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1110.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| Desencanto" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/jREoudMNIhrlDUUO3iy3HmVHwmX.jpg" group-title="24 7 Series",A- 24/7 S| Desencanto
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/432.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| Dragon Ball" tvg-logo="https://i.imgur.com/THg9T74.png" group-title="24 7 Series",A- 24/7 S| Dragon Ball
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1103.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| Dragon Ball GT" tvg-logo="https://i.ibb.co/Y7xM0J2/DGBGT.png" group-title="24 7 Series",A- 24/7 S| Dragon Ball GT
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/783.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| Dragon Ball Heroes" tvg-logo="https://i.imgur.com/mSMMgqJ.png" group-title="24 7 Series",A- 24/7 S| Dragon Ball Heroes
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/166.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| Dragon Ball Super" tvg-logo="https://i.imgur.com/3UQXEA9.png" group-title="24 7 Series",A- 24/7 S| Dragon Ball Super
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1107.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| Dragon Ball Super 2" tvg-logo="https://i.imgur.com/3UQXEA9.png" group-title="24 7 Series",A- 24/7 S| Dragon Ball Super 2
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1108.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| Dragon Ball Z (cell)" tvg-logo="https://i.imgur.com/8jrjUhM.png" group-title="24 7 Series",A- 24/7 S| Dragon Ball Z (cell)
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1104.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| Dragon Ball Z (Freezer)" tvg-logo="https://i.imgur.com/8jrjUhM.png" group-title="24 7 Series",A- 24/7 S| Dragon Ball Z (Freezer)
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1106.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| Dragon Ball Z (Majin Boo)" tvg-logo="https://i.imgur.com/8jrjUhM.png" group-title="24 7 Series",A- 24/7 S| Dragon Ball Z (Majin Boo)
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1105.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| Dragon ball Z Kai" tvg-logo="https://i.imgur.com/fptTSel.png" group-title="24 7 Series",A- 24/7 S| Dragon ball Z Kai
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/167.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| El Chapulin Colorado" tvg-logo="https://i.ibb.co/f9hh7kz/CH.png" group-title="24 7 Series",A- 24/7 S| El Chapulin Colorado
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/747.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| El Chapulin Colorado opc2" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/nO9Ik4eH7RTX9r11qPtUWfMsWJA.jpg" group-title="24 7 Series",A- 24/7 S| El Chapulin Colorado opc2
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/351.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| El Chavo del 8" tvg-logo="https://i.ibb.co/f0ywhHk/Chavo.png" group-title="24 7 Series",A- 24/7 S| El Chavo del 8
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/748.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| El Chavo del 8 (2)" tvg-logo="https://i.ibb.co/MZL7RFD/chavo8.png" group-title="24 7 Series",A- 24/7 S| El Chavo del 8 (2)
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/248.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| El Coche Fantastico" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/sDt5jfNCfdeIbVyEoKXnosDwy03.jpg" group-title="24 7 Series",A- 24/7 S| El Coche Fantastico
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/436.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| El Gran Chaparral" tvg-logo="http://i.imgur.com/TC6Ecf2.png" group-title="24 7 Series",A- 24/7 S| El Gran Chaparral
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/169.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| El Principe del Rap" tvg-logo="https://i.imgur.com/rBm4lln.png" group-title="24 7 Series",A- 24/7 S| El Principe del Rap
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1049.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| El señor de los cielos" tvg-logo="https://i.imgur.com/PCXseiL.png" group-title="24 7 Series",A- 24/7 S| El señor de los cielos
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/196.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| El Zorro T 1-2" tvg-logo="https://i.ibb.co/XYg8w16/zorro.png" group-title="24 7 Series",A- 24/7 S| El Zorro T 1-2
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/750.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| El Zorro T3-4" tvg-logo="https://i.ibb.co/sVhJbXD/xorro.png" group-title="24 7 Series",A- 24/7 S| El Zorro T3-4
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/751.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| Enemigo Intimo" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/81URAPXi0GP9Ul4MxcVSiDEnpPq.jpg" group-title="24 7 Series",A- 24/7 S| Enemigo Intimo
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/419.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| Extranormal" tvg-logo="https://i.imgur.com/9KI1Z2l.png" group-title="24 7 Series",A- 24/7 S| Extranormal
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1045.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| Friends" tvg-logo="https://i.imgur.com/tHymCrh.png" group-title="24 7 Series",A- 24/7 S| Friends
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1067.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| Futurama T1-4" tvg-logo="https://i.ibb.co/MMLFvDT/futurama.png" group-title="24 7 Series",A- 24/7 S| Futurama T1-4
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/781.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| Futurama T5-7" tvg-logo="https://i.ibb.co/vsjBHnJ/Suturama.png" group-title="24 7 Series",A- 24/7 S| Futurama T5-7
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/782.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| La Casa De Los Dibujos" tvg-logo="https://i.imgur.com/ZJ7Gi0p.png" group-title="24 7 Series",A- 24/7 S| La Casa De Los Dibujos
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/172.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| La Ciencia de lo Absurdo" tvg-logo="https://i.imgur.com/ZZjU4km.png" group-title="24 7 Series",A- 24/7 S| La Ciencia de lo Absurdo
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1131.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| La Familia Peluche" tvg-logo="https://i.ibb.co/fNxN0J8/famila-peluche.png" group-title="24 7 Series",A- 24/7 S| La Familia Peluche
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1139.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| La Hora Pico" tvg-logo="https://i.ibb.co/yST93sZ/la-hr-pico.png" group-title="24 7 Series",A- 24/7 S| La Hora Pico
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1694.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| La Niñera" tvg-logo="http://i.imgur.com/MVhRw19.png" group-title="24 7 Series",A- 24/7 S| La Niñera
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1078104.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| Los 3 Chiflados" tvg-logo="https://i.ibb.co/h2GHqTL/los-3.png" group-title="24 7 Series",A- 24/7 S| Los 3 Chiflados
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/754.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| Los Caquitos" tvg-logo="https://i.imgur.com/e91dXyt.png" group-title="24 7 Series",A- 24/7 S| Los Caquitos
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/173.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| Los Magnificos (a-team)" tvg-logo="https://i.imgur.com/uAMMn7o.png" group-title="24 7 Series",A- 24/7 S| Los Magnificos (a-team)
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1047.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| Los Simpsons T20-25" tvg-logo="https://i.ibb.co/YP20YZ4/simpson.png" group-title="24 7 Series",A- 24/7 S| Los Simpsons T20-25
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/780.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| Los Simpsons T6-10" tvg-logo="https://i.ibb.co/zRLgXfW/simps.png" group-title="24 7 Series",A- 24/7 S| Los Simpsons T6-10
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/773.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| Los Simpsons [Aleatorio]" tvg-logo="https://i.ibb.co/B490P1b/simpo.png" group-title="24 7 Series",A- 24/7 S| Los Simpsons [Aleatorio]
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/779.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| Macgyver" tvg-logo="https://i.ibb.co/jZ554tw/macgyver.png" group-title="24 7 Series",A- 24/7 S| Macgyver
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1218.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| Malcolm el de en medio T1-3" tvg-logo="https://i.ibb.co/r0CBhr8/malcolm.png" group-title="24 7 Series",A- 24/7 S| Malcolm el de en medio T1-3
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/749.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| Malcolm el de en medio T4-7" tvg-logo="https://i.ibb.co/NVVJYR8/malcolml.png" group-title="24 7 Series",A- 24/7 S| Malcolm el de en medio T4-7
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/765.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| Master Chef MX T1-3" tvg-logo="https://i.ibb.co/Rh0QDJf/masterch.png" group-title="24 7 Series",A- 24/7 S| Master Chef MX T1-3
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/761.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| Master Chef MX T4-5" tvg-logo="https://i.ibb.co/wBcVjG7/master.png" group-title="24 7 Series",A- 24/7 S| Master Chef MX T4-5
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/762.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| Mi bella genio" tvg-logo="https://i.imgur.com/O2q9hCb.png" group-title="24 7 Series",A- 24/7 S| Mi bella genio
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/999.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| Minuto para ganar" tvg-logo="https://i.ibb.co/W04ScfL/minuto-para-ganar.png" group-title="24 7 Series",A- 24/7 S| Minuto para ganar
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/766.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| Mr. Bean" tvg-logo="https://ih1.redbubble.net/image.4302829842.8074/st,small,507x507-pad,600x600,f8f8f8.u4.jpg" group-title="24 7 Series",A- 24/7 S| Mr. Bean
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1078103.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| Narcos Mexico" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/yCid4sQkaVzfa2y4yQWs5E0TES9.jpg" group-title="24 7 Series",A- 24/7 S| Narcos Mexico
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/423.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| Padre De Familia TEMP 1-5" tvg-logo="https://i.ibb.co/bP1hxqY/padre.png" group-title="24 7 Series",A- 24/7 S| Padre De Familia TEMP 1-5
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/777.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| Pluto TV Peleas" tvg-logo="https://i.imgur.com/qT2wMM8.png" group-title="24 7 Series",A- 24/7 S| Pluto TV Peleas
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1309.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| Rick y Morty" tvg-logo="https://i.imgur.com/fk9PRIq.png" group-title="24 7 Series",A- 24/7 S| Rick y Morty
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/1109.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| Shark Tank Colombia T1-3" tvg-logo="https://i.ibb.co/0JLkVnV/SHARK-co.png" group-title="24 7 Series",A- 24/7 S| Shark Tank Colombia T1-3
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/764.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| Shark Tank Mexico" tvg-logo="https://i.ibb.co/G5qD2zV/Shark-mx.png" group-title="24 7 Series",A- 24/7 S| Shark Tank Mexico
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/760.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| Smallville" tvg-logo="https://i.imgur.com/A98Jw2N.png" group-title="24 7 Series",A- 24/7 S| Smallville
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/242.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| South Park TEMP 1-5" tvg-logo="https://i.ibb.co/TRbfLDt/south-park.png" group-title="24 7 Series",A- 24/7 S| South Park TEMP 1-5
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/774.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| Super Agente 86" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT81GOw_gKHKahMA3DcsqR_FSSgZjh8QP1gm9Yf8aVwyNuFg-MV" group-title="24 7 Series",A- 24/7 S| Super Agente 86
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/433.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| The Big Bang Theory" tvg-logo="https://i.imgur.com/b0yzUZp.png" group-title="24 7 Series",A- 24/7 S| The Big Bang Theory
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/211.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| Ugly Americans" tvg-logo="https://i.imgur.com/bvXT6bT.png" group-title="24 7 Series",A- 24/7 S| Ugly Americans
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/181.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| Una Familia de Diez TEMP 1-5" tvg-logo="https://i.ibb.co/wCLsTHj/familia-de-10.png" group-title="24 7 Series",A- 24/7 S| Una Familia de Diez TEMP 1-5
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/755.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| Vecinos" tvg-logo="https://i.ibb.co/Wf8fM8q/vecinos.png" group-title="24 7 Series",A- 24/7 S| Vecinos
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/756.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| Viaje Al Fondo Del Mar" tvg-logo="https://i.ibb.co/943pFdC/viaje-al-fondo.png" group-title="24 7 Series",A- 24/7 S| Viaje Al Fondo Del Mar
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/757.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| Vikingos" tvg-logo="https://i.ibb.co/XZcz9vB/viki.png" group-title="24 7 Series",A- 24/7 S| Vikingos
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/758.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A- 24/7 S| Xena - Princesa Guerrera" tvg-logo="https://i.ibb.co/ZcP3r17/xena.png" group-title="24 7 Series",A- 24/7 S| Xena - Princesa Guerrera
+#EXTM3U url-tvg=""
 
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/961.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Amazon (1)" tvg-logo="https://variety.com/wp-content/uploads/2014/11/amazon-logo.jpg?w=1000" group-title="B- 24 7 Series",Amazon (1)
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/2069.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Amazon (10)" tvg-logo="https://variety.com/wp-content/uploads/2014/11/amazon-logo.jpg?w=1000" group-title="B- 24 7 Series",Amazon (10)
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/2060.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Amazon (11)" tvg-logo="https://variety.com/wp-content/uploads/2014/11/amazon-logo.jpg?w=1000" group-title="B- 24 7 Series",Amazon (11)
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/2059.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Amazon (12)" tvg-logo="https://variety.com/wp-content/uploads/2014/11/amazon-logo.jpg?w=1000" group-title="B- 24 7 Series",Amazon (12)
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/2057.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Amazon (13)" tvg-logo="https://variety.com/wp-content/uploads/2014/11/amazon-logo.jpg?w=1000" group-title="B- 24 7 Series",Amazon (13)
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/2058.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Amazon (14)" tvg-logo="https://variety.com/wp-content/uploads/2014/11/amazon-logo.jpg?w=1000" group-title="B- 24 7 Series",Amazon (14)
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/2056.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Amazon (15)" tvg-logo="https://variety.com/wp-content/uploads/2014/11/amazon-logo.jpg?w=1000" group-title="B- 24 7 Series",Amazon (15)
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/2055.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Amazon (2)" tvg-logo="https://variety.com/wp-content/uploads/2014/11/amazon-logo.jpg?w=1000" group-title="B- 24 7 Series",Amazon (2)
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/2068.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Amazon (3)" tvg-logo="https://variety.com/wp-content/uploads/2014/11/amazon-logo.jpg?w=1000" group-title="B- 24 7 Series",Amazon (3)
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/2067.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Amazon (4)" tvg-logo="https://variety.com/wp-content/uploads/2014/11/amazon-logo.jpg?w=1000" group-title="B- 24 7 Series",Amazon (4)
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/2066.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Amazon (5)" tvg-logo="https://variety.com/wp-content/uploads/2014/11/amazon-logo.jpg?w=1000" group-title="B- 24 7 Series",Amazon (5)
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/2065.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Amazon (6)" tvg-logo="https://variety.com/wp-content/uploads/2014/11/amazon-logo.jpg?w=1000" group-title="B- 24 7 Series",Amazon (6)
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/2064.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Amazon (7)" tvg-logo="https://variety.com/wp-content/uploads/2014/11/amazon-logo.jpg?w=1000" group-title="B- 24 7 Series",Amazon (7)
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/2063.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Amazon (8)" tvg-logo="https://variety.com/wp-content/uploads/2014/11/amazon-logo.jpg?w=1000" group-title="B- 24 7 Series",Amazon (8)
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/2062.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Amazon (9)" tvg-logo="https://variety.com/wp-content/uploads/2014/11/amazon-logo.jpg?w=1000" group-title="B- 24 7 Series",Amazon (9)
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/2061.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Apple (1)" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/02/Apple-TV-logo.png" group-title="C- 24 7 Series",Apple (1)
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/2070.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Apple (10)" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/02/Apple-TV-logo.png" group-title="C- 24 7 Series",Apple (10)
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/2079.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Apple (11)" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/02/Apple-TV-logo.png" group-title="C- 24 7 Series",Apple (11)
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/2080.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Apple (2)" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/02/Apple-TV-logo.png" group-title="C- 24 7 Series",Apple (2)
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/2071.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Apple (3)" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/02/Apple-TV-logo.png" group-title="C- 24 7 Series",Apple (3)
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/2072.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Apple (4)" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/02/Apple-TV-logo.png" group-title="C- 24 7 Series",Apple (4)
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/2073.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Apple (5)" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/02/Apple-TV-logo.png" group-title="C- 24 7 Series",Apple (5)
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/2074.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Apple (6)" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/02/Apple-TV-logo.png" group-title="C- 24 7 Series",Apple (6)
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/2075.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Apple (7)" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/02/Apple-TV-logo.png" group-title="C- 24 7 Series",Apple (7)
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/2076.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Apple (8)" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/02/Apple-TV-logo.png" group-title="C- 24 7 Series",Apple (8)
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/2077.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Apple (9)" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/02/Apple-TV-logo.png" group-title="C- 24 7 Series",Apple (9)
-http://gzytv.vip:8880/jonathanparedeszom/CgU7dXRuTA/2078.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Adventure Time" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/vpnV0g2VOounP0kHNi86oBPceMY.jpg" group-title="B- Infantil",Adventure Time
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/332.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Angry Birds" tvg-logo="https://imgur.com/Aw0WtI7.png" group-title="B- Infantil",Angry Birds
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2592.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animaniacs" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/wmPZzLov9OhiknK4jW4qE6mgvHf.jpg" group-title="B- Infantil",Animaniacs
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/333.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aquaman" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/5S6BbTIu18CLEHRDdNzCLzSKAMq.jpg" group-title="B- Infantil",Aquaman
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/334.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Art Atack" tvg-logo="https://i.imgur.com/Texm3Jw.png" group-title="B- Infantil",Art Atack
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1036.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Autobus Magico" tvg-logo="https://imgur.com/M8K7LwH.png" group-title="B- Infantil",Autobus Magico
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2593.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bakugan" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/uW2xawK5brroGov2dyhuT0bUeva.jpg" group-title="B- Infantil",Bakugan
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/349.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Barbie" tvg-logo="https://imgur.com/Rt4wVX9.png" group-title="B- Infantil",Barbie
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2594.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Batman (1992)" tvg-logo="https://i.imgur.com/W7R5Zac.png" group-title="B- Infantil",Batman (1992)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1115.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Beetlejuice" tvg-logo="https://i.imgur.com/cAEsEY0.png" group-title="B- Infantil",Beetlejuice
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/350.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ben 10" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/pT0NlYVIkwM2zAw9oUkePwrOlxW.jpg" group-title="B- Infantil",Ben 10
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/335.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bob Esponja 1-6" tvg-logo="https://i.imgur.com/0R6W4HT.png" group-title="B- Infantil",Bob Esponja 1-6
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1065.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bob Esponja 7-12" tvg-logo="https://i.imgur.com/0R6W4HT.png" group-title="B- Infantil",Bob Esponja 7-12
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1066.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bugs Bunny" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/5xBZf79KRD3cQjOkkwdS1IDmuyX.jpg" group-title="B- Infantil",Bugs Bunny
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/336.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Candy Candy" tvg-logo="https://i.imgur.com/RPgZnI3.png" group-title="B- Infantil",Candy Candy
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/206.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Chapulin animado" tvg-logo="https://i.imgur.com/AJa6ToH.png" group-title="B- Infantil",Chapulin animado
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/338.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Coraje el Perro Cobarde" tvg-logo="https://i.ibb.co/j5gSDbS/Cora-Je-perro.png" group-title="B- Infantil",Coraje el Perro Cobarde
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2596.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Coyote y Correcaminos" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/76rz994icSRNHBZuAHmsRwVROsy.jpg" group-title="B- Infantil",Coyote y Correcaminos
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/352.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dinosaurios" tvg-logo="https://ih1.redbubble.net/image.3790899799.4176/st,large,507x507-pad,600x600,f8f8f8.jpg" group-title="B- Infantil",Dinosaurios
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/537.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Movies" tvg-logo="https://i.imgur.com/MclBXDy.png" group-title="B- Infantil",Disney Movies
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/500.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Pixar Movies" tvg-logo="https://i.imgur.com/mh1guK3.png" group-title="B- Infantil",Disney Pixar Movies
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1111.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Pixar Movies 2" tvg-logo="https://i.imgur.com/mh1guK3.png" group-title="B- Infantil",Disney Pixar Movies 2
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1112.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Don Gato y Su Pandilla" tvg-logo="https://imgur.com/v9OY7Nv.png" group-title="B- Infantil",Don Gato y Su Pandilla
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2598.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dora y Sus Amigos En La Ciudad" tvg-logo="https://imgur.com/fix11Cp.png" group-title="B- Infantil",Dora y Sus Amigos En La Ciudad
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2599.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Doraemon" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/9ZN1P32SHviL3SV51qLivxycvcx.jpg" group-title="B- Infantil",Doraemon
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/353.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dos perros tontos" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/3Lyc5VqhTqq76vmKUn1an8rlnP7.jpg" group-title="B- Infantil",Dos perros tontos
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/339.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Chavo Animado" tvg-logo="https://imgur.com/7sJ8GCF.png" group-title="B- Infantil",El Chavo Animado
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2600.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Conde Pátula" tvg-logo="https://imgur.com/Wx9nUoO.png" group-title="B- Infantil",El Conde Pátula
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2601.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Galactico" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/v698D2DB3oPzau6W55tiA2QI4Eu.jpg" group-title="B- Infantil",El Galactico
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/340.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El inspector Ardilla" tvg-logo="https://i.imgur.com/ZfUlke6.png" group-title="B- Infantil",El inspector Ardilla
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/342.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Inspector Gadget" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/ayYkEcvuArO5mpI4Dxnqq3Z5WEQ.jpg" group-title="B- Infantil",El Inspector Gadget
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/343.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Narrador De Cuentos" tvg-logo="https://i.imgur.com/wbfORgQ.png" group-title="B- Infantil",El Narrador De Cuentos
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/170.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Vengador" tvg-logo="https://i.pinimg.com/1200x/ac/90/35/ac9035610508f61c3a394070f5c6e3eb.jpg" group-title="B- Infantil",El Vengador
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/341.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GooseBumps" tvg-logo="https://i.imgur.com/C5cECw6.png" group-title="B- Infantil",GooseBumps
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/434.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Halcones Galacticos" tvg-logo="https://i.imgur.com/o849jKJ.png" group-title="B- Infantil",Halcones Galacticos
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2603.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hanna Barbera" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/sanSoQeO0TZMi4cg30EWVg2CnCV.jpg" group-title="B- Infantil",Hanna Barbera
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/344.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hey Arnold" tvg-logo="https://imgur.com/SXhuLAr.png" group-title="B- Infantil",Hey Arnold
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2604.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jefe En Pañales" tvg-logo="https://www.themoviedb.org/t/p/original/eaEnRulLVc6ziCXcHMsvnUShPAz.jpg" group-title="B- Infantil",Jefe En Pañales
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/355.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Johnny Bravo" tvg-logo="https://imgur.com/fv9Q5F7.png" group-title="B- Infantil",Johnny Bravo
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2606.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jorge el Curioso" tvg-logo="http://i.imgur.com/caUuPhU.png" group-title="B- Infantil",Jorge el Curioso
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/504.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kenan & Kel" tvg-logo="https://i.imgur.com/1EvOY6r.png" group-title="B- Infantil",Kenan & Kel
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/988.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Casa De Mickey Mouse" tvg-logo="https://i.imgur.com/C39rRRM.png" group-title="B- Infantil",La Casa De Mickey Mouse
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2607.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Pantera Rosa" tvg-logo="https://i.imgur.com/rHkCdng.png" group-title="B- Infantil",La Pantera Rosa
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2608.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Vaca y El Pollito" tvg-logo="https://i.imgur.com/MevFdjs.png" group-title="B- Infantil",La Vaca y El Pollito
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2609.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Las Chicas Superpoderosas" tvg-logo="https://i.ibb.co/6NkCyNH/superpoderosas.png" group-title="B- Infantil",Las Chicas Superpoderosas
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2610.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lego Movies" tvg-logo="https://i.ibb.co/bJ5GJzk/lego.png" group-title="B- Infantil",Lego Movies
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1134.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Looney Toons" tvg-logo="https://i.imgur.com/Y8uhyOg.png" group-title="B- Infantil",Looney Toons
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1062845.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Looney Toons Baby" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/mYAzqridtCAfda4HlbNQfwGsa99.jpg" group-title="B- Infantil",Looney Toons Baby
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/354.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Castores Cascarrabias" tvg-logo="https://i.ibb.co/qB29CRq/castores-casca.png" group-title="B- Infantil",Los Castores Cascarrabias
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2611.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Pequeños Picapiedras" tvg-logo="https://i.ibb.co/99xdCzf/Los-peque-os-Picapiedra.png" group-title="B- Infantil",Los Pequeños Picapiedras
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2612.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Picapiedras" tvg-logo="https://i.ibb.co/rFQTvG2/Los-picapiedra.png" group-title="B- Infantil",Los Picapiedras
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2613.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Pitufos" tvg-logo="https://i.ibb.co/sQypNsV/Los-pitufos.png" group-title="B- Infantil",Los Pitufos
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2614.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Masha y el oso" tvg-logo="https://i.ibb.co/jr5bYVB/Masha-y-el-Oso.png" group-title="B- Infantil",Masha y el oso
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2615.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mickey Mouse" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/aAJ5T2Ab28vbbP9s6wWqdtK3arQ.jpg" group-title="B- Infantil",Mickey Mouse
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/345.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="One Punch Man" tvg-logo="https://i.imgur.com/eHTczsJ.png" group-title="B- Infantil",One Punch Man
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/176.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pajaro Loco" tvg-logo="https://i.ibb.co/2cyw33b/Pajaro-loco.png" group-title="B- Infantil",Pajaro Loco
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2616.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pato Aventuras" tvg-logo="http://i.imgur.com/FSvoyFg.png" group-title="B- Infantil",Pato Aventuras
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/480.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Patrulla Canina" tvg-logo="https://i.ibb.co/426s0rn/Patrulla.png" group-title="B- Infantil",Patrulla Canina
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2617.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Peppa Pig" tvg-logo="http://i.imgur.com/xVNi7MG.png" group-title="B- Infantil",Peppa Pig
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1078099.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pinguinos De Madagascar" tvg-logo="https://i.ibb.co/VjnVL0T/Madagascar.png" group-title="B- Infantil",Pinguinos De Madagascar
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2618.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pocoyo" tvg-logo="http://i.imgur.com/V9g3xQA.png" group-title="B- Infantil",Pocoyo
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/506.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pokemon" tvg-logo="http://i.imgur.com/63APoYf.png" group-title="B- Infantil",Pokemon
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1078098.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Popeye" tvg-logo="https://i.imgur.com/Ufrds4r.png" group-title="B- Infantil",Popeye
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/214.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Power Rangers" tvg-logo="https://i.ibb.co/NtSGjvg/power-rangers.png" group-title="B- Infantil",Power Rangers
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1283.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Puca" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/xQjSUOEQTrCqDoBiEYIrNlajCD.jpg" group-title="B- Infantil",Puca
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/346.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ranma 1/2" tvg-logo="http://i.imgur.com/k2OzMqo.png" group-title="B- Infantil",Ranma 1/2
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/503.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rugrats (Aventuras en Panales)" tvg-logo="https://i.imgur.com/QhRmFAZ.png" group-title="B- Infantil",Rugrats (Aventuras en Panales)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1006.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Scooby-Doo" tvg-logo="https://i.ibb.co/C2RDQrg/Scooby.png" group-title="B- Infantil",Scooby-Doo
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2619.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Spiderman (1997)" tvg-logo="https://i.imgur.com/epDuzge.png" group-title="B- Infantil",Spiderman (1997)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1114.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Super Campeones" tvg-logo="https://i.ibb.co/ngM0BFp/Supercampeones.png" group-title="B- Infantil",Super Campeones
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2620.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thundercats" tvg-logo="https://i.ibb.co/4pBNGdC/thundercats.png" group-title="B- Infantil",Thundercats
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2621.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Timon & Pumba" tvg-logo="https://i.ibb.co/f4tQgFn/hakuna.png" group-title="B- Infantil",Timon & Pumba
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2622.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tom & Jerry" tvg-logo="https://i.ibb.co/pv1mb3m/Tom-Jerry.png" group-title="B- Infantil",Tom & Jerry
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1219.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Toy Story" tvg-logo="https://i.imgur.com/AKrSonk.png" group-title="B- Infantil",Toy Story
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1130.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vampirina" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/18Mmri8vmBKbGbiymFPlSHlg71o.jpg" group-title="B- Infantil",Vampirina
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/347.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="X Men (1992)" tvg-logo="https://i.imgur.com/cjo7ddT.png" group-title="B- Infantil",X Men (1992)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1113.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Yu-Gi-Oh" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/3VD5QDTu0rQgRvERBMXtAvg0oIC.jpg" group-title="B- Infantil",Yu-Gi-Oh
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/348.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="16 Veranos" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/c/cd/TheWayWeWere.jpg/revision/latest?cb=20190629174129&path-prefix=es" group-title="D- Novelas",16 Veranos
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/276.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Corazon Abierto" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/82FlOKGpr1YSeEKwh2aDmxURs7v.jpg" group-title="D- Novelas",A Corazon Abierto
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/367.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Adrenalina" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/q9pB0IoLjDGiSNt0A3Mf9riPeWw.jpg" group-title="D- Novelas",Adrenalina
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/356.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Adrián Esta De Visita" tvg-logo="https://en-images.kinorium.com/movie/1080/235593.jpg?1527901817" group-title="D- Novelas",Adrián Esta De Visita
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/368.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al diablo los Guapos" tvg-logo="https://i.ibb.co/0czPcBj/al-diablo.png" group-title="D- Novelas",Al diablo los Guapos
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/771.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alegrijes y Rebujos" tvg-logo="https://i.ibb.co/jyn50Cj/alebriges.png" group-title="D- Novelas",Alegrijes y Rebujos
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/770.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alias El Mexicano" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/pwn3dP5EbK1Grz8vBGUEVEqkVS5.jpg" group-title="D- Novelas",Alias El Mexicano
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/413.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alma Mia" tvg-logo="https://canvas.tubitv.com/7939ec6e-2005-4703-87bd-d23ca1f70236/UMIAyt?w=256&h=368" group-title="D- Novelas",Alma Mia
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/299.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amame" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/q4So9MyLTZMInq8L3Vj0epZa4xh.jpg" group-title="D- Novelas",Amame
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/357.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amanda Amores Que Matan" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTBiMDc2MGMtNTA5My00NWI0LTlhMjUtMTVjZDdiN2YwN2RkXkEyXkFqcGdeQXVyMTMzNTM1NDM@._V1_FMjpg_UX1000_.jpg" group-title="D- Novelas",Amanda Amores Que Matan
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/369.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amanda Sabater" tvg-logo="https://pics.filmaffinity.com/amanda_sabater-432087688-mmed.jpg" group-title="D- Novelas",Amanda Sabater
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/300.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amantes" tvg-logo="https://www.themoviedb.org/t/p/w500/peie5zSVGdQ4cRdcQI8wBfQSqGP.jpg" group-title="D- Novelas",Amantes
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/261.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amantes Del Desierto" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/b7UfZRpkdbn6rbGnljOXYRxHq2Y.jpg" group-title="D- Novelas",Amantes Del Desierto
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/314.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amar y vivir" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/oTmIP28BCEtgWBdxRMgK33nS0EA.jpg" group-title="D- Novelas",Amar y vivir
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/377.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amigas y rivales" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/l1ufpjYSfQ0yqf860oXmlIaFS1M.jpg" group-title="D- Novelas",Amigas y rivales
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/378.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amor A Domicilio" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/47E2hQ18Z4VYCZQRykdDxD4j7l7.jpg" group-title="D- Novelas",Amor A Domicilio
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/358.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amor A La Planca" tvg-logo="https://pics.filmaffinity.com/Amor_a_la_plancha_Serie_de_TV-637088605-large.jpg" group-title="D- Novelas",Amor A La Planca
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/303.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amor A Palos" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDZjM2YyYzctMjQ0Ny00MGFhLWJlMWItODE4ZjNmZjc1MjI4XkEyXkFqcGdeQXVyMjI4OTg3MTc@._V1_.jpg" group-title="D- Novelas",Amor A Palos
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/262.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amor En Custodia" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/jJKjDGAbPMagzjlds4Y21SIOoPU.jpg" group-title="D- Novelas",Amor En Custodia
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/302.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amor eterno" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/al6OCoVRgdHhkGLVSvx4NPb4TJY.jpg" group-title="D- Novelas",Amor eterno
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/379.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amor Musical" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/3/30/Poster_Shut_Up_Flower_Boy_Band.png/revision/latest?cb=20220623034306&path-prefix=es" group-title="D- Novelas",Amor Musical
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/277.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amores De Fin De Siglo" tvg-logo="https://pics.filmaffinity.com/Amores_de_fin_de_siglo_Serie_de_TV-479971677-large.jpg" group-title="D- Novelas",Amores De Fin De Siglo
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/263.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Angel De La Guardia" tvg-logo="https://www.lavanguardia.com/peliculas-A- series/images/serie/poster/2005/9/w1280/fKPXIK077SqNR3S8tqRsa9pYNHS.jpg" group-title="D- Novelas",Angel De La Guardia
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/313.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Apuesta Final" tvg-logo="https://pictures.betaA- series.com/fonds/poster/b7b4b25fdd246b190375433954f0defd.jpg" group-title="D- Novelas",Apuesta Final
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/278.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Astuta Y Soltera" tvg-logo="https://i.pinimg.com/1200x/25/4d/4c/254d4c4f5587db6027e7c5d79527363e.jpg" group-title="D- Novelas",Astuta Y Soltera
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/279.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Beatiful Man" tvg-logo="https://bombasoju.files.wordpress.com/2013/11/jang-keun-seuk.jpg" group-title="D- Novelas",Beatiful Man
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/280.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Belleza Juvenil" tvg-logo="https://static.wikia.nocookie.net/drama/images/4/42/412px-Babyfaced_Beauty-p2.jpg/revision/latest?cb=20111204180657&path-prefix=es" group-title="D- Novelas",Belleza Juvenil
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/281.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BKN" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/gUK8YxL0W25sdwB99vXw76Owf0m.jpg" group-title="D- Novelas",BKN
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/359.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bloque De Busqueda" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/1LU5gO3gVOm9IgxLfhSBpMUVYW6.jpg" group-title="D- Novelas",Bloque De Busqueda
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/410.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bulyaseong" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Night_Light_Poster.jpg" group-title="D- Novelas",Bulyaseong
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/282.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cafe con aroma de mujer" tvg-logo="https://i.imgur.com/rtNrP0O.png" group-title="D- Novelas",Cafe con aroma de mujer
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/964.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Calido Y Acogedor" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/pQ1PjmVu2VoIKixGU8g0TcdBFat.jpg" group-title="D- Novelas",Calido Y Acogedor
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/283.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Candela" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/jvRxWYlVPtuoRmPqDhEvf6RF2pH.jpg" group-title="D- Novelas",Candela
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/312.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cara Sucia" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2UwOGFkOTItMWNmOC00YjkxLTgwMGMtZDZjOTRmNmZhZjZlXkEyXkFqcGdeQXVyODgzMDY4MDc@._V1_.jpg" group-title="D- Novelas",Cara Sucia
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/264.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Casa De Muñecos" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/ciQpnI4Hf9Dj5DdokYDWOzxAw47.jpg" group-title="D- Novelas",Casa De Muñecos
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/360.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Chapa Tu Combi" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTRjOWNiMjAtMmM4Ny00YmY0LTg2ODYtNmQyMzU3MmU4MzY0XkEyXkFqcGdeQXVyMjY3NjE4Mw@@._V1_UY1200_CR759,0,630,1200_AL_.jpg" group-title="D- Novelas",Chapa Tu Combi
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/317.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Chicas De Oficina" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/foMmyGrwtIaI9vbDYPFjGg06xwc.jpg" group-title="D- Novelas",Chicas De Oficina
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/284.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Chicos En Busca De Amor" tvg-logo="https://nbp1.files.wordpress.com/2014/05/chicos-en-busca-del-amor-portada.jpg" group-title="D- Novelas",Chicos En Busca De Amor
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/285.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cindera Man" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Cinderella_Man-poster.jpg" group-title="D- Novelas",Cindera Man
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/286.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Clase Ejecutiva" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmEyYjI2ZWQtZWU2MC00ODIyLTk1ZGUtNWUzZjA1ODRlMzViXkEyXkFqcGdeQXVyMzM0NTc2MTE@._V1_.jpg" group-title="D- Novelas",Clase Ejecutiva
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/311.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colorina" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDVkZDlmZGYtY2MzNC00MTY0LWI0NTYtZDk3ZWUyMmY1NjQ2XkEyXkFqcGdeQXVyNjExODE1MDc@._V1_.jpg" group-title="D- Novelas",Colorina
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/318.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Como dice el dicho" tvg-logo="https://i.imgur.com/QAsfN3b.png" group-title="D- Novelas",Como dice el dicho
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1048.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Contrato Para Una Boda" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/f/fd/MDwRRf5.png/revision/latest?cb=20170525201846&path-prefix=es" group-title="D- Novelas",Contrato Para Una Boda
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/287.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cuna de lobos" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/n1xy8a7n6GpKEjqxkMFbe8TGC1x.jpg" group-title="D- Novelas",Cuna de lobos
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/380.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Damo" tvg-logo="https://i.mydramalist.com/akA7vc.jpg?v=1" group-title="D- Novelas",Damo
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/288.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="De Las 5 A Las 9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/From_Five_to_Nine_%285%E2%86%929%E3%80%9C%E7%A7%81%E3%81%AB%E6%81%8B%E3%81%97%E3%81%9F%E3%81%8A%E5%9D%8A%E3%81%95%E3%82%93%E3%80%9C%29_Promotional_poster.jpg" group-title="D- Novelas",De Las 5 A Las 9
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/289.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="De Mujeres" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Poster_of_El_pais_de_las_mujeres.jpg" group-title="D- Novelas",De Mujeres
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/265.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="De Nuevo Un Final Feliz" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/i4ZrXTE2z48MCzBtRuBbFHb5jTi.jpg" group-title="D- Novelas",De Nuevo Un Final Feliz
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/291.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Del Cielo Al Infierno" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/tmsjJ1F3fPMm9BIRTJCgAZ2lV7q.jpg" group-title="D- Novelas",Del Cielo Al Infierno
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/290.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Diomedes Diaz" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/dloUU6Qy5yDVIBd6EUhatBCiRsL.jpg" group-title="D- Novelas",Diomedes Diaz
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/403.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Doctors" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/f/ff/Doctors-SBS2016.jpg/revision/latest?cb=20190518213251&path-prefix=es" group-title="D- Novelas",Doctors
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/292.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dulce Ilusion" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/hOHg94gqQG5mSTBf20ZMKFpqo2B.jpg" group-title="D- Novelas",Dulce Ilusion
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/266.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ecomoda" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/yMwHYtRmbE91pFjorzgfgS6JpKn.jpg" group-title="D- Novelas",Ecomoda
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/310.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Educando A La Princesa" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/7l2aN9cT7CZ8QPUKknlRsiTAx0k.jpg" group-title="D- Novelas",Educando A La Princesa
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/293.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Amor Es Mas Fuerte" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_918043-MCO53914662181_022023-O.webp" group-title="D- Novelas",El Amor Es Mas Fuerte
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/309.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Arbol De Gabriel" tvg-logo="https://pics.filmaffinity.com/el_arbol_de_gabriel-595684958-mmed.jpg" group-title="D- Novelas",El Arbol De Gabriel
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/267.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Autentico Rodrigo Leal" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/czwSK0M4XbnJHMdHA1ehJaww9Ph.jpg" group-title="D- Novelas",El Autentico Rodrigo Leal
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/308.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Capo" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/hTwfFidPtRU3BUH8mK90jWyPyBr.jpg" group-title="D- Novelas",El Capo
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/404.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Capo" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/hTwfFidPtRU3BUH8mK90jWyPyBr.jpg" group-title="D- Novelas",El Capo
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/414.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Chapo" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/2ClXk4PoOGmkk676y4q6T26GJOb.jpg" group-title="D- Novelas",El Chapo
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/415.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Chema" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/wuA7gcwhDMbZ4Y1lscXRrgmaJIi.jpg" group-title="D- Novelas",El Chema
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/417.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El clon" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/61KPceoQCcmgoiCGGWURFJn9ICA.jpg" group-title="D- Novelas",El clon
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/381.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Desafio" tvg-logo="https://pics.filmaffinity.com/el_desafio-585015617-mmed.jpg" group-title="D- Novelas",El Desafio
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/268.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Encantador" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/vrSIfbePV6wVs2oGQJ6hgbV0jcy.jpg" group-title="D- Novelas",El Encantador
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/307.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Fantasma Del Gran Hotel" tvg-logo="https://imagenes.estudiosrcn.com/imgrcnventasinternacionales/poster_76.jpg" group-title="D- Novelas",El Fantasma Del Gran Hotel
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/306.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Fenix" tvg-logo="https://static.wikia.nocookie.net/drama/images/e/e5/Phoenix1.jpg/revision/latest?cb=20120521023519&path-prefix=es" group-title="D- Novelas",El Fenix
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/294.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El General Naranjo" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/90I52FvezOBC9IX4LeTmaY3SNtS.jpg" group-title="D- Novelas",El General Naranjo
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/416.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Hada De Las Pesas" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/8SW0FS3U4nJQVIQj1hecU2Fon8Z.jpg" group-title="D- Novelas",El Hada De Las Pesas
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/295.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Inutil" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/n1shKImitZJw14XfSllaHNc77CB.jpg" group-title="D- Novelas",El Inutil
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/305.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Pasado No Perdona" tvg-logo="https://pics.filmaffinity.com/El_pasado_no_perdona_Serie_de_TV-877235071-large.jpg" group-title="D- Novelas",El Pasado No Perdona
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/304.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Penultimo Beso" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2I3MWEzNTUtMWU3My00ZGE4LWFmZjUtZWM3MTcxMzY0M2U3XkEyXkFqcGdeQXVyMzM0NTc2MTE@._V1_.jpg" group-title="D- Novelas",El Penultimo Beso
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/315.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Recluso" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/2Cs9p1kl6s2i1LfFmcquoFb56yl.jpg" group-title="D- Novelas",El Recluso
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/418.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El ultimo rey" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/3YVQ6gsDnMYQWQCavtWE5bSfyJ2.jpg" group-title="D- Novelas",El ultimo rey
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/382.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="En la piel de Alicia" tvg-logo="https://image.tmdb.org/t/p/w500/ruKyT6ese4jBNNMGgdDXRPARtwE.jpg" group-title="D- Novelas",En la piel de Alicia
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/319.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eres Mi Tesoro" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/ggZ2gayxB8Rl6qkWECrv4mdGUi6.jpg" group-title="D- Novelas",Eres Mi Tesoro
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/361.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Estefania" tvg-logo="https://pics.filmaffinity.com/estefania_tv_A- series-979910645-large.jpg" group-title="D- Novelas",Estefania
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/269.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eternamente Manuela" tvg-logo="https://artworks.thetvdb.com/banners/v4/A- series/415305/posters/61f34117ebe23.jpg" group-title="D- Novelas",Eternamente Manuela
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/316.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fuera De Control" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/tJ2JiKMTnfecAI8TmWZI5YwjpLA.jpg" group-title="D- Novelas",Fuera De Control
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/362.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Guajira" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/7REqccC6Q0MHr6j1rn2E3ah5ynT.jpg" group-title="D- Novelas",Guajira
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/301.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hombre De La Princesa" tvg-logo="https://www.themoviedb.org/t/p/w500/pZllYmfO30HU5CvN3RmNAVqgd0r.jpg" group-title="D- Novelas",Hombre De La Princesa
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/296.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hoy Te Vi" tvg-logo="https://pics.filmaffinity.com/hoy_te_vi-321384010-large.jpg" group-title="D- Novelas",Hoy Te Vi
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/270.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hugo chaves" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/sEThDZHGrhD6UPDVnP7skTAa6mF.jpg" group-title="D- Novelas",Hugo chaves
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/383.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Invicto" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/3NfN3EmF62Z5wCwYyNpMzrqp7Ox.jpg" group-title="D- Novelas",Invicto
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/412.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Isa TKM" tvg-logo="https://pics.filmaffinity.com/isa_tkm_serie_de_tv-497731769-large.jpg" group-title="D- Novelas",Isa TKM
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/271.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Isabella Mujer Enamorada" tvg-logo="https://www.lavanguardia.com/peliculas-A- series/images/serie/poster/1999/8/w1280/sBE8SPuabZmtiriieoOc4k5UsX.jpg" group-title="D- Novelas",Isabella Mujer Enamorada
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/320.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Juana La Virgen" tvg-logo="https://pics.filmaffinity.com/juana_la_virgen_tv_A- series-949288725-large.jpg" group-title="D- Novelas",Juana La Virgen
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/272.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kassandra" tvg-logo="https://pics.filmaffinity.com/kassandra-242869718-large.jpg" group-title="D- Novelas",Kassandra
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/273.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Dama Rosa" tvg-logo="https://pics.filmaffinity.com/la_dama_de_rosa-731434068-large.jpg" group-title="D- Novelas",La Dama Rosa
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/274.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Fiera" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/3UQmw8rGl9BWks30i097ZZapEpU.jpg" group-title="D- Novelas",La Fiera
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/363.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La hija del mariachi" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/a9J1rl8X4klFNMLTFGIJIHIjXgf.jpg" group-title="D- Novelas",La hija del mariachi
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/385.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Invasora" tvg-logo="https://pics.filmaffinity.com/la_invasora-995323804-mmed.jpg" group-title="D- Novelas",La Invasora
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/275.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Madrastra" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/kt8bb1jcMlcYObzPpoQYV8Adf9p.jpg" group-title="D- Novelas",La Madrastra
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/364.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Piloto" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/upX2fGyD4tPjJJLIOuJlB3yp2OK.jpg" group-title="D- Novelas",La Piloto
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/424.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La prepago" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/s8f5VSb1ANC9rjLgcS3lJLuK12W.jpg" group-title="D- Novelas",La prepago
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/386.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La reina Del Flow 2" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/fuVuDYrs8sxvEolnYr0wCSvtyTi.jpg" group-title="D- Novelas",La reina Del Flow 2
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/387.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Reina Del Sur" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/p11t8ckTC6EiuVw5FGFKdc2Z7GH.jpg" group-title="D- Novelas",La Reina Del Sur
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/384.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Reina Del Sur" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/p11t8ckTC6EiuVw5FGFKdc2Z7GH.jpg" group-title="D- Novelas",La Reina Del Sur
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/420.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La rosa de Guadalupe" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/fdKDNIGDKyWVn7m36s9bGkvM1ai.jpg" group-title="D- Novelas",La rosa de Guadalupe
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/388.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Viuda Negra" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/xkdGdQDXzL6uKDgSJRz3oJqOcrC.jpg" group-title="D- Novelas",La Viuda Negra
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/428.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Laberinto De Alicia" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/oSCAR7t0XYcqHn4oczTjqFLhr0S.jpg" group-title="D- Novelas",Laberinto De Alicia
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/365.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Las Dos Carolinas" tvg-logo="http://i.imgur.com/e1WDWyY.png" group-title="D- Novelas",Las Dos Carolinas
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/366.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Leandro diaz" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/d6voDsM0it0GPnhfzXiHWLaX0ff.jpg" group-title="D- Novelas",Leandro diaz
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/389.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Liveman" tvg-logo="https://static.wikia.nocookie.net/drama/images/c/c5/Are_You_Human_Too-KBS2-2018-01.jpg/revision/latest?cb=20180509130741&path-prefix=es" group-title="D- Novelas",Liveman
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/297.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lobos De Mar" tvg-logo="https://image.tmdb.org/t/p/w500/4kiSBRowPVOhcCraZ7XjV8iF0wx.jpg" group-title="D- Novelas",Lobos De Mar
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/321.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Loquito Por Ti" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/vh40gJ4JLNEbqOT6lILjS1cwzgr.jpg" group-title="D- Novelas",Loquito Por Ti
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/405.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Luz de luna" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/tXHXhsuAU8B2mJs4AkEpsYzk75.jpg" group-title="D- Novelas",Luz de luna
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/390.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Luz Maria" tvg-logo="https://image.tmdb.org/t/p/w500/qzmQRXc5vdPbmPWx0zpw6A7hb5n.jpg" group-title="D- Novelas",Luz Maria
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/322.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Maria Felix" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/w4vFoA48nSU1ORKVmcTWOwtzPgw.jpg" group-title="D- Novelas",Maria Felix
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/421.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Maria la del barrio" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/xGMquh71mh3w3QzUrl1AhCniHys.jpg" group-title="D- Novelas",Maria la del barrio
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/406.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Maria mercedes" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/3sMyQjtS7H9Vxxo6vCMPoHz6vHD.jpg" group-title="D- Novelas",Maria mercedes
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/391.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="María Emilia" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRmYzU0YzgtZWM0YS00NTU4LWEwNDgtZjUyMjNhZTQ1Y2EzXkEyXkFqcGdeQXVyMjQ4NDAyMDI@._V1_.jpg" group-title="D- Novelas",María Emilia
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/325.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Matilde Dedos Verdes" tvg-logo="https://pics.filmaffinity.com/Matilde_Dedos_Verdes_Serie_de_TV-914529206-large.jpg" group-title="D- Novelas",Matilde Dedos Verdes
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/370.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mi Nombre Es Lara" tvg-logo="https://www.themoviedb.org/t/p/original/imJ5Me7i1SuE1kRRIYYeFFevO1t.jpg" group-title="D- Novelas",Mi Nombre Es Lara
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/371.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mi Preciosa Señorita" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/d/df/MyFairLady.png/revision/latest?cb=20160401052455&path-prefix=es" group-title="D- Novelas",Mi Preciosa Señorita
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/298.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mi Vida Sin Ti" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDhmZjQ2MDMtZGQ1MC00ODUxLTlhMmEtN2YyMjZhZTViYTIzXkEyXkFqcGdeQXVyMjY3NjE4Mw@@._V1_QL75_UY281_CR156,0,190,281_.jpg" group-title="D- Novelas",Mi Vida Sin Ti
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/326.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Milagros" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDlkMGIzMjUtNTEyNy00YjMyLWI4OGUtNjQyNWMzNjE0NGRhXkEyXkFqcGdeQXVyMjQ4NDAyMDI@._V1_.jpg" group-title="D- Novelas",Milagros
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/327.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mis Tres Marias" tvg-logo="https://www.themoviedb.org/t/p/w500/nEsAW0vFwbRrsPaZcT9UwCcRMCS.jpg" group-title="D- Novelas",Mis Tres Marias
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/328.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Misterio" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2RhMzU5MmYtZDZlNC00NjcwLTg4NjItZDMwNTc1ODczOGNhXkEyXkFqcGdeQXVyNjUzNDQyMjQ@._V1_QL75_UY281_CR93,0,190,281_.jpg" group-title="D- Novelas",Misterio
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/324.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mujercitas" tvg-logo="https://www.themoviedb.org/t/p/w500/8ZO0MAcqa43KeZpjTwB0JpJFTeh.jpg" group-title="D- Novelas",Mujercitas
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/323.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mujeres De Lujo" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/z7onz8ccOhVsuC4bsW79zqq4x0D.jpg" group-title="D- Novelas",Mujeres De Lujo
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/372.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Muñecas De La Mafia" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/pbfAC5bYLeO86MsjFm9XIMOI455.jpg" group-title="D- Novelas",Muñecas De La Mafia
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/422.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pedro El Escamoso" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/v0DhAsHHiFpMmbe6zWG6F15gh4f.jpg" group-title="D- Novelas",Pedro El Escamoso
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/392.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pobre Diabla" tvg-logo="https://www.lavanguardia.com/peliculas-A- series/images/serie/poster/2009/7/w1280/z3yRegBgU1ImzamN5aIUSTkZ1hm.jpg" group-title="D- Novelas",Pobre Diabla
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/331.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Poné a Francella" tvg-logo="http://i.imgur.com/r4xhaCe.png" group-title="D- Novelas",Poné a Francella
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/177.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Porque el amor manda" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/1sDrTKOllfCnGrchEQQDGtO0dgp.jpg" group-title="D- Novelas",Porque el amor manda
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/393.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Primera Dama" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/n5od5ytT2mgRwyvonNOqEaB6yx6.jpg" group-title="D- Novelas",Primera Dama
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/373.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rebelde" tvg-logo="https://i.ibb.co/9qWzyvV/rEBELDE.png" group-title="D- Novelas",Rebelde
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1140.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Regreso A La Guaca" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/eCeFKkSZVWgIVmGCDCBlpmcVv23.jpg" group-title="D- Novelas",Regreso A La Guaca
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/425.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Reina De Corazones" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/5xdC1a8pSCKdacd2ijVZzhP1a1E.jpg" group-title="D- Novelas",Reina De Corazones
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/394.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rio Oscuro" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/cLhloPDi9rjp09vtw3VTYyxTTyP.jpg" group-title="D- Novelas",Rio Oscuro
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/374.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rosario Tijeras" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/q03eQL8AUx49lVH6IT3IlmWzhQu.jpg" group-title="D- Novelas",Rosario Tijeras
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/395.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Secretos En El Jardin" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/v7edNZCC6L7ZHJMSLFlXKZQleZi.jpg" group-title="D- Novelas",Secretos En El Jardin
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/375.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Señora Acero" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/vXhBxsvpW2mGuXRbIK5Yazdp8Zg.jpg" group-title="D- Novelas",Señora Acero
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/426.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Si Nos Dejan" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/WSVadXbkEc2K6c0WIiodzwrDsx.jpg" group-title="D- Novelas",Si Nos Dejan
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/396.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sobreviviendo A Escobar" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/97xpke32aNz0XSl6OHLilu9GK63.jpg" group-title="D- Novelas",Sobreviviendo A Escobar
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/427.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Soñadoras" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/uVgKsSeh3ZvPYuAbk2rU0SBlAmU.jpg" group-title="D- Novelas",Soñadoras
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/397.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Todo Por Mi Familia" tvg-logo="https://www.themoviedb.org/t/p/original/v9HVM1LhLb6b0TZRW45YG646ibh.jpg" group-title="D- Novelas",Todo Por Mi Familia
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/398.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Todo Sobre Camila" tvg-logo="https://pics.filmaffinity.com/Todo_sobre_Camila_Serie_de_TV-579514443-mmed.jpg" group-title="D- Novelas",Todo Sobre Camila
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/329.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Valiente Amor" tvg-logo="https://pics.filmaffinity.com/Valiente_amor_Serie_de_TV-107245120-large.jpg" group-title="D- Novelas",Valiente Amor
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/330.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Valio La Pena" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/wnGzbcYmAQ12iUnGVLqnbzkns38.jpg" group-title="D- Novelas",Valio La Pena
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/376.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vecinos 2005" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/fjNITzBxWcxnVVYVyRAXya9Z9YU.jpg" group-title="D- Novelas",Vecinos 2005
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/399.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Xica Da Silva" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/nildSBtxkstaw0h4rSI7gVZTrMU.jpg" group-title="D- Novelas",Xica Da Silva
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/400.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Yo Soy Betty La Fea" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/iEBOiXiDGaxVR6w8aKgG5MEusuO.jpg" group-title="D- Novelas",Yo Soy Betty La Fea
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/401.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 P | A Happy Madison" tvg-logo="https://i.ibb.co/k4c5x0S/cinema-vector-illustration-png-242108.jpg" group-title="C- 24 7 Peliculas",24/7 P | A Happy Madison
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1951.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 P | Alien Saga" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/e4fiJmy9YHCpCpQwgWtvv6uoUWb.jpg" group-title="C- 24 7 Peliculas",24/7 P | Alien Saga
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/408.ts
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 P | Saw" tvg-logo="https://i.imgur.com/jCukSlr.png" group-title="C- 24 7 Peliculas",24/7 P | Saw
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/178.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 P | ScaryMovie" tvg-logo="https://i.imgur.com/srSRZaK.png" group-title="C- 24 7 Peliculas",24/7 P | ScaryMovie
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/179.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 P | Star Wars" tvg-logo="https://i.imgur.com/WpNPVUm.png" group-title="C- 24 7 Peliculas",24/7 P | Star Wars
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1066615.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 P | Starz East FHD" tvg-logo="https://i.imgur.com/Qchu2nx.png" group-title="C- 24 7 Peliculas",24/7 P | Starz East FHD
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/982.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 P | Starz encore Action HD" tvg-logo="https://i.imgur.com/Qchu2nx.png" group-title="C- 24 7 Peliculas",24/7 P | Starz encore Action HD
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/983.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 P | Starz encore Western HD" tvg-logo="https://i.picasion.com/pic92/d9e44966e779fc3912367b2b5a5e188e.gif" group-title="C- 24 7 Peliculas",24/7 P | Starz encore Western HD
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/984.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 P | Starz Family HD" tvg-logo="https://i.picasion.com/pic92/38048b8dc7dac625a6ea04d94231e3ba.gif" group-title="C- 24 7 Peliculas",24/7 P | Starz Family HD
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/985.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 P | Tin Tan" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/kqzd3OS9m9PqvA4t9vvxK9kFUgA.jpg" group-title="C- 24 7 Peliculas",24/7 P | Tin Tan
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2002.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 P | Tremors" tvg-logo="https://i.imgur.com/46U3coE.png" group-title="C- 24 7 Peliculas",24/7 P | Tremors
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/180.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 P | Volver Al Futuro" tvg-logo="https://i.imgur.com/9QjOZmu.png" group-title="C- 24 7 Peliculas",24/7 P | Volver Al Futuro
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/182.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Películas 2023 (1)" tvg-logo="https://www.infobae.com/new-resizer/sCPB8wXf8SAXw5_fWmNqxRFtTCc=/992x1323/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/O64KAKWHNRHMDLOQX74ROHGFC4.jpg" group-title="C- 24 7 Peliculas",Películas 2023 (1)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2010.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Películas 2023 (10)" tvg-logo="https://www.infobae.com/new-resizer/sCPB8wXf8SAXw5_fWmNqxRFtTCc=/992x1323/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/O64KAKWHNRHMDLOQX74ROHGFC4.jpg" group-title="C- 24 7 Peliculas",Películas 2023 (10)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2011.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Películas 2023 (11)" tvg-logo="https://www.infobae.com/new-resizer/sCPB8wXf8SAXw5_fWmNqxRFtTCc=/992x1323/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/O64KAKWHNRHMDLOQX74ROHGFC4.jpg" group-title="C- 24 7 Peliculas",Películas 2023 (11)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2012.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Películas 2023 (12)" tvg-logo="https://www.infobae.com/new-resizer/sCPB8wXf8SAXw5_fWmNqxRFtTCc=/992x1323/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/O64KAKWHNRHMDLOQX74ROHGFC4.jpg" group-title="C- 24 7 Peliculas",Películas 2023 (12)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2013.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Películas 2023 (13)" tvg-logo="https://www.infobae.com/new-resizer/sCPB8wXf8SAXw5_fWmNqxRFtTCc=/992x1323/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/O64KAKWHNRHMDLOQX74ROHGFC4.jpg" group-title="C- 24 7 Peliculas",Películas 2023 (13)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2014.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Películas 2023 (14)" tvg-logo="https://www.infobae.com/new-resizer/sCPB8wXf8SAXw5_fWmNqxRFtTCc=/992x1323/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/O64KAKWHNRHMDLOQX74ROHGFC4.jpg" group-title="C- 24 7 Peliculas",Películas 2023 (14)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2015.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Películas 2023 (15)" tvg-logo="https://www.infobae.com/new-resizer/sCPB8wXf8SAXw5_fWmNqxRFtTCc=/992x1323/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/O64KAKWHNRHMDLOQX74ROHGFC4.jpg" group-title="C- 24 7 Peliculas",Películas 2023 (15)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2016.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Películas 2023 (2)" tvg-logo="https://www.infobae.com/new-resizer/sCPB8wXf8SAXw5_fWmNqxRFtTCc=/992x1323/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/O64KAKWHNRHMDLOQX74ROHGFC4.jpg" group-title="C- 24 7 Peliculas",Películas 2023 (2)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2017.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Películas 2023 (3)" tvg-logo="https://www.infobae.com/new-resizer/sCPB8wXf8SAXw5_fWmNqxRFtTCc=/992x1323/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/O64KAKWHNRHMDLOQX74ROHGFC4.jpg" group-title="C- 24 7 Peliculas",Películas 2023 (3)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2018.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Películas 2023 (4)" tvg-logo="https://www.infobae.com/new-resizer/sCPB8wXf8SAXw5_fWmNqxRFtTCc=/992x1323/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/O64KAKWHNRHMDLOQX74ROHGFC4.jpg" group-title="C- 24 7 Peliculas",Películas 2023 (4)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2019.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Películas 2023 (5)" tvg-logo="https://www.infobae.com/new-resizer/sCPB8wXf8SAXw5_fWmNqxRFtTCc=/992x1323/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/O64KAKWHNRHMDLOQX74ROHGFC4.jpg" group-title="C- 24 7 Peliculas",Películas 2023 (5)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2020.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Películas 2023 (6)" tvg-logo="https://www.infobae.com/new-resizer/sCPB8wXf8SAXw5_fWmNqxRFtTCc=/992x1323/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/O64KAKWHNRHMDLOQX74ROHGFC4.jpg" group-title="C- 24 7 Peliculas",Películas 2023 (6)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2021.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Películas 2023 (7)" tvg-logo="https://www.infobae.com/new-resizer/sCPB8wXf8SAXw5_fWmNqxRFtTCc=/992x1323/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/O64KAKWHNRHMDLOQX74ROHGFC4.jpg" group-title="C- 24 7 Peliculas",Películas 2023 (7)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2022.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Películas 2023 (8)" tvg-logo="https://www.infobae.com/new-resizer/sCPB8wXf8SAXw5_fWmNqxRFtTCc=/992x1323/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/O64KAKWHNRHMDLOQX74ROHGFC4.jpg" group-title="C- 24 7 Peliculas",Películas 2023 (8)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2023.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Películas 2023 (9)" tvg-logo="https://www.infobae.com/new-resizer/sCPB8wXf8SAXw5_fWmNqxRFtTCc=/992x1323/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/O64KAKWHNRHMDLOQX74ROHGFC4.jpg" group-title="C- 24 7 Peliculas",Películas 2023 (9)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2024.ts
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Malcolm el de en medio T1-3" tvg-logo="https://i.ibb.co/r0CBhr8/malcolm.png" group-title="A- Series",Malcolm el de en medio T1-3
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/749.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Malcolm el de en medio T4-7" tvg-logo="https://i.ibb.co/NVVJYR8/malcolml.png" group-title="A- Series",Malcolm el de en medio T4-7
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/765.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Acapulco Shore" tvg-logo="https://i.imgur.com/0gl1FmN.png" group-title="A- Series",Acapulco Shore
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1102.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alerta Aeropuerto" tvg-logo="https://i.ibb.co/nj2wpKQ/Alerta.png" group-title="A- Series",Alerta Aeropuerto
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1695.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALF" tvg-logo="https://i.ibb.co/P1xCk7n/Alf.png" group-title="A- Series",ALF
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/744.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="American Dad" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/bvW6xP8gu9Bo6AiIeHHQOFKSTmQ.jpg" group-title="A- Series",American Dad
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/429.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="American Horror Stories" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/6z8xmLHJTuZPOQ0sXhW23oFZReb.jpg" group-title="A- Series",American Horror Stories
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/407.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="American Horror Story T1-4" tvg-logo="https://i.ibb.co/f8PhDXf/AHS.png" group-title="A- Series",American Horror Story T1-4
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/752.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Automan" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/4dOlxvavpgpDyAFmLNIre1JmcCf.jpg" group-title="A- Series",Automan
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/439.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Años Maravillosos" tvg-logo="https://i.ibb.co/8MjWssB/twy.png" group-title="A- Series",Años Maravillosos
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/772.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bojack Horseman" tvg-logo="https://ih1.redbubble.net/image.1774176061.0546/flat,750x,075,E-pad,750x1000,f8f8f8.jpg" group-title="A- Series",Bojack Horseman
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/430.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bonanza" tvg-logo="https://i.imgur.com/aKafyhD.png" group-title="A- Series",Bonanza
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/440.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Caballeros del Zodiaco" tvg-logo="https://i.ibb.co/gwBkNbY/caballeros.png" group-title="A- Series",Caballeros del Zodiaco
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/775.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Casita de Terror Simpson" tvg-logo="https://i.ibb.co/GFss0sP/casita.png" group-title="A- Series",Casita de Terror Simpson
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/784.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Caso Cerrado" tvg-logo="https://i.ibb.co/jLjDCMN/caso-cerrado.png" group-title="A- Series",Caso Cerrado
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/767.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Chespirito" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/fBK5YTjBtyNTyToENeuSQHmLtgF.jpg" group-title="A- Series",Chespirito
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/438.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Chespirito 2" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/fBK5YTjBtyNTyToENeuSQHmLtgF.jpg" group-title="A- Series",Chespirito 2
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/437.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Chicago Fire" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/iiI1YU8akLYWdWuX1qHuMYPvSHC.jpg" group-title="A- Series",Chicago Fire
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/411.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Chicago Party Aunt" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/2iGvVnhvIpzyPLqK18LvgQ3PgPk.jpg" group-title="A- Series",Chicago Party Aunt
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/431.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cobra Kai HD" tvg-logo="https://i.imgur.com/WADGPCg.png" group-title="A- Series",Cobra Kai HD
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/746.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CSI" tvg-logo="http://i.imgur.com/mv9swVy.png" group-title="A- Series",CSI
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/505.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cuentos De La Cripta" tvg-logo="https://i.imgur.com/HiF4dXo.png" group-title="A- Series",Cuentos De La Cripta
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/165.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Desafio sobre fuego" tvg-logo="https://i.imgur.com/p8NIAbD.png" group-title="A- Series",Desafio sobre fuego
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1110.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Desencanto" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/jREoudMNIhrlDUUO3iy3HmVHwmX.jpg" group-title="A- Series",Desencanto
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/432.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dragon Ball" tvg-logo="https://i.imgur.com/THg9T74.png" group-title="A- Series",Dragon Ball
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1103.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dragon Ball GT" tvg-logo="https://i.ibb.co/Y7xM0J2/DGBGT.png" group-title="A- Series",Dragon Ball GT
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/783.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dragon Ball Heroes" tvg-logo="https://i.imgur.com/mSMMgqJ.png" group-title="A- Series",Dragon Ball Heroes
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/166.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dragon Ball Super" tvg-logo="https://i.imgur.com/3UQXEA9.png" group-title="A- Series",Dragon Ball Super
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1107.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dragon Ball Super 2" tvg-logo="https://i.imgur.com/3UQXEA9.png" group-title="A- Series",Dragon Ball Super 2
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1108.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dragon Ball Z (cell)" tvg-logo="https://i.imgur.com/8jrjUhM.png" group-title="A- Series",Dragon Ball Z (cell)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1104.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dragon Ball Z (Freezer)" tvg-logo="https://i.imgur.com/8jrjUhM.png" group-title="A- Series",Dragon Ball Z (Freezer)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1106.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dragon Ball Z (Majin Boo)" tvg-logo="https://i.imgur.com/8jrjUhM.png" group-title="A- Series",Dragon Ball Z (Majin Boo)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1105.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dragon ball Z Kai" tvg-logo="https://i.imgur.com/fptTSel.png" group-title="A- Series",Dragon ball Z Kai
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/167.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Chapulin Colorado" tvg-logo="https://i.ibb.co/f9hh7kz/CH.png" group-title="A- Series",El Chapulin Colorado
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/747.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Chapulin Colorado opc2" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/nO9Ik4eH7RTX9r11qPtUWfMsWJA.jpg" group-title="A- Series",El Chapulin Colorado opc2
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/351.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Chavo del 8" tvg-logo="https://i.ibb.co/f0ywhHk/Chavo.png" group-title="A- Series",El Chavo del 8
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/748.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Chavo del 8 (2)" tvg-logo="https://i.ibb.co/MZL7RFD/chavo8.png" group-title="A- Series",El Chavo del 8 (2)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/248.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Coche Fantastico" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/sDt5jfNCfdeIbVyEoKXnosDwy03.jpg" group-title="A- Series",El Coche Fantastico
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/436.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Gran Chaparral" tvg-logo="http://i.imgur.com/TC6Ecf2.png" group-title="A- Series",El Gran Chaparral
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/169.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Principe del Rap" tvg-logo="https://i.imgur.com/rBm4lln.png" group-title="A- Series",El Principe del Rap
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1049.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El señor de los cielos" tvg-logo="https://i.imgur.com/PCXseiL.png" group-title="A- Series",El señor de los cielos
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/196.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Zorro T 1-2" tvg-logo="https://i.ibb.co/XYg8w16/zorro.png" group-title="A- Series",El Zorro T 1-2
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/750.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Zorro T3-4" tvg-logo="https://i.ibb.co/sVhJbXD/xorro.png" group-title="A- Series",El Zorro T3-4
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/751.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Enemigo Intimo" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/81URAPXi0GP9Ul4MxcVSiDEnpPq.jpg" group-title="A- Series",Enemigo Intimo
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/419.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Extranormal" tvg-logo="https://i.imgur.com/9KI1Z2l.png" group-title="A- Series",Extranormal
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1045.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Friends" tvg-logo="https://i.imgur.com/tHymCrh.png" group-title="A- Series",Friends
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1067.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Futurama T1-4" tvg-logo="https://i.ibb.co/MMLFvDT/futurama.png" group-title="A- Series",Futurama T1-4
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/781.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Futurama T5-7" tvg-logo="https://i.ibb.co/vsjBHnJ/Suturama.png" group-title="A- Series",Futurama T5-7
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/782.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Casa De Los Dibujos" tvg-logo="https://i.imgur.com/ZJ7Gi0p.png" group-title="A- Series",La Casa De Los Dibujos
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/172.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Ciencia de lo Absurdo" tvg-logo="https://i.imgur.com/ZZjU4km.png" group-title="A- Series",La Ciencia de lo Absurdo
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1131.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Familia Peluche" tvg-logo="https://i.ibb.co/fNxN0J8/famila-peluche.png" group-title="A- Series",La Familia Peluche
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1139.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Hora Pico" tvg-logo="https://i.ibb.co/yST93sZ/la-hr-pico.png" group-title="A- Series",La Hora Pico
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1694.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los 3 Chiflados" tvg-logo="https://i.ibb.co/h2GHqTL/los-3.png" group-title="A- Series",Los 3 Chiflados
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/754.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Caquitos" tvg-logo="https://i.imgur.com/e91dXyt.png" group-title="A- Series",Los Caquitos
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/173.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Magnificos (a-team)" tvg-logo="https://i.imgur.com/uAMMn7o.png" group-title="A- Series",Los Magnificos (a-team)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1047.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Simpsons T20-25" tvg-logo="https://i.ibb.co/YP20YZ4/simpson.png" group-title="A- Series",Los Simpsons T20-25
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/780.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Simpsons T6-10" tvg-logo="https://i.ibb.co/zRLgXfW/simps.png" group-title="A- Series",Los Simpsons T6-10
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/773.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Simpsons [Aleatorio]" tvg-logo="https://i.ibb.co/B490P1b/simpo.png" group-title="A- Series",Los Simpsons [Aleatorio]
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/779.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Macgyver" tvg-logo="https://i.ibb.co/jZ554tw/macgyver.png" group-title="A- Series",Macgyver
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1218.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Master Chef MX T1-3" tvg-logo="https://i.ibb.co/Rh0QDJf/masterch.png" group-title="A- Series",Master Chef MX T1-3
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/761.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Master Chef MX T4-5" tvg-logo="https://i.ibb.co/wBcVjG7/master.png" group-title="A- Series",Master Chef MX T4-5
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/762.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mi bella genio" tvg-logo="https://i.imgur.com/O2q9hCb.png" group-title="A- Series",Mi bella genio
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/999.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Minuto para ganar" tvg-logo="https://i.ibb.co/W04ScfL/minuto-para-ganar.png" group-title="A- Series",Minuto para ganar
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/766.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mr. Bean" tvg-logo="https://ih1.redbubble.net/image.4302829842.8074/st,small,507x507-pad,600x600,f8f8f8.u4.jpg" group-title="A- Series",Mr. Bean
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1078103.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Narcos Mexico" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/yCid4sQkaVzfa2y4yQWs5E0TES9.jpg" group-title="A- Series",Narcos Mexico
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/423.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Padre De Familia TEMP 1-5" tvg-logo="https://i.ibb.co/bP1hxqY/padre.png" group-title="A- Series",Padre De Familia TEMP 1-5
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/777.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto TV Peleas" tvg-logo="https://i.imgur.com/qT2wMM8.png" group-title="A- Series",Pluto TV Peleas
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1309.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rick y Morty" tvg-logo="https://i.imgur.com/fk9PRIq.png" group-title="A- Series",Rick y Morty
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1109.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Shark Tank Colombia T1-3" tvg-logo="https://i.ibb.co/0JLkVnV/SHARK-co.png" group-title="A- Series",Shark Tank Colombia T1-3
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/764.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Shark Tank Mexico" tvg-logo="https://i.ibb.co/G5qD2zV/Shark-mx.png" group-title="A- Series",Shark Tank Mexico
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/760.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Smallville" tvg-logo="https://i.imgur.com/A98Jw2N.png" group-title="A- Series",Smallville
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/242.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="South Park TEMP 1-5" tvg-logo="https://i.ibb.co/TRbfLDt/south-park.png" group-title="A- Series",South Park TEMP 1-5
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/774.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Super Agente 86" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT81GOw_gKHKahMA3DcsqR_FSSgZjh8QP1gm9Yf8aVwyNuFg-MV" group-title="A- Series",Super Agente 86
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/433.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Big Bang Theory" tvg-logo="https://i.imgur.com/b0yzUZp.png" group-title="A- Series",The Big Bang Theory
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/211.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ugly Americans" tvg-logo="https://i.imgur.com/bvXT6bT.png" group-title="A- Series",Ugly Americans
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/181.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Una Familia de Diez TEMP 1-5" tvg-logo="https://i.ibb.co/wCLsTHj/familia-de-10.png" group-title="A- Series",Una Familia de Diez TEMP 1-5
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/755.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vecinos" tvg-logo="https://i.ibb.co/Wf8fM8q/vecinos.png" group-title="A- Series",Vecinos
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/756.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viaje Al Fondo Del Mar" tvg-logo="https://i.ibb.co/943pFdC/viaje-al-fondo.png" group-title="A- Series",Viaje Al Fondo Del Mar
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/757.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vikingos" tvg-logo="https://i.ibb.co/XZcz9vB/viki.png" group-title="A- Series",Vikingos
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/758.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Xena - Princesa Guerrera" tvg-logo="https://i.ibb.co/ZcP3r17/xena.png" group-title="A- Series",Xena - Princesa Guerrera
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1220.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amazon (1)" tvg-logo="https://variety.com/wp-content/uploads/2014/11/amazon-logo.jpg?w=1000" group-title="H- Series",Amazon (1)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2069.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amazon (10)" tvg-logo="https://variety.com/wp-content/uploads/2014/11/amazon-logo.jpg?w=1000" group-title="H- Series",Amazon (10)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2060.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amazon (11)" tvg-logo="https://variety.com/wp-content/uploads/2014/11/amazon-logo.jpg?w=1000" group-title="H- Series",Amazon (11)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2059.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amazon (12)" tvg-logo="https://variety.com/wp-content/uploads/2014/11/amazon-logo.jpg?w=1000" group-title="H- Series",Amazon (12)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2057.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amazon (13)" tvg-logo="https://variety.com/wp-content/uploads/2014/11/amazon-logo.jpg?w=1000" group-title="H- Series",Amazon (13)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2058.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amazon (14)" tvg-logo="https://variety.com/wp-content/uploads/2014/11/amazon-logo.jpg?w=1000" group-title="H- Series",Amazon (14)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2056.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amazon (15)" tvg-logo="https://variety.com/wp-content/uploads/2014/11/amazon-logo.jpg?w=1000" group-title="H- Series",Amazon (15)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2055.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amazon (2)" tvg-logo="https://variety.com/wp-content/uploads/2014/11/amazon-logo.jpg?w=1000" group-title="H- Series",Amazon (2)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2068.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amazon (3)" tvg-logo="https://variety.com/wp-content/uploads/2014/11/amazon-logo.jpg?w=1000" group-title="H- Series",Amazon (3)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2067.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amazon (4)" tvg-logo="https://variety.com/wp-content/uploads/2014/11/amazon-logo.jpg?w=1000" group-title="H- Series",Amazon (4)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2066.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amazon (5)" tvg-logo="https://variety.com/wp-content/uploads/2014/11/amazon-logo.jpg?w=1000" group-title="H- Series",Amazon (5)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2065.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amazon (6)" tvg-logo="https://variety.com/wp-content/uploads/2014/11/amazon-logo.jpg?w=1000" group-title="H- Series",Amazon (6)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2064.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amazon (7)" tvg-logo="https://variety.com/wp-content/uploads/2014/11/amazon-logo.jpg?w=1000" group-title="H- Series",Amazon (7)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2063.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amazon (8)" tvg-logo="https://variety.com/wp-content/uploads/2014/11/amazon-logo.jpg?w=1000" group-title="H- Series",Amazon (8)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2062.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amazon (9)" tvg-logo="https://variety.com/wp-content/uploads/2014/11/amazon-logo.jpg?w=1000" group-title="H- Series",Amazon (9)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2061.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Apple (1)" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/02/Apple-TV-logo.png" group-title="G- Series",Apple (1)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2070.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Apple (10)" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/02/Apple-TV-logo.png" group-title="G- Series",Apple (10)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2079.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Apple (11)" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/02/Apple-TV-logo.png" group-title="G- Series",Apple (11)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2080.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Apple (2)" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/02/Apple-TV-logo.png" group-title="G- Series",Apple (2)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2071.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Apple (3)" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/02/Apple-TV-logo.png" group-title="G- Series",Apple (3)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2072.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Apple (4)" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/02/Apple-TV-logo.png" group-title="G- Series",Apple (4)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2073.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Apple (5)" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/02/Apple-TV-logo.png" group-title="G- Series",Apple (5)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2074.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Apple (6)" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/02/Apple-TV-logo.png" group-title="G- Series",Apple (6)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2075.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Apple (7)" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/02/Apple-TV-logo.png" group-title="G- Series",Apple (7)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2076.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Apple (8)" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/02/Apple-TV-logo.png" group-title="G- Series",Apple (8)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2077.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Apple (9)" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/02/Apple-TV-logo.png" group-title="G- Series",Apple (9)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2078.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO (1)" tvg-logo="https://www.eleconomista.com.mx/__export/1538085553657/sites/eleconomista/img/2018/09/27/2018-09-27t200340z_783565163_rc1fb8a9e780_rtrmadp_3_boxing-hbo.jpg_673822677.jpg" group-title="F- Series",HBO (1)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2040.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO (10)" tvg-logo="https://www.eleconomista.com.mx/__export/1538085553657/sites/eleconomista/img/2018/09/27/2018-09-27t200340z_783565163_rc1fb8a9e780_rtrmadp_3_boxing-hbo.jpg_673822677.jpg" group-title="F- Series",HBO (10)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2041.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO (11)" tvg-logo="https://www.eleconomista.com.mx/__export/1538085553657/sites/eleconomista/img/2018/09/27/2018-09-27t200340z_783565163_rc1fb8a9e780_rtrmadp_3_boxing-hbo.jpg_673822677.jpg" group-title="F- Series",HBO (11)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2042.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO (12)" tvg-logo="https://www.eleconomista.com.mx/__export/1538085553657/sites/eleconomista/img/2018/09/27/2018-09-27t200340z_783565163_rc1fb8a9e780_rtrmadp_3_boxing-hbo.jpg_673822677.jpg" group-title="F- Series",HBO (12)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2043.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO (13)" tvg-logo="https://www.eleconomista.com.mx/__export/1538085553657/sites/eleconomista/img/2018/09/27/2018-09-27t200340z_783565163_rc1fb8a9e780_rtrmadp_3_boxing-hbo.jpg_673822677.jpg" group-title="F- Series",HBO (13)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2044.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO (14)" tvg-logo="https://www.eleconomista.com.mx/__export/1538085553657/sites/eleconomista/img/2018/09/27/2018-09-27t200340z_783565163_rc1fb8a9e780_rtrmadp_3_boxing-hbo.jpg_673822677.jpg" group-title="F- Series",HBO (14)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2045.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO (15)" tvg-logo="https://www.eleconomista.com.mx/__export/1538085553657/sites/eleconomista/img/2018/09/27/2018-09-27t200340z_783565163_rc1fb8a9e780_rtrmadp_3_boxing-hbo.jpg_673822677.jpg" group-title="F- Series",HBO (15)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2046.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO (2)" tvg-logo="https://www.eleconomista.com.mx/__export/1538085553657/sites/eleconomista/img/2018/09/27/2018-09-27t200340z_783565163_rc1fb8a9e780_rtrmadp_3_boxing-hbo.jpg_673822677.jpg" group-title="F- Series",HBO (2)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2047.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO (3)" tvg-logo="https://www.eleconomista.com.mx/__export/1538085553657/sites/eleconomista/img/2018/09/27/2018-09-27t200340z_783565163_rc1fb8a9e780_rtrmadp_3_boxing-hbo.jpg_673822677.jpg" group-title="F- Series",HBO (3)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2048.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO (4)" tvg-logo="https://www.eleconomista.com.mx/__export/1538085553657/sites/eleconomista/img/2018/09/27/2018-09-27t200340z_783565163_rc1fb8a9e780_rtrmadp_3_boxing-hbo.jpg_673822677.jpg" group-title="F- Series",HBO (4)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2049.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO (5)" tvg-logo="https://www.eleconomista.com.mx/__export/1538085553657/sites/eleconomista/img/2018/09/27/2018-09-27t200340z_783565163_rc1fb8a9e780_rtrmadp_3_boxing-hbo.jpg_673822677.jpg" group-title="F- Series",HBO (5)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2050.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO (6)" tvg-logo="https://www.eleconomista.com.mx/__export/1538085553657/sites/eleconomista/img/2018/09/27/2018-09-27t200340z_783565163_rc1fb8a9e780_rtrmadp_3_boxing-hbo.jpg_673822677.jpg" group-title="F- Series",HBO (6)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2051.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO (7)" tvg-logo="https://www.eleconomista.com.mx/__export/1538085553657/sites/eleconomista/img/2018/09/27/2018-09-27t200340z_783565163_rc1fb8a9e780_rtrmadp_3_boxing-hbo.jpg_673822677.jpg" group-title="F- Series",HBO (7)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2052.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO (8)" tvg-logo="https://www.eleconomista.com.mx/__export/1538085553657/sites/eleconomista/img/2018/09/27/2018-09-27t200340z_783565163_rc1fb8a9e780_rtrmadp_3_boxing-hbo.jpg_673822677.jpg" group-title="F- Series",HBO (8)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2053.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO (9)" tvg-logo="https://www.eleconomista.com.mx/__export/1538085553657/sites/eleconomista/img/2018/09/27/2018-09-27t200340z_783565163_rc1fb8a9e780_rtrmadp_3_boxing-hbo.jpg_673822677.jpg" group-title="F- Series",HBO (9)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2054.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Netflix (01)" tvg-logo="https://i.pinimg.com/736x/eb/aa/44/ebaa441df578a3e48e26ef1a15a04e3c.jpg" group-title="E- Series",Netflix (01)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2025.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Netflix (02)" tvg-logo="https://i.pinimg.com/736x/eb/aa/44/ebaa441df578a3e48e26ef1a15a04e3c.jpg" group-title="E- Series",Netflix (02)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2026.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Netflix (03)" tvg-logo="https://i.pinimg.com/736x/eb/aa/44/ebaa441df578a3e48e26ef1a15a04e3c.jpg" group-title="E- Series",Netflix (03)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2027.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Netflix (04)" tvg-logo="https://i.pinimg.com/736x/eb/aa/44/ebaa441df578a3e48e26ef1a15a04e3c.jpg" group-title="E- Series",Netflix (04)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2028.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Netflix (05)" tvg-logo="https://i.pinimg.com/736x/eb/aa/44/ebaa441df578a3e48e26ef1a15a04e3c.jpg" group-title="E- Series",Netflix (05)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2029.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Netflix (06)" tvg-logo="https://i.pinimg.com/736x/eb/aa/44/ebaa441df578a3e48e26ef1a15a04e3c.jpg" group-title="E- Series",Netflix (06)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2030.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Netflix (07)" tvg-logo="https://i.pinimg.com/736x/eb/aa/44/ebaa441df578a3e48e26ef1a15a04e3c.jpg" group-title="E- Series",Netflix (07)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2031.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Netflix (08)" tvg-logo="https://i.pinimg.com/736x/eb/aa/44/ebaa441df578a3e48e26ef1a15a04e3c.jpg" group-title="E- Series",Netflix (08)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2032.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Netflix (09)" tvg-logo="https://i.pinimg.com/736x/eb/aa/44/ebaa441df578a3e48e26ef1a15a04e3c.jpg" group-title="E- Series",Netflix (09)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2033.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Netflix (10)" tvg-logo="https://i.pinimg.com/736x/eb/aa/44/ebaa441df578a3e48e26ef1a15a04e3c.jpg" group-title="E- Series",Netflix (10)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2034.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Netflix (11)" tvg-logo="https://i.pinimg.com/736x/eb/aa/44/ebaa441df578a3e48e26ef1a15a04e3c.jpg" group-title="E- Series",Netflix (11)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2035.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Netflix (12)" tvg-logo="https://i.pinimg.com/736x/eb/aa/44/ebaa441df578a3e48e26ef1a15a04e3c.jpg" group-title="E- Series",Netflix (12)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2036.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Netflix (13)" tvg-logo="https://i.pinimg.com/736x/eb/aa/44/ebaa441df578a3e48e26ef1a15a04e3c.jpg" group-title="E- Series",Netflix (13)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2037.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Netflix (14)" tvg-logo="https://i.pinimg.com/736x/eb/aa/44/ebaa441df578a3e48e26ef1a15a04e3c.jpg" group-title="E- Series",Netflix (14)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2038.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Netflix (15)" tvg-logo="https://i.pinimg.com/736x/eb/aa/44/ebaa441df578a3e48e26ef1a15a04e3c.jpg" group-title="E- Series",Netflix (15)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2039.ts

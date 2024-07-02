@@ -1,21 +1,21 @@
 {
 	"providerName": "TVMX",
 	"language": "en-mx",
-	"lastUpdated": "2020-03-15T02:01:00+02:00",
+	"lastUpdated": "",
 	"shortFormVideos": [
 	{
 			"longDescription": "AZTECA UNO",
 			"thumbnail": "https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png",
-			"releaseDate": "2020-01-15",
+			"releaseDate": "",
 			"genres": [
 				"TVMX"
 			],
 			"tags": [
-				"getting-started"
+				""
 			],
-			"id": "shortform-roku-streaming-overview",
-			"shortDescription": "Learn how streaming works on the Roku platform. This video explains how content is delivered from a content delivery network (CDN) to a Roku device via a content feed",
-			"title": "Streaming overview",
+			"id": "AZTECA UNO",
+			"shortDescription": "",
+			"title": "A- AZTECA UNO",
 			"content": {
 				"duration": 187,
 				"videos": [{
@@ -23,43 +23,43 @@
 					"url": "http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/632.ts",
 					"quality": "HD"
 				}],
-				"language": "en-us",
-				"dateAdded": "2020-01-15T02:39:11Z"
+				"language": "",
+				"dateAdded": ""
 			}
 		},
 		{
-			"longDescription": "Learn how Roku's rapidly growing user base makes developing for the Roku platform a viable opportunity. See how developing for the Roku platform is free and easy. There's no cost to enroll in the Roku developer program, develop channels, or publish them to the Roku Channel Store, which is Roku's app marketplace. The Roku channel UI is defined with SceneGraph, Roku's object-oriented UI XML framework, and the channel behavior is defined using BrightScript, which is Roku's scripting language.",
+			"longDescription": "LAS ESTRELLAS",
 			"thumbnail": "https://image.roku.com/ZHZscHItMTc2/roku-overview.jpg",
-			"releaseDate": "2020-01-15",
+			"releaseDate": "",
 			"genres": [
-				"educational"
+				"TVMX"
 			],
 			"tags": [
-				"getting-started"
+				""
 			],
 			"id": "shortform-roku-development-overview",
-			"shortDescription": "Learn how Roku's rapidly growing user base makes developing for the Roku platform a viable opportunity",
-			"title": "Roku Development Overview",
+			"shortDescription": "",
+			"title": "A- LAS ESTRELLAS",
 			"content": {
 				"duration": 248,
 				"videos": [{
-					"videoType": "MP4",
-					"url": "https://image.roku.com/ZHZscHItMTc2/roku-overview.mp4",
+					"videoType": "dash, m3u, m3u8, hls, mp4, mkv, mp3, avi, m4v, ts, mpeg-4, flv, vob, ogg, ogv, webm, mov, wmv, asf, amv, mpg, mp2, mpeg, mpe, mpv, mpeg2",
+					"url": "http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/645.ts",
 					"quality": "HD"
 				}],
-				"language": "en-us",
-				"dateAdded": "2020-01-29T02:39:11Z"
+				"language": "en-mx",
+				"dateAdded": ""
 			}
 		},
 		{
 			"longDescription": "Steps for enabling Developer Mode on a Roku device",
-			"thumbnail": "https://image.roku.com/ZHZscHItMTc2/enable-developer-mode-v1b.png",
+			"thumbnail": "https://static.wikia.nocookie.net/logopedia/images/c/c0/Las_Estrellas_2017_Navidad.svg/revision/latest/scale-to-width-down/250?cb=20230202024114&path-prefix=es",
 			"releaseDate": "2020-01-17",
 			"genres": [
 				"educational"
 			],
 			"tags": [
-				"getting-started"
+				""
 			],
 			"id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
 			"shortDescription": "Steps for enabling Developer Mode on a Roku device",
@@ -71,8 +71,8 @@
 					"url": "https://ovp-selector.sr.roku.com/v1/12cdcf33-58e7-46a6-bbbf-cbb5c5fec500?format=dash",
 					"quality": "HD"
 				}],
-				"language": "en-us",
-				"dateAdded": "2020-01-29T02:39:11Z"
+				"language": "en-mx",
+				"dateAdded": ""
 			}
 		},
 			{
@@ -91,11 +91,11 @@
 			"content": {
 				"duration": 98,
 				"videos": [{
-					"videoType": "MP4",
+					"videoType": "dash, m3u, m3u8, hls, mp4, mkv, mp3, avi, m4v, ts, mpeg-4, flv, vob, ogg, ogv, webm, mov, wmv, asf, amv, mpg, mp2, mpeg, mpe, mpv, mpeg2",
 					"url": "https://image.roku.com/ZHZscHItMTc2/roku-voice-demo-v4.mp4",
 					"quality": "HD"
 				}],
-				"language": "en-us",
+				"language": "en-mx",
 				"dateAdded": "2020-01-29T02:39:12Z",
 				"captions": [{
 						"language": "en",
@@ -148,7 +148,7 @@
 										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-2f0155ecdcc96789596c0fc77f06b45ca0df15a4_3/captions/HowToListenToMusic_cc_eng.vtt"
 									}
 								],
-								"language": "en-us"
+								"language": "en-mx"
 							},
 							"thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-2f0155ecdcc96789596c0fc77f06b45ca0df15a4_3/images/HowToListenToMusic.jpg",
 							"shortDescription": "Stream music on your Roku device",
@@ -184,7 +184,7 @@
 										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/captions/Best_Speaker_Placement_cc_eng.vtt"
 									}
 								],
-								"language": "en-us"
+								"language": "en-mx"
 							},
 							"thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/images/Best_Speaker_Placement.jpg",
 							"shortDescription": "Find the best placement of your Roku audio devices",
@@ -224,7 +224,7 @@
 										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-cb6dc73fb84bf7f0d35b99b83217f2dbc9bc08d5_1/captions/GUEST_MODE_cc_eng.vtt"
 									}
 								],
-								"language": "en-us"
+								"language": "en-mx"
 							},
 							"thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-cb6dc73fb84bf7f0d35b99b83217f2dbc9bc08d5_1/images/GUEST_MODE.jpg",
 							"shortDescription": "Let your guests stream with their own accounts",
@@ -260,7 +260,7 @@
 										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-6f2088297f82e02e74e07341fd404750b56e2fbb_2/captions/ROKU_PRIVATE_LISTENING_012219_cc_eng.vtt"
 									}
 								],
-								"language": "en-us"
+								"language": "en-mx"
 							},
 							"thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-6f2088297f82e02e74e07341fd404750b56e2fbb_2/images/ROKU_PRIVATE_LISTENING_012219.jpg",
 							"shortDescription": "See the benefits of the Private Listening",
@@ -298,12 +298,12 @@
 							"content": {
 								"dateAdded": "2020-05-07T02:32:24Z",
 								"videos": [{
-									"videoType": "MP4",
+									"videoType": "dash, m3u, m3u8, hls, mp4, mkv, mp3, avi, m4v, ts, mpeg-4, flv, vob, ogg, ogv, webm, mov, wmv, asf, amv, mpg, mp2, mpeg, mpe, mpv, mpeg2",
 									"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
 									"quality": "HD"
 								}],
 								"duration": 178,
-								"language": "en-us"
+								"language": "en-mx"
 							},
 							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/video1-intro-course-v2.png",
 							"shortDescription": "Watch the introduction to the \"SceneGraph: Build a Channel\" development course. This video outlines the course syllabus.",
@@ -323,12 +323,12 @@
 							"content": {
 								"dateAdded": "2020-05-07T02:32:24Z",
 								"videos": [{
-									"videoType": "MP4",
+									"videoType": "dash, m3u, m3u8, hls, mp4, mkv, mp3, avi, m4v, ts, mpeg-4, flv, vob, ogg, ogv, webm, mov, wmv, asf, amv, mpg, mp2, mpeg, mpe, mpv, mpeg2",
 									"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit2-developerSetup-v4.mp4",
 									"quality": "HD"
 								}],
 								"duration": 431,
-								"language": "en-us"
+								"language": "en-mx"
 							},
 							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit2-developerSetup-v4.png",
 							"shortDescription": "Start developing for the Roku platform. This lesson explains the first steps.",
@@ -349,12 +349,12 @@
 							"content": {
 								"dateAdded": "2020-05-07T02:32:24Z",
 								"videos": [{
-									"videoType": "MP4",
+									"videoType": "dash, m3u, m3u8, hls, mp4, mkv, mp3, avi, m4v, ts, mpeg-4, flv, vob, ogg, ogv, webm, mov, wmv, asf, amv, mpg, mp2, mpeg, mpe, mpv, mpeg2",
 									"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit3-sgoverview-v3.mp4",
 									"quality": "HD"
 								}],
 								"duration": 765,
-								"language": "en-us"
+								"language": "en-mx"
 							},
 							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit3-core-concepts.png",
 							"shortDescription": "Review key concepts for developing on the Roku platform.",
@@ -375,12 +375,12 @@
 							"content": {
 								"dateAdded": "2020-05-07T02:32:24Z",
 								"videos": [{
-									"videoType": "MP4",
+									"videoType": "dash, m3u, m3u8, hls, mp4, mkv, mp3, avi, m4v, ts, mpeg-4, flv, vob, ogg, ogv, webm, mov, wmv, asf, amv, mpg, mp2, mpeg, mpe, mpv, mpeg2",
 									"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit4-contentFeed-v3.mp4",
 									"quality": "HD"
 								}],
 								"duration": 280,
-								"language": "en-us"
+								"language": "en-mx"
 							},
 							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit4-content-feed.png",
 							"shortDescription": "Learn how the content feed is used to load and organize content in the channel.",
@@ -401,12 +401,12 @@
 							"content": {
 								"dateAdded": "2020-05-07T02:32:24Z",
 								"videos": [{
-									"videoType": "MP4",
+									"videoType": "dash, m3u, m3u8, hls, mp4, mkv, mp3, avi, m4v, ts, mpeg-4, flv, vob, ogg, ogv, webm, mov, wmv, asf, amv, mpg, mp2, mpeg, mpe, mpv, mpeg2",
 									"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit5-gridscreen-v4.mp4",
 									"quality": "HD"
 								}],
 								"duration": 1899,
-								"language": "en-us"
+								"language": "en-mx"
 							},
 							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit5-gridScreen.png",
 							"shortDescription": "Build a grid screen that displays rows of content",
@@ -426,12 +426,12 @@
 							"content": {
 								"dateAdded": "2020-05-07T02:32:24Z",
 								"videos": [{
-									"videoType": "MP4",
+									"videoType": "dash, m3u, m3u8, hls, mp4, mkv, mp3, avi, m4v, ts, mpeg-4, flv, vob, ogg, ogv, webm, mov, wmv, asf, amv, mpg, mp2, mpeg, mpe, mpv, mpeg2",
 									"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit6-videoplayer-v3.mp4",
 									"quality": "HD"
 								}],
 								"duration": 819,
-								"language": "en-us"
+								"language": "en-mx"
 							},
 							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit6-videoPlayer-v2a.png",
 							"shortDescription": "Add a video player to launch content into playback",
@@ -455,12 +455,12 @@
 							"content": {
 								"dateAdded": "2020-05-16T02:32:24Z",
 								"videos": [{
-									"videoType": "MP4",
+									"videoType": "dash, m3u, m3u8, hls, mp4, mkv, mp3, avi, m4v, ts, mpeg-4, flv, vob, ogg, ogv, webm, mov, wmv, asf, amv, mpg, mp2, mpeg, mpe, mpv, mpeg2",
 									"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit7-debugger-v3.mp4",
 									"quality": "HD"
 								}],
 								"duration": 381,
-								"language": "en-us"
+								"language": "en-mx"
 							},
 							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit7-debugging.png",
 							"shortDescription": "Debug Roku channels using the debug console",
@@ -480,12 +480,12 @@
 							"content": {
 								"dateAdded": "2020-05-22T02:32:24Z",
 								"videos": [{
-									"videoType": "MP4",
+									"videoType": "dash, m3u, m3u8, hls, mp4, mkv, mp3, avi, m4v, ts, mpeg-4, flv, vob, ogg, ogv, webm, mov, wmv, asf, amv, mpg, mp2, mpeg, mpe, mpv, mpeg2",
 									"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit8-details-screen-v3.mp4",
 									"quality": "HD"
 								}],
 								"duration": 1251,
-								"language": "en-us"
+								"language": "en-mx"
 							},
 							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit8-detailsScreen.png",
 							"shortDescription": "Build a details screen that displays the release date, rating, genre, cast, and detailed description of the content selected from the grid screen",
@@ -505,12 +505,12 @@
 							"content": {
 								"dateAdded": "2020-05-29T02:32:24Z",
 								"videos": [{
-									"videoType": "MP4",
+									"videoType": "dash, m3u, m3u8, hls, mp4, mkv, mp3, avi, m4v, ts, mpeg-4, flv, vob, ogg, ogv, webm, mov, wmv, asf, amv, mpg, mp2, mpeg, mpe, mpv, mpeg2",
 									"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit9-episodePicker-v3.mp4",
 									"quality": "HD"
 								}],
 								"duration": 2188,
-								"language": "en-us"
+								"language": "en-mx"
 							},
 							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit9-episodesScreen.png",
 							"shortDescription": "Build an episodes screen that organizes television series into seasons and episodes.",
@@ -533,12 +533,12 @@
 							"content": {
 								"dateAdded": "2020-06-20T02:32:24Z",
 								"videos": [{
-									"videoType": "MP4",
+									"videoType": "dash, m3u, m3u8, hls, mp4, mkv, mp3, avi, m4v, ts, mpeg-4, flv, vob, ogg, ogv, webm, mov, wmv, asf, amv, mpg, mp2, mpeg, mpe, mpv, mpeg2",
 									"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit10-video-ads-part3.mp4",
 									"quality": "HD"
 								}],
 								"duration": 1380,
-								"language": "en-us"
+								"language": "en-mx"
 							},
 							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit10-video-ads.png",
 							"shortDescription": "Monetize content on the Roku platform through video ads.",
@@ -558,12 +558,12 @@
 							"content": {
 								"dateAdded": "2020-06-27T02:32:24Z",
 								"videos": [{
-									"videoType": "MP4",
+									"videoType": "dash, m3u, m3u8, hls, mp4, mkv, mp3, avi, m4v, ts, mpeg-4, flv, vob, ogg, ogv, webm, mov, wmv, asf, amv, mpg, mp2, mpeg, mpe, mpv, mpeg2",
 									"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit11-subscriptions-v3.mp4",
 									"quality": "HD"
 								}],
 								"duration": 1561,
-								"language": "en-us"
+								"language": "en-mx"
 							},
 							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit11-rpay-subscriptions.png",
 							"shortDescription": "Monetize content on your channel by offering subscriptions, directly on-device, through Roku Pay",
@@ -583,12 +583,12 @@
 							"content": {
 								"dateAdded": "2020-07-10T02:32:24Z",
 								"videos": [{
-									"videoType": "MP4",
+									"videoType": "dash, m3u, m3u8, hls, mp4, mkv, mp3, avi, m4v, ts, mpeg-4, flv, vob, ogg, ogv, webm, mov, wmv, asf, amv, mpg, mp2, mpeg, mpe, mpv, mpeg2",
 									"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit12-deep-linking-v3-part1.mp4",
 									"quality": "HD"
 								}],
 								"duration": 2481,
-								"language": "en-us"
+								"language": "en-mx"
 							},
 							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit12-deep-linking.png",
 							"shortDescription": "Implement deep linking to get users to content as fast as possible.",
@@ -608,12 +608,12 @@
 							"content": {
 								"dateAdded": "2020-07-10T02:32:24Z",
 								"videos": [{
-									"videoType": "MP4",
+									"videoType": "dash, m3u, m3u8, hls, mp4, mkv, mp3, avi, m4v, ts, mpeg-4, flv, vob, ogg, ogv, webm, mov, wmv, asf, amv, mpg, mp2, mpeg, mpe, mpv, mpeg2",
 									"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit12-deep-linking-v3-part2.mp4",
 									"quality": "HD"
 								}],
 								"duration": 1567,
-								"language": "en-us"
+								"language": "en-mx"
 							},
 							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit12-deep-linking.png",
 							"shortDescription": "Implement deep linking to get users to content as fast as possible.",
@@ -633,12 +633,12 @@
 							"content": {
 								"dateAdded": "2020-07-16T02:32:24Z",
 								"videos": [{
-									"videoType": "MP4",
+									"videoType": "dash, m3u, m3u8, hls, mp4, mkv, mp3, avi, m4v, ts, mpeg-4, flv, vob, ogg, ogv, webm, mov, wmv, asf, amv, mpg, mp2, mpeg, mpe, mpv, mpeg2",
 									"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit13-cert-testing-v3.mp4",
 									"quality": "HD"
 								}],
 								"duration": 848,
-								"language": "en-us"
+								"language": "en-mx"
 							},
 							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit13-cert-testing.jpg",
 							"shortDescription": "Prepare your channel to be published to the Roku channel store.",
@@ -672,12 +672,12 @@
 			"content": {
 				"duration": 713,
 				"videos": [{
-					"videoType": "MP4",
+					"videoType": "dash, m3u, m3u8, hls, mp4, mkv, mp3, avi, m4v, ts, mpeg-4, flv, vob, ogg, ogv, webm, mov, wmv, asf, amv, mpg, mp2, mpeg, mpe, mpv, mpeg2",
 					"url": "https://image.roku.com/ZHZscHItMTc2/roku-brightscript-debug-protocol.mp4",
 					"quality": "HD"
 				}],
-				"language": "en-us",
-				"dateAdded": "2020-01-29T02:39:11Z"
+				"language": "en-mx",
+				"dateAdded": ""
 			}
 		},
 		{
@@ -700,7 +700,7 @@
 					"url": "https://ovp-selector.sr.roku.com/v1/f73763a9-8105-4b78-90e0-381ea0d0128b?format=hls",
 					"quality": "HD"
 				}],
-				"language": "en-us",
+				"language": "en-mx",
 				"dateAdded": "2020-01-29T02:39:10Z"
 			}
 		},
@@ -724,8 +724,8 @@
 					"url": "https://ovp-selector.sr.roku.com/v1/0c18bf4e-b295-437c-badb-3a171a1b52aa?format=hls",
 					"quality": "HD"
 				}],
-				"language": "en-us",
-				"dateAdded": "2020-01-29T02:39:11Z"
+				"language": "en-mx",
+				"dateAdded": ""
 			}
 		}
 	]

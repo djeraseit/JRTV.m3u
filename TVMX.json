@@ -17,9 +17,9 @@
 			"shortDescription": "Learn how streaming works on the Roku platform. This video explains how content is delivered from a content delivery network (CDN) to a Roku device via a content feed",
 			"title": "Streaming overview",
 			"content": {
-				"duration": 100,
+				"duration": 187,
 				"videos": [{
-					"videoType": "HLS",
+					"videoType": "dash, m3u, m3u8, hls, mp4, mkv, mp3, avi, m4v, ts, mpeg-4, flv, vob, ogg, ogv, webm, mov, wmv, asf, amv, mpg, mp2, mpeg, mpe, mpv, mpeg2",
 					"url": "http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/632.ts",
 					"quality": "HD"
 				}],

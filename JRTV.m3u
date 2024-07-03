@@ -4,7 +4,9 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="LAS ESTRELLAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Las_Estrellas_2017_Navidad.svg/revision/latest/scale-to-width-down/250?cb=20230202024114&path-prefix=es" group-title="A- TV MX",LAS ESTRELLAS
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/645.ts
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="CANAL 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="A- TV MX",CANAL 5 HD
-http://45.228.234.167:8000/play/a0ll/index.m3u8
+http://pe.shortgod.com/wow/play.php?id=2
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="AZTECA 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/1200px-Azteca_7_%282016_Blank%29.svg.png" group-title="A- TV MX",AZTECA 7
 http://gazytv.com:8880/live/Paredes40/cms94kQYmz/633.ts
 #EXTINF:-1 tvg-id="Nu9ve.mx" tvg-name="NU9VE" tvg-logo="https://cdn140.picsart.com/278369393029211.png" group-title="A- TV MX",NU9VE

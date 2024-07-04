@@ -320,11 +320,11 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1984/PROFILE03.m3u8
 
 
 #EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Hbo_blanco.png" group-title="E- PREMIUM",HBO
-http://45.228.234.167:8000/play/a00u/index.m3u8
+http://gazytv.com:8880/live/Paredes40/cms94kQYmz/858.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_2_latinoamerica-mediano.png" group-title="E- PREMIUM",HBO2
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/806.ts
+http://gazytv.com:8880/live/Paredes40/cms94kQYmz/859.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO FAMILY" tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097892735-HBO-Family-pequenio.png" group-title="E- PREMIUM",HBO FAMILY

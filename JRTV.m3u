@@ -105,7 +105,7 @@ http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1078101.ts
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1688.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="Unicable.mx" tvg-name="UNICABLE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Unicable2018-2.png/revision/latest?cb=20210514025931&path-prefix=es" group-title="B- NOVELAS",UNICABLE
+#EXTINF:-1 tvg-id="Unicable.mx" tvg-name="UNICABLE" tvg-logo="http://x.playerlatino.live/unicable.png" group-title="B- NOVELAS",UNICABLE
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/732.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true

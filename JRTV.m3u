@@ -8,6 +8,7 @@ http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/645.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="CANAL 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="A- TV MX",CANAL 5 HD
+http://00322.xyz:8000/live/saabj84/CNGUPDY6RA/129037.ts
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/635.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true

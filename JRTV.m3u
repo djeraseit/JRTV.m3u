@@ -347,7 +347,7 @@ http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/809.ts
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2525.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="HBOPOP.mx" tvg-name="HBO POP" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_02/large.1101503169_HBOPOP(varianteazul).png.681a6986dbf6d21eeea4d7efccea7e2a.png" group-title="E- PREMIUM",HBO POP
+#EXTINF:-1 tvg-id="HBOPOP.mx" tvg-name="HBO POP" tvg-logo="https://x.playerlatino.live/hbopop.png.681a6986dbf6d21eeea4d7efccea7e2a.png" group-title="E- PREMIUM",HBO POP
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/810.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true

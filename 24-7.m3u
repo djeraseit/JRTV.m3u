@@ -990,7 +990,7 @@ http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2024.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Malcolm el de en medio T1-3" tvg-logo="https://i.ibb.co/r0CBhr8/malcolm.png" group-title="A- Series",Malcolm el de en medio T1-3
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/749.ts
+http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158386.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Malcolm el de en medio T4-7" tvg-logo="https://i.ibb.co/NVVJYR8/malcolml.png" group-title="A- Series",Malcolm el de en medio T4-7

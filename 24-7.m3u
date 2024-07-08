@@ -1,14 +1,71 @@
 #EXTM3U url-tvg=""
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Malcom el de en medio" tvg-logo="https://budtv-ultra.com/posters/1629258306569.png" group-title="M- 24/7",Malcom el de en medio
+##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Malcom el de en medio" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/Malcolm_in_the_Middle_2000.png/revision/latest/scale-to-width-down/250?cb=20210509122928&path-prefix=es" group-title="M- 24/7",Malcom el de en medio
 http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158386.m3u8?reconnect=true
 ##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EL CHAVO DEL 8 " tvg-logo="https://btv.mx/posters/1652142286199.png" group-title="E- 24/7",EL CHAVO DEL 8 -
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mr. Bean" tvg-logo="https://w7.pngwing.com/pngs/286/223/png-transparent-mr-bean-graphic-animation-drawing-cartoon-game-mr-bean-heroes-text-hand-thumbnail.png" group-title="M- 24/7",Mr. Bean
+http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158342.m3u8?reconnect=true
+##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Moisés y los Diez Mandamientos" tvg-logo="https://budtv-ultra.com/posters/1711914436295.png" group-title="M- 24/7",Moisés y los Diez Mandamientos
+http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158360.m3u8?reconnect=true
+##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mr Bean" tvg-logo="https://w7.pngwing.com/pngs/286/223/png-transparent-mr-bean-graphic-animation-drawing-cartoon-game-mr-bean-heroes-text-hand-thumbnail.png" group-title="M- 24/7",Mr Bean
+http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158369.m3u8?reconnect=true
+##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mi Bella Genio" tvg-logo="https://budtv-ultra.com/posters/1629076446479.png" group-title="M- 24/7",Mi Bella Genio
+http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158381.m3u8?reconnect=true
+##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mr. Bean Animado" tvg-logo="https://budtv-ultra.com/posters/1629076646146.png" group-title="M- 24/7",Mr. Bean Animado
+http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158392.m3u8?reconnect=true
+##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El asombroso mundo de Gumball" tvg-logo="https://budtv-ultra.com/posters/1711912969420.png" group-title="E- 24/7",El asombroso mundo de Gumball
+http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158400.m3u8?reconnect=true
+##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Chavo del 8" tvg-logo="https://budtv-ultra.com/posters/1652142286199.png" group-title="E- 24/7",El Chavo del 8
+http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158336.m3u8?reconnect=true
+##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Chavo del Ocho P2" tvg-logo="https://budtv-ultra.com/posters/1652142286199.png" group-title="E- 24/7",El Chavo del Ocho P2
+http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158401.m3u8?reconnect=true
+##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El coche fantástico" tvg-logo="https://budtv-ultra.com/posters/1711910412314.png" group-title="E- 24/7",El coche fantástico
+http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158329.m3u8?reconnect=true
+##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Correcaminos" tvg-logo="https://budtv-ultra.com/posters/1711912400264.png" group-title="E- 24/7",El Correcaminos
+http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158343.m3u8?reconnect=true
+##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Pájaro Loco y sus Amigos" tvg-logo="https://budtv-ultra.com/posters/1629257816499.png" group-title="E- 24/7",El Pájaro Loco y sus Amigos
+http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158328.m3u8?reconnect=true
+##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Show de Bugs Bunny" tvg-logo="https://budtv-ultra.com/posters/1629306819428.png" group-title="E- 24/7",El Show de Bugs Bunny
+http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158326.m3u8?reconnect=true
+##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EL CHAVO DEL 8" tvg-logo="https://i.pinimg.com/originals/2e/97/a4/2e97a44a1b26e77967cdcfcccd382ef4.png" group-title="E- 24/7",EL CHAVO DEL 8
 http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/35023.m3u8?reconnect=true
 ##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animaniacs " tvg-logo="" group-title="A- A- 24/7",Animaniacs 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Show de Scooby Doo" tvg-logo="https://budtv-ultra.com/posters/1610741753211.png" group-title="E- 24/7",El Show de Scooby Doo
+http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158323.m3u8?reconnect=true
+##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El principe del Rap" tvg-logo="https://static.wixstatic.com/media/2cfd46_81087584be574ade8ef5fae232aba4db~mv2.png/v1/fill/w_469,h_150,al_c,q_85,usm_0.66_1.00_0.01/El%20Principe%20del%20rap%20latino.webp" group-title="E- 24/7",El principe del Rap
+http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158367.m3u8?reconnect=true
+##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animaniacs" tvg-logo="" group-title="A- 24/7",Animaniacs
 http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/167924.m3u8?reconnect=true
 ##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
 #EXTVLCOPT--http-reconnect=true
@@ -16,7 +73,7 @@ http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/167924.m3u8?reconne
 http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/167925.m3u8?reconnect=true
 ##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Avatar.The.Last.Airbender.LAT " tvg-logo="" group-title="A- 24/7",Avatar.The.Last.Airbender.LAT 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Avatar.The.Last.Airbender.LAT" tvg-logo="" group-title="A- 24/7",Avatar.The.Last.Airbender.LAT
 http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/167973.m3u8?reconnect=true
 ##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
 #EXTVLCOPT--http-reconnect=true
@@ -24,76 +81,12 @@ http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/167973.m3u8?reconne
 http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/167974.m3u8?reconnect=true
 ##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dragon Ball" tvg-logo="https://budtv-ultra.com/posters/1629306733427.png" group-title="D- 24/7",D",Dragon Ball
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158319.m3u8?reconnect=true
-##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hey Arnold" tvg-logo="https://budtv-ultra.com/posters/1711908596346.png" group-title="24/7",Hey Arnold
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158320.m3u8?reconnect=true
-##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BOB Esponja" tvg-logo="https://budtv-ultra.com/posters/1628813536352.png" group-title="B- 24/7",BOB Esponja
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158321.m3u8?reconnect=true
-##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Don gato y su Pandilla" tvg-logo="https://budtv-ultra.com/posters/1629306626195.png" group-title="D- 24/7",Don gato y su Pandilla
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158322.m3u8?reconnect=true
-##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Show de Scooby Doo" tvg-logo="https://budtv-ultra.com/posters/1610741753211.png" group-title="E- 24/7",El Show de Scooby Doo
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158323.m3u8?reconnect=true
-##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los padrinos mágicos" tvg-logo="https://budtv-ultra.com/posters/1629076188505.png" group-title="A- L- 24/7",Los padrinos mágicos
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158324.m3u8?reconnect=true
-##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dora la exploradora" tvg-logo="https://budtv-ultra.com/posters/1629257340176.png" group-title="D- 24/7",Dora la exploradora
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158325.m3u8?reconnect=true
-##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Show de Bugs Bunny" tvg-logo="https://budtv-ultra.com/posters/1629306819428.png" group-titl="E- 24/7",El Show de Bugs Bunny
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158326.m3u8?reconnect=true
-##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Chernobyl" tvg-logo="https://budtv-ultra.com/posters/1711910237490.png" group-title="C- 24/7",Chernobyl
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158327.m3u8?reconnect=true
-##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Pájaro Loco y sus Amigos" tvg-logo="https://budtv-ultra.com/posters/1629257816499.png" group-titl="E- 24/7",El Pájaro Loco y sus Amigos
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158328.m3u8?reconnect=true
-##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El coche fantástico" tvg-logo="https://budtv-ultra.com/posters/1711910412314.png" group-titl="E- 24/7",El coche fantástico
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158329.m3u8?reconnect=true
-##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
-#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Good Doctor" tvg-logo="https://budtv-ultra.com/posters/1711912069480.png" group-title="A- 24/7",The Good Doctor
 http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158330.m3u8?reconnect=true
 ##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dragon Ball Z" tvg-logo="https://budtv-ultra.com/posters/1629306733427.png" group-title="D- 24/7",Dragon Ball Z
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158331.m3u8?reconnect=true
-##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dragon Ball Super (i)|24/7" tvg-logo="https://budtv-ultra.com/posters/1629306687352.png" group-title="D- 24/7",Dragon Ball Super (i)|24/7
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158332.m3u8?reconnect=true
-##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
-#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Smallville" tvg-logo="https://budtv-ultra.com/posters/1629308281243.png" group-title="A- 24/7",Smallville
 http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158333.m3u8?reconnect=true
-##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema Disney Pixar" tvg-logo="https://budtv-ultra.com/posters/1628814726491.png" group-title="C- 24/7",Cinema Disney Pixar
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158334.m3u8?reconnect=true
-##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cantinflas" tvg-logo="https://budtv-ultra.com/posters/1676236072411.png" group-title="C- 24/7",Cantinflas
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158335.m3u8?reconnect=true
-##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Chavo del 8" tvg-logo="https://budtv-ultra.com/posters/1652142286199.png" group-titl="E- 24/7",El Chavo del 8
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158336.m3u8?reconnect=true
 ##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALF" tvg-logo="https://budtv-ultra.com/posters/1628813420241.png" group-title="A- 24/7",ALF
@@ -104,40 +97,40 @@ http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158337.m3u8?reconne
 http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158338.m3u8?reconnect=true
 ##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Pantera Rosa" tvg-logo="https://budtv-ultra.com/posters/1629258061539.png" group-title="L- 24/7",La Pantera Rosa
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158339.m3u8?reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pokémon" tvg-logo="https://budtv-ultra.com/posters/1643139928306.png" group-title="A- 24/7",Pokémon
+http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158352.m3u8?reconnect=true
+##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Big Bang Theory (i)|24/7" tvg-logo="https://budtv-ultra.com/posters/1629258451530.png" group-title="A- 24/7",The Big Bang Theory (i)|24/7
+http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158384.m3u8?reconnect=true
+##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dragon Ball" tvg-logo="https://budtv-ultra.com/posters/1629306733427.png" group-title="D- 24/7",Dragon Ball
+http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158319.m3u8?reconnect=true
+##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Don gato y su Pandilla" tvg-logo="https://budtv-ultra.com/posters/1629306626195.png" group-title="D- 24/7",Don gato y su Pandilla
+http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158322.m3u8?reconnect=true
+##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dora la exploradora" tvg-logo="https://budtv-ultra.com/posters/1629257340176.png" group-title="D- 24/7",Dora la exploradora
+http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158325.m3u8?reconnect=true
+##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dragon Ball Z" tvg-logo="https://budtv-ultra.com/posters/1629306733427.png" group-title="D- 24/7",Dragon Ball Z
+http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158331.m3u8?reconnect=true
+##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dragon Ball Super (i)|24/7" tvg-logo="https://budtv-ultra.com/posters/1629306687352.png" group-title="D- 24/7",Dragon Ball Super (i)|24/7
+http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158332.m3u8?reconnect=true
 ##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dragon Ball GT" tvg-logo="https://budtv-ultra.com/posters/1629306733427.png" group-title="D- 24/7",Dragon Ball GT
 http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158340.m3u8?reconnect=true
 ##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los PicaPiedra" tvg-logo="https://budtv-ultra.com/posters/1681080108235.png" group-title="L- 24/7",Los PicaPiedra
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158341.m3u8?reconnect=true
-##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mr. Bean" tvg-logo="https://budtv-ultra.com/posters/1629076646146.png" group-title="M- 24/7",Mr. Bean
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158342.m3u8?reconnect=true
-##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Correcaminos" tvg-logo="https://budtv-ultra.com/posters/1711912400264.png" group-titl="E- 24/7",El Correcaminos
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158343.m3u8?reconnect=true
-##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Chespirito" tvg-logo="https://budtv-ultra.com/posters/1711912482532.png" group-title="C- 24/7",Chespirito
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158344.m3u8?reconnect=true
-##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Games of Thrones" tvg-logo="https://budtv-ultra.com/posters/1711912598450.png" group-title="24/7",Games of Thrones
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158345.m3u8?reconnect=true
-##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
-#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dragon Ball" tvg-logo="https://budtv-ultra.com/posters/1629306733427.png" group-title="D- 24/7",Dragon Ball
 http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158346.m3u8?reconnect=true
-##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Batman" tvg-logo="https://budtv-ultra.com/posters/1628813491577.png" group-title="B- 24/7",Batman
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158347.m3u8?reconnect=true
 ##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dragon Ball Z" tvg-logo="https://budtv-ultra.com/posters/1629306733427.png" group-title="D- 24/7",Dragon Ball Z
@@ -148,24 +141,56 @@ http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158348.m3u8?reconne
 http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158349.m3u8?reconnect=true
 ##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bob Esponja" tvg-logo="https://budtv-ultra.com/posters/1628813536352.png" group-title="B- 24/7",Bob Esponja 
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158351.m3u8?reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Movies" tvg-logo="https://budtv-ultra.com/posters/1628813686256.png" group-title="D- 24/7",Disney Movies
+http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158362.m3u8?reconnect=true
 ##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pokémon" tvg-logo="https://budtv-ultra.com/posters/1643139928306.png" group-title="A- 24/7",Pokémon
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158352.m3u8?reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DreamWorks" tvg-logo="https://budtv-ultra.com/posters/1629257388473.png" group-title="D- 24/7",DreamWorks
+http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158387.m3u8?reconnect=true
+##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Daniel el travieso" tvg-logo="https://budtv-ultra.com/posters/1711912880222.png" group-title="D- 24/7",Daniel el travieso
+http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158403.m3u8?reconnect=true
+##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BOB Esponja" tvg-logo="https://budtv-ultra.com/posters/1628813536352.png" group-title="B- 24/7",BOB Esponja
+http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158321.m3u8?reconnect=true
+##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Batman" tvg-logo="https://budtv-ultra.com/posters/1628813491577.png" group-title="B- 24/7",Batman
+http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158347.m3u8?reconnect=true
+##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bob Esponja" tvg-logo="https://budtv-ultra.com/posters/1628813536352.png" group-title="B- 24/7",Bob Esponja
+http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158351.m3u8?reconnect=true
 ##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Plim Plim" tvg-logo="https://budtv-ultra.com/posters/1711914738514.png" group-title="B- 24/7",Plim Plim
 http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158353.m3u8?reconnect=true
 ##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Picapiedra" tvg-logo="https://budtv-ultra.com/posters/1681080108235.png" group-title="L- 24/7",Los Picapiedra
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158354.m3u8?reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEN 10" tvg-logo="https://budtv-ultra.com/posters/1628813501572.png" group-title="B- 24/7",BEN 10
+http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158396.m3u8?reconnect=true
 ##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Coraje El Perro Cobarde" tvg-logo="https://budtv-ultra.com/posters/1629306476282.png" group-title="A- C- 24/7",Coraje El Perro Cobarde
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Coraje El Perro Cobarde" tvg-logo="https://budtv-ultra.com/posters/1629306476282.png" group-title="C- 24/7",Coraje El Perro Cobarde
 http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158355.m3u8?reconnect=true
+##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Chernobyl" tvg-logo="https://budtv-ultra.com/posters/1711910237490.png" group-title="C- 24/7",Chernobyl
+http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158327.m3u8?reconnect=true
+##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema Disney Pixar" tvg-logo="https://budtv-ultra.com/posters/1628814726491.png" group-title="C- 24/7",Cinema Disney Pixar
+http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158334.m3u8?reconnect=true
+##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cantinflas" tvg-logo="https://budtv-ultra.com/posters/1676236072411.png" group-title="C- 24/7",Cantinflas
+http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158335.m3u8?reconnect=true
+##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Chespirito" tvg-logo="https://budtv-ultra.com/posters/1711912482532.png" group-title="C- 24/7",Chespirito
+http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158344.m3u8?reconnect=true
 ##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paw Patrol" tvg-logo="https://budtv-ultra.com/posters/1629258350472.png" group-title="C- 24/7",Paw Patrol
@@ -176,28 +201,44 @@ http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158357.m3u8?reconne
 http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158359.m3u8?reconnect=true
 ##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Moisés y los Diez Mandamientos" tvg-logo="https://budtv-ultra.com/posters/1711914436295.png" group-title="M- 24/7",Moisés y los Diez Mandamientos
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158360.m3u8?reconnect=true
-##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Movies" tvg-logo="https://budtv-ultra.com/posters/1628813686256.png" group-title="D- 24/7",Disney Movies
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158362.m3u8?reconnect=true
-##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
-#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema Universe" tvg-logo="https://budtv-ultra.com/posters/1711914162399.png" group-title="C- 24/7",Cinema Universe
 http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158363.m3u8?reconnect=true
 ##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El principe del Rap" tvg-logo="https://budtv-ultra.com/posters/1629306804404.png" group-title="E- 24/7",El principe del Rap
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158367.m3u8?reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cero en Conducta" tvg-logo="https://budtv-ultra.com/posters/1711913936550.png" group-title="C- 24/7",Cero en Conducta
+http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158377.m3u8?reconnect=true
+##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema Disney Pixar" tvg-logo="https://budtv-ultra.com/posters/1628814726491.png" group-title="C- 24/7",Cinema Disney Pixar
+http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158382.m3u8?reconnect=true
+##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Caso Cerrado" tvg-logo="https://budtv-ultra.com/posters/1711913283211.png" group-title="C- 24/7",Caso Cerrado
+http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158389.m3u8?reconnect=true
+##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La familia P. Luche" tvg-logo="https://budtv-ultra.com/posters/1678140712423.png" group-title="L- 24/7",La familia P. Luche
+http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158398.m3u8?reconnect=true
+##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los padrinos mágicos" tvg-logo="https://budtv-ultra.com/posters/1629076188505.png" group-title="L- 24/7",Los padrinos mágicos
+http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158324.m3u8?reconnect=true
+##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Pantera Rosa" tvg-logo="https://budtv-ultra.com/posters/1629258061539.png" group-title="L- 24/7",La Pantera Rosa
+http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158339.m3u8?reconnect=true
+##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los PicaPiedra" tvg-logo="https://budtv-ultra.com/posters/1681080108235.png" group-title="L- 24/7",Los PicaPiedra
+http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158341.m3u8?reconnect=true
+##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Picapiedra" tvg-logo="https://budtv-ultra.com/posters/1681080108235.png" group-title="L- 24/7",Los Picapiedra
+http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158354.m3u8?reconnect=true
 ##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los 3 Chiflados" tvg-logo="https://budtv-ultra.com/posters/1596656438412.jpg" group-title="L- 24/7",Los 3 Chiflados
 http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158368.m3u8?reconnect=true
-##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mr Bean" tvg-logo="https://budtv-ultra.com/posters/1629076646146.png" group-title="M- 24/7",Mr Bean
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158369.m3u8?reconnect=true
 ##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Simpson" tvg-logo="https://budtv-ultra.com/posters/1638560553439.png" group-title="L- 24/7",Los Simpson
@@ -224,117 +265,77 @@ http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158374.m3u8?reconne
 http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158375.m3u8?reconnect=true
 ##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Humor es los comediantes" tvg-logo="https://budtv-ultra.com/posters/1711913991329.png" group-title="24/7",Humor es los comediantes
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158376.m3u8?reconnect=true
-##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cero en Conducta" tvg-logo="https://budtv-ultra.com/posters/1711913936550.png" group-title="C- 24/7",Cero en Conducta
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158377.m3u8?reconnect=true
-##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gasparin y sus amigos" tvg-logo="https://budtv-ultra.com/posters/1711913859200.png" group-title="24/7",Gasparin y sus amigos
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158378.m3u8?reconnect=true
-##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gravity Falls" tvg-logo="https://budtv-ultra.com/posters/1629306891298.png" group-title="24/7",Gravity Falls
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158379.m3u8?reconnect=true
-##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
-#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Caballeros del Zodiaco" tvg-logo="https://budtv-ultra.com/posters/1628813553389.png" group-title="L- 24/7",Los Caballeros del Zodiaco
 http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158380.m3u8?reconnect=true
-##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mi Bella Genio" tvg-logo="https://budtv-ultra.com/posters/1629076446479.png" group-title="M- 24/7",Mi Bella Genio
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158381.m3u8?reconnect=true
-##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema Disney Pixar" tvg-logo="https://budtv-ultra.com/posters/1628814726491.png" group-title="C- 24/7",Cinema Disney Pixar
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158382.m3u8?reconnect=true
-##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Peppa Pig" tvg-logo="https://budtv-ultra.com/posters/1673389482191.png" group-title="24/7",Peppa Pig
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158383.m3u8?reconnect=true
-##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Big Bang Theory (i)|24/7" tvg-logo="https://budtv-ultra.com/posters/1629258451530.png" group-title="A- 24/7",The Big Bang Theory (i)|24/7
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158384.m3u8?reconnect=true
 ##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Looney Tunes" tvg-logo="https://budtv-ultra.com/posters/1629306831462.png" group-title="L- 24/7",Looney Tunes
 http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158385.m3u8?reconnect=true
 ##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DreamWorks" tvg-logo="https://budtv-ultra.com/posters/1629257388473.png" group-title="D- 24/7",DreamWorks
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158387.m3u8?reconnect=true
-##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FBI" tvg-logo="https://budtv-ultra.com/posters/1711913566465.png" group-title="24/7",FBI
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158388.m3u8?reconnect=true
-##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Caso Cerrado" tvg-logo="https://budtv-ultra.com/posters/1711913283211.png" group-title="C- 24/7",Caso Cerrado
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158389.m3u8?reconnect=true
-##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pantera Rosa" tvg-logo="https://budtv-ultra.com/posters/1629258061539.png" group-title="24/7",Pantera Rosa
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158390.m3u8?reconnect=true
-##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Peliculas Lego" tvg-logo="https://budtv-ultra.com/posters/1711913177138.png" group-title="24/7",Peliculas Lego
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158391.m3u8?reconnect=true
-##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mr. Bean Animado" tvg-logo="https://budtv-ultra.com/posters/1629076646146.png" group-title="M- 24/7",Mr. Bean Animado
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158392.m3u8?reconnect=true
-##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pocoyo" tvg-logo="https://budtv-ultra.com/posters/1629076922533.png" group-title="24/7",Pocoyo
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158393.m3u8?reconnect=true
-##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Futurama" tvg-logo="https://budtv-ultra.com/posters/1629306847336.png" group-title="24/7",Futurama
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158394.m3u8?reconnect=true
-##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEN 10" tvg-logo="https://budtv-ultra.com/posters/1628813501572.png" group-title="B- 24/7",BEN 10
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158396.m3u8?reconnect=true
-##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
-#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Simpson" tvg-logo="https://budtv-ultra.com/posters/1638560553439.png" group-title="L- 24/7",Los Simpson
 http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158397.m3u8?reconnect=true
-##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La familia P. Luche" tvg-logo="https://budtv-ultra.com/posters/1678140712423.png" group-title="L- L- 24/7",La familia P. Luche
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158398.m3u8?reconnect=true
-##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="¿Quién mató a Sara?" tvg-logo="https://budtv-ultra.com/posters/1711913022538.png" group-title="G- 24/7",¿Quién mató a Sara?
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158399.m3u8?reconnect=true
-##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El asombroso mundo de Gumball" tvg-logo="https://budtv-ultra.com/posters/1711912969420.png" group-titl="E- 24/7",El asombroso mundo de Gumball
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158400.m3u8?reconnect=true
-##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Chavo del Ocho P2" tvg-logo="https://budtv-ultra.com/posters/1652142286199.png" group-titl="E- 24/7",El Chavo del Ocho 
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158401.m3u8?reconnect=true
 ##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Teoria del Big Bang" tvg-logo="https://budtv-ultra.com/posters/1629258451530.png" group-title="L- 24/7",La Teoria del Big Bang
 http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158402.m3u8?reconnect=true
 ##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Daniel el travieso" tvg-logo="https://budtv-ultra.com/posters/1711912880222.png" group-title="D- 24/7",Daniel el travieso
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158403.m3u8?reconnect=true
-##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
-#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Caballeros del Zodiaco" tvg-logo="https://budtv-ultra.com/posters/1628813553389.png" group-title="L- 24/7",Los Caballeros del Zodiaco
 http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158404.m3u8?reconnect=true
 ##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La familia P. Luche" tvg-logo="" group-title="L- 24/7",La familia P. Luche 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La familia P. Luche" tvg-logo="" group-title="L- 24/7",La familia P. Luche
 http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/166689.m3u8?reconnect=true
 ##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La familia P. Luche" tvg-logo="" group-title="L- 24/7",La familia P. Luche 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La familia P. Luche" tvg-logo="" group-title="L- 24/7",La familia P. Luche
 http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/166690.m3u8?reconnect=true
+##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FBI" tvg-logo="https://budtv-ultra.com/posters/1711913566465.png" group-title="G- 24/7",FBI
+http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158388.m3u8?reconnect=true
+##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Futurama" tvg-logo="https://budtv-ultra.com/posters/1629306847336.png" group-title="G- 24/7",Futurama
+http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158394.m3u8?reconnect=true
+##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Games of Thrones" tvg-logo="https://budtv-ultra.com/posters/1711912598450.png" group-title="G- 24/7",Games of Thrones
+http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158345.m3u8?reconnect=true
+##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gasparin y sus amigos" tvg-logo="https://budtv-ultra.com/posters/1711913859200.png" group-title="G- 24/7",Gasparin y sus amigos
+http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158378.m3u8?reconnect=true
+##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gravity Falls" tvg-logo="https://budtv-ultra.com/posters/1629306891298.png" group-title="G- 24/7",Gravity Falls
+http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158379.m3u8?reconnect=true
+##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hey Arnold" tvg-logo="https://budtv-ultra.com/posters/1711908596346.png" group-title="G- 24/7",Hey Arnold
+http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158320.m3u8?reconnect=true
+##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Humor es los comediantes" tvg-logo="https://budtv-ultra.com/posters/1711913991329.png" group-title="G- 24/7",Humor es los comediantes
+http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158376.m3u8?reconnect=true
+##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pantera Rosa" tvg-logo="https://budtv-ultra.com/posters/1629258061539.png" group-title="G- 24/7",Pantera Rosa
+http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158390.m3u8?reconnect=true
+##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Peliculas Lego" tvg-logo="https://budtv-ultra.com/posters/1711913177138.png" group-title="G- 24/7",Peliculas Lego
+http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158391.m3u8?reconnect=true
+##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Peppa Pig" tvg-logo="https://budtv-ultra.com/posters/1673389482191.png" group-title="G- 24/7",Peppa Pig
+http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158383.m3u8?reconnect=true
+##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pocoyo" tvg-logo="https://budtv-ultra.com/posters/1629076922533.png" group-title="G- 24/7",Pocoyo
+http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158393.m3u8?reconnect=true
+##EXTVLCOPT:network-caching=1000000000000000000000000000000000000000000000000000000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="¿Quién mató a Sara?" tvg-logo="https://budtv-ultra.com/posters/1711913022538.png" group-title="G- 24/7",¿Quién mató a Sara?
+http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158399.m3u8?reconnect=true

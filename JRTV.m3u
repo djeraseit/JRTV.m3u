@@ -10,7 +10,7 @@ http://tv-cool.com:25461/live/2403449390/636f23333c/31120.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="CANAL 5" tvg-logo="https://budtv-ultra.com/posters/1714868294502.png" group-title="A- TV MX",CANAL 5
-http://tv-cool.com:25461/live/2403449390/636f23333c/134290.ts
+http://tv-cool.com:25461/live/2403449390/636f23333c/133870.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="AZTECA 7" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116154_dark_360w_270h.png" group-title="A- TV MX",AZTECA 7

@@ -6,8 +6,8 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 ##EXTVLCOPT:network-caching=10
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="LAS ESTRELLAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Las_Estrellas_2017_Navidad.svg/revision/latest/scale-to-width-down/250?cb=20230202024114&path-prefix=es" group-title="A- TV MX",LAS ESTRELLAS
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/126394.ts
-http://142.54.186.210:25461/live/EstefUser/ACnEdsbDfk/126394.ts?token=TkZQUEZdRgkRBAcAAAcBBlRXVlRRVVEHVQBYUFVbUgYCUgAIUANXUAYTGxYXQBYHVFw8X1YVXFBWB1JaAE5EEEYBSm5cUUYJEQMGDFcWSEBBWA5TEA1XVlYBVlYNVFZQGUZIWFEXXhELAQUARhhGB01FBkRcVgo+AFQXClcHRF9bEVRdGRcLXWxVUlkFWgBADxNTFB4VDxIUE1sNQQ4KSRcGUUVHVBBWEQsVBVADUkAZEwBZR1kSEx0TW0F5OkRJFwFARVBbF1pcXxUORkAXQBkTCkVtRQMSEEMEAlkHFEcPRggTGRcJUktuVFsKWgEBQVgMWEEVXENXE01BWQ0IDEELSm5FXAARCRMGAVwDU0BI
+http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/206304.ts
+VlYNVFZQGUZIWFEXXhELAQUARhhGB01FBkRcVgo+AFQXClcHRF9bEVRdGRcLXWxVUlkFWgBADxNTFB4VDxIUE1sNQQ4KSRcGUUVHVBBWEQsVBVADUkAZEwBZR1kSEx0TW0F5OkRJFwFARVBbF1pcXxUORkAXQBkTCkVtRQMSEEMEAlkHFEcPRggTGRcJUktuVFsKWgEBQVgMWEEVXENXE01BWQ0IDEELSm5FXAARCRMGAVwDU0BI
 ##EXTVLCOPT:network-caching=10
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="CANAL 5" tvg-logo="https://budtv-ultra.com/posters/1714868294502.png" group-title="A- TV MX",CANAL 5

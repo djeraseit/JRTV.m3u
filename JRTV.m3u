@@ -10,9 +10,8 @@ http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/206304.ts=-1
 VlYNVFZQGUZIWFEXXhELAQUARhhGB01FBkRcVgo+AFQXClcHRF9bEVRdGRcLXWxVUlkFWgBADxNTFB4VDxIUE1sNQQ4KSRcGUUVHVBBWEQsVBVADUkAZEwBZR1kSEx0TW0F5OkRJFwFARVBbF1pcXxUORkAXQBkTCkVtRQMSEEMEAlkHFEcPRggTGRcJUktuVFsKWgEBQVgMWEEVXENXE01BWQ0IDEELSm5FXAARCRMGAVwDU0BI
 ##EXTVLCOPT:network-caching=10
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="CANAL 5" tvg-logo="https://budtv-ultra.com/posters/1714868294502.png" group-title="A- TV MX",CANAL 5
-http://zeuspro.xyz:8080/live/jorgesanchez1/PxPTXV8AFH/26973.m3u8
-http://23.153.216.120:25461/jorgesanchez1/PxPTXV8AFH/26973?token=GkMOV0pdG18SBlBVDFNfC1cEWFYABlYBVglQXAdRAAIABVABCVYBBgMXGUNHFxRXAllmXVYVDgRSCVFWHUcWEgQTOV9dFwNHBgYHVABVRB5BQFBZVxUOB1MCVl0FUFVQVk1ERlBRG18SBAFWB1BEHkFRQUBXRVpXCG8CAEcMAARDWwhDVVkVR19bagVRDgdcBxYDFgIVGBQNQxZHCwsWDQ1NRFRQQUsERFAXWxZWVgJUFhUWUVhBWBBCH0cLRy45Q01EU0FBXAtDXFoPFllERhAWFRZbRGtEAUMSF1QEDgQTQ1wUCRcVR11UTT5XDAhcBldNXV1ZRxReElVHHUcODg8IEllLakkMVBcPQwVTXgtRFkQ=
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="CANAL 5" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png" group-title="A- TV MX",CANAL 5
+http://zeuspro.xyz:8080/live/jorgesanchez1/PxPTXV8AFH/396050.m3u8=-1
 ##EXTVLCOPT:network-caching=10
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="AZTECA 7" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116154_dark_360w_270h.png" group-title="A- TV MX",AZTECA 7

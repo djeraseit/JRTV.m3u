@@ -1,6 +1,6 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="☆ Cine Terror 2" tvg-logo="https://w7.pngwing.com/pngs/327/703/png-transparent-cinema-film-moveis-logo-film-art-film.png" group-title="24/7",☆ Cine Terror 2
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222929.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los padrinos magicos" tvg-logo="https://w7.pngwing.com/pngs/327/703/png-transparent-cinema-film-moveis-logo-film-art-film.png" group-title="24/7",☆ Cine Terror 2
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6322099c822bbc00074857db/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTAROPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Acapulco Shore" tvg-logo="https://i.imgur.com/atAAq7Y.png" group-title="24/7",Acapulco Shore
 http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222931.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alf" tvg-logo="http://i.imgur.com/FGBafg8.jpg" group-title="24/7",Alf

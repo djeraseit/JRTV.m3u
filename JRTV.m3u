@@ -19,7 +19,7 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8=-1
 ##EXTVLCOPT:network-caching=10
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="Nu9ve.mx" tvg-name="NU9VE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59528_dark_360w_270h.png" group-title="A- TV MX",NU9VE
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158635.m3u8
+http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7CjTk2CSsxtUDNfCsgWMO5Qdo8WGRyddWtP_cDKpGM1Y/m3u8?=m3u8
 ##EXTVLCOPT:network-caching=10
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESTRELLA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/509px-Estrella_TV_Logo_2020.png?20210701011117" group-title="A- TV MX",ESTRELLA TV

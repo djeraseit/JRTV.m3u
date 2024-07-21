@@ -1,141 +1,538 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los padrinos magicos" tvg-logo="https://w7.pngwing.com/pngs/327/703/png-transparent-cinema-film-moveis-logo-film-art-film.png" group-title="24/7",☆ Cine Terror 2
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6322099c822bbc00074857db/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTAROPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Acapulco Shore" tvg-logo="https://i.imgur.com/atAAq7Y.png" group-title="24/7",Acapulco Shore
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222931.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alf" tvg-logo="http://i.imgur.com/FGBafg8.jpg" group-title="24/7",Alf
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222932.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Casa de Mickey Mouse" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7",Disney Casa de Mickey Mouse
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222933.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Chesperito" tvg-logo="https://i.postimg.cc/tCXsFpDG/Chespirito.png" group-title="24/7",Chesperito
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222934.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Big Bang Theory" tvg-logo="https://i.imgur.com/J3T3BtA.jpg" group-title="24/7",Big Bang Theory
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222935.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bob Esponja" tvg-logo="http://i.imgur.com/6UWJOih.jpg" group-title="24/7",Bob Esponja
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222936.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Caballeros Del Zodiaco" tvg-logo="http://i.imgur.com/4nKmg2M.jpg" group-title="24/7",Caballeros Del Zodiaco
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222937.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cantinflas" tvg-logo="https://i.imgur.com/L6uZyQC.jpg?1" group-title="24/7",Cantinflas
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222938.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Caso Cerrado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rEkUpvQWa4jy5C2VmYzHCb7W1AK.jpg" group-title="24/7",Caso Cerrado
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222939.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEN 10" tvg-logo="http://51.159.211.207:25461/24-7/logo24-7.png" group-title="24/7",BEN 10
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222940.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Correcaminos y El Coyote" tvg-logo="http://51.159.211.207:25461/24-7/logo24-7.png" group-title="24/7",Correcaminos y El Coyote
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222941.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dora La Exploradora" tvg-logo="http://live.detodotvplay.com:8080/images/8195e9a83186216a031d7854e8eaaafd.png" group-title="24/7",Dora La Exploradora
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222942.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dinosaurios" tvg-logo="http://i.imgur.com/vg5nbLL.jpg" group-title="24/7",Dinosaurios
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222943.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Star Wars" tvg-logo="https://i.imgur.com/ssozh1l.png" group-title="24/7",Disney Star Wars
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222944.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema Marvel Studios" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJLfmXOEEJ2N_5WKQJ1eMKLB3qlNMdFJA4Uw&usqp=CAU" group-title="24/7",Cinema Marvel Studios
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222945.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dr House" tvg-logo="https://logos.xbots.com.mx/408" group-title="24/7",Dr House
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222946.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dragon Ball" tvg-logo="http://live.detodotvplay.com:25461/images/46fb705535e52f115b1f8e05d229ede4.png" group-title="24/7",Dragon Ball
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222947.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dragon Ball GT" tvg-logo="http://i.imgur.com/s216MTL.jpg" group-title="24/7",Dragon Ball GT
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222948.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dragon Ball Super" tvg-logo="http://i.imgur.com/yl27KMW.png" group-title="24/7",Dragon Ball Super
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222949.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dragon Ball Z" tvg-logo="http://i.imgur.com/MojzEA4.jpg" group-title="24/7",Dragon Ball Z
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222950.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Chapulín Colorado Animado" tvg-logo="http://i.imgur.com/rJfiy6k.png" group-title="24/7",El Chapulín Colorado Animado
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222951.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Chavo del 8" tvg-logo="http://i.imgur.com/Rto9zrX.png" group-title="24/7",El Chavo del 8
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222952.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Chema" tvg-logo="http://i.imgur.com/O6jZVjh.png" group-title="24/7",El Chema
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222953.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Pato Donald" tvg-logo="http://51.159.211.207:25461/24-7/logo24-7.png" group-title="24/7",El Pato Donald
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222954.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El patrón del mal" tvg-logo="http://i.imgur.com/5qqUMVX.jpg" group-title="24/7",El patrón del mal
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222955.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El príncipe del Rap en Bel-Air" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/agYZXD9iChdxxv0eVHlZjeGRXaY.jpg" group-title="24/7",El príncipe del Rap en Bel-Air
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222956.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El señor de los cielos" tvg-logo="http://i.imgur.com/gsqWOt9.jpg" group-title="24/7",El señor de los cielos
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222957.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Futurama" tvg-logo="http://live.detodotvplay.com:8080/images/7946cf4f2130930ae974bf0089a87b16.png" group-title="24/7",Futurama
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222958.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="He-Man" tvg-logo="http://i.imgur.com/V2UdrBq.jpg" group-title="24/7",He-Man
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222959.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kenan y Kel" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ftRkgMhF1CofVSLMeonh9Hjz7a4.jpg" group-title="24/7",Kenan y Kel
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222960.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Casa de Micky House" tvg-logo="http://live.detodotvplay.com:8080/images/840e51c47ab815996d2e92ce7122ef79.png" group-title="24/7",La Casa de Micky House
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222961.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Casa De Papel" tvg-logo="http://i.imgur.com/LS0n3Pk.jpg" group-title="24/7",La Casa De Papel
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222962.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jorge El Curioso" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/3/36/Curious_George_%28TV_Series%29.jpg/revision/latest?cb=20200915230429&path-prefix=es" group-title="24/7",Jorge El Curioso
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222963.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Masha y El Oso" tvg-logo="http://51.159.211.207:25461/24-7/logo24-7.png" group-title="24/7",Masha y El Oso
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222964.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Phineas y Ferb" tvg-logo="http://51.159.211.207:25461/24-7/logo24-7.png" group-title="24/7",Phineas y Ferb
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222965.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PJ Masks" tvg-logo="http://51.159.211.207:25461/24-7/logo24-7.png" group-title="24/7",PJ Masks
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222966.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aquellos Marivollosos 70" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/jvJWDEua3tKWY4M87PHDpdAFtfS.jpg" group-title="24/7",Aquellos Marivollosos 70
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222967.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Familia Mosnter 1964" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/dF4P2k9XgeFUT3OetAJqJJ0uQUj.jpg" group-title="24/7",La Familia Mosnter 1964
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222968.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Años Maravillosos" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_791242-MLM30173784697_042019-Q.jpg" group-title="24/7",Los Años Maravillosos
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222969.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Locos Addams" tvg-logo="http://i.imgur.com/vgp1OWe.jpg" group-title="24/7",Los Locos Addams
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222970.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Mujer Maravilla 1975" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/7vHxWO6ahByDWzWufFL48MXaktT.jpg" group-title="24/7",La Mujer Maravilla 1975
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222971.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Simpsons" tvg-logo="http://i.imgur.com/rUznmUp.jpg" group-title="24/7",Los Simpsons
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222972.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Luis Miguel" tvg-logo="http://i.imgur.com/4nqyU1V.jpg" group-title="24/7",Luis Miguel
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222973.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Malcolm El De En Medio" tvg-logo="http://i.imgur.com/ri6A6OQ.jpg" group-title="24/7",Malcolm El De En Medio
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222974.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mazingerz" tvg-logo="http://i.imgur.com/7dEDCxI.jpg" group-title="24/7",Mazingerz
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222975.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mr Bean" tvg-logo="http://live.detodotvplay.com:8080/images/023573983a773c66d0ed8c30e6842c25.jpg" group-title="24/7",Mr Bean
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222976.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Naruto" tvg-logo="http://i.imgur.com/NOHHchY.png" group-title="24/7",Naruto
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222977.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XENA La Princesa Guerrera" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/e/e0/Xena.jpg/revision/latest?cb=20171125060305&path-prefix=es" group-title="24/7",XENA La Princesa Guerrera
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222978.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pinky" tvg-logo="http://i.imgur.com/heD7PEM.png" group-title="24/7",Pinky
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222979.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pokemon" tvg-logo="http://i.imgur.com/rlA8NHg.jpg" group-title="24/7",Pokemon
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222980.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Power Rangers" tvg-logo="http://i.imgur.com/5mrJXho.jpg" group-title="24/7",Power Rangers
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222981.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vaca Y Pollito" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Cow_and_Chicken_show_logo.png" group-title="24/7",Vaca Y Pollito
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222982.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Johnny Bravo" tvg-logo="https://w7.pngwing.com/pngs/749/969/png-transparent-johnny-bravo-hd-logo.png" group-title="24/7",Johnny Bravo
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222983.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Robotech" tvg-logo="http://i.imgur.com/LyS0HJo.jpg" group-title="24/7",Robotech
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222984.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sailor Moon" tvg-logo="http://i.imgur.com/4cwlPua.jpg" group-title="24/7",Sailor Moon
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222985.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mi Bella Genio" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rJLPacKrjWUqjZrxiG8xTCMfGj.jpg" group-title="24/7",Mi Bella Genio
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222986.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Smallville" tvg-logo="http://i.imgur.com/5wGuhhW.jpg" group-title="24/7",Smallville
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222987.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="South Park" tvg-logo="http://i.imgur.com/OdI528u.jpg" group-title="24/7",South Park
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222988.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Spider-Man" tvg-logo="http://i.imgur.com/QW9xwKC.jpg" group-title="24/7",Spider-Man
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222989.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Stranger Things" tvg-logo="http://i.imgur.com/jCWRUpo.jpg" group-title="24/7",Stranger Things
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222990.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Super Campeones" tvg-logo="http://i.imgur.com/eG2A9TA.jpg" group-title="24/7",Super Campeones
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222991.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Terror" tvg-logo="http://i.imgur.com/R1iLG81.png" group-title="24/7",Terror
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222992.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Mandalorian" tvg-logo="https://i.imgur.com/AQgyBju.jpg" group-title="24/7",The Mandalorian
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222993.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Walking Dead" tvg-logo="http://i.imgur.com/iyTzl8c.jpg" group-title="24/7",The Walking Dead
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222994.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thundercats" tvg-logo="http://i.imgur.com/cdo5Sz9.jpg" group-title="24/7",Thundercats
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222995.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tom y Jerry" tvg-logo="https://cdn-www.bluestacks.com/bs-images/com.netease.tjtw_.jpg" group-title="24/7",Tom y Jerry
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222996.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Looney Tunes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/New_Looney_Tunes_Logo.png" group-title="24/7",Los Looney Tunes
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222997.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="X-Men" tvg-logo="http://i.imgur.com/8SNQpV2.jpg" group-title="24/7",X-Men
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222998.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Yugioh" tvg-logo="http://live.detodotvplay.com:8080/images/a4944fdea963d00443a25e056093654d.png" group-title="24/7",Yugioh
-http://aztkplay.pro:8080/live/EstefUser/ACnEdsbDfk/222999.m3u8
+#EXTINF:-1  group-title="24/7", 247 ALF
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/935.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 Animaniacs
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/938.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 Barney y sus amigos
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/940.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 Bob Esponja
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/944.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 Breaking Bad
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/946.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 Caballeros del Zodiaco
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/947.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 Caillou
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/950.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 Candy
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/951.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 Cantinflas
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/953.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 Caso Cerrado
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/954.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 Chapulin Colorado
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/958.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 Chavo Del Ocho 1
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/959.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 Chavo Del Ocho 2
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/1130.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 Chespirito 1
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/955.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 Chespirito 2 (Nuevo)
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/1128.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 Chespirito 3 (Nuevo)
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/1129.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 CINE ACCION
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/962.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 CINE DC UNIVERSO
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/1149.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 CINE FANTASIA
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/964.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 CINE FANTASIA SAGAS
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/965.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 CINE INFANTIL
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/967.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 CINE INFANTIL SAGAS
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/970.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 CINE MARVEL 1
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/971.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 CINE MARVEL 2
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/973.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 CINE ROMANCE ᵸᴰ
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/976.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 CINE ROMANCE SD
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/978.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 CINE TERROR
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/979.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 CINE ZOMBIES
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/984.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 Coraje
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/985.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 CSI: Miami
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/986.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 Death Note
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/987.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 DINOSAURIOS 1991
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/988.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 Dora la Exploradora
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/991.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 Doraemon
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/992.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 Dragon Ball 1984
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/995.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 Dragon Ball GT 1996
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/997.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 Dragon Ball Super
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/1000.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 Dragon Ball Z 1989
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/1002.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 El Coyote y el Correcaminos
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/1003.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 El Gallo Claudio
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/1005.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 El Pajaro Loco
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/1006.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 Futurama 1999
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/1009.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 Game Of Throne
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/1010.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 Garfield
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/1011.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 Happy Tree Friends
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/1013.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 He-Man
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/1014.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 Heroes en Pijamas
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/1015.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 Hey Arnold
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/1017.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 Jonny Bravo
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/1033.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 Jorge el curioso
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/1018.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 La Pantera Rosa
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/1024.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 La Rosa De Guadalupe
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/1026.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 LazyTown
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/1029.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 Le temes a la oscuridad
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/1030.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 Looney Tunes
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/1034.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 Los a\u00f1os maravillosos 1988
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/1036.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 Los Picapiedra
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/1037.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 LOS SIMPSONS
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/1039.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 LOS SIMPSONS 1-5
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/1041.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 LOS SIMPSONS 12-17
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/1048.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 LOS SIMPSONS 18-21
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/1049.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 LOS SIMPSONS 22-26
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/1052.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 LOS SIMPSONS 27-30
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/1054.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 LOS SIMPSONS 6-11
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/1044.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 Mazinger Z
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/1058.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 Mr. Bean
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/1059.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 Naruto
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/1060.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 One Punch Man
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/1061.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 Padre de Familia
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/1064.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 Peppa Pig
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/1066.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 Pinky y Cerebro 1995
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/1067.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 Pok\u00e9mon
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/1068.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 Power Rangers
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/1071.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 Ranma 1\/2
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/1076.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 Robotech
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/1077.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 Sailor Moon
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/1080.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 Scooby Doo
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/1081.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 Shera
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/1086.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 Smallville
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/1087.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 South Park
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/1089.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 Spider-Man
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/1091.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 Super Campeones
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/1092.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 The Big Bang Theory
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/1096.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 Thundercats 1
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/1097.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 Thundercats 2-
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/1099.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 Tom y Jerry
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/1100.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 Vete a la Versh
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/1103.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1  group-title="24/7", 247 XMEN ANIME
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/384.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+
+#EXTINF:-1 channel-id="pluto-5ee92e72fb286e0007285fec" tvg-id="5ee92e72fb286e0007285fec" tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png" tvg-chno="1259" group-title="Anime & Gaming" , Naruto
+https://jmp2.uk/PlutoTV/5ee92e72fb286e0007285fec-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-64c92fea3c3344000869e8a9" tvg-id="64c92fea3c3344000869e8a9" tvg-logo="https://images.pluto.tv/channels/64c92fea3c3344000869e8a9/colorLogoPNG.png" tvg-chno="1260" group-title="Anime & Gaming" , Naruto Shippuden
+https://jmp2.uk/PlutoTV/64c92fea3c3344000869e8a9-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-656f37f257fe4a000884dfee" tvg-id="656f37f257fe4a000884dfee" tvg-logo="https://images.pluto.tv/channels/656f37f257fe4a000884dfee/colorLogoPNG.png" tvg-chno="1261" group-title="Anime & Gaming" , Boruto: Naruto Next Generations
+https://jmp2.uk/PlutoTV/656f37f257fe4a000884dfee-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-65d916a2f7f0af0008b6540d" tvg-id="65d916a2f7f0af0008b6540d" tvg-logo="https://images.pluto.tv/channels/65d916a2f7f0af0008b6540d/colorLogoPNG.png" tvg-chno="1263" group-title="Anime & Gaming" , Hunter x Hunter
+https://jmp2.uk/PlutoTV/65d916a2f7f0af0008b6540d-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-626c2ed933a2890007e91422" tvg-id="626c2ed933a2890007e91422" tvg-logo="https://images.pluto.tv/channels/626c2ed933a2890007e91422/colorLogoPNG.png" tvg-chno="1264" group-title="Anime & Gaming" , Death Note
+https://jmp2.uk/PlutoTV/626c2ed933a2890007e91422-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5fceaab478f2af00080ff51f" tvg-id="5fceaab478f2af00080ff51f" tvg-logo="https://images.pluto.tv/channels/5fceaab478f2af00080ff51f/colorLogoPNG.png" tvg-chno="1269" group-title="Anime & Gaming" , Yu-Gi-Oh
+https://jmp2.uk/PlutoTV/5fceaab478f2af00080ff51f-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-64666345f3f5b1000882bfb4" tvg-id="64666345f3f5b1000882bfb4" tvg-logo="https://images.pluto.tv/channels/64666345f3f5b1000882bfb4/colorLogoPNG.png" tvg-chno="1271" group-title="Anime & Gaming" , Captain Tsubasa
+https://jmp2.uk/PlutoTV/64666345f3f5b1000882bfb4-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-632119a92c3b880007d3f5dc" tvg-id="632119a92c3b880007d3f5dc" tvg-logo="https://images.pluto.tv/channels/632119a92c3b880007d3f5dc/colorLogoPNG.png" tvg-chno="1274" group-title="Anime & Gaming" , Beyblade
+https://jmp2.uk/PlutoTV/632119a92c3b880007d3f5dc-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5ff4b9ccf938f8000779eb99" tvg-id="5ff4b9ccf938f8000779eb99" tvg-logo="https://images.pluto.tv/channels/5ff4b9ccf938f8000779eb99/colorLogoPNG-1663941540755.png" tvg-chno="1284" group-title="Anime & Gaming" , One Piece
+https://jmp2.uk/PlutoTV/5ff4b9ccf938f8000779eb99-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5ff608e60e2996000768c366" tvg-id="5ff608e60e2996000768c366" tvg-logo="https://images.pluto.tv/channels/5ff608e60e2996000768c366/colorLogoPNG.png" tvg-chno="1294" group-title="Anime & Gaming" , Tokusato
+https://jmp2.uk/PlutoTV/5ff608e60e2996000768c366-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5fab09a8749b1a00077d35d2" tvg-id="5fab09a8749b1a00077d35d2" tvg-logo="https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/colorLogoPNG-1662394157103.png" tvg-chno="1352" group-title="Teen" , Nick Teen
+https://jmp2.uk/PlutoTV/5fab09a8749b1a00077d35d2-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-620ff0a01f9e8700076c6f9d" tvg-id="620ff0a01f9e8700076c6f9d" tvg-logo="https://images.pluto.tv/channels/620ff0a01f9e8700076c6f9d/colorLogoPNG.png" tvg-chno="1360" group-title="Teen" , Nickelodeon iCarly
+https://jmp2.uk/PlutoTV/620ff0a01f9e8700076c6f9d-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5fcea93ffcf94500071c4b2f" tvg-id="5fcea93ffcf94500071c4b2f" tvg-logo="https://images.pluto.tv/channels/5fcea93ffcf94500071c4b2f/colorLogoPNG.png" tvg-chno="1365" group-title="Teen" , Kenan y Kel
+https://jmp2.uk/PlutoTV/5fcea93ffcf94500071c4b2f-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5dd6de52b9914200091f047a" tvg-id="5dd6de52b9914200091f047a" tvg-logo="https://images.pluto.tv/channels/5dd6de52b9914200091f047a/colorLogoPNG.png" tvg-chno="1370" group-title="Teen" , Pluto TV Teen
+https://jmp2.uk/PlutoTV/5dd6de52b9914200091f047a-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-6495c6ad115d060008bf6b52" tvg-id="6495c6ad115d060008bf6b52" tvg-logo="https://images.pluto.tv/channels/6495c6ad115d060008bf6b52/colorLogoPNG.png" tvg-chno="1400" group-title="Kids" , PAW Patrol Patrulla de Cachorros
+https://jmp2.uk/PlutoTV/6495c6ad115d060008bf6b52-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5ddd7cb2cbb9010009b4fe32" tvg-id="5ddd7cb2cbb9010009b4fe32" tvg-logo="https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/colorLogoPNG.png" tvg-chno="1402" group-title="Kids" , Nick Jr. Club
+https://jmp2.uk/PlutoTV/5ddd7cb2cbb9010009b4fe32-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-656e28a2954b020008ed133a" tvg-id="656e28a2954b020008ed133a" tvg-logo="https://images.pluto.tv/channels/656e28a2954b020008ed133a/colorLogoPNG.png" tvg-chno="1403" group-title="Kids" , Dora, La Exploradora
+https://jmp2.uk/PlutoTV/656e28a2954b020008ed133a-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5f9996533c9de3000759ccb5" tvg-id="5f9996533c9de3000759ccb5" tvg-logo="https://images.pluto.tv/channels/5f9996533c9de3000759ccb5/colorLogoPNG.png" tvg-chno="1405" group-title="Kids" , Las Pistas de Blue
+https://jmp2.uk/PlutoTV/5f9996533c9de3000759ccb5-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-619d5e6a093e7c0007489211" tvg-id="619d5e6a093e7c0007489211" tvg-logo="https://images.pluto.tv/channels/619d5e6a093e7c0007489211/colorLogoPNG.png" tvg-chno="1410" group-title="Kids" , Baby Shark TV
+https://jmp2.uk/PlutoTV/619d5e6a093e7c0007489211-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5ebac49ce4dc8b00078b23bc" tvg-id="5ebac49ce4dc8b00078b23bc" tvg-logo="https://images.pluto.tv/channels/5ebac49ce4dc8b00078b23bc/colorLogoPNG.png" tvg-chno="1415" group-title="Kids" , Babyfirst
+https://jmp2.uk/PlutoTV/5ebac49ce4dc8b00078b23bc-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5dcde2ac4bc6c500094ab45b" tvg-id="5dcde2ac4bc6c500094ab45b" tvg-logo="https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/colorLogoPNG.png" tvg-chno="1420" group-title="Kids" , Pluto TV Junior
+https://jmp2.uk/PlutoTV/5dcde2ac4bc6c500094ab45b-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5f29ada4bdaebd000708d49d" tvg-id="5f29ada4bdaebd000708d49d" tvg-logo="https://images.pluto.tv/channels/5f29ada4bdaebd000708d49d/colorLogoPNG.png" tvg-chno="1425" group-title="Kids" , Barney
+https://jmp2.uk/PlutoTV/5f29ada4bdaebd000708d49d-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5f4d3d06fb60d8000781fce8" tvg-id="5f4d3d06fb60d8000781fce8" tvg-logo="https://images.pluto.tv/channels/5f4d3d06fb60d8000781fce8/colorLogoPNG.png" tvg-chno="1435" group-title="Kids" , El Reino Infantil
+https://jmp2.uk/PlutoTV/5f4d3d06fb60d8000781fce8-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5ddd7c348520b40009c347e2" tvg-id="5ddd7c348520b40009c347e2" tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG.png" tvg-chno="1440" group-title="Kids" , Nickelodeon Clásico
+https://jmp2.uk/PlutoTV/5ddd7c348520b40009c347e2-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5ea7215005d66d0007e8128a" tvg-id="5ea7215005d66d0007e8128a" tvg-logo="https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/colorLogoPNG.png" tvg-chno="1445" group-title="Kids" , Rugrats
+https://jmp2.uk/PlutoTV/5ea7215005d66d0007e8128a-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-6202ab549654c800076ee13f" tvg-id="6202ab549654c800076ee13f" tvg-logo="https://images.pluto.tv/channels/6202ab549654c800076ee13f/colorLogoPNG.png" tvg-chno="1450" group-title="Kids" , Nickelodeon Rocket Power
+https://jmp2.uk/PlutoTV/6202ab549654c800076ee13f-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-645952687cb4b100084ed52e" tvg-id="645952687cb4b100084ed52e" tvg-logo="https://images.pluto.tv/channels/645952687cb4b100084ed52e/colorLogoPNG.png" tvg-chno="1455" group-title="Kids" , Nickelodeon Pluto TV
+https://jmp2.uk/PlutoTV/645952687cb4b100084ed52e-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-6254598f5083f800076d8563" tvg-id="6254598f5083f800076d8563" tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG.png" tvg-chno="1460" group-title="Kids" , Bob Esponja Pantalones Cuadrados
+https://jmp2.uk/PlutoTV/6254598f5083f800076d8563-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-6322099c822bbc00074857db" tvg-id="6322099c822bbc00074857db" tvg-logo="https://images.pluto.tv/channels/6322099c822bbc00074857db/colorLogoPNG-1667576393608.png" tvg-chno="1465" group-title="Kids" , Los Padrinos Mágicos
+https://jmp2.uk/PlutoTV/6322099c822bbc00074857db-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-63dd5d7a4e83e700088fbca8" tvg-id="63dd5d7a4e83e700088fbca8" tvg-logo="https://images.pluto.tv/channels/63dd5d7a4e83e700088fbca8/colorLogoPNG.png" tvg-chno="1470" group-title="Kids" , Las Tortugas Ninja
+https://jmp2.uk/PlutoTV/63dd5d7a4e83e700088fbca8-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5dd6dae8ce788b0009eaf77b" tvg-id="5dd6dae8ce788b0009eaf77b" tvg-logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png" tvg-chno="1480" group-title="Kids" , Pluto TV Kids
+https://jmp2.uk/PlutoTV/5dd6dae8ce788b0009eaf77b-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-636e83511fa9600007e5ae19" tvg-id="636e83511fa9600007e5ae19" tvg-logo="https://images.pluto.tv/channels/636e83511fa9600007e5ae19/colorLogoPNG.png" tvg-chno="1485" group-title="Kids" , Pluto TV Anime Kids
+https://jmp2.uk/PlutoTV/636e83511fa9600007e5ae19-alt.m3u8
+

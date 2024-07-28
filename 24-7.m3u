@@ -1,5 +1,5 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="Aztecauno.mx" tvg-name="Malcom" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWd_s84JgQis-h7cudcJKSVhrwbzq2QZdwmw&usqp=CAU" group-title="24/7" MALCOM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWd_s84JgQis-h7cudcJKSVhrwbzq2QZdwmw&usqp=CAU" group-title="24/7", MALCOM
 http://ultrapremium.cloud:8080/live/72409562tv/7w8dghcr38/806.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true

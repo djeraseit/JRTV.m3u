@@ -1,5 +1,4 @@
-<?php
-// Your code here!
+
 <?php
 $url = "https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/686.m3u8";
 
@@ -10,10 +9,14 @@ curl_setopt($ch, CURLOPT_HTTPHEADER, [
 ]);
 
 $response = curl_exec($ch);
+
+if (curl_errno($ch)) {
+    // Manejo de errores
+    echo 'Error:' . curl_error($ch);
+}
+
 curl_close($ch);
 
 header("Content-Type: application/vnd.apple.mpegurl");
 echo $response;
-?>
-
 ?>

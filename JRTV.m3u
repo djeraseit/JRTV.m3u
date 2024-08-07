@@ -8,10 +8,12 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8=-1
 
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="LAS ESTRELLAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Las_Estrellas_2017_Navidad.svg/revision/latest/scale-to-width-down/250?cb=20230202024114&path-prefix=es" group-title="A- TV MX", user-agent="NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2", LAS ESTRELLAS
 https://nffthex0kzt.xyz/rk/JdsvgxwftwfghxvnccnngdryhvddcddhFA/Cbvxfgddgjgdwehcvbbgshhbfsdhxcvhg/684.m3u8
-
+##EXTVLCOPT:network-caching=10
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="CANAL 5" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png" group-title="A- TV MX", user-agent="NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2", CANAL 5
 https://nffthex0kzt.xyz/rk/JdsvgxwftwfghxvnccnngdryhvddcddhFA/Cbvxfgddgjgdwehcvbbgshhbfsdhxcvhg/465.m3u8
-
+##EXTVLCOPT:network-caching=10
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="LOCALES" user-agent="NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2", Canal 5
 https://nffthex0kzt.xyz/rk/JdsvgxwftwfghxvnccnngdryhvddcddhFA/Cbvxfgddgjgdwehcvbbgshhbfsdhxcvhg/465.m3u8
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="AZTECA 7" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116154_dark_360w_270h.png" group-title="A- TV MX",AZTECA 7
@@ -57,8 +59,7 @@ http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158641.m3u8
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MEXIQUENSE 3.1" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/mexiquense_tv-mediano.png" group-title="A- TV MX",MEXIQUENSE 3.1
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/659.ts
-##EXTVLCOPT:network-caching=10
-#EXTVLCOPT--http-reconnect=true
+
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="IMAGEN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logo-Imagen-TV-MX.png/800px-Logo-Imagen-TV-MX.png" group-title="A- TV MX",IMAGEN TV
 http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158628.m3u8
 ##EXTVLCOPT:network-caching=10

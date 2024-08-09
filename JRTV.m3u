@@ -37,7 +37,7 @@ https://nffthex0kzt.xyz/rk/JdsvgxwftwfghxvnccnngdryhvddcddhFA/Cbvxfgddgjgdwehcvb
 #EXTVLCOPT--http-reconnect=true
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AZ CLIC HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/TV_Azteca_Clic_2023_Official.svg/revision/latest?cb=20230630203519" group-title="A- TV MX",AZ CLIC HD
-http://200.52.148.194:8000/play/a0d6?=m3u8
+http://200.52.148.194:8000/play/a0d6
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 

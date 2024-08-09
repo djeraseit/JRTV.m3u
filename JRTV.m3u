@@ -307,68 +307,62 @@ http://38.41.8.1:8000/play/a067
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISNEY JR" tvg-logo="http://3.bp.blogspot.com/-VvbUqgHc5Pw/VJIJWAJLxfI/AAAAAAAAHi0/A0nDmO29zwk/s1600/Logo%2BDisney_Junior.png" group-title="D- INFANTIL",DISNEY JR
 http://181.78.27.128:8000/play/a02a/index.m3u8
-##EXTVLCOPT:network-caching=10
+#EXTVLCOPT:network-caching=10
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISNEY JR OP2" tvg-logo="http://3.bp.blogspot.com/-VvbUqgHc5Pw/VJIJWAJLxfI/AAAAAAAAHi0/A0nDmO29zwk/s1600/Logo%2BDisney_Junior.png" group-title="D- INFANTIL",DISNEY JR OP2
 http://45.166.92.22:58001/play/a02v/index.m3u8
-##EXTVLCOPT:network-caching=10
+#EXTVLCOPT:network-caching=10
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="BabyFirst.mx" tvg-name="BABY FIRST" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/5a/BabyFirst.svg/953px-BabyFirst.svg.png" group-title="D- INFANTIL",BABY FIRST
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1984/PROFILE03.m3u8
-#EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Hbo_blanco.png" group-title="E- PREMIUM",HBO
-https://nffthex0kzt.xyz/rk/JdsvgxwftwfghxvnccnngdryhvddcddhFA/Cbvxfgddgjgdwehcvbbgshhbfsdhxcvhg/621.m3u8
-##EXTVLCOPT:network-caching=10
-#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Hbo_blanco.png" group-title="E- PREMIUM",HBO HD
 https://nffthex0kzt.xyz/rk/JdsvgxwftwfghxvnccnngdryhvddcddhFA/Cbvxfgddgjgdwehcvbbgshhbfsdhxcvhg/625.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_2_latinoamerica-mediano.png" group-title="E- PREMIUM",HBO2 
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/159235.m3u8
+https://nffthex0kzt.xyz/rk/JdsvgxwftwfghxvnccnngdryhvddcddhFA/Cbvxfgddgjgdwehcvbbgshhbfsdhxcvhg/627.m3u8
 ##EXTVLCOPT:network-caching=10
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO FAMILY" tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097892735-HBO-Family-pequenio.png" group-title="E- PREMIUM",HBO FAMILY
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/166449.m3u8
+https://nffthex0kzt.xyz/rk/JdsvgxwftwfghxvnccnngdryhvddcddhFA/Cbvxfgddgjgdwehcvbbgshhbfsdhxcvhg/636.m3u8
 ##EXTVLCOPT:network-caching=10
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="HBOMundi.mx" tvg-name="HBO MUNDI" tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097903824-HBO-mundi-pequenio-b.png" group-title="E- PREMIUM",HBO MUNDI
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/166452.m3u8
-##EXTVLCOPT:network-caching=10
+https://nffthex0kzt.xyz/rk/JdsvgxwftwfghxvnccnngdryhvddcddhFA/Cbvxfgddgjgdwehcvbbgshhbfsdhxcvhg/658.m3u8
+#EXTVLCOPT:network-caching=10
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="HBOPlus.mx" tvg-name="HBO PLUS" tvg-logo="https://i.pinimg.com/originals/c7/6f/24/c76f24d8dff0df01af6152f05ccb7a9c.png" group-title="E- PREMIUM",HBO PLUS
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/159239.m3u8
-##EXTVLCOPT:network-caching=10
+https://nffthex0kzt.xyz/rk/JdsvgxwftwfghxvnccnngdryhvddcddhFA/Cbvxfgddgjgdwehcvbbgshhbfsdhxcvhg/640.m3u8
+#EXTVLCOPT:network-caching=10
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="HBOPOP.mx" tvg-name="HBO POP" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68134_dark_360w_270h.png" group-title="E- PREMIUM",HBO POP
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/166454.m3u8
-##EXTVLCOPT:network-caching=10
+https://nffthex0kzt.xyz/rk/JdsvgxwftwfghxvnccnngdryhvddcddhFA/Cbvxfgddgjgdwehcvbbgshhbfsdhxcvhg/652.m3u8
+#EXTVLCOPT:network-caching=10
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="HBOSignature.mx" tvg-name="HBO SIGNATURE" tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097951981-HBO-signature-pequenio-b.png" group-title="E- PREMIUM",HBO SIGNATURE
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/166455.m3u8
-##EXTVLCOPT:network-caching=10
+https://nffthex0kzt.xyz/rk/JdsvgxwftwfghxvnccnngdryhvddcddhFA/Cbvxfgddgjgdwehcvbbgshhbfsdhxcvhg/645.m3u8##EXTVLCOPT:network-caching=10
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="HBOXtreme.mx" tvg-name="HBO XTREME" tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097973446-HBO-xtreme-pequenio-b.png" group-title="E- PREMIUM",HBO XTREME
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/166458.m3u8
-##EXTVLCOPT:network-caching=10
+https://nffthex0kzt.xyz/rk/JdsvgxwftwfghxvnccnngdryhvddcddhFA/Cbvxfgddgjgdwehcvbbgshhbfsdhxcvhg/650.m3u8##EXTVLCOPT:network-caching=10
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="UniversalCinema.mx" tvg-name="UNIVERSAL CINEMA" tvg-logo="https://www.universalplus.com/files/channels/731381553.png" group-title="E- PREMIUM",UNIVERSAL CINEMA
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158697.m3u8
-##EXTVLCOPT:network-caching=10
+https://nffthex0kzt.xyz/rk/JdsvgxwftwfghxvnccnngdryhvddcddhFA/Cbvxfgddgjgdwehcvbbgshhbfsdhxcvhg/836.m3u8
+#EXTVLCOPT:network-caching=10
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="UniversalComedy.mx" tvg-name="UNIVERSAL COMEDY" tvg-logo="https://www.universalplus.com/files/channels/172050409.png" group-title="E- PREMIUM",UNIVERSAL COMEDY
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158698.m3u8
+https://nffthex0kzt.xyz/rk/JdsvgxwftwfghxvnccnngdryhvddcddhFA/Cbvxfgddgjgdwehcvbbgshhbfsdhxcvhg/833.m3u8
 ##EXTVLCOPT:network-caching=10
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="UniversalCrime.mx" tvg-name="UNIVERSAL CRIME" tvg-logo="https://www.universalplus.com/files/channels/780277389.png" group-title="E- PREMIUM",UNIVERSAL CRIME
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/159267.m3u8
+https://nffthex0kzt.xyz/rk/JdsvgxwftwfghxvnccnngdryhvddcddhFA/Cbvxfgddgjgdwehcvbbgshhbfsdhxcvhg/829.m3u8
 ##EXTVLCOPT:network-caching=10
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="UniversalPremiere.mx" tvg-name="UNIVERSAL PREMIER" tvg-logo="https://www.universalplus.com/files/channels/398064723.png" group-title="E- PREMIUM",UNIVERSAL PREMIER
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/159271.m3u8
+https://nffthex0kzt.xyz/rk/JdsvgxwftwfghxvnccnngdryhvddcddhFA/Cbvxfgddgjgdwehcvbbgshhbfsdhxcvhg/843.m3u8
 ##EXTVLCOPT:network-caching=10
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="UniversalReality.mx" tvg-name="UNIVERSAL REALITY" tvg-logo="https://www.universalplus.com/files/channels/120254749.png" group-title="E- PREMIUM",UNIVERSAL REALITY
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/160109.m3u8
+https://nffthex0kzt.xyz/rk/JdsvgxwftwfghxvnccnngdryhvddcddhFA/Cbvxfgddgjgdwehcvbbgshhbfsdhxcvhg/847.m3u8
 
 
 ##EXTVLCOPT:network-caching=10

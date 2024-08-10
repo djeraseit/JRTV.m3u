@@ -75,11 +75,11 @@ http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/659.ts
 
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="IMAGEN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logo-Imagen-TV-MX.png/800px-Logo-Imagen-TV-MX.png" group-title="A- TV MX",IMAGEN TV
 http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158628.m3u8
-##EXTVLCOPT:network-caching=10
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MULTIMEDIOS MONTERREY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Multimedios_Television.png" group-title="A- TV MX",MULTIMEDIOS MONTERREY
 http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/159089.m3u8
-##EXTVLCOPT:network-caching=10
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MULTIMEDIOS CDMX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Multimedios_Canal_Seis_Logo.svg" group-title="A- TV MX",MULTIMEDIOS CDMX
 http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158632.m3u8
@@ -87,67 +87,66 @@ http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158632.m3u8
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="APRENDE TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/aprende_tv-mediano.png" group-title="A- TV MX",APRENDE TV
 http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/266221
-##EXTVLCOPT:network-caching=10
+##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVMAS" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/tvmas.png" group-title="A- TV MX",TVMAS
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/663.ts
-##EXTVLCOPT:network-caching=10
+##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ONCE NIÑOS" tvg-logo="https://onceninasyninos.tv/wp-content/uploads/2019/07/cropped-Nuevo_Logo_ON-2019-e1561997594507.png" group-title="A- TV MX",ONCE NIÑOS
 http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/266219
-##EXTVLCOPT:network-caching=10
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVC" tvg-logo="https://cdn.mitvstatic.com/channels/co_tvc_m.png" group-title="A- TV MX",TVC
 http://tv.proyectox.vip:8080/L0vjEGB3MC/GF8Nqw8gZ5/26735
-##EXTVLCOPT:network-caching=10
+##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/125px-Russia-today-logo.svg.png" group-title="A- TV MX",RT
 http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/234977
-##EXTVLCOPT:network-caching=10
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADN40" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/Logo_nplus.svg/revision/latest?cb=20220328143756" group-title="A- TV MX",ADN40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-##EXTVLCOPT:network-caching=10
+##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#USER-AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+
 #EXTINF:-1 tvg-id="TNTNovelas.mx" tvg-name="TNOVELAS" tvg-logo="https://4.bp.blogspot.com/-E6b2VsJG0R4/UMeB36zPIhI/AAAAAAAAAoQ/byJ8wF8ArvI/s400/rojo.png" group-title="B- NOVELAS",TNOVELAS
-#USER-AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:35615/qve_hd/hsdMG5kQab/868668/index.m3u8
-##EXTVLCOPT:network-caching=10
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PASIONES" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/pasiones-mediano.png" group-title="B- NOVELAS",PASIONES
 http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158691.m3u8
-##EXTVLCOPT:network-caching=10
+##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="TelemundoInternacional.mx" tvg-name="TELEMUNDO INTERNACIONAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64835_dark_360w_270h.png" group-title="B- NOVELAS",TELEMUNDO INTERNACIONAL
 http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/159379.m3u8
-##EXTVLCOPT:network-caching=10
+##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="Unicable.mx" tvg-name="UNICABLE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16521_dark_360w_270h.png" group-title="B- NOVELAS",UNICABLE
 http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/159207.m3u8
 http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/159206.m3u8
-##EXTVLCOPT:network-caching=10
+##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AZ CORAZÓN" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_corazon-mediano.png" group-title="B- NOVELAS",AZ CORAZÓN
 http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/159059.m3u8
 ##EXTVLCOPT:network-caching=10
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="Glitz.mx" tvg-name="GLITZ" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61514_dark_360w_270h.png" group-title="B- NOVELAS",GLITZ
-
-
-##EXTVLCOPT:network-caching=10
+##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+
 #EXTINF:-1 tvg-id="DiscoveryScience.mx" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2014/02/tv1_sci-white.png" group-title="C- CULTURA",DISCOVERY SCIENCE
 http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/235538
-##EXTVLCOPT:network-caching=10
+##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY H&H" tvg-logo="http://2.bp.blogspot.com/-J72Tsxq1uWo/VG1hwAAg98I/AAAAAAAAkDs/CP1NNsI_Ayk/s1600/_0040_discovery_hh.png" group-title="C- CULTURA",DISCOVERY H&H
 http://45.166.92.22:58001/play/a015/index.m3u8
-##EXTVLCOPT:network-caching=10
+##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY H&H HD" tvg-logo="http://2.bp.blogspot.com/-J72Tsxq1uWo/VG1hwAAg98I/AAAAAAAAkDs/CP1NNsI_Ayk/s1600/_0040_discovery_hh.png" group-title="C- CULTURA",DISCOVERY H&H HD
 http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/235554
-##EXTVLCOPT:network-caching=10
+##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="DISCOVERY WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1280px-World_Discovery_HD_logo.svg.png" group-title="C- CULTURA",DISCOVERY WORLD
 http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/235580

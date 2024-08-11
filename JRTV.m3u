@@ -1046,8 +1046,7 @@ http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1651.ts
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN SPORTS PREMIUM"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png"group-title="H- DEPORTES",ESPN
-SPORTS PREMIUM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN SPORTS PREMIUM"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png"group-title="H- DEPORTES",ESPN SPORTS PREMIUM
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1323.ts
 #EXTVLCOPT:https-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 #EXTVLCOPT:network-caching=1000
@@ -1083,15 +1082,13 @@ http://181.78.75.83:5013/play/a075/index.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 
-#EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="FOX SPORT 3"tvg-logo="https://i.pinimg.com/originals/b3/08/8c/b3088cdf394935e26f9e9da5be7cd946.png"group-title="H- DEPORTES",FOX
-SPORT 3
+#EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="FOX SPORT 3"tvg-logo="https://i.pinimg.com/originals/b3/08/8c/b3088cdf394935e26f9e9da5be7cd946.png"group-title="H- DEPORTES",FOX SPORT 3
 http://200.59.188.3:8000/play/a012
 #EXTVLCOPT:https-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX SPORT 3 OP 2"tvg-logo="https://i.pinimg.com/originals/b3/08/8c/b3088cdf394935e26f9e9da5be7cd946.png"group-title="H- DEPORTES",FOX
-SPORT 3 OP 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX SPORT 3 OP 2"tvg-logo="https://i.pinimg.com/originals/b3/08/8c/b3088cdf394935e26f9e9da5be7cd946.png"group-title="H- DEPORTES",FOX SPORT 3 OP 2
 http://177.53.153.20:8001/play/a0z7/index.m3u8
 #EXTVLCOPT:https-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 #EXTVLCOPT:network-caching=1000
@@ -1163,8 +1160,7 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153869
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL DEL DEPORTE OLIMPICO"tvg-logo="https://www.nicepng.com/png/full/419-4196216_cdo-premium-canal-cdo.png"group-title="H- DEPORTES",CANAL DEL
-DEPORTE OLIMPICO
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL DEL DEPORTE OLIMPICO"tvg-logo="https://www.nicepng.com/png/full/419-4196216_cdo-premium-canal-cdo.png"group-title="H- DEPORTES",CANAL DEL DEPORTE OLIMPICO
 http://177.53.153.21:8001/play/a01l/index.m3u8
 #EXTVLCOPT:https-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 #EXTVLCOPT:network-caching=1000

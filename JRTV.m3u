@@ -9,14 +9,14 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8=-1
 
 
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="LAS ESTRELLAS"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Las_Estrellas_2017_Navidad.svg/revision/latest/scale-to-width-down/250?cb=20230202024114&path-prefix=es"group-title="A- TV MX",LAS ESTRELLAS
-https://nffthex0kzt.xyz/rk/JdsvgxwftwfghxvnccnngdryhvddcddhFA/Cbvxfgddgjgdwehcvbbgshhbfsdhxcvhg/684.m3u8
+https://nffthex0kzt.xyz/rk/JdsvgxwftwfghxvnccnngdryhvddcddhFA/Cbvxfgddgjgdwehcvbbgshhbfsdhxcvhg/686.m3u8=-1
 #EXTVLCOPT:https-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 
 
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="CANAL 5"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png"group-title="A- TV MX", CANAL 5
-http://209.126.119.148:35615/qve_hd/hsdMG5kQab/FC9DB0/index.m3u8
+https://nffthex0kzt.xyz/rk/JdsvgxwftwfghxvnccnngdryhvddcddhFA/Cbvxfgddgjgdwehcvbbgshhbfsdhxcvhg/465.m3u8=-1
 #EXTVLCOPT:https-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true

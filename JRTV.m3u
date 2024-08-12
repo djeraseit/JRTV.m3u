@@ -91,43 +91,28 @@ http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158641.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MEXIQUENSE 3.1"tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/mexiquense_tv-mediano.png"group-title="A- TV MX",MEXIQUENSE 3.1
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/659.ts
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-
-
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="IMAGEN TV"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logo-Imagen-TV-MX.png/800px-Logo-Imagen-TV-MX.png"group-title="A- TV MX",IMAGEN TV
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158628.m3u8
+https://nffthex0kzt.xyz/rk/JdsvgxwftwfghxvnccnngdryhvddcddhFA/Cbvxfgddgjgdwehcvbbgshhbfsdhxcvhg/672.m3u8
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MULTIMEDIOS MONTERREY"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Multimedios_Television.png"group-title="A- TV MX",MULTIMEDIOS MONTERREY
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/159089.m3u8
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MULTIMEDIOS CDMX"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Multimedios_Canal_Seis_Logo.svg"group-title="A- TV MX",MULTIMEDIOS CDMX
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158632.m3u8
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="APRENDE TV"tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/aprende_tv-mediano.png"group-title="A- TV MX",APRENDE TV
-http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/266221
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MULTIMEDIOS CDMX"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/800px-Multimedios_Canal_Seis_Logo.svg.png"group-title="A- TV MX",MULTIMEDIOS CDMX
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVMAS"tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/tvmas.png"group-title="A- TV MX",TVMAS
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/663.ts
+https://marine2.miplay.cl/tvmas/playlist.m3u8
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -191,9 +176,8 @@ https://nffthex0kzt.xyz/rk/JdsvgxwftwfghxvnccnngdryhvddcddhFA/Cbvxfgddgjgdwehcvb
 #EXTVLCOPT--http-reconnect=true
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AZ CORAZÓN"tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_corazon-mediano.png"group-title="B- NOVELAS",AZ
-CORAZÓN
-http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/159059.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AZ CORAZÓN"tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_corazon-mediano.png"group-title="B- NOVELAS",AZCORAZÓN
+https://stream.ads.ottera.tv/cl/240812cqt6643gaqpnkakspmgg/1280x720_3070540_0_f.m3u8?i=475_4830
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true

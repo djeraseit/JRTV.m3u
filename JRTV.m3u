@@ -197,6 +197,21 @@ http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/159059.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 
+#EXTINF:-1 tvg-id="UnivisionNetwork(Spanish).us" tvg-name="Univision" tvg-logo="https://toppng.com//public/uploads/preview/univision-taps-former-goldman-sachs-exec-to-be-cfo-univision-communications-inc-logo-11563216080qtj5mliqkn.png"  group-title="RECOMENDADOS", Univision
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONEAST&calidad=sd&.m3u8
+##EXTVLCOPT:network-caching=2000
+#EXTVLCOPT--http-reconnect=true
+
+#EXTINF:-1 tvg-id="UnivisionNetwork(Spanish).us" tvg-name="Univision Miami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Univision_23_2019.png"  group-title="RECOMENDADOS", Univision Miami
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=sd&.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+
+#EXTINF:-1 tvg-id="UniMas(East)(Spanish).us" tvg-name="Unimas USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/2669px-Logo_UniM%C3%A1s_2021.svg.png"  group-title="RECOMENDADOS", Unimas USA
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASEAST&calidad=sd&.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+
 
 #EXTINF:-1 tvg-id="DiscoveryScience.mx" tvg-name="DISCOVERY SCIENCE"tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2014/02/tv1_sci-white.png"group-title="C- CULTURA",DISCOVERYSCIENCE
 https://nffthex0kzt.xyz/rk/JdsvgxwftwfghxvnccnngdryhvddcddhFA/Cbvxfgddgjgdwehcvbbgshhbfsdhxcvhg/532.m3u8

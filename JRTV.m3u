@@ -1,7 +1,7 @@
 #EXTM3U url-tvg=""
 #EXTINF:-1 tvg-id="LA CASA DE LOS FAMOSOS" tvg-name="TOTAL 1"tvg-logo="https://www.infobae.com/new-resizer/VJ85zUuiE7knYIk-AUtTVx4KDgw=/768x432/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/UPJHB4OTDVGYROMRJ4RPJFAYPY.jpg"group-title="B- LA CASA DE LOS FAMOSOS",user-agent="userAgent2",OPC 1
 http://ch14.zomo.lat:80/auth/WjezrXR6eFBQgQgEIQaC9NhIznDOd7yX-28wT3nBuwkCWH1LhQVSSs5fsxw7AZ9XdyMWRUk5wXQfVBD6Pr-C4pGrIsm-HngobCsOYaa278K8RCthpf7__kpuk1SGTianmPwqC8jUnYj5_GKlyZnssuMtn6rptq8xWr_7xnLNjVqX4X4KM2SlUiZb5ChMR8nyRGy-wf6MGXpBMBVjsOaKVgYNBFrEPB1u5xwnam4dDNKPMAS2jUoALEERCCcOF1nGC9R-Q5yMyo16PUiJ6XpCHC8TWwWWQv-fTswW4fuLztHeZpaXUbAxbS_b1MfpS5BKcTMgTKG_w-e5lZNxmFy4OSjt-GroMI2yXRl4CRRj7r10Uqx8bTR5WiyX0W4vThVAfGjPPYfAjlufuqPdhlK9C1rWN7EF_rP9L1kaOwABWKq31r7VWSoAsemACeiZYdnid2sVvroDrv0zRY25d-lEmeyRpTmJAS3CriZvoMUFH9DklmhWSzZIG7sChUH3DMLl0JdoJHSNThntRzIt2fEanNRkO5lUhZxsRrQ1lBxTRDIExVLA_wNeKmp5EVflEJvs2lPl_FRZobrrUirOoN-hFt6EKWMVXVHJ55JDBrq8bh3VmbY72K4EPhRb3436E9gytyb1-wXPWXyFibRfuemusg?=m3u8
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 

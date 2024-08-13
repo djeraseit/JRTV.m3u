@@ -1,6 +1,6 @@
 #EXTM3U url-tvg=""
 #EXTINF:-1 tvg-id="LA CASA DE LOS FAMOSOS" tvg-name="TOTAL 1"tvg-logo="https://www.infobae.com/new-resizer/VJ85zUuiE7knYIk-AUtTVx4KDgw=/768x432/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/UPJHB4OTDVGYROMRJ4RPJFAYPY.jpg"group-title="B- LA CASA DE LOS FAMOSOS",user-agent="userAgent2",OPC 1
-https://zonamovie.live:8443/play/1HVxDH_oJ7NU5Jvo75a3Ww_EVyCP-d7XYFw3OqlzYrc/m3u8
+https://zonamovie.live:8443/play/1HVxDH_oJ7NU5Jvo75a3W01ehM8Dqv5tTuKD6H4iBGQ/m3u8
 #EXTVLCOPT:http-user-agent=Últimate Player/1.0.7
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true

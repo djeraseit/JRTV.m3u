@@ -1,751 +1,360 @@
-#EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sporting TV " tvg-logo="https://i.imgur.com/2c1M88h.png" group-title="A- Deportes Premium",Sporting TV 
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1067041.ts
-#EXTINF:-1 tvg-id="VAMOS" tvg-name="#Vamos por M+" tvg-logo="https://i.imgur.com/ICH9g11.png" group-title="A- Deportes Premium",#Vamos por M+
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1137.ts
-#EXTINF:-1 tvg-id="vamos.es" tvg-name="#Vamos por M+  HD" tvg-logo="https://i.imgur.com/ICH9g11.png" group-title="A- Deportes Premium",#Vamos por M+  HD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1135.ts
-#EXTINF:-1 tvg-id="VAMOS" tvg-name="#Vamos por M+ FHD" tvg-logo="https://i.imgur.com/ICH9g11.png" group-title="A- Deportes Premium",#Vamos por M+ FHD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1136.ts
-#EXTINF:-1 tvg-id="ABOLATV" tvg-name="A Bola TV " tvg-logo="https://i.imgur.com/qbZ4ACa.png" group-title="A- Deportes Premium",A Bola TV 
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1067042.ts
-#EXTINF:-1 tvg-id="beinsportespanol.us" tvg-name="Bein Sports En Español" tvg-logo="https://pbs.twimg.com/profile_images/836319515679993856/o21RFHuA_400x400.jpg" group-title="A- Deportes Premium",Bein Sports En Español
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1766.ts
-#EXTINF:-1 tvg-id="beinsportespanol.us" tvg-name="Bein Sports En Español  HD" tvg-logo="https://pbs.twimg.com/profile_images/836319515679993856/o21RFHuA_400x400.jpg" group-title="A- Deportes Premium",Bein Sports En Español  HD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1765.ts
-#EXTINF:-1 tvg-id="beinsportespanol.us" tvg-name="Bein Sports En Español FHD" tvg-logo="https://pbs.twimg.com/profile_images/836319515679993856/o21RFHuA_400x400.jpg" group-title="A- Deportes Premium",Bein Sports En Español FHD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1659.ts
-#EXTINF:-1 tvg-id="beinsportsxtra.us" tvg-name="Bein Sports XTRA" tvg-logo="https://i.pinimg.com/236x/fc/4e/2e/fc4e2ec8a6dd216b9f124996213e2662.jpg" group-title="A- Deportes Premium",Bein Sports XTRA
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1713.ts
-#EXTINF:-1 tvg-id="andtv.us" tvg-name="Bein Sports XTRA  HD" tvg-logo="https://i.pinimg.com/236x/fc/4e/2e/fc4e2ec8a6dd216b9f124996213e2662.jpg" group-title="A- Deportes Premium",Bein Sports XTRA  HD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/155.ts
-#EXTINF:-1 tvg-id="BENFC" tvg-name="Benfica TV " tvg-logo="https://i.imgur.com/d7iE6JG.png" group-title="A- Deportes Premium",Benfica TV 
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1067043.ts
-#EXTINF:-1 tvg-id="Claro.Sports.2.(CSPRT2).do" tvg-name="Claro Sports 2  HD" tvg-logo="https://i.imgur.com/m4ubL69.png" group-title="A- Deportes Premium",Claro Sports 2  HD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/956.ts
-#EXTINF:-1 tvg-id="Claro.Sports.2.(CSPRT2).do" tvg-name="Claro Sports 2 FHD" tvg-logo="https://i.imgur.com/m4ubL69.png" group-title="A- Deportes Premium",Claro Sports 2 FHD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1138.ts
-#EXTINF:-1 tvg-id="dazn1.es" tvg-name="DAZN 01" tvg-logo="https://i.imgur.com/b0lypV3.png" group-title="A- Deportes Premium",DAZN 01
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1768.ts
-#EXTINF:-1 tvg-id="dazn2.es" tvg-name="DAZN 02" tvg-logo="https://i.imgur.com/b0lypV3.png" group-title="A- Deportes Premium",DAZN 02
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1769.ts
-#EXTINF:-1 tvg-id="dazn3.es" tvg-name="DAZN 03" tvg-logo="https://i.imgur.com/b0lypV3.png" group-title="A- Deportes Premium",DAZN 03
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1770.ts
-#EXTINF:-1 tvg-id="dazn4.es" tvg-name="DAZN 04" tvg-logo="https://i.imgur.com/b0lypV3.png" group-title="A- Deportes Premium",DAZN 04
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1771.ts
-#EXTINF:-1 tvg-id="daznf1.es" tvg-name="DAZN Formula 1 (F1)" tvg-logo="https://i.imgur.com/b0lypV3.png" group-title="A- Deportes Premium",DAZN Formula 1 (F1)
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1772.ts
-#EXTINF:-1 tvg-id="daznf1.es" tvg-name="DAZN Formula 1 (F1)  HD" tvg-logo="https://i.imgur.com/b0lypV3.png" group-title="A- Deportes Premium",DAZN Formula 1 (F1)  HD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/976.ts
-#EXTINF:-1 tvg-id="daznf1.es" tvg-name="DAZN Formula 1 (F1) FHD" tvg-logo="https://i.imgur.com/b0lypV3.png" group-title="A- Deportes Premium",DAZN Formula 1 (F1) FHD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1096.ts
-#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="DAZN La Liga  HD" tvg-logo="https://i.imgur.com/b0lypV3.png" group-title="A- Deportes Premium",DAZN La Liga  HD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/240.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN La Liga 2" tvg-logo="https://i.imgur.com/b0lypV3.png" group-title="A- Deportes Premium",DAZN La Liga 2
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1064.ts
-#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="DAZN La Liga FHD" tvg-logo="https://i.imgur.com/b0lypV3.png" group-title="A- Deportes Premium",DAZN La Liga FHD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1063.ts
-#EXTINF:-1 tvg-id="DTV1610" tvg-name="Directv Sports" tvg-logo="https://i.imgur.com/G478cGU.png" group-title="A- Deportes Premium",Directv Sports
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1776.ts
-#EXTINF:-1 tvg-id="DTV1610" tvg-name="Directv Sports  HD" tvg-logo="https://i.imgur.com/JB4vFL8.png" group-title="A- Deportes Premium",Directv Sports  HD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1777.ts
-#EXTINF:-1 tvg-id="SPOPLH" tvg-name="Directv Sports +" tvg-logo="https://i.imgur.com/okhqFFc.png" group-title="A- Deportes Premium",Directv Sports +
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1778.ts
-#EXTINF:-1 tvg-id="SPOPLH" tvg-name="Directv Sports +  HD" tvg-logo="https://i.imgur.com/okhqFFc.png" group-title="A- Deportes Premium",Directv Sports +  HD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1773.ts
-#EXTINF:-1 tvg-id="SPOPLH" tvg-name="Directv Sports + FHD" tvg-logo="https://i.imgur.com/okhqFFc.png" group-title="A- Deportes Premium",Directv Sports + FHD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/238.ts
-#EXTINF:-1 tvg-id="SPO2HD" tvg-name="Directv Sports 2" tvg-logo="https://i.imgur.com/94Pqc27.png" group-title="A- Deportes Premium",Directv Sports 2
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1060.ts
-#EXTINF:-1 tvg-id="SPO2HD" tvg-name="Directv Sports 2  HD" tvg-logo="https://i.imgur.com/94Pqc27.png" group-title="A- Deportes Premium",Directv Sports 2  HD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1774.ts
-#EXTINF:-1 tvg-id="SPO2HD" tvg-name="Directv Sports 2 FHD" tvg-logo="https://i.imgur.com/ztiQ8RN.png" group-title="A- Deportes Premium",Directv Sports 2 FHD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1775.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Directv Sports Chile" tvg-logo="https://i.imgur.com/G478cGU.png" group-title="A- Deportes Premium",Directv Sports Chile
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1316.ts
-#EXTINF:-1 tvg-id="DTV1610" tvg-name="Directv Sports FHD" tvg-logo="https://i.imgur.com/JB4vFL8.png" group-title="A- Deportes Premium",Directv Sports FHD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/237.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Directv Sports Fight  HD" tvg-logo="https://i.imgur.com/FOEcjdQ.png" group-title="A- Deportes Premium",Directv Sports Fight  HD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/969.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Directv Sports Fight FHD" tvg-logo="https://i.imgur.com/FOEcjdQ.png" group-title="A- Deportes Premium",Directv Sports Fight FHD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/968.ts
-#EXTINF:-1 tvg-id="ELVN" tvg-name="Eleven Sports 1" tvg-logo="https://i.imgur.com/VcbUt3J.png" group-title="A- Deportes Premium",Eleven Sports 1
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1228.ts
-#EXTINF:-1 tvg-id="ELEVSP" tvg-name="Eleven Sports 2" tvg-logo="https://i.imgur.com/BKIxkta.png" group-title="A- Deportes Premium",Eleven Sports 2
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1229.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 3" tvg-logo="https://i.imgur.com/Qf6VbOI.png" group-title="A- Deportes Premium",Eleven Sports 3
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1230.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 4" tvg-logo="https://i.imgur.com/qUNETCw.png" group-title="A- Deportes Premium",Eleven Sports 4
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1231.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 5" tvg-logo="https://i.imgur.com/SzSa2sr.png" group-title="A- Deportes Premium",Eleven Sports 5
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1232.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN Premium" tvg-logo="https://i.imgur.com/40SHixE.png" group-title="A- Deportes Premium",ESPN Premium
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1657.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN Premium  HD" tvg-logo="https://i.imgur.com/40SHixE.png" group-title="A- Deportes Premium",ESPN Premium  HD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1656.ts
-#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="Eurosport 1" tvg-logo="https://i.imgur.com/DYTeyWO.png" group-title="A- Deportes Premium",Eurosport 1
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1664.ts
-#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="Eurosport 1  HD" tvg-logo="https://i.imgur.com/DYTeyWO.png" group-title="A- Deportes Premium",Eurosport 1  HD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1779.ts
-#EXTINF:-1 tvg-id="eurosport2.es" tvg-name="Eurosport 2" tvg-logo="https://i.imgur.com/t6LGN4F.png" group-title="A- Deportes Premium",Eurosport 2
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1780.ts
-#EXTINF:-1 tvg-id="eurosport2.es" tvg-name="Eurosport 2  HD" tvg-logo="https://i.imgur.com/t6LGN4F.png" group-title="A- Deportes Premium",Eurosport 2  HD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1665.ts
-#EXTINF:-1 tvg-id="fightnetwork.us" tvg-name="Fight Network HD" tvg-logo="https://i.imgur.com/I2qnx5t.png" group-title="A- Deportes Premium",Fight Network HD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1233.ts
-#EXTINF:-1 tvg-id="FIGHTBH" tvg-name="FightBox  HD" tvg-logo="https://i.imgur.com/CMolKyI.png" group-title="A- Deportes Premium",FightBox  HD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1221.ts
-#EXTINF:-1 tvg-id="FOX SPORTS PREMIUM" tvg-name="FOX Sports Premium MX" tvg-logo="https://i.imgur.com/FI8osXa.png" group-title="A- Deportes Premium",FOX Sports Premium MX
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1323.ts
-#EXTINF:-1 tvg-id="FOX SPORTS PREMIUM" tvg-name="FOX Sports Premium MX  HD" tvg-logo="https://i.imgur.com/FI8osXa.png" group-title="A- Deportes Premium",FOX Sports Premium MX  HD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1483.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Liga Smartbank" tvg-logo="https://i.imgur.com/ZWzYqeb.png" group-title="A- Deportes Premium",La Liga Smartbank
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/995.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Liga Smartbank  HD" tvg-logo="https://i.imgur.com/ZWzYqeb.png" group-title="A- Deportes Premium",La Liga Smartbank  HD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/994.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Liga Smartbank FHD" tvg-logo="https://i.imgur.com/ZWzYqeb.png" group-title="A- Deportes Premium",La Liga Smartbank FHD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/993.ts
-#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="LaLiga por M+" tvg-logo="https://i.imgur.com/aF234GL.png" group-title="A- Deportes Premium",LaLiga por M+
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1783.ts
-#EXTINF:-1 tvg-id="laligatvbar.es" tvg-name="LaLiga por M+  HD" tvg-logo="https://i.imgur.com/aF234GL.png" group-title="A- Deportes Premium",LaLiga por M+  HD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1782.ts
-#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="LaLiga por M+FHD" tvg-logo="https://i.imgur.com/aF234GL.png" group-title="A- Deportes Premium",LaLiga por M+FHD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1784.ts
-#EXTINF:-1 tvg-id="laligatvbar.es" tvg-name="LaLiga TV BAR" tvg-logo="https://i.imgur.com/CV9GDiO.png" group-title="A- Deportes Premium",LaLiga TV BAR
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/916.ts
-#EXTINF:-1 tvg-id="laligatvbar.es" tvg-name="LaLiga TV BAR  HD" tvg-logo="https://i.imgur.com/CV9GDiO.png" group-title="A- Deportes Premium",LaLiga TV BAR  HD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1666.ts
-#EXTINF:-1 tvg-id="mligadecampeones1.es" tvg-name="M+ Liga de Campeones" tvg-logo="https://i.imgur.com/EnvT8e0.png" group-title="A- Deportes Premium",M+ Liga de Campeones
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1062842.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Moto GP (italy)" tvg-logo="https://i.imgur.com/R5KBMjx.png" group-title="A- Deportes Premium",Moto GP (italy)
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1010.ts
-#EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="Movistar Deportes" tvg-logo="https://i.imgur.com/IswrCPt.png" group-title="A- Deportes Premium",Movistar Deportes
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1623.ts
-#EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="Movistar Deportes FHD" tvg-logo="https://i.imgur.com/IswrCPt.png" group-title="A- Deportes Premium",Movistar Deportes FHD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1781.ts
-#EXTINF:-1 tvg-id="movistargolf.es" tvg-name="Movistar Golf FHD" tvg-logo="https://i.imgur.com/qtS44wq.png" group-title="A- Deportes Premium",Movistar Golf FHD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2497.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Moto GP" tvg-logo="https://i.imgur.com/xHAJL7H.png" group-title="A- Deportes Premium",Movistar Moto GP
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1070904.ts
-#EXTINF:-1 tvg-id="RTPIBR" tvg-name="RTP International" tvg-logo="https://i.imgur.com/I1sYJgi.png" group-title="A- Deportes Premium",RTP International
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/980.ts
-#EXTINF:-1 tvg-id="ZYB597" tvg-name="Sic FHD" tvg-logo="https://i.imgur.com/qDdDKOk.png" group-title="A- Deportes Premium",Sic FHD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/979.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Esp  HD" tvg-logo="https://i.imgur.com/4KX68Vi.png" group-title="A- Deportes Premium",Sky Sports Esp  HD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2717.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Esp  HD ver 2" tvg-logo="https://i.imgur.com/4KX68Vi.png" group-title="A- Deportes Premium",Sky Sports Esp  HD ver 2
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2718.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports LaLiga" tvg-logo="https://i.imgur.com/4KX68Vi.png" group-title="A- Deportes Premium",Sky Sports LaLiga
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1068267.ts
-#EXTINF:-1 tvg-id="SPORTV" tvg-name="Sport TV" tvg-logo="https://i.ibb.co/xj60G5t/Sport.png" group-title="A- Deportes Premium",Sport TV
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1071.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport TV +" tvg-logo="https://i.ibb.co/xj60G5t/Sport.png" group-title="A- Deportes Premium",Sport TV +
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1222.ts
-#EXTINF:-1 tvg-id="SPORTV2" tvg-name="Sport TV 2" tvg-logo="https://i.ibb.co/vw8Gt1W/sport-2.png" group-title="A- Deportes Premium",Sport TV 2
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1223.ts
-#EXTINF:-1 tvg-id="SPORTV3" tvg-name="Sport TV 3" tvg-logo="https://i.ibb.co/cbcg4Dk/ssport-3.png" group-title="A- Deportes Premium",Sport TV 3
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1224.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport TV 4" tvg-logo="https://i.ibb.co/R0x9t5V/sport-4.png" group-title="A- Deportes Premium",Sport TV 4
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1225.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport TV 5" tvg-logo="https://i.ibb.co/64kCmBq/sport-5.png" group-title="A- Deportes Premium",Sport TV 5
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1226.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport TV 6" tvg-logo="https://i.ibb.co/SKWDftJ/sport-6.png" group-title="A- Deportes Premium",Sport TV 6
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1227.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star +" tvg-logo="https://i.imgur.com/mWY5wIx.png" group-title="A- Deportes Premium",Star +
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1594.ts
-#EXTINF:-1 tvg-id="teledeporte.es" tvg-name="Teledeporte" tvg-logo="https://i.imgur.com/5QY3e2W.png" group-title="A- Deportes Premium",Teledeporte
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1001.ts
-#EXTINF:-1 tvg-id="teledeporte.es" tvg-name="Teledeporte  HD" tvg-logo="https://i.imgur.com/5QY3e2W.png" group-title="A- Deportes Premium",Teledeporte  HD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1002.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TUDN XTRA 01" tvg-logo="https://pbs.twimg.com/profile_images/1163864477856620544/a4jUeZxm_400x400.jpg" group-title="A- Deportes Premium",TUDN XTRA 01
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1800.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TUDN XTRA 02" tvg-logo="https://pbs.twimg.com/profile_images/1163864477856620544/a4jUeZxm_400x400.jpg" group-title="A- Deportes Premium",TUDN XTRA 02
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1803.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TUDN XTRA 03" tvg-logo="https://pbs.twimg.com/profile_images/1163864477856620544/a4jUeZxm_400x400.jpg" group-title="A- Deportes Premium",TUDN XTRA 03
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1804.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TUDN XTRA 04" tvg-logo="https://pbs.twimg.com/profile_images/1163864477856620544/a4jUeZxm_400x400.jpg" group-title="A- Deportes Premium",TUDN XTRA 04
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1805.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TUDN XTRA 05" tvg-logo="https://pbs.twimg.com/profile_images/1163864477856620544/a4jUeZxm_400x400.jpg" group-title="A- Deportes Premium",TUDN XTRA 05
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1806.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TUDN XTRA 06" tvg-logo="https://pbs.twimg.com/profile_images/1163864477856620544/a4jUeZxm_400x400.jpg" group-title="A- Deportes Premium",TUDN XTRA 06
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1807.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TUDN XTRA 07" tvg-logo="https://pbs.twimg.com/profile_images/1163864477856620544/a4jUeZxm_400x400.jpg" group-title="A- Deportes Premium",TUDN XTRA 07
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1808.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TUDN XTRA 08" tvg-logo="https://pbs.twimg.com/profile_images/1163864477856620544/a4jUeZxm_400x400.jpg" group-title="A- Deportes Premium",TUDN XTRA 08
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1809.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TUDN XTRA 09" tvg-logo="https://pbs.twimg.com/profile_images/1163864477856620544/a4jUeZxm_400x400.jpg" group-title="A- Deportes Premium",TUDN XTRA 09
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1810.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TUDN XTRA 10" tvg-logo="https://pbs.twimg.com/profile_images/1163864477856620544/a4jUeZxm_400x400.jpg" group-title="A- Deportes Premium",TUDN XTRA 10
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1801.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TUDN XTRA 11" tvg-logo="https://pbs.twimg.com/profile_images/1163864477856620544/a4jUeZxm_400x400.jpg" group-title="A- Deportes Premium",TUDN XTRA 11
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1802.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zona TUDN" tvg-logo="https://i.imgur.com/FbT8oqo.png" group-title="A- Deportes Premium",Zona TUDN
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1069.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zona TUDN USA" tvg-logo="https://i.imgur.com/FbT8oqo.png" group-title="A- Deportes Premium",Zona TUDN USA
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1070.ts
-#EXTINF:-1 tvg-id="laligasmartbank.es" tvg-name="LaLiga" tvg-logo="https://i.imgur.com/DllzvsE.png" group-title="A- Deportes Premium",LaLiga
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1071607.ts
-#EXTINF:-1 tvg-id="Lucha.Libre.AAA.us" tvg-name="AAA" tvg-logo="https://i.imgur.com/jNLoaau.png" group-title="B- Deportes",AAA
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1308.ts
-#EXTINF:-1 tvg-id="ufcnetwork.mx" tvg-name="Adrenalina Sports Network" tvg-logo="https://i.imgur.com/ifikD7K.png" group-title="B- Deportes",Adrenalina Sports Network
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1649.ts
-#EXTINF:-1 tvg-id="ufcnetwork.mx" tvg-name="Adrenalina Sports Network  HD" tvg-logo="https://i.imgur.com/ifikD7K.png" group-title="B- Deportes",Adrenalina Sports Network  HD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1543.ts
-#EXTINF:-1 tvg-id="afizzionados.mx" tvg-name="Afizzionados" tvg-logo="https://i.imgur.com/hckl8xa.png" group-title="B- Deportes",Afizzionados
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2573.ts
-#EXTINF:-1 tvg-id="afizzionados.mx" tvg-name="Afizzionados  HD" tvg-logo="https://i.imgur.com/hckl8xa.png" group-title="B- Deportes",Afizzionados  HD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2572.ts
-#EXTINF:-1 tvg-id="aymsports.mx" tvg-name="AYM Sports" tvg-logo="https://i.imgur.com/lhLiExQ.png" group-title="B- Deportes",AYM Sports
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2006.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Azteca Deportes  HD" tvg-logo="https://i.imgur.com/U5e3Vmr.png" group-title="B- Deportes",Azteca Deportes  HD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/13.ts
-#EXTINF:-1 tvg-id="BARCATV" tvg-name="Barca TV" tvg-logo="https://i.imgur.com/VJEydz6.png" group-title="B- Deportes",Barca TV
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1969.ts
-#EXTINF:-1 tvg-id="clarosportscolombia.co" tvg-name="Claro Sports" tvg-logo="https://i.imgur.com/xhqCt1d.png" group-title="B- Deportes",Claro Sports
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1767.ts
-#EXTINF:-1 tvg-id="clarosportscolombia.co" tvg-name="Claro Sports  HD" tvg-logo="https://i.imgur.com/xhqCt1d.png" group-title="B- Deportes",Claro Sports  HD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1660.ts
-#EXTINF:-1 tvg-id="DEPORTV" tvg-name="Deportv FHD" tvg-logo="https://i.imgur.com/c0u0grx.png" group-title="B- Deportes",Deportv FHD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1667.ts
-#EXTINF:-1 tvg-id="espn.ar" tvg-name="ESPN 1 ARG" tvg-logo="https://i.imgur.com/r5kftbo.png" group-title="B- Deportes",ESPN 1 ARG
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1971.ts
-#EXTINF:-1 tvg-id="espn.ar" tvg-name="ESPN 1 ARG  HD" tvg-logo="https://i.imgur.com/r5kftbo.png" group-title="B- Deportes",ESPN 1 ARG  HD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1993.ts
-#EXTINF:-1 tvg-id="espn.ar" tvg-name="ESPN 1 ARG FHD" tvg-logo="https://i.imgur.com/r5kftbo.png" group-title="B- Deportes",ESPN 1 ARG FHD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1972.ts
-#EXTINF:-1 tvg-id="espn.co" tvg-name="ESPN 1 CO" tvg-logo="https://i.imgur.com/r5kftbo.png" group-title="B- Deportes",ESPN 1 CO
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1975.ts
-#EXTINF:-1 tvg-id="espn.co" tvg-name="ESPN 1 CO FHD" tvg-logo="https://i.imgur.com/r5kftbo.png" group-title="B- Deportes",ESPN 1 CO FHD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1976.ts
-#EXTINF:-1 tvg-id="espn.mx" tvg-name="ESPN 1 MX" tvg-logo="https://i.imgur.com/w6QBR5s.png" group-title="B- Deportes",ESPN 1 MX
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1995.ts
-#EXTINF:-1 tvg-id="espn.mx" tvg-name="ESPN 1 MX  HD" tvg-logo="https://i.imgur.com/r5kftbo.png" group-title="B- Deportes",ESPN 1 MX  HD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1994.ts
-#EXTINF:-1 tvg-id="espn.mx" tvg-name="ESPN 1 MX FHD" tvg-logo="https://i.imgur.com/r5kftbo.png" group-title="B- Deportes",ESPN 1 MX FHD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1992.ts
-#EXTINF:-1 tvg-id="espn2.ar" tvg-name="ESPN 2 ARG" tvg-logo="https://i.imgur.com/sDD0Q2O.png" group-title="B- Deportes",ESPN 2 ARG
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1980.ts
-#EXTINF:-1 tvg-id="espn2.ar" tvg-name="ESPN 2 ARG  HD" tvg-logo="https://i.imgur.com/sDD0Q2O.png" group-title="B- Deportes",ESPN 2 ARG  HD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1978.ts
-#EXTINF:-1 tvg-id="espn2.ar" tvg-name="ESPN 2 ARG FHD" tvg-logo="https://i.imgur.com/sDD0Q2O.png" group-title="B- Deportes",ESPN 2 ARG FHD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1970.ts
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 CL" tvg-logo="https://i.imgur.com/sDD0Q2O.png" group-title="B- Deportes",ESPN 2 CL
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1148.ts
-#EXTINF:-1 tvg-id="espn2.ar" tvg-name="ESPN 2 CL  HD" tvg-logo="https://i.imgur.com/sDD0Q2O.png" group-title="B- Deportes",ESPN 2 CL  HD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/19.ts
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 CO" tvg-logo="https://i.imgur.com/sDD0Q2O.png" group-title="B- Deportes",ESPN 2 CO
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1977.ts
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 CO FHD" tvg-logo="https://i.imgur.com/sDD0Q2O.png" group-title="B- Deportes",ESPN 2 CO FHD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1973.ts
-#EXTINF:-1 tvg-id="espn2.mx" tvg-name="ESPN 2 MX" tvg-logo="https://i.imgur.com/sDD0Q2O.png" group-title="B- Deportes",ESPN 2 MX
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1981.ts
-#EXTINF:-1 tvg-id="espn2.mx" tvg-name="ESPN 2 MX  HD" tvg-logo="https://i.imgur.com/sDD0Q2O.png" group-title="B- Deportes",ESPN 2 MX  HD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1979.ts
-#EXTINF:-1 tvg-id="espn2.mx" tvg-name="ESPN 2 MX FHD" tvg-logo="https://i.imgur.com/sDD0Q2O.png" group-title="B- Deportes",ESPN 2 MX FHD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/909.ts
-#EXTINF:-1 tvg-id="espn3.ar" tvg-name="ESPN 3 ARG" tvg-logo="https://i.imgur.com/7dMKKTO.png" group-title="B- Deportes",ESPN 3 ARG
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1985.ts
-#EXTINF:-1 tvg-id="espn3.ar" tvg-name="ESPN 3 ARG FHD" tvg-logo="https://i.imgur.com/7dMKKTO.png" group-title="B- Deportes",ESPN 3 ARG FHD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1983.ts
-#EXTINF:-1 tvg-id="espn3.co" tvg-name="ESPN 3 CO  HD" tvg-logo="https://i.imgur.com/7dMKKTO.png" group-title="B- Deportes",ESPN 3 CO  HD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1974.ts
-#EXTINF:-1 tvg-id="espn3.co" tvg-name="ESPN 3 CO FHD" tvg-logo="https://i.imgur.com/7dMKKTO.png" group-title="B- Deportes",ESPN 3 CO FHD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1982.ts
-#EXTINF:-1 tvg-id="espn3.mx" tvg-name="ESPN 3 MX" tvg-logo="https://i.imgur.com/7dMKKTO.png" group-title="B- Deportes",ESPN 3 MX
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1986.ts
-#EXTINF:-1 tvg-id="espn3.mx" tvg-name="ESPN 3 MX  HD" tvg-logo="https://i.imgur.com/7dMKKTO.png" group-title="B- Deportes",ESPN 3 MX  HD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1984.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN 4" tvg-logo="https://i.ibb.co/7KGCnFV/d21fac40-d2d4-4d52-ad5f-4a1347135bfe.jpg" group-title="B- Deportes",ESPN 4
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1069572.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN 4 ARG" tvg-logo="https://i.ibb.co/7KGCnFV/d21fac40-d2d4-4d52-ad5f-4a1347135bfe.jpg" group-title="B- Deportes",ESPN 4 ARG
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1988.ts
-#EXTINF:-1 tvg-id="247canaldenoticias.ar" tvg-name="ESPN 4 ARG FHD" tvg-logo="https://i.ibb.co/7KGCnFV/d21fac40-d2d4-4d52-ad5f-4a1347135bfe.jpg" group-title="B- Deportes",ESPN 4 ARG FHD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1987.ts
-#EXTINF:-1 tvg-id="espnxtra.ar" tvg-name="ESPN 4 HD" tvg-logo="https://i.ibb.co/7KGCnFV/d21fac40-d2d4-4d52-ad5f-4a1347135bfe.jpg" group-title="B- Deportes",ESPN 4 HD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1651.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN 5 CO" tvg-logo="https://i.imgur.com/qkjQ40e.png" group-title="B- Deportes",ESPN 5 CO
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1070263.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN 6" tvg-logo="https://i.imgur.com/35lOWHI.png" group-title="B- Deportes",ESPN 6
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1071606.ts
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN CL" tvg-logo="https://i.imgur.com/r5kftbo.png" group-title="B- Deportes",ESPN CL
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1147.ts
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN CL  HD" tvg-logo="https://i.imgur.com/r5kftbo.png" group-title="B- Deportes",ESPN CL  HD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1150.ts
-#EXTINF:-1 tvg-id="espndeportes.us" tvg-name="ESPN Deportes" tvg-logo="https://i.imgur.com/U3kYLKO.png" group-title="B- Deportes",ESPN Deportes
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/917.ts
-#EXTINF:-1 tvg-id="espndeportes.us" tvg-name="ESPN Deportes  HD" tvg-logo="https://i.imgur.com/U3kYLKO.png" group-title="B- Deportes",ESPN Deportes  HD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1989.ts
-#EXTINF:-1 tvg-id="espndeportes.us" tvg-name="ESPN Deportes FHD" tvg-logo="https://i.imgur.com/U3kYLKO.png" group-title="B- Deportes",ESPN Deportes FHD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/247.ts
-#EXTINF:-1 tvg-id="ESPN EXTRA" tvg-name="ESPN Extra 4" tvg-logo="https://i.ibb.co/7KGCnFV/d21fac40-d2d4-4d52-ad5f-4a1347135bfe.jpg" group-title="B- Deportes",ESPN Extra 4
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1991.ts
-#EXTINF:-1 tvg-id="foxdeportes.us" tvg-name="FOX Deportes" tvg-logo="https://www.logolynx.com/images/logolynx/a6/a6e8875d7685df7b35bc74a7755baead.jpeg" group-title="B- Deportes",FOX Deportes
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1931.ts
-#EXTINF:-1 tvg-id="foxdeportes.us" tvg-name="FOX Deportes  HD" tvg-logo="https://www.logolynx.com/images/logolynx/a6/a6e8875d7685df7b35bc74a7755baead.jpeg" group-title="B- Deportes",FOX Deportes  HD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1322.ts
-#EXTINF:-1 tvg-id="foxsports.ar" tvg-name="FOX Sports 1 ARG" tvg-logo="https://i.imgur.com/MrLBavf.png" group-title="B- Deportes",FOX Sports 1 ARG
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1752.ts
-#EXTINF:-1 tvg-id="foxsports.ar" tvg-name="FOX Sports 1 ARG  HD" tvg-logo="https://i.imgur.com/MrLBavf.png" group-title="B- Deportes",FOX Sports 1 ARG  HD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1750.ts
-#EXTINF:-1 tvg-id="FOX SPORTS" tvg-name="FOX Sports 1 CL" tvg-logo="https://i.imgur.com/SLrPvXC.png" group-title="B- Deportes",FOX Sports 1 CL
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1062.ts
-#EXTINF:-1 tvg-id="FOX SPORTS" tvg-name="FOX Sports 1 CL  HD" tvg-logo="https://i.imgur.com/SLrPvXC.png" group-title="B- Deportes",FOX Sports 1 CL  HD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1996.ts
-#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="FOX Sports 1 MX" tvg-logo="https://i.imgur.com/SLrPvXC.png" group-title="B- Deportes",FOX Sports 1 MX
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1753.ts
-#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="FOX Sports 1 MX  HD" tvg-logo="https://i.imgur.com/SLrPvXC.png" group-title="B- Deportes",FOX Sports 1 MX  HD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1751.ts
-#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="FOX Sports 1 MX FHD" tvg-logo="https://i.imgur.com/SLrPvXC.png" group-title="B- Deportes",FOX Sports 1 MX FHD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1749.ts
-#EXTINF:-1 tvg-id="foxsports2.ar" tvg-name="FOX Sports 2 ARG" tvg-logo="https://i.imgur.com/KevgRf3.png" group-title="B- Deportes",FOX Sports 2 ARG
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1744.ts
-#EXTINF:-1 tvg-id="foxsports2.ar" tvg-name="FOX Sports 2 ARG  HD" tvg-logo="https://i.imgur.com/KevgRf3.png" group-title="B- Deportes",FOX Sports 2 ARG  HD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1742.ts
-#EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-name="FOX Sports 2 CL  HD" tvg-logo="https://i.ibb.co/87kLRhk/fox-2.png" group-title="B- Deportes",FOX Sports 2 CL  HD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1741.ts
-#EXTINF:-1 tvg-id="foxsports2conosur.co" tvg-name="FOX Sports 2 COL" tvg-logo="https://i.ibb.co/87kLRhk/fox-2.png" group-title="B- Deportes",FOX Sports 2 COL
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/23.ts
-#EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="FOX Sports 2 MX" tvg-logo="https://i.ibb.co/87kLRhk/fox-2.png" group-title="B- Deportes",FOX Sports 2 MX
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1745.ts
-#EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="FOX Sports 2 MX  HD" tvg-logo="https://i.ibb.co/87kLRhk/fox-2.png" group-title="B- Deportes",FOX Sports 2 MX  HD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1743.ts
-#EXTINF:-1 tvg-id="foxsports2.ar" tvg-name="FOX Sports 2 Sur" tvg-logo="https://i.ibb.co/87kLRhk/fox-2.png" group-title="B- Deportes",FOX Sports 2 Sur
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1118.ts
-#EXTINF:-1 tvg-id="foxsports2.ar" tvg-name="FOX Sports 2 Sur  HD" tvg-logo="https://i.ibb.co/87kLRhk/fox-2.png" group-title="B- Deportes",FOX Sports 2 Sur  HD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1119.ts
-#EXTINF:-1 tvg-id="foxsports3.ar" tvg-name="FOX Sports 3 ARG" tvg-logo="https://i.imgur.com/5GLa9XI.png" group-title="B- Deportes",FOX Sports 3 ARG
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1748.ts
-#EXTINF:-1 tvg-id="foxsports3.ar" tvg-name="FOX Sports 3 ARG  HD" tvg-logo="https://i.imgur.com/5GLa9XI.png" group-title="B- Deportes",FOX Sports 3 ARG  HD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1746.ts
-#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="FOX Sports 3 MX" tvg-logo="https://i.imgur.com/SqkLrOK.png" group-title="B- Deportes",FOX Sports 3 MX
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1658.ts
-#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="FOX Sports 3 MX  HD" tvg-logo="https://i.imgur.com/SqkLrOK.png" group-title="B- Deportes",FOX Sports 3 MX  HD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1747.ts
-#EXTINF:-1 tvg-id="gol.es" tvg-name="GOL" tvg-logo="https://i.imgur.com/Drw3kg5.png" group-title="B- Deportes",GOL
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1655.ts
-#EXTINF:-1 tvg-id="gol.es" tvg-name="GOL  HD" tvg-logo="https://i.imgur.com/Drw3kg5.png" group-title="B- Deportes",GOL  HD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1754.ts
-#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="GOLF Channel NBC" tvg-logo="https://i.imgur.com/14Zu6mf.png" group-title="B- Deportes",GOLF Channel NBC
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1755.ts
-#EXTINF:-1 tvg-id="LATAMSP" tvg-name="Latin American Sports TV" tvg-logo="https://i.imgur.com/TAqgcBW.png" group-title="B- Deportes",Latin American Sports TV
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/12.ts
-#EXTINF:-1 tvg-id="TOROS" tvg-name="Mundo Toro" tvg-logo="https://i.imgur.com/Nm3FFTT.png" group-title="B- Deportes",Mundo Toro
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/932.ts
-#EXTINF:-1 tvg-id="TOROS" tvg-name="Mundo Toro FHD" tvg-logo="https://i.imgur.com/Nm3FFTT.png" group-title="B- Deportes",Mundo Toro FHD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/931.ts
-#EXTINF:-1 tvg-id="TOROS" tvg-name="Onetoro  HD" tvg-logo="https://i.imgur.com/HGLxlSq.png" group-title="B- Deportes",Onetoro  HD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1654.ts
-#EXTINF:-1 tvg-id="TOROS" tvg-name="Onetoro FHD" tvg-logo="https://i.imgur.com/HGLxlSq.png" group-title="B- Deportes",Onetoro FHD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1758.ts
-#EXTINF:-1 tvg-id="realmadridtv.es" tvg-name="Real Madrid TV  HD" tvg-logo="https://i.imgur.com/Jps3cHo.png" group-title="B- Deportes",Real Madrid TV  HD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1326.ts
-#EXTINF:-1 tvg-id="realmadridtv.es" tvg-name="Real Madrid TV FHD" tvg-logo="https://i.imgur.com/Jps3cHo.png" group-title="B- Deportes",Real Madrid TV FHD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1756.ts
-#EXTINF:-1 tvg-id="TETRAH" tvg-name="Teletrak  HD" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f665a567a9739a970cc5_teletrak.jpeg" group-title="B- Deportes",Teletrak  HD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1757.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Sports 2" tvg-logo="https://i.imgur.com/kostHBk.png" group-title="B- Deportes",TNT Sports 2
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1788.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Sports 2 FHD" tvg-logo="https://i.imgur.com/kostHBk.png" group-title="B- Deportes",TNT Sports 2 FHD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1663.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Sports 3" tvg-logo="https://i.imgur.com/DZRJ3Yt.png" group-title="B- Deportes",TNT Sports 3
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1662.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Sports 3 FHD" tvg-logo="https://i.imgur.com/DZRJ3Yt.png" group-title="B- Deportes",TNT Sports 3 FHD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1661.ts
-#EXTINF:-1 tvg-id="tntsports.ar" tvg-name="TNT Sports ARG" tvg-logo="https://i.imgur.com/btol7km.png" group-title="B- Deportes",TNT Sports ARG
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1790.ts
-#EXTINF:-1 tvg-id="tntsports.ar" tvg-name="TNT Sports ARG  HD" tvg-logo="https://i.imgur.com/btol7km.png" group-title="B- Deportes",TNT Sports ARG  HD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1789.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Torole" tvg-logo="https://i.imgur.com/on1demH.png" group-title="B- Deportes",Torole
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1070989.ts
-#EXTINF:-1 tvg-id="tudn.mx" tvg-name="TUDN MX" tvg-logo="https://i.imgur.com/FbT8oqo.png" group-title="B- Deportes",TUDN MX
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1760.ts
-#EXTINF:-1 tvg-id="tudn.mx" tvg-name="TUDN MX  HD" tvg-logo="https://i.imgur.com/FbT8oqo.png" group-title="B- Deportes",TUDN MX  HD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1759.ts
-#EXTINF:-1 tvg-id="univisiondeportes.us" tvg-name="TUDN USA" tvg-logo="https://i.imgur.com/FbT8oqo.png" group-title="B- Deportes",TUDN USA
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1763.ts
-#EXTINF:-1 tvg-id="tudn.mx" tvg-name="TUDN USA  HD" tvg-logo="https://i.imgur.com/FbT8oqo.png" group-title="B- Deportes",TUDN USA  HD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1762.ts
-#EXTINF:-1 tvg-id="tudn.mx" tvg-name="TUDN USA FHD" tvg-logo="https://i.imgur.com/FbT8oqo.png" group-title="B- Deportes",TUDN USA FHD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1761.ts
-#EXTINF:-1 tvg-id="tvcdeportes.mx" tvg-name="TVC Deportes" tvg-logo="https://i.imgur.com/WmXKLl8.png" group-title="B- Deportes",TVC Deportes
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1652.ts
-#EXTINF:-1 tvg-id="tvcdeportes.mx" tvg-name="TVC Deportes  HD" tvg-logo="https://i.imgur.com/WmXKLl8.png" group-title="B- Deportes",TVC Deportes  HD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1764.ts
-#EXTINF:-1 tvg-id="tvcdeportes.mx" tvg-name="TVC Deportes FHD" tvg-logo="https://i.imgur.com/WmXKLl8.png" group-title="B- Deportes",TVC Deportes FHD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1653.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zapping Sports (solo eventos)" tvg-logo="https://i.imgur.com/CJcRS8h.png" group-title="B- Deportes",Zapping Sports (solo eventos)
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1059515.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Deportes TVC" tvg-logo="http://i.imgur.com/bVFutCJ.png" group-title="B- Deportes",Deportes TVC
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1061614.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurocopa 2024 | 30/Jun | 13:00 | España vs Georgia | ESPN" tvg-logo="http://51.222.152.107:81/posters/1679725153472.png" group-title="C- Futbol UEFA EURO",Eurocopa 2024 | 30/Jun | 13:00 | España vs Georgia | ESPN
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3152.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurocopa 2024 | 30/Jun | 13:00 | España vs Georgia | FOX" tvg-logo="http://51.222.152.107:81/posters/1679725153472.png" group-title="C- Futbol UEFA EURO",Eurocopa 2024 | 30/Jun | 13:00 | España vs Georgia | FOX
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3153.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="11:00 | EUROCOPA | Inglaterra vs. Eslovaquia | HD |*" tvg-logo="http://209.126.82.213/3v3ntos/eurocopa.png" group-title="C- Futbol UEFA EURO",11:00 | EUROCOPA | Inglaterra vs. Eslovaquia | HD |*
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3001.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="11:00 | EUROCOPA | Inglaterra vs. Eslovaquia | HD |**" tvg-logo="http://209.126.82.213/3v3ntos/eurocopa.png" group-title="C- Futbol UEFA EURO",11:00 | EUROCOPA | Inglaterra vs. Eslovaquia | HD |**
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3002.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="14:00 | EUROCOPA | España vs. Georgia | HD |*" tvg-logo="http://209.126.82.213/3v3ntos/eurocopa.png" group-title="C- Futbol UEFA EURO",14:00 | EUROCOPA | España vs. Georgia | HD |*
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3003.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="14:00 | EUROCOPA | España vs. Georgia | HD |**" tvg-logo="http://209.126.82.213/3v3ntos/eurocopa.png" group-title="C- Futbol UEFA EURO",14:00 | EUROCOPA | España vs. Georgia | HD |**
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3004.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="14:00 | EUROCOPA | España vs. Georgia | HD |***" tvg-logo="http://209.126.82.213/3v3ntos/eurocopa.png" group-title="C- Futbol UEFA EURO",14:00 | EUROCOPA | España vs. Georgia | HD |***
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3005.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUROCOPA | Event 1✅" tvg-logo="http://startv.solutions:80/images/QCqX5p5x3Y181Q8jwb82JMLveukgG0WB9wpKU945OCxP9ZQ_uoDOvbIfr82CjkX9.png" group-title="C- Futbol UEFA EURO",EUROCOPA | Event 1✅
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4065.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUROCOPA | Event 2✅" tvg-logo="http://startv.solutions:80/images/QCqX5p5x3Y181Q8jwb82JMLveukgG0WB9wpKU945OCxP9ZQ_uoDOvbIfr82CjkX9.png" group-title="C- Futbol UEFA EURO",EUROCOPA | Event 2✅
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4066.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUROCOPA | Event 3✅" tvg-logo="http://startv.solutions:80/images/QCqX5p5x3Y181Q8jwb82JMLveukgG0WB9wpKU945OCxP9ZQ_uoDOvbIfr82CjkX9.png" group-title="C- Futbol UEFA EURO",EUROCOPA | Event 3✅
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4067.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUROCOPA | Event 4✅" tvg-logo="http://startv.solutions:80/images/QCqX5p5x3Y181Q8jwb82JMLveukgG0WB9wpKU945OCxP9ZQ_uoDOvbIfr82CjkX9.png" group-title="C- Futbol UEFA EURO",EUROCOPA | Event 4✅
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4068.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUROCOPA | Event 5✅" tvg-logo="http://startv.solutions:80/images/QCqX5p5x3Y181Q8jwb82JMLveukgG0WB9wpKU945OCxP9ZQ_uoDOvbIfr82CjkX9.png" group-title="C- Futbol UEFA EURO",EUROCOPA | Event 5✅
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4069.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUROCOPA | Event 6✅" tvg-logo="http://startv.solutions:80/images/QCqX5p5x3Y181Q8jwb82JMLveukgG0WB9wpKU945OCxP9ZQ_uoDOvbIfr82CjkX9.png" group-title="C- Futbol UEFA EURO",EUROCOPA | Event 6✅
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4070.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUROCOPA | Event 7✅" tvg-logo="http://startv.solutions:80/images/QCqX5p5x3Y181Q8jwb82JMLveukgG0WB9wpKU945OCxP9ZQ_uoDOvbIfr82CjkX9.png" group-title="C- Futbol UEFA EURO",EUROCOPA | Event 7✅
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4071.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUROCOPA | Event 8✅" tvg-logo="http://startv.solutions:80/images/QCqX5p5x3Y181Q8jwb82JMLveukgG0WB9wpKU945OCxP9ZQ_uoDOvbIfr82CjkX9.png" group-title="C- Futbol UEFA EURO",EUROCOPA | Event 8✅
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4072.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUROCOPA | Event 9 ✅" tvg-logo="http://startv.solutions:80/images/QCqX5p5x3Y181Q8jwb82JMLveukgG0WB9wpKU945OCxP9ZQ_uoDOvbIfr82CjkX9.png" group-title="C- Futbol UEFA EURO",EUROCOPA | Event 9 ✅
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4073.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="30/06 13:00 CDMX. EUROCOPA. España vs Georgia (LA 1)" tvg-logo="http://startv.solutions:80/images/PbephkEIlvrQzehZPTGMQIrHlntsEwKFKUtcGuyinN1xsx2OKcjh7EJKAaE-uywBI2yjGKAaDDyDJNL9ltk6ajkiX8L4IJ1G3h1fuzF30u0.png" group-title="C- Futbol UEFA EURO",30/06 13:00 CDMX. EUROCOPA. España vs Georgia (LA 1)
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4225.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="30/06 13:00 CDMX. EUROCOPA. España vs Georgia (SPORT TV)" tvg-logo="http://startv.solutions:80/images/PbephkEIlvrQzehZPTGMQIrHlntsEwKFKUtcGuyinN1xsx2OKcjh7EJKAaE-uywBI2yjGKAaDDyDJNL9ltk6ajkiX8L4IJ1G3h1fuzF30u0.png" group-title="C- Futbol UEFA EURO",30/06 13:00 CDMX. EUROCOPA. España vs Georgia (SPORT TV)
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4226.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="30/06 13:00 CDMX. EUROCOPA. España vs Georgia (ESPN SUR)" tvg-logo="http://startv.solutions:80/images/PbephkEIlvrQzehZPTGMQIrHlntsEwKFKUtcGuyinN1xsx2OKcjh7EJKAaE-uywBI2yjGKAaDDyDJNL9ltk6ajkiX8L4IJ1G3h1fuzF30u0.png" group-title="C- Futbol UEFA EURO",30/06 13:00 CDMX. EUROCOPA. España vs Georgia (ESPN SUR)
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4227.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="30/06 13:00 CDMX. EUROCOPA. España vs Georgia (TUDN)" tvg-logo="http://startv.solutions:80/images/PbephkEIlvrQzehZPTGMQIrHlntsEwKFKUtcGuyinN1xsx2OKcjh7EJKAaE-uywBI2yjGKAaDDyDJNL9ltk6ajkiX8L4IJ1G3h1fuzF30u0.png" group-title="C- Futbol UEFA EURO",30/06 13:00 CDMX. EUROCOPA. España vs Georgia (TUDN)
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4228.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="30/06 10:00 CDMX. EUROCOPA. Inglaterra vs Eslovaquia (LA 1)" tvg-logo="http://startv.solutions:80/images/PbephkEIlvrQzehZPTGMQIrHlntsEwKFKUtcGuyinN1xsx2OKcjh7EJKAaE-uywBI2yjGKAaDDyDJNL9ltk6ajkiX8L4IJ1G3h1fuzF30u0.png" group-title="C- Futbol UEFA EURO",30/06 10:00 CDMX. EUROCOPA. Inglaterra vs Eslovaquia (LA 1)
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4229.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="30/06 10:00 CDMX. EUROCOPA. Inglaterra vs Eslovaquia (SPORT TV)" tvg-logo="http://startv.solutions:80/images/PbephkEIlvrQzehZPTGMQIrHlntsEwKFKUtcGuyinN1xsx2OKcjh7EJKAaE-uywBI2yjGKAaDDyDJNL9ltk6ajkiX8L4IJ1G3h1fuzF30u0.png" group-title="C- Futbol UEFA EURO",30/06 10:00 CDMX. EUROCOPA. Inglaterra vs Eslovaquia (SPORT TV)
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4230.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="30/06 10:00 CDMX. EUROCOPA. Inglaterra vs Eslovaquia (TUDN)" tvg-logo="http://startv.solutions:80/images/PbephkEIlvrQzehZPTGMQIrHlntsEwKFKUtcGuyinN1xsx2OKcjh7EJKAaE-uywBI2yjGKAaDDyDJNL9ltk6ajkiX8L4IJ1G3h1fuzF30u0.png" group-title="C- Futbol UEFA EURO",30/06 10:00 CDMX. EUROCOPA. Inglaterra vs Eslovaquia (TUDN)
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4231.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Copa América  | 30/Jun | 18:00 | México vs Ecuador | TUDN" tvg-logo="http://51.222.152.107:81/posters/1718826643165.png" group-title="D-Futbol Copa America",Copa América  | 30/Jun | 18:00 | México vs Ecuador | TUDN
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3167.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Copa América  | 30/Jun | 18:00 | México vs Ecuador | Canal 5" tvg-logo="http://51.222.152.107:81/posters/1718826643165.png" group-title="D-Futbol Copa America",Copa América  | 30/Jun | 18:00 | México vs Ecuador | Canal 5
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3168.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Copa América  | 30/Jun | 18:00 | México vs Ecuador | Azteca 7" tvg-logo="http://51.222.152.107:81/posters/1718826643165.png" group-title="D-Futbol Copa America",Copa América  | 30/Jun | 18:00 | México vs Ecuador | Azteca 7
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3169.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Copa América  | 30/Jun | 18:00 | México vs Ecuador | TYC Sports" tvg-logo="http://51.222.152.107:81/posters/1718826643165.png" group-title="D-Futbol Copa America",Copa América  | 30/Jun | 18:00 | México vs Ecuador | TYC Sports
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3170.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Copa América  | 30/Jun | 18:00 |  México vs Ecuador | FOX" tvg-logo="http://51.222.152.107:81/posters/1718826643165.png" group-title="D-Futbol Copa America",Copa América  | 30/Jun | 18:00 |  México vs Ecuador | FOX
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3171.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Copa América  | 30/Jun | 18:00 | México vs Ecuador | TUDN USA" tvg-logo="http://51.222.152.107:81/posters/1718826643165.png" group-title="D-Futbol Copa America",Copa América  | 30/Jun | 18:00 | México vs Ecuador | TUDN USA
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3172.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Copa América  | 30/Jun | 18:00 | Jamaica vs Venezuela | FS1" tvg-logo="http://51.222.152.107:81/posters/1718826643165.png" group-title="D-Futbol Copa America",Copa América  | 30/Jun | 18:00 | Jamaica vs Venezuela | FS1
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3173.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="19:00 | COPA AMERICA | México vs. Ecuador | HD |*" tvg-logo="http://209.126.82.213/3v3ntos/copa_america.png" group-title="D-Futbol Copa America",19:00 | COPA AMERICA | México vs. Ecuador | HD |*
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3006.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="19:00 | COPA AMERICA | México vs. Ecuador | HD |**" tvg-logo="http://209.126.82.213/3v3ntos/copa_america.png" group-title="D-Futbol Copa America",19:00 | COPA AMERICA | México vs. Ecuador | HD |**
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3007.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="19:00 | COPA AMERICA | México vs. Ecuador | HD |***" tvg-logo="http://209.126.82.213/3v3ntos/copa_america.png" group-title="D-Futbol Copa America",19:00 | COPA AMERICA | México vs. Ecuador | HD |***
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3008.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="19:00 | COPA AMERICA | Jamaica vs. Venezuela | HD |*" tvg-logo="http://209.126.82.213/3v3ntos/copa_america.png" group-title="D-Futbol Copa America",19:00 | COPA AMERICA | Jamaica vs. Venezuela | HD |*
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3009.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="19:00 | COPA AMERICA | Jamaica vs. Venezuela | HD |**" tvg-logo="http://209.126.82.213/3v3ntos/copa_america.png" group-title="D-Futbol Copa America",19:00 | COPA AMERICA | Jamaica vs. Venezuela | HD |**
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3010.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="19:00 | COPA AMERICA | Jamaica vs. Venezuela | HD |***" tvg-logo="http://209.126.82.213/3v3ntos/copa_america.png" group-title="D-Futbol Copa America",19:00 | COPA AMERICA | Jamaica vs. Venezuela | HD |***
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3011.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COPA AMERICA 01" tvg-logo="http://startv.solutions:80/images/QCqX5p5x3Y181Q8jwb82JJ7vDqVu5vwFn5nd28NlqSgmbBDJxWaOCF9p_pOdVi9f.png" group-title="D-Futbol Copa America",COPA AMERICA 01
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3910.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COPA AMERICA 02" tvg-logo="http://startv.solutions:80/images/QCqX5p5x3Y181Q8jwb82JJ7vDqVu5vwFn5nd28NlqSgmbBDJxWaOCF9p_pOdVi9f.png" group-title="D-Futbol Copa America",COPA AMERICA 02
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4085.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COPA AMERICA 03" tvg-logo="http://startv.solutions:80/images/QCqX5p5x3Y181Q8jwb82JJ7vDqVu5vwFn5nd28NlqSgmbBDJxWaOCF9p_pOdVi9f.png" group-title="D-Futbol Copa America",COPA AMERICA 03
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4086.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COPA AMERICA 04" tvg-logo="http://startv.solutions:80/images/QCqX5p5x3Y181Q8jwb82JJ7vDqVu5vwFn5nd28NlqSgmbBDJxWaOCF9p_pOdVi9f.png" group-title="D-Futbol Copa America",COPA AMERICA 04
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4087.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COPA AMERICA 05" tvg-logo="http://startv.solutions:80/images/QCqX5p5x3Y181Q8jwb82JJ7vDqVu5vwFn5nd28NlqSgmbBDJxWaOCF9p_pOdVi9f.png" group-title="D-Futbol Copa America",COPA AMERICA 05
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4088.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COPA AMERICA 06" tvg-logo="http://startv.solutions:80/images/QCqX5p5x3Y181Q8jwb82JJ7vDqVu5vwFn5nd28NlqSgmbBDJxWaOCF9p_pOdVi9f.png" group-title="D-Futbol Copa America",COPA AMERICA 06
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4089.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COPA AMERICA 07" tvg-logo="http://startv.solutions:80/images/QCqX5p5x3Y181Q8jwb82JJ7vDqVu5vwFn5nd28NlqSgmbBDJxWaOCF9p_pOdVi9f.png" group-title="D-Futbol Copa America",COPA AMERICA 07
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4090.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COPA AMERICA 08" tvg-logo="http://startv.solutions:80/images/QCqX5p5x3Y181Q8jwb82JJ7vDqVu5vwFn5nd28NlqSgmbBDJxWaOCF9p_pOdVi9f.png" group-title="D-Futbol Copa America",COPA AMERICA 08
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4091.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COPA AMERICA 09" tvg-logo="http://startv.solutions:80/images/QCqX5p5x3Y181Q8jwb82JJ7vDqVu5vwFn5nd28NlqSgmbBDJxWaOCF9p_pOdVi9f.png" group-title="D-Futbol Copa America",COPA AMERICA 09
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4092.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COPA AMERICA 10" tvg-logo="http://startv.solutions:80/images/QCqX5p5x3Y181Q8jwb82JJ7vDqVu5vwFn5nd28NlqSgmbBDJxWaOCF9p_pOdVi9f.png" group-title="D-Futbol Copa America",COPA AMERICA 10
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4093.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COPA AMERICA 11" tvg-logo="http://startv.solutions:80/images/QCqX5p5x3Y181Q8jwb82JJ7vDqVu5vwFn5nd28NlqSgmbBDJxWaOCF9p_pOdVi9f.png" group-title="D-Futbol Copa America",COPA AMERICA 11
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4094.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COPA AMERICA 12" tvg-logo="http://startv.solutions:80/images/QCqX5p5x3Y181Q8jwb82JJ7vDqVu5vwFn5nd28NlqSgmbBDJxWaOCF9p_pOdVi9f.png" group-title="D-Futbol Copa America",COPA AMERICA 12
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4095.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COPA AMERICA 13" tvg-logo="http://startv.solutions:80/images/QCqX5p5x3Y181Q8jwb82JJ7vDqVu5vwFn5nd28NlqSgmbBDJxWaOCF9p_pOdVi9f.png" group-title="D-Futbol Copa America",COPA AMERICA 13
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4096.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COPA AMERICA 14" tvg-logo="http://startv.solutions:80/images/QCqX5p5x3Y181Q8jwb82JJ7vDqVu5vwFn5nd28NlqSgmbBDJxWaOCF9p_pOdVi9f.png" group-title="D-Futbol Copa America",COPA AMERICA 14
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4097.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COPA AMERICA 15" tvg-logo="http://startv.solutions:80/images/QCqX5p5x3Y181Q8jwb82JJ7vDqVu5vwFn5nd28NlqSgmbBDJxWaOCF9p_pOdVi9f.png" group-title="D-Futbol Copa America",COPA AMERICA 15
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4098.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COPA AMERICA 16" tvg-logo="http://startv.solutions:80/images/QCqX5p5x3Y181Q8jwb82JJ7vDqVu5vwFn5nd28NlqSgmbBDJxWaOCF9p_pOdVi9f.png" group-title="D-Futbol Copa America",COPA AMERICA 16
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4099.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COPA AMERICA 17" tvg-logo="http://startv.solutions:80/images/QCqX5p5x3Y181Q8jwb82JJ7vDqVu5vwFn5nd28NlqSgmbBDJxWaOCF9p_pOdVi9f.png" group-title="D-Futbol Copa America",COPA AMERICA 17
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4100.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COPA AMERICA 18" tvg-logo="http://startv.solutions:80/images/QCqX5p5x3Y181Q8jwb82JJ7vDqVu5vwFn5nd28NlqSgmbBDJxWaOCF9p_pOdVi9f.png" group-title="D-Futbol Copa America",COPA AMERICA 18
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4101.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COPA AMERICA 19" tvg-logo="http://startv.solutions:80/images/QCqX5p5x3Y181Q8jwb82JJ7vDqVu5vwFn5nd28NlqSgmbBDJxWaOCF9p_pOdVi9f.png" group-title="D-Futbol Copa America",COPA AMERICA 19
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4102.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COPA AMERICA 20" tvg-logo="http://startv.solutions:80/images/QCqX5p5x3Y181Q8jwb82JJ7vDqVu5vwFn5nd28NlqSgmbBDJxWaOCF9p_pOdVi9f.png" group-title="D-Futbol Copa America",COPA AMERICA 20
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4103.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="30/06 18:00 CDMX. COPA AMERICA. Jamaica vs Venezuela (SPORT TV)" tvg-logo="http://startv.solutions:80/images/PbephkEIlvrQzehZPTGMQIrHlntsEwKFKUtcGuyinN1xsx2OKcjh7EJKAaE-uywB2AJ90-jX5h-ct_LvWfexfRbluhZbhnR9b4O24rBVGtw.png" group-title="D-Futbol Copa America",30/06 18:00 CDMX. COPA AMERICA. Jamaica vs Venezuela (SPORT TV)
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4218.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="30/06 18:00 CDMX. COPA AMERICA. Jamaica vs Venezuela (TELEVEN)" tvg-logo="http://startv.solutions:80/images/PbephkEIlvrQzehZPTGMQIrHlntsEwKFKUtcGuyinN1xsx2OKcjh7EJKAaE-uywB2AJ90-jX5h-ct_LvWfexfRbluhZbhnR9b4O24rBVGtw.png" group-title="D-Futbol Copa America",30/06 18:00 CDMX. COPA AMERICA. Jamaica vs Venezuela (TELEVEN)
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4219.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="30/06 18:00 CDMX. COPA AMERICA. Jamaica vs Venezuela (FOX USA)" tvg-logo="http://startv.solutions:80/images/PbephkEIlvrQzehZPTGMQIrHlntsEwKFKUtcGuyinN1xsx2OKcjh7EJKAaE-uywB2AJ90-jX5h-ct_LvWfexfRbluhZbhnR9b4O24rBVGtw.png" group-title="D-Futbol Copa America",30/06 18:00 CDMX. COPA AMERICA. Jamaica vs Venezuela (FOX USA)
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4220.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="30/06 18:00 CDMX. COPA AMERICA. México vs Ecuador (SPORT TV)" tvg-logo="http://startv.solutions:80/images/PbephkEIlvrQzehZPTGMQIrHlntsEwKFKUtcGuyinN1xsx2OKcjh7EJKAaE-uywB2AJ90-jX5h-ct_LvWfexfRbluhZbhnR9b4O24rBVGtw.png" group-title="D-Futbol Copa America",30/06 18:00 CDMX. COPA AMERICA. México vs Ecuador (SPORT TV)
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4221.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="30/06 18:00 CDMX. COPA AMERICA. México vs Ecuador (ECUAVISA)" tvg-logo="http://startv.solutions:80/images/PbephkEIlvrQzehZPTGMQIrHlntsEwKFKUtcGuyinN1xsx2OKcjh7EJKAaE-uywB2AJ90-jX5h-ct_LvWfexfRbluhZbhnR9b4O24rBVGtw.png" group-title="D-Futbol Copa America",30/06 18:00 CDMX. COPA AMERICA. México vs Ecuador (ECUAVISA)
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4222.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="30/06 18:00 CDMX. COPA AMERICA. México vs Ecuador (TUDN)" tvg-logo="http://startv.solutions:80/images/PbephkEIlvrQzehZPTGMQIrHlntsEwKFKUtcGuyinN1xsx2OKcjh7EJKAaE-uywB2AJ90-jX5h-ct_LvWfexfRbluhZbhnR9b4O24rBVGtw.png" group-title="D-Futbol Copa America",30/06 18:00 CDMX. COPA AMERICA. México vs Ecuador (TUDN)
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4223.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="30/06 18:00 CDMX. COPA AMERICA. México vs Ecuador (AZTECA)" tvg-logo="http://startv.solutions:80/images/PbephkEIlvrQzehZPTGMQIrHlntsEwKFKUtcGuyinN1xsx2OKcjh7EJKAaE-uywB2AJ90-jX5h-ct_LvWfexfRbluhZbhnR9b4O24rBVGtw.png" group-title="D-Futbol Copa America",30/06 18:00 CDMX. COPA AMERICA. México vs Ecuador (AZTECA)
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4224.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Evento:| 1 | Colombia vs Costa Rica | (Dgo) EXCLUSIVO UHD" tvg-logo="https://i.ibb.co/3mhpTC6/Logos-galaxy-20240618-160111-0000.png" group-title="D-Futbol Copa America",Evento:| 1 | Colombia vs Costa Rica | (Dgo) EXCLUSIVO UHD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3311.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Evento:| 2 | Colombia vs Costa Rica | (DGO) EXCLUSIVO UHD" tvg-logo="https://i.ibb.co/3mhpTC6/Logos-galaxy-20240618-160111-0000.png" group-title="D-Futbol Copa America",Evento:| 2 | Colombia vs Costa Rica | (DGO) EXCLUSIVO UHD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3319.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Evento:| 3 | Panama vs Estados Unidos | (America) EXCLUSIVO UHD" tvg-logo="https://i.ibb.co/3mhpTC6/Logos-galaxy-20240618-160111-0000.png" group-title="D-Futbol Copa America",Evento:| 3 | Panama vs Estados Unidos | (America) EXCLUSIVO UHD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3320.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Evento:| 4 | Panama vs Estados Unidos | (TYC) EXCLUSIVO UHD" tvg-logo="https://i.ibb.co/3mhpTC6/Logos-galaxy-20240618-160111-0000.png" group-title="D-Futbol Copa America",Evento:| 4 | Panama vs Estados Unidos | (TYC) EXCLUSIVO UHD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3345.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Evento:| 5 | Colombia vs Costa Rica | (VIVO) EXCLUSIVO UHD" tvg-logo="https://i.ibb.co/3mhpTC6/Logos-galaxy-20240618-160111-0000.png" group-title="D-Futbol Copa America",Evento:| 5 | Colombia vs Costa Rica | (VIVO) EXCLUSIVO UHD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3357.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Evento:| 6 | Uruguay vs Bolivia | (USA) EXCLUSIVO UHD" tvg-logo="https://i.ibb.co/3mhpTC6/Logos-galaxy-20240618-160111-0000.png" group-title="D-Futbol Copa America",Evento:| 6 | Uruguay vs Bolivia | (USA) EXCLUSIVO UHD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3382.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ECUAVISA - COPA AMÉRICA 2024" tvg-logo="https://images.sport.optus.com.au/resources/images/link/c63fd0d2-e3e3-3b49-9033-bc84f1d2cd4d/0697b78a-b78d-4a60-9089-881a14c6df23/1718075364013/420:0:1080:1080/900*900/HowtowatchCopaAmerica2024liveinAustraliaonOptusSport.jpg" group-title="D-Futbol Copa America",ECUAVISA - COPA AMÉRICA 2024
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3391.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Triller TV | 24/7" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGajxVMZUoiGQRPxp4P6ej5yaqycnNzigHW-8EJbCb6LorK3JAGYpMmtzfL-UF-dKbYU3jH-CXLUBMHe_XG7kLE_0.png" group-title="E- Box y Luchas",Triller TV | 24/7
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4023.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Triller TV | Event 1" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGajxVMZUoiGQRPxp4P6ej5yaqycnNzigHW-8EJbCb6LorK3JAGYpMmtzfL-UF-dKbYU3jH-CXLUBMHe_XG7kLE_0.png" group-title="E- Box y Luchas",Triller TV | Event 1
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4024.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Triller TV | Event 2" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGajxVMZUoiGQRPxp4P6ej5yaqycnNzigHW-8EJbCb6LorK3JAGYpMmtzfL-UF-dKbYU3jH-CXLUBMHe_XG7kLE_0.png" group-title="E- Box y Luchas",Triller TV | Event 2
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4025.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Triller TV | Event 3" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGajxVMZUoiGQRPxp4P6ej5yaqycnNzigHW-8EJbCb6LorK3JAGYpMmtzfL-UF-dKbYU3jH-CXLUBMHe_XG7kLE_0.png" group-title="E- Box y Luchas",Triller TV | Event 3
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4026.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Triller TV | Event 4" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGajxVMZUoiGQRPxp4P6ej5yaqycnNzigHW-8EJbCb6LorK3JAGYpMmtzfL-UF-dKbYU3jH-CXLUBMHe_XG7kLE_0.png" group-title="E- Box y Luchas",Triller TV | Event 4
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4027.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Triller TV | Event 5" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGajxVMZUoiGQRPxp4P6ej5yaqycnNzigHW-8EJbCb6LorK3JAGYpMmtzfL-UF-dKbYU3jH-CXLUBMHe_XG7kLE_0.png" group-title="E- Box y Luchas",Triller TV | Event 5
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4028.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Triller TV | Event 6" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGajxVMZUoiGQRPxp4P6ej5yaqycnNzigHW-8EJbCb6LorK3JAGYpMmtzfL-UF-dKbYU3jH-CXLUBMHe_XG7kLE_0.png" group-title="E- Box y Luchas",Triller TV | Event 6
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4029.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Triller TV | Event 7" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGajxVMZUoiGQRPxp4P6ej5yaqycnNzigHW-8EJbCb6LorK3JAGYpMmtzfL-UF-dKbYU3jH-CXLUBMHe_XG7kLE_0.png" group-title="E- Box y Luchas",Triller TV | Event 7
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4030.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Triller TV | Event 8" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGajxVMZUoiGQRPxp4P6ej5yaqycnNzigHW-8EJbCb6LorK3JAGYpMmtzfL-UF-dKbYU3jH-CXLUBMHe_XG7kLE_0.png" group-title="E- Box y Luchas",Triller TV | Event 8
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4031.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Triller TV | Event 9" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGajxVMZUoiGQRPxp4P6ej5yaqycnNzigHW-8EJbCb6LorK3JAGYpMmtzfL-UF-dKbYU3jH-CXLUBMHe_XG7kLE_0.png" group-title="E- Box y Luchas",Triller TV | Event 9
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4032.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Triller TV | Event 10" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGajxVMZUoiGQRPxp4P6ej5yaqycnNzigHW-8EJbCb6LorK3JAGYpMmtzfL-UF-dKbYU3jH-CXLUBMHe_XG7kLE_0.png" group-title="E- Box y Luchas",Triller TV | Event 10
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4033.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Triller TV | Event 11" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGajxVMZUoiGQRPxp4P6ej5yaqycnNzigHW-8EJbCb6LorK3JAGYpMmtzfL-UF-dKbYU3jH-CXLUBMHe_XG7kLE_0.png" group-title="E- Box y Luchas",Triller TV | Event 11
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4034.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Triller TV | Event 12" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGajxVMZUoiGQRPxp4P6ej5yaqycnNzigHW-8EJbCb6LorK3JAGYpMmtzfL-UF-dKbYU3jH-CXLUBMHe_XG7kLE_0.png" group-title="E- Box y Luchas",Triller TV | Event 12
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4035.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Triller TV | Event 13" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGajxVMZUoiGQRPxp4P6ej5yaqycnNzigHW-8EJbCb6LorK3JAGYpMmtzfL-UF-dKbYU3jH-CXLUBMHe_XG7kLE_0.png" group-title="E- Box y Luchas",Triller TV | Event 13
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4036.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Triller TV | Event 14" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGajxVMZUoiGQRPxp4P6ej5yaqycnNzigHW-8EJbCb6LorK3JAGYpMmtzfL-UF-dKbYU3jH-CXLUBMHe_XG7kLE_0.png" group-title="E- Box y Luchas",Triller TV | Event 14
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4037.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Triller TV | Event 15" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGajxVMZUoiGQRPxp4P6ej5yaqycnNzigHW-8EJbCb6LorK3JAGYpMmtzfL-UF-dKbYU3jH-CXLUBMHe_XG7kLE_0.png" group-title="E- Box y Luchas",Triller TV | Event 15
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4038.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="W.W.E | W.W.E Network (1280x720) (EXCLUSIVO) UHD" tvg-logo="http://fanc.tmsimg.com/assets/s90143_ll_h3_aa.png" group-title="E- Box y Luchas",W.W.E | W.W.E Network (1280x720) (EXCLUSIVO) UHD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3317.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Doctor Alí S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fkQ0pvOGKcdboxdmxBPm27ZFv6.jpg" group-title="E- Box y Luchas",Doctor Alí S02 E08
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3383.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="01 | LIGA MX" tvg-logo="http://startv.solutions:80/images/Z9P7BwxXlTl-k8RLQ286tACoQbUL-Pdl8JKQnGfhBRTsVj1kvWQA2TKH5emcxHGe758OsywOfGb8X6wXTF1n2TgsQBmrxzLz_qjFF3k-9zG20Bu_WDDpgNC8K26qaRrMlM7bSrWcoS1Ry8S_OevyL2SfZ6p5SImMTSAKQSAieTymVeTt9YJ0EBF-PTByj6h1kduk7swjfWqxnnLjbsKTXOBlH3G9ZO" group-title="F- Futbol Liga MX",01 | LIGA MX
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4039.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="02 | LIGA MX" tvg-logo="http://startv.solutions:80/images/Z9P7BwxXlTl-k8RLQ286tACoQbUL-Pdl8JKQnGfhBRTsVj1kvWQA2TKH5emcxHGe758OsywOfGb8X6wXTF1n2TgsQBmrxzLz_qjFF3k-9zG20Bu_WDDpgNC8K26qaRrMlM7bSrWcoS1Ry8S_OevyL2SfZ6p5SImMTSAKQSAieTymVeTt9YJ0EBF-PTByj6h1kduk7swjfWqxnnLjbsKTXOBlH3G9ZO" group-title="F- Futbol Liga MX",02 | LIGA MX
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4040.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="03 | LIGA MX" tvg-logo="http://startv.solutions:80/images/Z9P7BwxXlTl-k8RLQ286tACoQbUL-Pdl8JKQnGfhBRTsVj1kvWQA2TKH5emcxHGe758OsywOfGb8X6wXTF1n2TgsQBmrxzLz_qjFF3k-9zG20Bu_WDDpgNC8K26qaRrMlM7bSrWcoS1Ry8S_OevyL2SfZ6p5SImMTSAKQSAieTymVeTt9YJ0EBF-PTByj6h1kduk7swjfWqxnnLjbsKTXOBlH3G9ZO" group-title="F- Futbol Liga MX",03 | LIGA MX
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4041.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="04 | LIGA MX" tvg-logo="http://startv.solutions:80/images/Z9P7BwxXlTl-k8RLQ286tACoQbUL-Pdl8JKQnGfhBRTsVj1kvWQA2TKH5emcxHGe758OsywOfGb8X6wXTF1n2TgsQBmrxzLz_qjFF3k-9zG20Bu_WDDpgNC8K26qaRrMlM7bSrWcoS1Ry8S_OevyL2SfZ6p5SImMTSAKQSAieTymVeTt9YJ0EBF-PTByj6h1kduk7swjfWqxnnLjbsKTXOBlH3G9ZO" group-title="F- Futbol Liga MX",04 | LIGA MX
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4042.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="05 | LIGA MX" tvg-logo="http://startv.solutions:80/images/Z9P7BwxXlTl-k8RLQ286tACoQbUL-Pdl8JKQnGfhBRTsVj1kvWQA2TKH5emcxHGe758OsywOfGb8X6wXTF1n2TgsQBmrxzLz_qjFF3k-9zG20Bu_WDDpgNC8K26qaRrMlM7bSrWcoS1Ry8S_OevyL2SfZ6p5SImMTSAKQSAieTymVeTt9YJ0EBF-PTByj6h1kduk7swjfWqxnnLjbsKTXOBlH3G9ZO" group-title="F- Futbol Liga MX",05 | LIGA MX
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4043.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="06 | LIGA MX" tvg-logo="http://startv.solutions:80/images/Z9P7BwxXlTl-k8RLQ286tACoQbUL-Pdl8JKQnGfhBRTsVj1kvWQA2TKH5emcxHGe758OsywOfGb8X6wXTF1n2TgsQBmrxzLz_qjFF3k-9zG20Bu_WDDpgNC8K26qaRrMlM7bSrWcoS1Ry8S_OevyL2SfZ6p5SImMTSAKQSAieTymVeTt9YJ0EBF-PTByj6h1kduk7swjfWqxnnLjbsKTXOBlH3G9ZO" group-title="F- Futbol Liga MX",06 | LIGA MX
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4044.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="07 | LIGA MX" tvg-logo="http://startv.solutions:80/images/Z9P7BwxXlTl-k8RLQ286tACoQbUL-Pdl8JKQnGfhBRTsVj1kvWQA2TKH5emcxHGe758OsywOfGb8X6wXTF1n2TgsQBmrxzLz_qjFF3k-9zG20Bu_WDDpgNC8K26qaRrMlM7bSrWcoS1Ry8S_OevyL2SfZ6p5SImMTSAKQSAieTymVeTt9YJ0EBF-PTByj6h1kduk7swjfWqxnnLjbsKTXOBlH3G9ZO" group-title="F- Futbol Liga MX",07 | LIGA MX
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4045.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Liga M.X || T-U-D-N || (EVENTOS)" tvg-logo="http://fanc.tmsimg.com/assets/s65129_ll_h3_aa.png" group-title="F- Futbol Liga MX",Liga M.X || T-U-D-N || (EVENTOS)
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3325.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Liga M.X ||  (EVENTOS) UHD" tvg-logo="http://fanc.tmsimg.com/assets/s65129_ll_h3_aa.png" group-title="F- Futbol Liga MX",Liga M.X ||  (EVENTOS) UHD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3326.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Liga M.X || V.I.X+" tvg-logo="http://gzytv.vip:8880/images/78202cd0fc4af258d916fe333f1c535c.png" group-title="F- Futbol Liga MX",Liga M.X || V.I.X+
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3338.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Liga M.X || Afiz-ziona-dos Me.xi.co" tvg-logo="http://gzytv.vip:8880/images/111f89596e096ba20aa6f3aa422f7fbf.jpg" group-title="F- Futbol Liga MX",Liga M.X || Afiz-ziona-dos Me.xi.co
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3339.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN 1" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGamxLd9TdVBLpMhUEPEd1DSBbEjbfBgPZf8EHMSqxQRahtfs0k1P7MiJT23NjJFliHix3nGyGzAliTjqwm1f46u8.png" group-title="G- ESPN Plus",ESPN 1
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3773.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN 2" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGapoS6rs7ijkQX1sSJfLkkpKNQ7hRvc1xyLDzavGtf6RVj5Rw9Wo3j-flOUO5BZJXXnVuk2xSPX6QWOL2YzFCsbk.png" group-title="G- ESPN Plus",ESPN 2
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3774.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN 3" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGaiuGnZtkz6DT0acKxR3YJEsdED3LODMTv2b0zGtkuSzwoZjE3UTb1i9a7lVTWEc8FO-7HmCcxmp6leWTIudcOGQ.png" group-title="G- ESPN Plus",ESPN 3
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3775.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN 4" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGalc6jBMIjBEb70xQ-DF32Peve271AoQkvJskyJUWoCATWX-gVvTdI6eWNDLx9pCbW5PGmfnke8KJ0x0bQ3FW_hQ.png" group-title="G- ESPN Plus",ESPN 4
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3776.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN 5" tvg-logo="" group-title="G- ESPN Plus",ESPN 5
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3777.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN 6" tvg-logo="" group-title="G- ESPN Plus",ESPN 6
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3778.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN 7" tvg-logo="" group-title="G- ESPN Plus",ESPN 7
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3779.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN2 BRAZIL" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGaijU0MmEGptnpYy5cEWWaBevGuJglKDmR-RWZ9U_yeL-HFo5Cvz5-hWAabSGsQPftUKhSQxj05_lilMryj31DRo.jpg" group-title="G- ESPN Plus",ESPN2 BRAZIL
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3780.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN HD" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGajottV-Jfxik_r2pprBxYJExj3NLlD7NZiZ9aTyKiHuBAG1fmX9C61_M1NC1uU_RkhBazAZ8F_QlffZZFDhJ4Nw.png" group-title="G- ESPN Plus",ESPN HD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3781.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN 4" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGajottV-Jfxik_r2pprBxYJExj3NLlD7NZiZ9aTyKiHuBAG1fmX9C61_M1NC1uU_RkhBazAZ8F_QlffZZFDhJ4Nw.png" group-title="G- ESPN Plus",ESPN 4
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3782.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN 4 HD" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGajottV-Jfxik_r2pprBxYJExj3NLlD7NZiZ9aTyKiHuBAG1fmX9C61_M1NC1uU_RkhBazAZ8F_QlffZZFDhJ4Nw.png" group-title="G- ESPN Plus",ESPN 4 HD
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3783.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 00" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 00
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3784.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 01" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 01
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3785.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 02" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 02
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3786.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 03" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 03
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3787.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 04" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 04
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3788.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 05" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 05
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3789.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 06" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 06
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3790.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 07" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 07
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3791.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 08" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 08
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3792.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 09" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 09
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3793.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 10" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 10
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3794.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 11" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 11
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3795.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 12" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 12
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3796.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 13" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 13
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3797.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 14" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 14
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3798.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 15" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 15
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3799.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 16" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 16
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3800.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 17" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 17
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3801.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 18" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 18
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3802.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 19" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 19
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3803.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 20" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 20
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3804.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 21" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 21
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3805.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 22" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 22
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3806.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 23" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 23
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3807.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 24" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 24
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3808.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 25" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 25
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3809.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 26" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 26
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3810.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 27" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 27
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3811.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 28" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 28
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3812.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 29" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 29
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3813.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 30" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 30
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3814.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 31" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 31
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3815.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 32" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 32
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3816.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 33" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 33
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3817.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 34" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 34
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3818.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 35" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 35
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3819.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 36" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 36
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3820.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 37" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 37
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3821.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 38" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 38
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3822.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 39" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 39
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3823.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 40" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 40
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3824.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 41" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 41
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3825.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 42" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 42
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3826.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 43" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 43
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3827.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 44" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 44
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3828.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 45" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 45
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3829.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 46" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 46
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3830.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 47" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 47
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3831.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 48" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 48
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3832.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 49" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 49
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3833.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 50" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 50
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3834.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 51" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 51
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3835.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 52" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 52
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3836.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 53" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 53
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3837.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 54" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 54
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3838.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 55" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 55
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3839.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 56" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 56
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3840.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 57" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 57
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3841.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 58" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 58
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3967.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 59" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 59
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3968.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 60" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 60
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3969.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 61" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 61
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3970.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 62" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 62
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3971.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 63" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 63
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3972.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 64" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 64
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/3973.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 65" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 65
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4061.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 66" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 66
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4063.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 67" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 67
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4064.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 68" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 68
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4151.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 69" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 69
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4152.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 70" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 70
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4153.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 71" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 71
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4154.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 72" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 72
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4155.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 73" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 73
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4156.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 74" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 74
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4157.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN + EVENT 75" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGasg1owxoJFYuZBs0XRqolouPtAR81ck5T6Y1_PTd12Xmmj_dKcW25AyI2mD7y7DoFTnqy4QtuCKZnF28VWH6k5w.png" group-title="G- ESPN Plus",ESPN + EVENT 75
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/4158.ts
+#EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/es.xml"
+#EXTINF:-1 channel-id="samsung-ESBC4100001NZ" tvg-id="ESBC4100001NZ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20240611T061840SQUARE.png" tvg-chno="4001" group-title="Entretenimiento" , La 1
+https://jmp2.uk/SamsungTVPlus/ESBC4100001NZ.m3u8
+
+#EXTINF:-1 channel-id="samsung-ES400002P5" tvg-id="ES400002P5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES400002P5_20240611T061836SQUARE.png" tvg-chno="4002" group-title="Drama" , Cuéntame cómo pasó
+https://jmp2.uk/SamsungTVPlus/ES400002P5.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESAJ4500024LR" tvg-id="ESAJ4500024LR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500024LR_20230222T012038SQUARE.png_20230222012039.png" tvg-chno="4003" group-title="Noticias" , Euronews en directo
+https://jmp2.uk/SamsungTVPlus/ESAJ4500024LR.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESAJ2900003ND" tvg-id="ESAJ2900003ND" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ2900003ND_20240117T032717SQUARE.png_20240117032717.png" tvg-chno="4004" group-title="Entretenimiento" , Estilo y Vida – Rakuten TV
+https://jmp2.uk/SamsungTVPlus/ESAJ2900003ND.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBC410000577" tvg-id="ESBC410000577" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC410000577_20240611T061853SQUARE.png" tvg-chno="4005" group-title="Deportes" , Teledeporte
+https://jmp2.uk/SamsungTVPlus/ESBC410000577.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBD2300003S5" tvg-id="ESBD2300003S5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300003S5_20240709T044326SQUARE.png" tvg-chno="4006" group-title="Infantil" , Rabbids : La invasion
+https://jmp2.uk/SamsungTVPlus/ESBD2300003S5.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBC4100002AG" tvg-id="ESBC4100002AG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100002AG_20221109T010944SQUARE.png_20221109010944.png" tvg-chno="4105" group-title="Entretenimiento" , La 2
+https://jmp2.uk/SamsungTVPlus/ESBC4100002AG.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBD3000002GP" tvg-id="ESBD3000002GP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3000002GP_20240611T061832SQUARE.png" tvg-chno="4107" group-title="Entretenimiento" , Canal Sur Andalucía
+https://jmp2.uk/SamsungTVPlus/ESBD3000002GP.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBD1300004IG" tvg-id="ESBD1300004IG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300004IG_20231115T012149SQUARE.png_20231115012149.png" tvg-chno="4108" group-title="Entretenimiento" , Azteca Internacional
+https://jmp2.uk/SamsungTVPlus/ESBD1300004IG.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESAJ3800003LX" tvg-id="ESAJ3800003LX" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800003LX_20221026T004500SQUARE.png_20221026004501.png" tvg-chno="4110" group-title="Entretenimiento" , MTV Catfish
+https://jmp2.uk/SamsungTVPlus/ESAJ3800003LX.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESAJ3800006TT" tvg-id="ESAJ3800006TT" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800006TT_20231213T033347SQUARE.png_20231213033348.png" tvg-chno="4113" group-title="Entretenimiento" , MTV Cribs
+https://jmp2.uk/SamsungTVPlus/ESAJ3800006TT.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESAJ380000226" tvg-id="ESAJ380000226" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ380000226_20231213T033345SQUARE.png_20231213033345.png" tvg-chno="4115" group-title="Entretenimiento" , MTV Originals
+https://jmp2.uk/SamsungTVPlus/ESAJ380000226.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBA1400006NP" tvg-id="ESBA1400006NP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1400006NP_20221026T004520SQUARE.png_20221026004521.png" tvg-chno="4116" group-title="Entretenimiento" , FailArmy
+https://jmp2.uk/SamsungTVPlus/ESBA1400006NP.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESAJ4500023Y5" tvg-id="ESAJ4500023Y5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500023Y5_20220323T081726SQUARE.png_20220323081728.png" tvg-chno="4119" group-title="Entretenimiento" , People Are Awesome
+https://jmp2.uk/SamsungTVPlus/ESAJ4500023Y5.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBA3300033PL" tvg-id="ESBA3300033PL" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300033PL_20221109T010939SQUARE.png_20221109010939.png" tvg-chno="4121" group-title="Entretenimiento" , Encantador de Perros
+https://jmp2.uk/SamsungTVPlus/ESBA3300033PL.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESAJ4500016BH" tvg-id="ESAJ4500016BH" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500016BH_20230222T012037SQUARE.png_20230222012037.png" tvg-chno="4122" group-title="Entretenimiento" , The Pet Collective
+https://jmp2.uk/SamsungTVPlus/ESAJ4500016BH.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBC3900001G6" tvg-id="ESBC3900001G6" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3900001G6_20221012T021030SQUARE.png_20221012021030.png" tvg-chno="4123" group-title="Entretenimiento" , Vivir con Perros
+https://jmp2.uk/SamsungTVPlus/ESBC3900001G6.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBC3900002L8" tvg-id="ESBC3900002L8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3900002L8_20221012T021029SQUARE.png_20221012021029.png" tvg-chno="4124" group-title="Entretenimiento" , Vivir con Gatos
+https://jmp2.uk/SamsungTVPlus/ESBC3900002L8.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESAJ3800005C5" tvg-id="ESAJ3800005C5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800005C5_20240402T134057SQUARE.png" tvg-chno="4128" group-title="Entretenimiento" , Comedia Made in Spain
+https://jmp2.uk/SamsungTVPlus/ESAJ3800005C5.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBC4700003RJ" tvg-id="ESBC4700003RJ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700003RJ_20230412T042445SQUARE.png_20230412042445.png" tvg-chno="4130" group-title="Entretenimiento" , Teen Vee
+https://jmp2.uk/SamsungTVPlus/ESBC4700003RJ.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBC1700004PX" tvg-id="ESBC1700004PX" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700004PX_20240709T044322SQUARE.png" tvg-chno="4131" group-title="Entretenimiento" , Trailers
+https://jmp2.uk/SamsungTVPlus/ESBC1700004PX.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBC2700008SK" tvg-id="ESBC2700008SK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700008SK_20230426T015711SQUARE.png_20230426015712.png" tvg-chno="4136" group-title="Entretenimiento" , Just For Laughs
+https://jmp2.uk/SamsungTVPlus/ESBC2700008SK.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBA1400007MR" tvg-id="ESBA1400007MR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1400007MR_20230823T033059SQUARE.png_20230823033100.png" tvg-chno="4142" group-title="Entretenimiento" , Yu-Gi-Oh!
+https://jmp2.uk/SamsungTVPlus/ESBA1400007MR.m3u8
+
+#EXTINF:-1 channel-id="samsung-ES1400001T8" tvg-id="ES1400001T8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1400001T8_20240611T061830SQUARE.png" tvg-chno="4144" group-title="Entretenimiento" , Beyblade
+https://jmp2.uk/SamsungTVPlus/ES1400001T8.m3u8
+
+#EXTINF:-1 channel-id="samsung-ES4000016U" tvg-id="ES4000016U" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4000016U_20240611T061827SQUARE.png" tvg-chno="4151" group-title="Drama" , Acacias 38
+https://jmp2.uk/SamsungTVPlus/ES4000016U.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBD1300001EP" tvg-id="ESBD1300001EP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300001EP_20240117T032714SQUARE.png_20240117032715.png" tvg-chno="4156" group-title="Drama" , Baywatch – Los Vigilantes de la Playa
+https://jmp2.uk/SamsungTVPlus/ESBD1300001EP.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBA3300025WZ" tvg-id="ESBA3300025WZ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300025WZ_20221026T004516SQUARE.png_20221026004516.png" tvg-chno="4160" group-title="Drama" , Los Asesinatos de Midsomer
+https://jmp2.uk/SamsungTVPlus/ESBA3300025WZ.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBC2700010F6" tvg-id="ESBC2700010F6" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700010F6_20230619T082509SQUARE.png_20230619082509.png" tvg-chno="4162" group-title="Drama" , Crimen - Rakuten TV
+https://jmp2.uk/SamsungTVPlus/ESBC2700010F6.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBA3300039ZX" tvg-id="ESBA3300039ZX" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300039ZX_20240214T035644SQUARE.png_20240214035644.png" tvg-chno="4163" group-title="Drama" , FreeTV Estelar
+https://jmp2.uk/SamsungTVPlus/ESBA3300039ZX.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBA3300027H5" tvg-id="ESBA3300027H5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300027H5_20231011T084704SQUARE.png_20231011084705.png" tvg-chno="4166" group-title="Drama" , Las Reglas Del Juego
+https://jmp2.uk/SamsungTVPlus/ESBA3300027H5.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBD1300003VN" tvg-id="ESBD1300003VN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300003VN_20240611T061834SQUARE.png" tvg-chno="4167" group-title="Drama" , Corazón
+https://jmp2.uk/SamsungTVPlus/ESBD1300003VN.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBA140000504" tvg-id="ESBA140000504" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA140000504_20231115T012203SQUARE.png_20231115012203.png" tvg-chno="4169" group-title="Drama" , Stormcast Novelas
+https://jmp2.uk/SamsungTVPlus/ESBA140000504.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBC43000013T" tvg-id="ESBC43000013T" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC43000013T_20230915T042726SQUARE.png_20230915042727.png" tvg-chno="4170" group-title="Drama" , Todo Novelas
+https://jmp2.uk/SamsungTVPlus/ESBC43000013T.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBA1400001OG" tvg-id="ESBA1400001OG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1400001OG_20221012T021006SQUARE.png_20221012021006.png" tvg-chno="4172" group-title="Drama" , Doctor Who
+https://jmp2.uk/SamsungTVPlus/ESBA1400001OG.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBA1400003LA" tvg-id="ESBA1400003LA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1400003LA_20230614T005905SQUARE.png_20230614005905.png" tvg-chno="4175" group-title="Drama" , BBC Drama
+https://jmp2.uk/SamsungTVPlus/ESBA1400003LA.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBC1700001QI" tvg-id="ESBC1700001QI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700001QI_20220511T011726SQUARE.png_20220511011728.png" tvg-chno="4178" group-title="Drama" , Vive Kanal D Drama
+https://jmp2.uk/SamsungTVPlus/ESBC1700001QI.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBA3300029UG" tvg-id="ESBA3300029UG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300029UG_20221109T010707SQUARE.png_20221109010707.png" tvg-chno="4181" group-title="Drama" , El Comisario
+https://jmp2.uk/SamsungTVPlus/ESBA3300029UG.m3u8
+
+#EXTINF:-1 channel-id="samsung-ES12000024R" tvg-id="ES12000024R" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES12000024R_20240507T094209SQUARE.png" tvg-chno="4205" group-title="Factual" , Historia y Vida
+https://jmp2.uk/SamsungTVPlus/ES12000024R.m3u8
+
+#EXTINF:-1 channel-id="samsung-ES2600001MC" tvg-id="ES2600001MC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600001MC_20240730T065336SQUARE.png" tvg-chno="4208" group-title="Factual" , Forensic Files
+https://jmp2.uk/SamsungTVPlus/ES2600001MC.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBD3700001S0" tvg-id="ESBD3700001S0" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3700001S0_20231025T032753SQUARE.png_20231025032754.png" tvg-chno="4209" group-title="Factual" , DATELINE 24/7
+https://jmp2.uk/SamsungTVPlus/ESBD3700001S0.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBA3300036W1" tvg-id="ESBA3300036W1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300036W1_20230614T005921SQUARE.png_20230614005922.png" tvg-chno="4213" group-title="Factual" , BelAir TV
+https://jmp2.uk/SamsungTVPlus/ESBA3300036W1.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESAJ2900002J4" tvg-id="ESAJ2900002J4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ2900002J4_20240423T033400SQUARE.png" tvg-chno="4232" group-title="Factual" , Bloomberg Originals
+https://jmp2.uk/SamsungTVPlus/ESAJ2900002J4.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBC4700002TD" tvg-id="ESBC4700002TD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700002TD_20240131T031146SQUARE.png_20240131031146.png" tvg-chno="4239" group-title="Factual" , Love the Planet
+https://jmp2.uk/SamsungTVPlus/ESBC4700002TD.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBC170000388" tvg-id="ESBC170000388" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC170000388_20240521T042551SQUARE.png" tvg-chno="4256" group-title="Factual" , WaterBear
+https://jmp2.uk/SamsungTVPlus/ESBC170000388.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBA22000102A" tvg-id="ESBA22000102A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA22000102A_20240319T052636SQUARE.png" tvg-chno="4260" group-title="Naturaleza" , NatureTime
+https://jmp2.uk/SamsungTVPlus/ESBA22000102A.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBA330004121" tvg-id="ESBA330004121" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA330004121_20230426T015709SQUARE.png_20230426015710.png" tvg-chno="4263" group-title="Naturaleza" , WildEarth
+https://jmp2.uk/SamsungTVPlus/ESBA330004121.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBC4100004J1" tvg-id="ESBC4100004J1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100004J1_20230614T005926SQUARE.png_20230614005927.png" tvg-chno="4305" group-title="Noticias" , 24H
+https://jmp2.uk/SamsungTVPlus/ESBC4100004J1.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBD3400001AA" tvg-id="ESBD3400001AA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3400001AA_20240313T073244SQUARE.png" tvg-chno="4307" group-title="Noticias" , Negocios TV
+https://jmp2.uk/SamsungTVPlus/ESBD3400001AA.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBC1400001L8" tvg-id="ESBC1400001L8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1400001L8_20221109T010708SQUARE.png_20221109010709.png" tvg-chno="4310" group-title="Noticias" , El Confidencial
+https://jmp2.uk/SamsungTVPlus/ESBC1400001L8.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBD36000026Z" tvg-id="ESBD36000026Z" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD36000026Z_20231115T012151SQUARE.png_20231115012151.png" tvg-chno="4312" group-title="Noticias" , CNBC
+https://jmp2.uk/SamsungTVPlus/ESBD36000026Z.m3u8
+
+#EXTINF:-1 channel-id="samsung-ES1300001QC" tvg-id="ES1300001QC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1300001QC_20240611T061838SQUARE.png" tvg-chno="4313" group-title="Noticias" , DW
+https://jmp2.uk/SamsungTVPlus/ES1300001QC.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBD190000137" tvg-id="ESBD190000137" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD190000137_20230614T005931SQUARE.png_20230614005932.png" tvg-chno="4315" group-title="Noticias" , CNN FAST
+https://jmp2.uk/SamsungTVPlus/ESBD190000137.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBC400003YM" tvg-id="ESBC400003YM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC400003YM_20230913T030606SQUARE.png_20230913030607.png" tvg-chno="4316" group-title="Noticias" , NBC News NOW
+https://jmp2.uk/SamsungTVPlus/ESBC400003YM.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBC39000033J" tvg-id="ESBC39000033J" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC39000033J_20230809T053828SQUARE.png_20230809053829.png" tvg-chno="4318" group-title="Noticias" , El País
+https://jmp2.uk/SamsungTVPlus/ESBC39000033J.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBD1100001PQ" tvg-id="ESBD1100001PQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1100001PQ_20230823T033055SQUARE.png_20230823033056.png" tvg-chno="4319" group-title="Noticias" , FRANCE 24 FAST
+https://jmp2.uk/SamsungTVPlus/ESBD1100001PQ.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBA3300024AJ" tvg-id="ESBA3300024AJ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300024AJ_20221026T004524SQUARE.png_20221026004525.png" tvg-chno="4320" group-title="Noticias" , Bloomberg TV+
+https://jmp2.uk/SamsungTVPlus/ESBA3300024AJ.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBC1700002IM" tvg-id="ESBC1700002IM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700002IM_20220511T011722SQUARE.png_20220511011723.png" tvg-chno="4402" group-title="Estilo de Vida" , Televisión Consciente
+https://jmp2.uk/SamsungTVPlus/ESBC1700002IM.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBD1500001SD" tvg-id="ESBD1500001SD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1500001SD_20240507T094153SQUARE.png" tvg-chno="4403" group-title="Estilo de Vida" , Hoguera
+https://jmp2.uk/SamsungTVPlus/ESBD1500001SD.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBA1400008NE" tvg-id="ESBA1400008NE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1400008NE_20220713T034534SQUARE.png_20220713034534.png" tvg-chno="4405" group-title="Estilo de Vida" , ¡Hola! Play
+https://jmp2.uk/SamsungTVPlus/ESBA1400008NE.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBD1400003QN" tvg-id="ESBD1400003QN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1400003QN_20240313T073246SQUARE.png" tvg-chno="4407" group-title="Estilo de Vida" , Royalworld - Nobleza y Dinastias
+https://jmp2.uk/SamsungTVPlus/ESBD1400003QN.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESAJ4500017Y1" tvg-id="ESAJ4500017Y1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500017Y1_20220323T081606SQUARE.png_20220323081609.png" tvg-chno="4408" group-title="Estilo de Vida" , Fashion TV
+https://jmp2.uk/SamsungTVPlus/ESAJ4500017Y1.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBD1400001L4" tvg-id="ESBD1400001L4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1400001L4_20231101T032753SQUARE.png_20231101032754.png" tvg-chno="4410" group-title="Estilo de Vida" , Travelxp
+https://jmp2.uk/SamsungTVPlus/ESBD1400001L4.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBC27000040I" tvg-id="ESBC27000040I" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC27000040I_20230726T033527SQUARE.png_20230726033528.png" tvg-chno="4414" group-title="Estilo de Vida" , GoUSA TV
+https://jmp2.uk/SamsungTVPlus/ESBC27000040I.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBC3500002PW" tvg-id="ESBC3500002PW" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3500002PW_20221215T020824SQUARE.png_20221215020824.png" tvg-chno="4417" group-title="Estilo de Vida" , Ideas en 5 Minutos
+https://jmp2.uk/SamsungTVPlus/ESBC3500002PW.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESAJ3800007PC" tvg-id="ESAJ3800007PC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800007PC_20221214T044859SQUARE.png_20221214044900.png" tvg-chno="4435" group-title="Estilo de Vida" , Pluto TV Cocina
+https://jmp2.uk/SamsungTVPlus/ESAJ3800007PC.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBA2200006B4" tvg-id="ESBA2200006B4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA2200006B4_20220810T012723SQUARE.png_20220810012723.png" tvg-chno="4438" group-title="Estilo de Vida" , Tastemade
+https://jmp2.uk/SamsungTVPlus/ESBA2200006B4.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESAJ2900001Y3" tvg-id="ESAJ2900001Y3" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ2900001Y3_20240214T035705SQUARE.png_20240214035705.png" tvg-chno="4480" group-title="Motor" , Top Gear en Español
+https://jmp2.uk/SamsungTVPlus/ESAJ2900001Y3.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBD3200001EG" tvg-id="ESBD3200001EG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3200001EG_20230913T030604SQUARE.png_20230913030605.png" tvg-chno="4485" group-title="Motor" , Motorvision
+https://jmp2.uk/SamsungTVPlus/ESBD3200001EG.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBD3600001Q1" tvg-id="ESBD3600001Q1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3600001Q1_20240730T065330SQUARE.png" tvg-chno="4502" group-title="Deportes" , La Liga Inside
+https://jmp2.uk/SamsungTVPlus/ESBD3600001Q1.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBC2700009B4" tvg-id="ESBC2700009B4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700009B4_20230712T021339SQUARE.png_20230712021340.png" tvg-chno="4506" group-title="Deportes" , FIFA+
+https://jmp2.uk/SamsungTVPlus/ESBC2700009B4.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBD2600001ME" tvg-id="ESBD2600001ME" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2600001ME_20230809T053838SQUARE.png_20230809053839.png" tvg-chno="4509" group-title="Deportes" , Tennis Channel
+https://jmp2.uk/SamsungTVPlus/ESBD2600001ME.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBD2900001P9" tvg-id="ESBD2900001P9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2900001P9_20230926T032409SQUARE.png_20230926032410.png" tvg-chno="4510" group-title="Deportes" , World Poker Tour
+https://jmp2.uk/SamsungTVPlus/ESBD2900001P9.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBA140000460" tvg-id="ESBA140000460" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA140000460_20220323T082117SQUARE.png_20220323082120.png" tvg-chno="4560" group-title="Deporte Extremo" , Surf Channel
+https://jmp2.uk/SamsungTVPlus/ESBA140000460.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBC4100003WE" tvg-id="ESBC4100003WE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100003WE_20230208T013050SQUARE.png_20230208013050.png" tvg-chno="4604" group-title="Infantil" , Clan
+https://jmp2.uk/SamsungTVPlus/ESBC4100003WE.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBD130000205" tvg-id="ESBD130000205" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD130000205_20230809T053830SQUARE.png_20230809053830.png" tvg-chno="4606" group-title="Infantil" , Pitufo TV
+https://jmp2.uk/SamsungTVPlus/ESBD130000205.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBA3300028OE" tvg-id="ESBA3300028OE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300028OE_20220914T041141SQUARE.png_20220914041142.png" tvg-chno="4607" group-title="Infantil" , iCarly
+https://jmp2.uk/SamsungTVPlus/ESBA3300028OE.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBD1400002W4" tvg-id="ESBD1400002W4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1400002W4_20240228T030529SQUARE.png_20240228030530.png" tvg-chno="4608" group-title="Infantil" , Peter Rabbit
+https://jmp2.uk/SamsungTVPlus/ESBD1400002W4.m3u8
+
+#EXTINF:-1 channel-id="samsung-ES900001SH" tvg-id="ES900001SH" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES900001SH_20240709T044324SQUARE.png" tvg-chno="4610" group-title="Infantil" , Mr Bean Animated
+https://jmp2.uk/SamsungTVPlus/ES900001SH.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBD5100001G0" tvg-id="ESBD5100001G0" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD5100001G0_20240611T061825SQUARE.png" tvg-chno="4613" group-title="Infantil" , SuperToons TV
+https://jmp2.uk/SamsungTVPlus/ESBD5100001G0.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBA3300017FA" tvg-id="ESBA3300017FA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300017FA_20240117T032708SQUARE.png_20240117032709.png" tvg-chno="4615" group-title="Infantil" , Familiares - Rakuten TV
+https://jmp2.uk/SamsungTVPlus/ESBA3300017FA.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBD3200002V5" tvg-id="ESBD3200002V5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3200002V5_20240507T094155SQUARE.png" tvg-chno="4616" group-title="Infantil" , Gormiti & Friends
+https://jmp2.uk/SamsungTVPlus/ESBD3200002V5.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBA3300020W5" tvg-id="ESBA3300020W5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300020W5_20220914T041117SQUARE.png_20220914041117.png" tvg-chno="4619" group-title="Infantil" , Caillou
+https://jmp2.uk/SamsungTVPlus/ESBA3300020W5.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESAJ3800009VJ" tvg-id="ESAJ3800009VJ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800009VJ_20221026T004514SQUARE.png_20221026004514.png" tvg-chno="4622" group-title="Infantil" , Pluto TV Animakids
+https://jmp2.uk/SamsungTVPlus/ESAJ3800009VJ.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBA33000262Z" tvg-id="ESBA33000262Z" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA33000262Z_20221026T004517SQUARE.png_20221026004518.png" tvg-chno="4625" group-title="Infantil" , Bob Esponja
+https://jmp2.uk/SamsungTVPlus/ESBA33000262Z.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESAJ38000046O" tvg-id="ESAJ38000046O" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ38000046O_20221026T004503SQUARE.png_20221026004503.png" tvg-chno="4628" group-title="Infantil" , Pluto TV Kids
+https://jmp2.uk/SamsungTVPlus/ESAJ38000046O.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBA33000324U" tvg-id="ESBA33000324U" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA33000324U_20230308T021505SQUARE.png_20230308021505.png" tvg-chno="4629" group-title="Infantil" , Rugrats
+https://jmp2.uk/SamsungTVPlus/ESBA33000324U.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBC3900004ED" tvg-id="ESBC3900004ED" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3900004ED_20240507T094215SQUARE.png" tvg-chno="4631" group-title="Infantil" , Pocoyó
+https://jmp2.uk/SamsungTVPlus/ESBC3900004ED.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBC4700001GR" tvg-id="ESBC4700001GR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700001GR_20221214T044925SQUARE.png_20221214044926.png" tvg-chno="4633" group-title="Infantil" , duckTV
+https://jmp2.uk/SamsungTVPlus/ESBC4700001GR.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBC2100002LV" tvg-id="ESBC2100002LV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100002LV_20230913T030617SQUARE.png_20230913030618.png" tvg-chno="4710" group-title="Música" , Vevo Latino
+https://jmp2.uk/SamsungTVPlus/ESBC2100002LV.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBD2300004Y7" tvg-id="ESBD2300004Y7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300004Y7_20231011T084725SQUARE.png_20231011084726.png" tvg-chno="4714" group-title="Música" , Sol Música
+https://jmp2.uk/SamsungTVPlus/ESBD2300004Y7.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBC2100001IU" tvg-id="ESBC2100001IU" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100001IU_20230412T042424SQUARE.png_20230412042425.png" tvg-chno="4716" group-title="Música" , Vevo Pop
+https://jmp2.uk/SamsungTVPlus/ESBC2100001IU.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBA3300042Y6" tvg-id="ESBA3300042Y6" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300042Y6_20230614T005923SQUARE.png_20230614005923.png" tvg-chno="4717" group-title="Música" , Trace Latina
+https://jmp2.uk/SamsungTVPlus/ESBA3300042Y6.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBA3300043M0" tvg-id="ESBA3300043M0" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300043M0_20230614T005924SQUARE.png_20230614005925.png" tvg-chno="4718" group-title="Música" , Trace Urban
+https://jmp2.uk/SamsungTVPlus/ESBA3300043M0.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESAJ49000023R" tvg-id="ESAJ49000023R" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ49000023R_20230614T005919SQUARE.png_20230614005920.png" tvg-chno="4719" group-title="Música" , Qwest TV
+https://jmp2.uk/SamsungTVPlus/ESAJ49000023R.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBD230000289" tvg-id="ESBD230000289" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD230000289_20230712T021354SQUARE.png_20230712021354.png" tvg-chno="4721" group-title="Música" , Vevo '70s & '80s
+https://jmp2.uk/SamsungTVPlus/ESBD230000289.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBA1500001C4" tvg-id="ESBA1500001C4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1500001C4_20240321T045925SQUARE.png" tvg-chno="4722" group-title="Música" , Deluxe Lounge HD
+https://jmp2.uk/SamsungTVPlus/ESBA1500001C4.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBD270000108" tvg-id="ESBD270000108" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD270000108_20240521T042553SQUARE.png" tvg-chno="4724" group-title="Música" , Staccs Music TV
+https://jmp2.uk/SamsungTVPlus/ESBD270000108.m3u8
+
+#EXTINF:-1 channel-id="samsung-ES1900001OE" tvg-id="ES1900001OE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1900001OE_20240611T061850SQUARE.png" tvg-chno="4725" group-title="Música" , Staccs TV Throwback
+https://jmp2.uk/SamsungTVPlus/ES1900001OE.m3u8
+
+#EXTINF:-1 channel-id="samsung-ES2500001F9" tvg-id="ES2500001F9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2500001F9_20240723T045050SQUARE.png" tvg-chno="4732" group-title="Música" , Cool Summer Channel
+https://jmp2.uk/SamsungTVPlus/ES2500001F9.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBC3500001LY" tvg-id="ESBC3500001LY" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3500001LY_20221012T021027SQUARE.png_20221012021028.png" tvg-chno="4734" group-title="Música" , Vivaldi TV
+https://jmp2.uk/SamsungTVPlus/ESBC3500001LY.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBC2700002LO" tvg-id="ESBC2700002LO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700002LO_20230510T044206SQUARE.png_20230510044207.png" tvg-chno="4957" group-title="Películas" , Grjngo - Películas Del Oeste
+https://jmp2.uk/SamsungTVPlus/ESBC2700002LO.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBC2700003T8" tvg-id="ESBC2700003T8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700003T8_20230823T033054SQUARE.png_20230823033054.png" tvg-chno="4960" group-title="Películas" , Bigtime - Películas Gratis
+https://jmp2.uk/SamsungTVPlus/ESBC2700003T8.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBC2700012RP" tvg-id="ESBC2700012RP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700012RP_20230614T005933SQUARE.png_20230614005933.png" tvg-chno="4963" group-title="Películas" , Cine Feel Good – Verdi TV
+https://jmp2.uk/SamsungTVPlus/ESBC2700012RP.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBC2700011AZ" tvg-id="ESBC2700011AZ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700011AZ_20230208T013048SQUARE.png_20230208013048.png" tvg-chno="4966" group-title="Películas" , Cines Verdi TV
+https://jmp2.uk/SamsungTVPlus/ESBC2700011AZ.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESAJ3800001KT" tvg-id="ESAJ3800001KT" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800001KT_20221026T004456SQUARE.png_20221026004457.png" tvg-chno="4969" group-title="Películas" , Pluto TV Cine Estelar
+https://jmp2.uk/SamsungTVPlus/ESAJ3800001KT.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBC40000248" tvg-id="ESBC40000248" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC40000248_20221109T010705SQUARE.png_20221109010706.png" tvg-chno="4972" group-title="Películas" , Dark Matter TV
+https://jmp2.uk/SamsungTVPlus/ESBC40000248.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBC400001QQ" tvg-id="ESBC400001QQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC400001QQ_20240402T134122SQUARE.png" tvg-chno="4975" group-title="Películas" , Runtime
+https://jmp2.uk/SamsungTVPlus/ESBC400001QQ.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBD80000288" tvg-id="ESBD80000288" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD80000288_20240117T032726SQUARE.png_20240117032726.png" tvg-chno="4976" group-title="Películas" , Runtime Acción
+https://jmp2.uk/SamsungTVPlus/ESBD80000288.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBD8000033W" tvg-id="ESBD8000033W" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD8000033W_20230913T030610SQUARE.png_20230913030611.png" tvg-chno="4977" group-title="Películas" , Runtime Comedia
+https://jmp2.uk/SamsungTVPlus/ESBD8000033W.m3u8
+
+#EXTINF:-1 channel-id="samsung-ES700004C8" tvg-id="ES700004C8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES700004C8_20240709T044330SQUARE.png" tvg-chno="4978" group-title="Películas" , Runtime Familia
+https://jmp2.uk/SamsungTVPlus/ES700004C8.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBD800004KU" tvg-id="ESBD800004KU" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800004KU_20240313T073251SQUARE.png" tvg-chno="4979" group-title="Películas" , Runtime Romance
+https://jmp2.uk/SamsungTVPlus/ESBD800004KU.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBD800001RJ" tvg-id="ESBD800001RJ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800001RJ_20240507T094205SQUARE.png" tvg-chno="4980" group-title="Películas" , Cine Friki
+https://jmp2.uk/SamsungTVPlus/ESBD800001RJ.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBA2200004G5" tvg-id="ESBA2200004G5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA2200004G5_20220323T081719SQUARE.png_20220323081722.png" tvg-chno="4981" group-title="Películas" , MyTime Movie Network
+https://jmp2.uk/SamsungTVPlus/ESBA2200004G5.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBC27000062Q" tvg-id="ESBC27000062Q" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC27000062Q_20221109T010936SQUARE.png_20221109010937.png" tvg-chno="4982" group-title="Películas" , Cine Español - Rakuten TV
+https://jmp2.uk/SamsungTVPlus/ESBC27000062Q.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBC27000079V" tvg-id="ESBC27000079V" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC27000079V_20221109T010947SQUARE.png_20221109010947.png" tvg-chno="4983" group-title="Películas" , Películas Románticas - Rakuten TV
+https://jmp2.uk/SamsungTVPlus/ESBC27000079V.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBD230000143" tvg-id="ESBD230000143" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD230000143_20240214T035648SQUARE.png_20240214035649.png" tvg-chno="4985" group-title="Películas" , FreeTV Clásico
+https://jmp2.uk/SamsungTVPlus/ESBD230000143.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESAJ4500019AM" tvg-id="ESAJ4500019AM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500019AM_20240117T032650SQUARE.png_20240117032651.png" tvg-chno="4990" group-title="Películas" , Comedias - Rakuten TV
+https://jmp2.uk/SamsungTVPlus/ESAJ4500019AM.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBC2700005EE" tvg-id="ESBC2700005EE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700005EE_20221012T021024SQUARE.png_20221012021024.png" tvg-chno="4994" group-title="Películas" , Películas Top - Rakuten TV
+https://jmp2.uk/SamsungTVPlus/ESBC2700005EE.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESAJ4500020V7" tvg-id="ESAJ4500020V7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500020V7_20220323T081528SQUARE.png_20220323081531.png" tvg-chno="4998" group-title="Películas" , Dramas - Rakuten TV
+https://jmp2.uk/SamsungTVPlus/ESAJ4500020V7.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESAJ45000181E" tvg-id="ESAJ45000181E" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ45000181E_20220323T081350SQUARE.png_20220323081353.png" tvg-chno="4999" group-title="Películas" , Acción - Rakuten TV
+https://jmp2.uk/SamsungTVPlus/ESAJ45000181E.m3u8

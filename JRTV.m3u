@@ -43,7 +43,7 @@ https://nffthex0kzt.xyz/rk/JdsvgxwftwfghxvnccnngdryhvddcddhFA/Cbvxfgddgjgdwehcvb
 #EXTVLCOPT--http-reconnect=true
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AZ CLIC HD"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/TV_Azteca_Clic_2023_Official.svg/revision/latest?cb=20230630203519"group-title="A- TV MX",AZ CLIC HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AZ CLIC HD"tvg-logo="https://cdn.tvpassport.com/image/station/240x135/azclic.png"group-title="A- TV MX",AZ CLIC HD
 http://200.52.148.194:8000/play/a0d6
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTVLCOPT:network-caching=1000
@@ -136,7 +136,7 @@ http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/234977
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADN40"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/Logo_nplus.svg/revision/latest?cb=20220328143756"group-title="A- TV MX",ADN40
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADN40"tvg-logo="https://cdn.mitvstatic.com/channels/adn-40-m.png"group-title="A- TV MX",ADN40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTVLCOPT:https-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 #EXTVLCOPT:network-caching=1000

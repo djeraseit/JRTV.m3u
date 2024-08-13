@@ -1,9 +1,19 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="LA CASA DE LOS FAMOSOS" tvg-name="TOTAL 1"tvg-logo="https://www.infobae.com/new-resizer/VJ85zUuiE7knYIk-AUtTVx4KDgw=/768x432/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/UPJHB4OTDVGYROMRJ4RPJFAYPY.jpg"group-title="B- LA CASA DE LOS FAMOSOS",user-agent="userAgent2",OPC 1
+#EXTINF:-1 xui-id="854403" tvg-id="" tvg-name="ACCESO TOTAL 1" tvg-logo="https://www.infobae.com/new-resizer/zd8PzZACA21jk1I4-ToKi5uS4Zs=/1440x810/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/UPJHB4OTDVGYROMRJ4RPJFAYPY.jpg" group-title="⭐ | LA CASA DE LOS FAMOSOS MEXICO",ACCESO TOTAL 1
 https://zonamovie.live:8443/play/1HVxDH_oJ7NU5Jvo75a3W01ehM8Dqv5tTuKD6H4iBGQ/m3u8
-#EXTVLCOPT:http-user-agent=
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 xui-id="854404" tvg-id="" tvg-name="ACCESO TOTAL 2" tvg-logo="https://www.infobae.com/new-resizer/zd8PzZACA21jk1I4-ToKi5uS4Zs=/1440x810/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/UPJHB4OTDVGYROMRJ4RPJFAYPY.jpg" group-title="⭐ | LA CASA DE LOS FAMOSOS MEXICO",ACCESO TOTAL 2
+https://zonamovie.live:8443/play/1HVxDH_oJ7NU5Jvo75a3Wyv3KyTM17wNotfPWsGU8EA/m3u8
+#EXTINF:-1 xui-id="854405" tvg-id="" tvg-name="COCINA" tvg-logo="https://www.infobae.com/new-resizer/zd8PzZACA21jk1I4-ToKi5uS4Zs=/1440x810/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/UPJHB4OTDVGYROMRJ4RPJFAYPY.jpg" group-title="⭐ | LA CASA DE LOS FAMOSOS MEXICO",COCINA
+https://zonamovie.live:8443/play/1HVxDH_oJ7NU5Jvo75a3W8tORBl0Rx2ProXlGIXWrik/m3u8
+#EXTINF:-1 xui-id="854406" tvg-id="" tvg-name="SALA" tvg-logo="https://www.infobae.com/new-resizer/zd8PzZACA21jk1I4-ToKi5uS4Zs=/1440x810/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/UPJHB4OTDVGYROMRJ4RPJFAYPY.jpg" group-title="⭐ | LA CASA DE LOS FAMOSOS MEXICO",SALA
+https://zonamovie.live:8443/play/1HVxDH_oJ7NU5Jvo75a3W7172fBXobiNyLSZwB-50y4/m3u8
+#EXTINF:-1 xui-id="854407" tvg-id="" tvg-name="BAÑO" tvg-logo="https://www.infobae.com/new-resizer/zd8PzZACA21jk1I4-ToKi5uS4Zs=/1440x810/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/UPJHB4OTDVGYROMRJ4RPJFAYPY.jpg" group-title="⭐ | LA CASA DE LOS FAMOSOS MEXICO",BAÑO
+https://zonamovie.live:8443/play/1HVxDH_oJ7NU5Jvo75a3W0BsGESNC8bfy_Q8jLkJhHM/m3u8
+#EXTINF:-1 xui-id="854408" tvg-id="" tvg-name="HABITACION 1" tvg-logo="https://www.infobae.com/new-resizer/zd8PzZACA21jk1I4-ToKi5uS4Zs=/1440x810/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/UPJHB4OTDVGYROMRJ4RPJFAYPY.jpg" group-title="⭐ | LA CASA DE LOS FAMOSOS MEXICO",HABITACION 1
+https://zonamovie.live:8443/play/1HVxDH_oJ7NU5Jvo75a3WxIqYnWIGjXmgIbkMwV6xkk/m3u8
+#EXTINF:-1 xui-id="854409" tvg-id="" tvg-name="HABITACIÓN 2" tvg-logo="https://www.infobae.com/new-resizer/zd8PzZACA21jk1I4-ToKi5uS4Zs=/1440x810/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/UPJHB4OTDVGYROMRJ4RPJFAYPY.jpg" group-title="⭐ | LA CASA DE LOS FAMOSOS MEXICO",HABITACIÓN 2
+https://zonamovie.live:8443/play/1HVxDH_oJ7NU5Jvo75a3W7ngeuM8Nz0FviN4tB98DFo/m3u8
+
 
 #EXTINF:-1 tvg-id="Aztecauno.mx" tvg-name="AZTECA UNO"tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png"group-title="A- TV MX",AZTECA UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8=-1

@@ -622,85 +622,200 @@ https://nffthex0kzt.xyz/rk/JdsvgxwftwfghxvnccnngdryhvddcddhFA/Cbvxfgddgjgdwehcvb
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/TLHIT_logo.png/245px-TLHIT_logo.png" group-title="MUSICA",TELEHIT
-http://181.78.105.146:2000/play/a091/index.m3u8
+https://nffthex0kzt.xyz/rk/JdsvgxwftwfghxvnccnngdryhvddcddhFA/Cbvxfgddgjgdwehcvbbgshhbfsdhxcvhg/776.m3u8
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_eTwBAQAvlyG82g202STXCZ4jNt4_Zw7gWg&usqp=CAU" group-title="MUSICA",TELEHIT PLUS
-http://tecnozone.site:8880/Inter_Jomy2023/yeAUn7PKe8/2237
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/NickMusic_Logo.png" group-title="MUSICA",NICK MUSIC
-http://187.188.232.236:1020/play/a00h/index.m3u8
+https://nffthex0kzt.xyz/rk/JdsvgxwftwfghxvnccnngdryhvddcddhFA/Cbvxfgddgjgdwehcvbbgshhbfsdhxcvhg/1127.m3u8
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.sopitas.com/wp-content/uploads/2020/04/VH1.jpeg" group-title="MUSICA",VH1 HD
 http://tecnozone.site:8880/Inter_Jomy2023/yeAUn7PKe8/224
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LOGO_VH1_CLASSIC.svg/1200px-LOGO_VH1_CLASSIC.svg.png" group-title="MUSICA",VH1 CLASSIC
 http://tecnozone.site:8880/Inter_Jomy2023/yeAUn7PKe8/2253
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/1200px-MTV_Hits_2017_logo.svg.png" group-title="MUSICA",MTV HITS
 http://tecnozone.site:8880/Inter_Jomy2023/yeAUn7PKe8/2235
-#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/57-579706_mtv-live-hd-mtv-live-logo.png" group-title="MUSICA",MTV LIVE
-http://tecnozone.site:8880/Inter_Jomy2023/yeAUn7PKe8/6597
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/mtv-brand-png-logo-15.png" group-title="MUSICA",MTV
-http://200.59.188.3:8000/play/a02x
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/57-579706_mtv-live-hd-mtv-live-logo.png" group-title="MUSICA",MTV LIVE 
+http://45.228.232.219:16000/play/a0m4/index.m3u8
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/mtv-brand-png-logo-15.png" group-title="MUSICA",MTV 
+http://45.5.117.182:8000/play/a0fd/index.m3u8
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/MTV_Dance_2017_logo_Australia.svg/1200px-MTV_Dance_2017_logo_Australia.svg.png" group-title="MUSICA",MTV DANCE
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true 
 #EXTINF:-1 tvg-logo="https://home-statics.boletia.com/uploads/sponsor/logo/130351/BANDAMAX.png" group-title="MUSICA",BANDAMAX
-http://myteve.online:8080/64921423/a826570920/9122
+https://nffthex0kzt.xyz/rk/JdsvgxwftwfghxvnccnngdryhvddcddhFA/Cbvxfgddgjgdwehcvbbgshhbfsdhxcvhg/455.m3u8
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true 
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2021_09/large.1611336780_12.1-XHSAWTeleritmo.png.29062bd50ea09887c6c4e42cecfff260.png" group-title="MUSICA",TELERITMO
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true 
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.LEkqF9eTI4vb98MxJqnV3gEsDH?pid=ImgDet&rs=1" group-title="MUSICA",VIDEOROLA
 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index_1.m3u8
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Latinos_Up_TV_entretenimiento_online_en_New_York_y_el_mundo.png" group-title="MUSICA",LATINO UP
 https://panel.streamingtv-mediacp.online:1936/8044/8044/playlist.m3u8?PlaylistM3UCL
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2016_11/large.musictop_poster_-_copia.png.3681a31fef51ae9014cf64b2763b5f50.png" group-title="MUSICA",MUSICA TOP
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true 
 #EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5f/54/31/5f5431d3-60ad-8b79-effc-7d513e870630/mza_7191269111192758278.jpg/1200x1200bb.jpg" group-title="MUSICA",ON RADIO CHILE KPOP
 https://tls-cl.cdnz.cl/adgm-2/live/playlist.m3u8
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true 
 #EXTINF:-1 tvg-logo="http://www.topmusic.com.mx/img/music-club-logo-1466528095.jpg" group-title="MUSICA",TOP MUSIC
 https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/TeleXitos_TV.png" group-title="MUSICA",TVEXITOS
 https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8?PlaylistM3UCL
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true 
 #EXTINF:-1 tvg-logo="https://hqm.es/wp-content/uploads/pop-hqm-logo.png" group-title="MUSICA",MUSICA POP
 https://livelist01.yowi.tv/lista/eb2fa68a058a701fa5bd2c80f6c8a6075896f71d/master.m3u8
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true 
 #EXTINF:-1 tvg-logo="https://hqm.es/wp-content/uploads/rock-hqm-logo.png" group-title="MUSICA",MUSICA ROCK
 https://livelist01.yowi.tv/lista/0d6c7ccfac89946bfd41ae34c527e8d94734065c/master.m3u8
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true 
 #EXTINF:-1 tvg-logo="https://hqm.es/wp-content/uploads/hits-hqm-logo.png" group-title="MUSICA",MUSICA HITS
 https://livelist01.yowi.tv/lista/5e2db2017a8fd03f73b40ede363d1a586db4e9a6/master.m3u8
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true 
 #EXTINF:-1 tvg-logo="https://hqm.es/wp-content/uploads/remember-hqm-logo.png" group-title="MUSICA",MUSICA REMEMBER
 https://livelist01.yowi.tv:443/lista/57c98e2e295a0b69b52dc5f84edc4b1b68783ba2/master.m3u8
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true 
 #EXTINF:-1 tvg-logo="https://hqm.es/wp-content/uploads/relax-hqm-logo.png" group-title="MUSICA",MUSICA RELAX
 https://livelist01.yowi.tv/lista/dc1b71c6fda2e687050facaa7242062cbf5a7f2a/master.m3u8
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true 
 #EXTINF:-1 tvg-logo="https://hqm.es/wp-content/uploads/latin-hqm-logo.png" group-title="MUSICA",MUSICA LATIN
 https://livelist01.yowi.tv/lista/9a4da7871ec57b4b63ed49597a13d09869172be0/master.m3u8
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true 
 #EXTINF:-1 tvg-logo="https://hqm.es/wp-content/uploads/hip-hop-hqm-logo.png" group-title="MUSICA",MUSICA HIP HOT
 https://livelist01.yowi.tv/lista/8327abc87895df4c76db1155435fdca6a3607bbd/master.m3u8
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true 
 #EXTINF:-1 tvg-logo="https://hqm.es/wp-content/uploads/gym-hqm-logo.png" group-title="MUSICA",MUSICA GYM
 https://livelist01.yowi.tv/lista/abb87f329d0ed03072b1930e9636a53e8076c8d5/master.m3u8
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true 
 #EXTINF:-1 tvg-logo="https://hqm.es/wp-content/uploads/chill-out-hqm-logo.png" group-title="MUSICA",MUSICA CHILL OUT
 https://livelist01.yowi.tv/lista/183a351ddb0e57af6d735256226e6033c32219ab/master.m3u8
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true 
 #EXTINF:-1 tvg-logo="https://hqm.es/wp-content/uploads/baladas-hqm-logo.png" group-title="MUSICA",MUSICA BALADAS
 }https://livelist01.yowi.tv/lista/5d7d2c21e0ec7a8a99fd1fdbc52cbdc0782f77fc/master.m3u8
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true 
 #EXTINF:-1 tvg-logo="https://hqm.es/wp-content/uploads/folk-hqm-logo.png" group-title="MUSICA",MUSICA FLOK
 https://livelist01.yowi.tv/lista/9f5310c179e8e840188d183be235f755b18cf703/master.m3u8
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true 
 #EXTINF:-1 tvg-logo="https://hqm.es/wp-content/uploads/dance-hqm-logo.png" group-title="MUSICA",MUSICA DANCE
 https://livelist01.yowi.tv/lista/57cf2f51b07ff21988a7a6f0270a66d41086d4a4/master.m3u8
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true 
 #EXTINF:-1 tvg-logo="https://hqm.es/wp-content/uploads/arabic-hqm-logo-1.png" group-title="MUSICA",MUSICA ARABIC
 https://livelist01.yowi.tv/lista/39596c72840d27b213caf4e58c39599a6f2ed203/master.m3u8
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true 
 #EXTINF:-1 tvg-logo="https://hqm.es/wp-content/uploads/spanish-hqm-logo.png" group-title="MUSICA",MUSICA SPANISH
 https://livelist01.yowi.tv/lista/8635ae40f8d1a32eccd63d1f58b55662c9c98f9f/master.m3u8
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true 
 #EXTINF:-1 tvg-logo="https://hqm.es/wp-content/uploads/blues-hqm-logo.png" group-title="MUSICA",MUSICA BLUES
 https://livelist01.yowi.tv/lista/81c601f370e44dc566113fd752204be5f5f53b61/master.m3u8
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true 
 #EXTINF:-1 tvg-logo="https://hqm.es/wp-content/uploads/classic-hqm-logo.png" group-title="MUSICA",MUSICA CLASSIC
 https://livelist01.yowi.tv/lista/f04129475945936b248aa723de56519ea2ff10fc/master.m3u8
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true 
 #EXTINF:-1 tvg-logo="https://hqm.es/wp-content/uploads/jazz-hqm-logo.png" group-title="MUSICA",MUSICA JAZZ
 https://livelist01.yowi.tv/lista/f204aa5b3f0691e69851b54b7746ef09ede26f6a/master.m3u8
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true 
 #EXTINF:-1 tvg-logo="https://hqm.es/wp-content/uploads/kids-hqm-logo.png" group-title="MUSICA",MUSICA KIDS
 https://livelist01.yowi.tv/lista/e4bc12dafe33c3ceb3e382e3acc0ec2c012cf7fd/master.m3u8
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true 
 #EXTINF:-1 group-title="MUSICA" tvg-id="21" tvg-name="Retro Music Television" tvg-logo="https://lh3.googleusercontent.com/-z4SQcFR0bIs/Xs_MlInCKMI/AAAAAAAA1QM/T2RR2owl_CYpymBiQ8lOi1ykYZVAwI6NACK8BGAsYHg/s0/2020-05-28.png", Retro Music Television
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true 
 #EXTINF:-1 group-title="MUSICA" tvg-id="24" tvg-name="Music Top" tvg-logo="https://lh3.googleusercontent.com/-6Em4fzTLMuU/XjtHLf96jvI/AAAAAAAAvqU/q3DfxbUdSiMDRDB1VBh_3hu3WDK_Nr-egCK8BGAsYHg/s0/2020-02-05.png", Music Top
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true 
 #EXTINF:-1 group-title="MUSICA" tvg-id="17" tvg-name="The Retro Channel" tvg-logo="https://lh3.googleusercontent.com/-t2WD0yOsfvg/XzxnxYhCPPI/AAAAAAAA4oY/qwvkZXM7rAUzOACe0-fSRAQ7_8n6xb5wgCK8BGAsYHg/s0/2020-08-18.png", The Retro Channel
 https://5df3045a6b70e.streamlock.net/theretrochannel/stream/playlist.m3u8?PlaylistM3UCL
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true 
 #EXTINF:-1 group-title="MUSICA" tvg-id="42" tvg-name="RadioTV.pro" tvg-logo="https://lh3.googleusercontent.com/-wwOQH4WvSZI/X5jEE-BBCmI/AAAAAAAA6y4/RgkfOZHscEIH9ceLQR6UPtuXQQUw0FXCACK8BGAsYHg/s0/2020-10-27.png", RadioTV.pro
 https://paneltv.online:1936/radiotv/radiotv/playlist.m3u8?PlaylistM3UCL
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true 
 #EXTINF:-1 group-title="MUSICA" tvg-id="22" tvg-name="Video Tour Channel" tvg-logo="https://lh3.googleusercontent.com/-QUz4UviUPiE/X3YnewzIm7I/AAAAAAAA6Ho/xpUvyAvSX6Qj0Lvl8qhuZnDdz9VPZWy4QCK8BGAsYHg/s0/2020-10-01.png", Video Tour Channel
-http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
+
 
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="CLARO SPORTS"tvg-logo="https://cdn.clarosports.com/clarosports/2024/07/cs01-mex-135002-768x432.png"group-title="H- DEPORTES",CLARO SPORTS
 https://dai.google.com/linear/hls/event/r5w9dL8MT8ygfiegKRCUtw/master.m3u8

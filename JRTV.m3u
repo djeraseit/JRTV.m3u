@@ -381,25 +381,25 @@ https://bgtv.xyz/play/2-802.php?idch=654
 #EXTVLCOPT--http-reconnect=true
 
 #EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO2"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_2_latinoamerica-mediano.png"group-title="E- PREMIUM",HBO2
-http://45.5.117.182:8000/play/a0eP/72797609.m3u8
+https://bgtv.xyz/play/2-802.php?idch=732
 #EXTVLCOPT:http-user-agent=tv.mexicohdenvivo3/9.8 (Linux;Android 10) AndroidXMedia3/1.1.1
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 
 #EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO FAMILY"tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097892735-HBO-Family-pequenio.png"group-title="E- PREMIUM",HBO FAMILY
-http://45.5.117.182:8000/play/a0ep/77414013.m3u8
+https://bgtv.xyz/play/2-802.php?idch=968
 #EXTVLCOPT:http-user-agent=tv.mexicohdenvivo3/9.8 (Linux;Android 10) AndroidXMedia3/1.1.1
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 
 #EXTINF:-1 tvg-id="HBOMundi.mx" tvg-name="HBO MUNDI"tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097903824-HBO-mundi-pequenio-b.png"group-title="E- PREMIUM",HBO MUNDI
-https://bgtv.xyz/play/2-802.php?idch=1327.mpd
+https://bgtv.xyz/play/2-802.php?idch=841.m3u8
 #EXTVLCOPT:http-user-agent=tv.mexicohdenvivo3/9.8 (Linux;Android 10) AndroidXMedia3/1.1.1
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 
 #EXTINF:-1 tvg-id="HBOPlus.mx" tvg-name="HBO PLUS"tvg-logo="https://i.pinimg.com/originals/c7/6f/24/c76f24d8dff0df01af6152f05ccb7a9c.png"group-title="E- PREMIUM",HBOPLUS
-https://bgtv.xyz/play/2-802.php?idch=64.m3u8
+https://bgtv.xyz/play/2-802.php?idch=655
 #EXTVLCOPT:http-user-agent=tv.mexicohdenvivo3/9.8 (Linux;Android 10) AndroidXMedia3/1.1.1
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true

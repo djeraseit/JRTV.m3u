@@ -387,7 +387,7 @@ https://bgtv.xyz/play/2-802.php?idch=732
 #EXTVLCOPT--http-reconnect=true
 
 #EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO FAMILY"tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097892735-HBO-Family-pequenio.png"group-title="E- PREMIUM",HBO FAMILY
-https://bgtv.xyz/play/2-802.php?idch=968
+https://bgtv.xyz/play/2-802.php?idch=63
 #EXTVLCOPT:http-user-agent=tv.mexicohdenvivo3/9.8 (Linux;Android 10) AndroidXMedia3/1.1.1
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true

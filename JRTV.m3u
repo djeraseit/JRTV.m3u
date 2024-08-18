@@ -381,7 +381,7 @@ https://bgtv.xyz/play/2-802.php?idch=654
 #EXTVLCOPT--http-reconnect=true
 
 #EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO2"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_2_latinoamerica-mediano.png"group-title="E- PREMIUM",HBO2
-https://bgtv.xyz/play/2-802.php?idch=728.m3u8
+https://bgtv.xyz/play/2-802.php?idch=655.m3u8
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -393,7 +393,7 @@ https://bgtv.xyz/play/2-802.php?idch=63.m3u8
 #EXTVLCOPT--http-reconnect=true
 
 #EXTINF:-1 tvg-id="HBOMundi.mx" tvg-name="HBO MUNDI"tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097903824-HBO-mundi-pequenio-b.png"group-title="E- PREMIUM",HBO MUNDI
-https://zonamovie.live:8443/play/1HVxDH_oJ7NU5Jvo75a3W0r9wE_8SqTyVlN3leJXyfw/m3u8
+https://bgtv.xyz/play/2-802.php?idch=1327.mpd
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true

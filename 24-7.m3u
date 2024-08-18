@@ -97,133 +97,196 @@ https://jmp2.uk/PlutoTV/5dd6dae8ce788b0009eaf77b-alt.m3u8
 https://jmp2.uk/PlutoTV/636e83511fa9600007e5ae19-alt.m3u8
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Simpsons"tvg-logo="https://x.playerlatino.live/lossimpsons.png"group-title="A- 24/7", Los Simpsons
+
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Alf 24/7" tvg-logo="http://x.playerlatino.live/alf.png" group-title="A-24/7",Alf 24/7
+https://bgtv.xyz/play/2-802.php?idch=426.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Animaniacs 24/7" tvg-logo="http://x.playerlatino.live/animaniacs.png" group-title="A-24/7",Animaniacs 24/7
+https://bgtv.xyz/play/2-802.php?idch=677.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Bob Esponja 24/7" tvg-logo="http://x.playerlatino.live/bobesponja.png" group-title="A-24/7",Bob Esponja 24/7
+https://bgtv.xyz/play/2-802.php?idch=518.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Caballeros del Zodiaco 24/7" tvg-logo="http://x.playerlatino.live/caballeroszodiaco.png" group-title="A-24/7",Caballeros del Zodiaco 24/7
+https://bgtv.xyz/play/2-802.php?idch=427.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Caso Cerrado 24/7" tvg-logo="http://x.playerlatino.live/casocerrado.png" group-title="A-24/7",Caso Cerrado 24/7
+https://bgtv.xyz/play/2-802.php?idch=907.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Chapulin Colorado 24/7" tvg-logo="http://x.playerlatino.live/chapulincolorado.png" group-title="A-24/7",Chapulin Colorado 24/7
+https://bgtv.xyz/play/2-802.php?idch=418.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Chespirito 24/7" tvg-logo="http://x.playerlatino.live/chespirito.jpg" group-title="A-24/7",Chespirito 24/7
+https://bgtv.xyz/play/2-802.php?idch=417.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Cine Accion" tvg-logo="http://x.playerlatino.live/cine247.png" group-title="C- 24/7",Cine Accion
+https://bgtv.xyz/play/2-802.php?idch=990.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Cine Accion HD" tvg-logo="http://x.playerlatino.live/cine247.png" group-title=""C- 24/7",Cine Accion HD
+https://bgtv.xyz/play/2-802.php?idch=1022.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Cine Accion Sagas" tvg-logo="http://x.playerlatino.live/cine247.png" group-title=""C- 24/7",Cine Accion Sagas
+https://bgtv.xyz/play/2-802.php?idch=700.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Cine Accion Sagas HD" tvg-logo="http://x.playerlatino.live/cine247.png" group-title=""C- 24/7",Cine Accion Sagas HD
+https://bgtv.xyz/play/2-802.php?idch=707.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Cine Comedia" tvg-logo="http://x.playerlatino.live/cine247.png" group-title=""C- 24/7",Cine Comedia
+https://bgtv.xyz/play/2-802.php?idch=695.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Cine Comedia 2" tvg-logo="http://x.playerlatino.live/cine247.png" group-title=""C- 24/7",Cine Comedia 2
+https://bgtv.xyz/play/2-802.php?idch=696.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Cine Comedia 2 HD" tvg-logo="http://x.playerlatino.live/cine247.png" group-title=""C- 24/7",Cine Comedia 2 HD
+https://bgtv.xyz/play/2-802.php?idch=915.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Cine Ficcion/Fantasia" tvg-logo="http://x.playerlatino.live/cine247.png" group-title=""C- 24/7",Cine Ficcion/Fantasia
+https://bgtv.xyz/play/2-802.php?idch=709.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Cine Ficcion/Fantasia 2" tvg-logo="http://x.playerlatino.live/cine247.png" group-title=""C- 24/7",Cine Ficcion/Fantasia 2
+https://bgtv.xyz/play/2-802.php?idch=710.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Cine Ficcion/Fantasia HD" tvg-logo="http://x.playerlatino.live/cine247.png" group-title=""C- 24/7",Cine Ficcion/Fantasia HD
+https://bgtv.xyz/play/2-802.php?idch=712.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Cine Infantil HD" tvg-logo="http://x.playerlatino.live/cine247.png" group-title=""C- 24/7",Cine Infantil HD
+https://bgtv.xyz/play/2-802.php?idch=702.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Cine Infantil Sagas" tvg-logo="http://x.playerlatino.live/cine247.png" group-title=""C- 24/7",Cine Infantil Sagas
+https://bgtv.xyz/play/2-802.php?idch=694.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Cine Infantil Sagas HD" tvg-logo="http://x.playerlatino.live/cine247.png" group-title=""C- 24/7",Cine Infantil Sagas HD
+https://bgtv.xyz/play/2-802.php?idch=703.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Cine Marvel" tvg-logo="http://x.playerlatino.live/cine247.png" group-title=""C- 24/7",Cine Marvel
+https://bgtv.xyz/play/2-802.php?idch=697.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Cine Marvel HD" tvg-logo="http://x.playerlatino.live/cine247.png" group-title=""C- 24/7",Cine Marvel HD
+https://bgtv.xyz/play/2-802.php?idch=701.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Cine Navidad" tvg-logo="http://x.playerlatino.live/cine247.png" group-title=""C- 24/7",Cine Navidad
+https://bgtv.xyz/play/2-802.php?idch=699.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Cine Romance" tvg-logo="http://x.playerlatino.live/cine247.png" group-title=""C- 24/7",Cine Romance
+https://bgtv.xyz/play/2-802.php?idch=689.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Cine Romance 2 HD" tvg-logo="http://x.playerlatino.live/cine247.png" group-title=""C- 24/7",Cine Romance 2 HD
+https://bgtv.xyz/play/2-802.php?idch=1023.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Cine Romance HD" tvg-logo="http://x.playerlatino.live/cine247.png" group-title=""C- 24/7",Cine Romance HD
+https://bgtv.xyz/play/2-802.php?idch=705.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Cine Terror" tvg-logo="http://x.playerlatino.live/cine247.png" group-title=""C- 24/7",Cine Terror
+https://bgtv.xyz/play/2-802.php?idch=693.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Cine Terror 2 HD" tvg-logo="http://x.playerlatino.live/cine247.png" group-title=""C- 24/7",Cine Terror 2 HD
+https://bgtv.xyz/play/2-802.php?idch=913.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Cine Terror HD" tvg-logo="http://x.playerlatino.live/cine247.png" group-title=""C- 24/7",Cine Terror HD
+https://bgtv.xyz/play/2-802.php?idch=704.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Cine Zombis" tvg-logo="http://x.playerlatino.live/cine247.png" group-title=""C- 24/7",Cine Zombis
+https://bgtv.xyz/play/2-802.php?idch=688.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Cine Zombis HD" tvg-logo="http://x.playerlatino.live/cine247.png" group-title=""C- 24/7",Cine Zombis HD
+https://bgtv.xyz/play/2-802.php?idch=917.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Coraje el Perro Cobarde 24/7" tvg-logo="http://x.playerlatino.live/coraje.png" group-title="A-24/7",Coraje el Perro Cobarde 24/7
+https://bgtv.xyz/play/2-802.php?idch=519.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CSI: Miami 24/7" tvg-logo="http://x.playerlatino.live/csi_miami.png" group-title="A-24/7",CSI: Miami 24/7
+https://bgtv.xyz/play/2-802.php?idch=908.m3u8
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Dinosaurios 24/7" tvg-logo="http://x.playerlatino.live/dinosaurios.png" group-title="A-24/7",Dinosaurios 24/7
+https://bgtv.xyz/play/2-802.php?idch=670.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Doraemon 24/7" tvg-logo="http://x.playerlatino.live/doraemon.png" group-title="A-24/7",Doraemon 24/7
+https://bgtv.xyz/play/2-802.php?idch=521.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Dragon Ball (ES) 24/7" tvg-logo="http://x.playerlatino.live/dragonball.png" group-title="B- 24/7",Dragon Ball (ES) 24/7
+https://bgtv.xyz/play/2-802.php?idch=984.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Dragon Ball 24/7" tvg-logo="http://x.playerlatino.live/dragonball.png" group-title="B- 24/7",Dragon Ball 24/7
+https://bgtv.xyz/play/2-802.php?idch=425.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Dragon Ball GT 24/7" tvg-logo="http://x.playerlatino.live/dragonballgt.png" group-title="B- 24/7",Dragon Ball GT 24/7
+https://bgtv.xyz/play/2-802.php?idch=520.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Dragon Ball Super 24/7" tvg-logo="http://x.playerlatino.live/dragonballsuper.png" group-title="B- 24/7",Dragon Ball Super 24/7
+https://bgtv.xyz/play/2-802.php?idch=424.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Dragon Ball Z 24/7" tvg-logo="http://x.playerlatino.live/dragonballz.png" group-title="B- 24/7",Dragon Ball Z 24/7
+https://bgtv.xyz/play/2-802.php?idch=329.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Dragon Ball Z Kai 24/7" tvg-logo="http://x.playerlatino.live/dragonballzkai.png" group-title="B- 24/7",Dragon Ball Z Kai 24/7
+https://bgtv.xyz/play/2-802.php?idch=993.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="El Chavo Animado 24/7" tvg-logo="http://x.playerlatino.live/elchavoanimado.png" group-title="A-24/7",El Chavo Animado 24/7
+https://bgtv.xyz/play/2-802.php?idch=790.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="El Chavo del 8 24/7" tvg-logo="http://x.playerlatino.live/elchavodel8.png" group-title="A-24/7",El Chavo del 8 24/7
+https://bgtv.xyz/play/2-802.php?idch=400.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="El Gallo Claudio 24/7" tvg-logo="http://x.playerlatino.live/elgalloclaudio.png" group-title="A-24/7",El Gallo Claudio 24/7
+https://bgtv.xyz/play/2-802.php?idch=845.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="El Principel del Rap 24/7" tvg-logo="http://x.playerlatino.live/elprincipedelrap.png" group-title="A-24/7",El Principel del Rap 24/7
+https://bgtv.xyz/play/2-802.php?idch=430.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Futurama 24/7" tvg-logo="" group-title="A-24/7",Futurama 24/7
+https://bgtv.xyz/play/2-802.php?idch=793.m3u8
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ironman 24/7" tvg-logo="http://x.playerlatino.live/ironman.png" group-title="A-24/7",Ironman 24/7
+https://bgtv.xyz/play/2-802.php?idch=948.m3u8
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="La Pantera Rosa 24/7" tvg-logo="http://x.playerlatino.live/lapanterarosa.png" group-title="A-24/7",La Pantera Rosa 24/7
+https://bgtv.xyz/play/2-802.php?idch=671.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los Picapiedra 24/7" tvg-logo="http://x.playerlatino.live/lospicapiedra.png" group-title="A-24/7",Los Picapiedra 24/7
+https://bgtv.xyz/play/2-802.php?idch=669.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los Pinguinos de Madagascar 24/7" tvg-logo="http://x.playerlatino.live/lospinguinosdemadagascar.png" group-title="A-24/7",Los Pinguinos de Madagascar 24/7
+https://bgtv.xyz/play/2-802.php?idch=794.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los Pitufos 24/7" tvg-logo="http://x.playerlatino.live/lospitufos.png" group-title="A-24/7",Los Pitufos 24/7
+https://bgtv.xyz/play/2-802.php?idch=795.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los Reyes de la Colina 24/7" tvg-logo="http://x.playerlatino.live/losreyesdelacolina.png" group-title="A-24/7",Los Reyes de la Colina 24/7
+https://bgtv.xyz/play/2-802.php?idch=796.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los Simpson (Temporadas 1-5) 24/7" tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="A-24/7",Los Simpson (Temporadas 1-5) 24/7
+https://bgtv.xyz/play/2-802.php?idch=894.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los Simpson (Temporadas 12-17) 24/7" tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="A-24/7",Los Simpson (Temporadas 12-17) 24/7
+https://bgtv.xyz/play/2-802.php?idch=896.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los Simpson (Temporadas 18-21) 24/7" tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="A-24/7",Los Simpson (Temporadas 18-21) 24/7
+https://bgtv.xyz/play/2-802.php?idch=897.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los Simpson (Temporadas 22-26) 24/7" tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="A-24/7",Los Simpson (Temporadas 22-26) 24/7
+https://bgtv.xyz/play/2-802.php?idch=898.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los Simpson (Temporadas 27-30) 24/7" tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="A-24/7",Los Simpson (Temporadas 27-30) 24/7
+https://bgtv.xyz/play/2-802.php?idch=899.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los Simpson (Temporadas 6-11) 24/7" tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="A-24/7",Los Simpson (Temporadas 6-11) 24/7
+https://bgtv.xyz/play/2-802.php?idch=895.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los Simpson 24/7" tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="A-24/7",Los Simpson 24/7
+https://bgtv.xyz/play/2-802.php?idch=357.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los Supersonicos 24/7" tvg-logo="http://x.playerlatino.live/lossupersonicos.png" group-title="A-24/7",Los Supersonicos 24/7
+https://bgtv.xyz/play/2-802.php?idch=797.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los Vengadores Unidos 24/7" tvg-logo="http://x.playerlatino.live/losvengadoresunidos.png" group-title="A-24/7",Los Vengadores Unidos 24/7
+https://bgtv.xyz/play/2-802.php?idch=818.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Malcolm 24/7" tvg-logo="http://x.playerlatino.live/malcolm.png" group-title="A-24/7",Malcolm 24/7
+https://bgtv.xyz/play/2-802.php?idch=911.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Malcolm HD 24/7" tvg-logo="http://x.playerlatino.live/malcolm.png" group-title="A-24/7",Malcolm HD 24/7
 https://bgtv.xyz/play/2-802.php?idch=798.m3u8
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Max Steel 24/7" tvg-logo="http://x.playerlatino.live/maxsteel.png" group-title="A-24/7",Max Steel 24/7
+https://bgtv.xyz/play/2-802.php?idch=880.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Mr. Bean 24/7" tvg-logo="http://x.playerlatino.live/mrbean.png" group-title="A-24/7",Mr. Bean 24/7
+https://bgtv.xyz/play/2-802.php?idch=431.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Chavo"tvg-logo="https://i.pinimg.com/originals/2e/97/a4/2e97a44a1b26e77967cdcfcccd382ef4.png"group-title="A- 24/7",El Chavo
-https://nffthex0kzt.xyz/rk/JdsvgxwftwfghxvnccnngdryhvddcddhFA/Cbvxfgddgjgdwehcvbbgshhbfsdhxcvhg/959.m3u8
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true    
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jonny Bravo"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Johnny_Bravo_first_logo.png/210px-Johnny_Bravo_first_logo.png"group-title="A- 24/7",Jonny Bravo
-https://nffthex0kzt.xyz/rk/JdsvgxwftwfghxvnccnngdryhvddcddhFA/Cbvxfgddgjgdwehcvbbgshhbfsdhxcvhg/1033.m3u8
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true    
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Looney Tunes"tvg-logo="https://i.pinimg.com/originals/a6/01/6a/a6016a4613298464a7b72aeea9b2c890.png"group-title="A- 24/7",Looney Tunes
-https://nffthex0kzt.xyz/rk/JdsvgxwftwfghxvnccnngdryhvddcddhFA/Cbvxfgddgjgdwehcvbbgshhbfsdhxcvhg/1034.m3u8
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CORAJE"tvg-logo="https://i.pinimg.com/originals/34/df/61/34df6125095daabc33bf79ed3fd5e808.png"group-title="A- 24/7",CORAJE
-https://nffthex0kzt.xyz/rk/JdsvgxwftwfghxvnccnngdryhvddcddhFA/Cbvxfgddgjgdwehcvbbgshhbfsdhxcvhg/985.m3u8
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Rosa De Guadalupe"tvg-logo="https://st1.uvnimg.com/dims4/default/5ef6733/2147483647/thumbnail/1024x576/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F75%2F30%2F9273d12147f1acece077b230f017%2Funiversal.jpg"group-title="A- 24/7",La Rosa De Guadalupe
-https://zonamovie.live:8443/play/1HVxDH_oJ7NU5Jvo75a3W1zgPBW6G2_iJunrSXXOy9k/m3u8
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true    
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Futurama"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Futurama_1999_logo.svg/1280px-Futurama_1999_logo.svg.png"group-title="A- 24/7",Futurama
-https://nffthex0kzt.xyz/rk/JdsvgxwftwfghxvnccnngdryhvddcddhFA/Cbvxfgddgjgdwehcvbbgshhbfsdhxcvhg/1009.m3u8
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true    
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="South Park"tvg-logo="https://b.thumbs.redditmedia.com/ipIp5ryLPvDCZ7fUrZvBUMKBe24YBeIx_6JCbS6T21E.png"group-title="A- 24/7",South Park
-https://nffthex0kzt.xyz/rk/JdsvgxwftwfghxvnccnngdryhvddcddhFA/Cbvxfgddgjgdwehcvbbgshhbfsdhxcvhg/1089.m3u8    
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dinosaurios"tvg-logo="https://miro.medium.com/max/690/1*5FDqv_Jqlk___XP0eFZptQ.png"group-title="A- 24/7",Dinosaurios
-https://nffthex0kzt.xyz/rk/JdsvgxwftwfghxvnccnngdryhvddcddhFA/Cbvxfgddgjgdwehcvbbgshhbfsdhxcvhg/988.m3u8
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true    
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pokemón"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/2560px-International_Pok%C3%A9mon_logo.svg.png"group-title="A- 24/7",Pokemón
-https://zonamovie.live:8443/play/1HVxDH_oJ7NU5Jvo75a3W-BH_hwCV53FF32AwHyq9zA/m3u8
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true    
-    
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Supercampeones"tvg-logo="https://i.pinimg.com/originals/2e/90/10/2e90102e5cf32c96e5bbc436938f8c6d.png"group-title="A- 24/7",Supercampeones
-https://nffthex0kzt.xyz/rk/JdsvgxwftwfghxvnccnngdryhvddcddhFA/Cbvxfgddgjgdwehcvbbgshhbfsdhxcvhg/1092.m3u8
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true     
-    
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dragon Ball"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Dragon_Ball_anime_logo.png"group-title="A- 24/7",Dragon Ball
-https://nffthex0kzt.xyz/rk/JdsvgxwftwfghxvnccnngdryhvddcddhFA/Cbvxfgddgjgdwehcvbbgshhbfsdhxcvhg/995.m3u8
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true    
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dragon Ball Z"tvg-logo="https://logos-marcas.com/wp-content/uploads/2021/02/Dragon-Ball-Logo.png"group-title="A- 24/7",Dragon Ball Z
-https://nffthex0kzt.xyz/rk/JdsvgxwftwfghxvnccnngdryhvddcddhFA/Cbvxfgddgjgdwehcvbbgshhbfsdhxcvhg/1002.m3u8
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true    
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dragon Ball Gt"tvg-logo="https://static.wikia.nocookie.net/dragonball/images/5/5e/DBGT_%28Logo_2%29.png/revision/latest?cb=20120920211725&path-prefix=es"group-title="A- 24/7",Dragon Ball Gt
-https://nffthex0kzt.xyz/rk/JdsvgxwftwfghxvnccnngdryhvddcddhFA/Cbvxfgddgjgdwehcvbbgshhbfsdhxcvhg/997.m3u8
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true    
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dragon Ball Super"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Dragon_Ball_Super.png"group-title="A- 24/7",Dragon Ball Super
-https://nffthex0kzt.xyz/rk/JdsvgxwftwfghxvnccnngdryhvddcddhFA/Cbvxfgddgjgdwehcvbbgshhbfsdhxcvhg/1000.m3u8
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true    
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los caballeros del Zodiaco"tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e33a74bd-4e72-43a5-bf30-bca37c46b71e/dck9aa8-a3ca6f7e-2a2d-4297-88b1-eefc8294f7bc.png/v1/fill/w_1280,h_739,strp/los_caballeros_del_zodiaco___logo_by_catmoon_sidt_dck9aa8-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzM5IiwicGF0aCI6IlwvZlwvZTMzYTc0YmQtNGU3Mi00M2E1LWJmMzAtYmNhMzdjNDZiNzFlXC9kY2s5YWE4LWEzY2E2ZjdlLTJhMmQtNDI5Ny04OGIxLWVlZmM4Mjk0ZjdiYy5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.mG5hjSARIkmIm_StUid8-96365_G7Yrd8kYfgUUz4io"group-title="A- 24/7",Los caballeros del Zodiaco
-https://nffthex0kzt.xyz/rk/JdsvgxwftwfghxvnccnngdryhvddcddhFA/Cbvxfgddgjgdwehcvbbgshhbfsdhxcvhg/947.m3u8
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true    
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Principe Del Rap"tvg-logo="https://static.wixstatic.com/media/2cfd46_81087584be574ade8ef5fae232aba4db~mv2.png/v1/fill/w_469,h_150,al_c,q_85,usm_0.66_1.00_0.01/El%20Principe%20del%20rap%20latino.webp"group-title="A- 24/7",El Principe Del Rap
-http://pelicanhosting.xyz:80/max123/max321/171657
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true    
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Malcolm El De Enmedio"tvg-logo="https://x.playerlatino.live/malcolm.png"group-title="A- 24/7",Malcolm El De Enmedio
-https://zonamovie.live:8443/play/1HVxDH_oJ7NU5Jvo75a3W8ChYtE9IQ5wjEL0FqZETBE/m3u8
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true   
-    
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Smallville"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKI-vh2QbryXp6nZmsonzw1ha2E6U3KSg0VQ&usqp=CAU"group-title="A- 24/7",Smallville
-https://nffthex0kzt.xyz/rk/JdsvgxwftwfghxvnccnngdryhvddcddhFA/Cbvxfgddgjgdwehcvbbgshhbfsdhxcvhg/1087.m3u8
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true    
-    
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Big Bang Theory"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDjnJFBkm9si2Iei4H0pr-X5omAQR074NCiw&usqp=CAU"group-title="A- 24/7",The Big Bang Theory
-https://nffthex0kzt.xyz/rk/JdsvgxwftwfghxvnccnngdryhvddcddhFA/Cbvxfgddgjgdwehcvbbgshhbfsdhxcvhg/1096.m3u8
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true    
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mr Bean"tvg-logo="https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/6af814698155afb9511dd5e91454834a.png"group-title="A- 24/7",Mr Bean
-https://nffthex0kzt.xyz/rk/JdsvgxwftwfghxvnccnngdryhvddcddhFA/Cbvxfgddgjgdwehcvbbgshhbfsdhxcvhg/1059.m3u8
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true  
-    
-
-
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Naruto 24/7" tvg-logo="http://x.playerlatino.live/naruto.png" group-title="A-24/7",Naruto 24/7
+https://bgtv.xyz/play/2-802.php?idch=523.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Padre de Familia 24/7" tvg-logo="http://x.playerlatino.live/padredefamilia.png" group-title="A-24/7",Padre de Familia 24/7
+https://bgtv.xyz/play/2-802.php?idch=416.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Patoaventuras 24/7" tvg-logo="http://x.playerlatino.live/patoaventuras.png" group-title="A-24/7",Patoaventuras 24/7
+https://bgtv.xyz/play/2-802.php?idch=819.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Patrulla Canina 24/7" tvg-logo="http://x.playerlatino.live/patrullacanina.png" group-title="A-24/7",Patrulla Canina 24/7
+https://bgtv.xyz/play/2-802.php?idch=807.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Peppa Pig 24/7" tvg-logo="http://x.playerlatino.live/peppapig.png" group-title="A-24/7",Peppa Pig 24/7
+https://bgtv.xyz/play/2-802.php?idch=787.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Pinky y Cerebro 24/7" tvg-logo="http://x.playerlatino.live/pinkyycerebro.png" group-title="A-24/7",Pinky y Cerebro 24/7
+https://bgtv.xyz/play/2-802.php?idch=721.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Pocoyo 24/7" tvg-logo="http://x.playerlatino.live/pocoyo.png" group-title="A-24/7",Pocoyo 24/7
+https://bgtv.xyz/play/2-802.php?idch=799.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Pokemon 24/7" tvg-logo="http://x.playerlatino.live/pokemon.png" group-title="A-24/7",Pokemon 24/7
+https://bgtv.xyz/play/2-802.php?idch=420.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="PopCornFlix HD" tvg-logo="http://x.playerlatino.live/popcornflix.png" group-title="A-24/7",PopCornFlix HD
+https://bgtv.xyz/play/2-802.php?idch=1536.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Prison Break 24/7" tvg-logo="http://x.playerlatino.live/prisonbreak.png" group-title="A-24/7",Prison Break 24/7
+https://bgtv.xyz/play/2-802.php?idch=884.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Sakura Card Captor 24/7" tvg-logo="http://x.playerlatino.live/sakura.png" group-title="A-24/7",Sakura Card Captor 24/7
+https://bgtv.xyz/play/2-802.php?idch=672.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Samurai X 24/7" tvg-logo="http://x.playerlatino.live/samuraix.png" group-title="A-24/7",Samurai X 24/7
+https://bgtv.xyz/play/2-802.php?idch=663.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Scooby Doo 24/7" tvg-logo="http://x.playerlatino.live/scoobydoo.png" group-title="A-24/7",Scooby Doo 24/7
+https://bgtv.xyz/play/2-802.php?idch=422.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Series Comedia 24/7" tvg-logo="http://x.playerlatino.live/cine247.png" group-title="A-24/7",Series Comedia 24/7
+https://bgtv.xyz/play/2-802.php?idch=918.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Smallville 24/7" tvg-logo="http://x.playerlatino.live/smallville.png" group-title="A-24/7",Smallville 24/7
+https://bgtv.xyz/play/2-802.php?idch=673.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="South Park 24/7" tvg-logo="http://x.playerlatino.live/southpark.png" group-title="A-24/7",South Park 24/7
+https://bgtv.xyz/play/2-802.php?idch=674.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Spiderman 24/7" tvg-logo="http://x.playerlatino.live/spiderman.png" group-title="A-24/7",Spiderman 24/7
+https://bgtv.xyz/play/2-802.php?idch=889.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Super Campeones 24/7" tvg-logo="http://x.playerlatino.live/supercampeones.png" group-title="A-24/7",Super Campeones 24/7
+https://bgtv.xyz/play/2-802.php?idch=432.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="The Big Bang Theory 24/7" tvg-logo="http://x.playerlatino.live/thebigbangtheory.png" group-title="A-24/7",The Big Bang Theory 24/7
+https://bgtv.xyz/play/2-802.php?idch=676.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="The Walking Dead 24/7" tvg-logo="" group-title="A-24/7",The Walking Dead 24/7
+https://bgtv.xyz/play/2-802.php?idch=800.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Tom y Jerry 24/7" tvg-logo="http://x.playerlatino.live/tomyjerry.png" group-title="A-24/7",Tom y Jerry 24/7
+https://bgtv.xyz/play/2-802.php?idch=421.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TrollHunters 24/7" tvg-logo="http://x.playerlatino.live/trollhunters.png" group-title="A-24/7",TrollHunters 24/7
+https://bgtv.xyz/play/2-802.php?idch=662.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Two And a Half Men 24/7" tvg-logo="http://x.playerlatino.live/twoandhalfmen.png" group-title="A-24/7",Two And a Half Men 24/7
+https://bgtv.xyz/play/2-802.php?idch=675.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Yu-Gi-Oh! 24/7" tvg-logo="http://x.playerlatino.live/yugioh.png" group-title="A-24/7",Yu-Gi-Oh! 24/7
+https://bgtv.xyz/play/2-802.php?idch=664.m3u8

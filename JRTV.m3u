@@ -381,7 +381,7 @@ https://bgtv.xyz/play/2-802.php?idch=654
 #EXTVLCOPT--http-reconnect=true
 
 #EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO2"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_2_latinoamerica-mediano.png"group-title="E- PREMIUM",HBO2
-http://170.82.37.21:8000/play/a02m/index.m3u8
+http://45.5.117.182:8000/play/a0eP/index.m3u8
 #EXTVLCOPT:http-user-agent=tv.mexicohdenvivo3/9.8 (Linux;Android 10) AndroidXMedia3/1.1.1
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -399,7 +399,7 @@ https://bgtv.xyz/play/2-802.php?idch=841.m3u8
 #EXTVLCOPT--http-reconnect=true
 
 #EXTINF:-1 tvg-id="HBOPlus.mx" tvg-name="HBO PLUS"tvg-logo="https://i.pinimg.com/originals/c7/6f/24/c76f24d8dff0df01af6152f05ccb7a9c.png"group-title="E- PREMIUM",HBOPLUS
-https://bgtv.xyz/play/2-802.php?idch=655
+http://170.82.37.21:8000/play/a02o/index.m3u8
 #EXTVLCOPT:http-user-agent=tv.mexicohdenvivo3/9.8 (Linux;Android 10) AndroidXMedia3/1.1.1
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -417,7 +417,7 @@ https://zonamovie.live:8443/play/1HVxDH_oJ7NU5Jvo75a3W2VdX9dELyeJLtIb4uXCdtw/m3u
 #EXTVLCOPT--http-reconnect=true
 
 #EXTINF:-1 tvg-id="HBOXtreme.mx" tvg-name="HBO XTREME"tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097973446-HBO-xtreme-pequenio-b.png"group-title="E- PREMIUM",HBO XTREME
-http://45.166.92.22:58001/play/a03w/47754870.m3u8
+http://170.82.37.21:8000/play/a02k/index.m3u8
 #EXTVLCOPT:http-user-agent=tv.mexicohdenvivo3/9.8 (Linux;Android 10) AndroidXMedia3/1.1.1
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -523,7 +523,7 @@ https://bgtv.xyz/play/2-802.php?idch=90.m3u8
 #EXTVLCOPT--http-reconnect=true
 
 #EXTINF:-1 tvg-id="Space.mx" tvg-name="SPACE"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1024px-SpaceLogo.svg.png"group-title="F- CINE Y SERIES",SPACE
-https://bgtv.xyz/play/2-802.php?idch=83.m3u8
+http://200.59.188.3:8000/play/a00j
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true

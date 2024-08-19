@@ -30,7 +30,7 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="CANAL 5"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png"group-title="A- TV MX",user-agent="userAgent1",CANAL 5
-https://bgtv.xyz/play/2-802.php?idch=14.m3u8
+https://ottmt.cdn.iutpcdn.com/token=p=52~e=1724122545~h=891eabd9188221b3ee7db63ba4129cdc/bpk-tv/tp152243/clear/tp152243-audio_99021_spa=98800-video=4630000.m3u8
 #EXTVLCOPT:https-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true

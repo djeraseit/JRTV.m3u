@@ -184,7 +184,7 @@ https://ottmt.cdn.iutpcdn.com/token=p=50~e=1724262088~h=b3d30123fb913fa41288f6bd
 
 
 #EXTINF:-1 tvg-id="Unicable.mx" tvg-name="UNICABLE"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16521_dark_360w_270h.png"group-title="B- NOVELAS",UNICABLE
-https://bgtv.xyz/play/2-802.php?idch=653.m3u8
+https://ottmt.cdn.iutpcdn.com/token=p=52~e=1724262452~h=a6758cc111950fd04bb8859c377f2f66/bpk-tv/tp151499/clear/tp151499-audio_99021_spa=98800-video=4630000.m3u8
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true

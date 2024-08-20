@@ -469,7 +469,7 @@ https://bgtv.xyz/play/2-802.php?idch=719.m3u8
 #EXTVLCOPT--http-reconnect=true
 
 #EXTINF:-1 tvg-id="StarChannel.mx" tvg-name="STAR CHANNEL HD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/270px-Star_Channel_2020.svg.png"group-title="F- CINE Y SERIES",STAR CHANNEL HD
-https://ottmt.cdn.iutpcdn.com/token=p=50~e=1724122141~h=9796276a899ea003d2743100d31d63ab/bpk-tv/tp1546/clear/tp1546-audio_99021_spa=98800-video=4630000.m3u8
+https://ottmt.cdn.iutpcdn.com/token=p=50~e=1724260810~h=89f1fe48db76291202226948ecad3f20/bpk-tv/tp1546/clear/tp1546-audio_99021_spa=98800-video=4630000.m3u8
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -487,7 +487,7 @@ https://bgtv.xyz/play/2-802.php?idch=444.m3u8
 #EXTVLCOPT--http-reconnect=true
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY CHANNEL"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png"group-title="F- CINE Y SERIES",SONY CHANNEL
-https://bgtv.xyz/play/2-802.php?idch=498.m3u8
+https://ottmt.cdn.iutpcdn.com/token=p=50~e=1724261013~h=d4436ae2c9a8af5fbe3654dd5aa6d4be/bpk-tv/tp1448/clear/tp1448-audio_150621_spa=150400-video=4637200.m3u8
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true

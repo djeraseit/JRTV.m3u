@@ -158,7 +158,7 @@ https://bgtv.xyz/play/2-802.php?idch=447.m3u8
 
 
 #EXTINF:-1 tvg-id="TNTNovelas.mx" tvg-name="TLNOVELAS"tvg-logo="https://4.bp.blogspot.com/-E6b2VsJG0R4/UMeB36zPIhI/AAAAAAAAAoQ/byJ8wF8ArvI/s400/rojo.png"group-title="B- NOVELAS",user-agent="userAgent2", TV NOVELAS
-https://ottmt.cdn.iutpcdn.com/token=p=52~e=1724215814~h=4d96eb00509d51a842753a0c7329fc52/bpk-tv/tp1183/clear/tp1183-audio_150621_spa=150400-video=4637200.m3u8
+https://bgtv.xyz/play/2-802.php?idch=832
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true

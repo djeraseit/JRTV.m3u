@@ -505,7 +505,7 @@ https://bgtv.xyz/play/2-802.php?idch=84.m3u8
 #EXTVLCOPT--http-reconnect=true
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WARNER HD"tvg-logo="http://img3.wikia.nocookie.net/__cb20130619050550/logopedia/images/thumb/2/27/Warner_Bros._wordless_banner.png/1157px-Warner_Bros._wordless_banner.png"group-title="F- CINE Y SERIES",WARNER HD
-https://ottmt.cdn.iutpcdn.com/token=p=50~e=1724132910~h=d3435154063b698988c58130fcbd495e/bpk-tv/tp1152/clear/tp1152-audio_99021_spa=98800-video=4630000.m3u8
+https://ottmt.cdn.iutpcdn.com/token=p=50~e=1724261367~h=a4dbac56d699f6e47e2b1a192c809373/bpk-tv/tp1152/clear/tp1152-audio_99021_spa=98800-video=4630000.m3u8
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -523,7 +523,7 @@ https://bgtv.xyz/play/2-802.php?idch=90.m3u8
 #EXTVLCOPT--http-reconnect=true
 
 #EXTINF:-1 tvg-id="Space.mx" tvg-name="SPACE"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1024px-SpaceLogo.svg.png"group-title="F- CINE Y SERIES",SPACE
-http://200.59.188.3:8000/play/a00j
+https://bgtv.xyz/play/2-802.php?idch=83
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true

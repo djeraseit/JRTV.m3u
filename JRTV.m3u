@@ -1,9 +1,5 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 xui-id="854403" tvg-id="" tvg-name="ACCESO" tvg-logo="https://www.infobae.com/new-resizer/zd8PzZACA21jk1I4-ToKi5uS4Zs=/1440x810/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/UPJHB4OTDVGYROMRJ4RPJFAYPY.jpg" group-title="⭐ | LA CASA DE LOS FAMOSOS MEXICO",ACCESO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/mxkeys/goldenmultiplex.json
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
-https://live2-ott.izzigo.tv/out/u/dash/CANAL-5-HD/default.mpd
+
 
 #EXTINF:-1 xui-id="854403" tvg-id="" tvg-name="ACCESO TOTAL 1" tvg-logo="https://www.infobae.com/new-resizer/zd8PzZACA21jk1I4-ToKi5uS4Zs=/1440x810/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/UPJHB4OTDVGYROMRJ4RPJFAYPY.jpg" group-title="⭐ | LA CASA DE LOS FAMOSOS MEXICO",ACCESO TOTAL 1
 https://zonamovie.live:8443/play/1HVxDH_oJ7NU5Jvo75a3W01ehM8Dqv5tTuKD6H4iBGQ/m3u8

@@ -162,7 +162,7 @@ https://bgtv.xyz/play/2-802.php?idch=447.m3u8
 
 
 #EXTINF:-1 tvg-id="TNTNovelas.mx" tvg-name="TLNOVELAS"tvg-logo="https://4.bp.blogspot.com/-E6b2VsJG0R4/UMeB36zPIhI/AAAAAAAAAoQ/byJ8wF8ArvI/s400/rojo.png"group-title="B- NOVELAS",user-agent="userAgent2", TV NOVELAS
-https://zonamovie.live:8443/play/1HVxDH_oJ7NU5Jvo75a3W4wCe56bqUL7CVN3MxlxX-A/m3u8?=-1
+http://ultrapremium.cloud:8080/live/prm2311121/CKRxPZTZjUVu/611.ts?=-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true

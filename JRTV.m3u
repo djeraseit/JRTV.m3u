@@ -1,6 +1,6 @@
 #EXTM3U url-tvg=""
 
-EXTINF:-1 xui-id="854403" tvg-id="" tvg-name="ACCESO TOTAL 1" tvg-logo="https://www.infobae.com/new-resizer/zd8PzZACA21jk1I4-ToKi5uS4Zs=/1440x810/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/UPJHB4OTDVGYROMRJ4RPJFAYPY.jpg" group-title="⭐ | LA CASA DE LOS FAMOSOS MEXICO",ACCESO TOTAL 1
+EXTINF:-1 xui-id="854403" tvg-id="" tvg-name="ACCESO" tvg-logo="https://www.infobae.com/new-resizer/zd8PzZACA21jk1I4-ToKi5uS4Zs=/1440x810/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/UPJHB4OTDVGYROMRJ4RPJFAYPY.jpg" group-title="⭐ | LA CASA DE LOS FAMOSOS MEXICO",ACCESO
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTVLCOPT:network-caching=1000

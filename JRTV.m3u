@@ -491,7 +491,7 @@ https://bgtv.xyz/play/2-802.php?idch=444.m3u8
 #EXTVLCOPT--http-reconnect=true
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY CHANNEL"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png"group-title="F- CINE Y SERIES",SONY CHANNEL
-https://ottmt.cdn.iutpcdn.com/token=p=50~e=1724261013~h=d4436ae2c9a8af5fbe3654dd5aa6d4be/bpk-tv/tp1448/clear/tp1448-audio_150621_spa=150400-video=4637200.m3u8
+http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7LslWdktDOqLYdzqcryQRANyB12BW1Wt6C7mQ0AM-4H_/m3u8
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true

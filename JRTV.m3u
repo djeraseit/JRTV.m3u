@@ -397,7 +397,7 @@ http://170.82.37.21:8000/play/a02m/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 
 #EXTINF:-1 tvg-id="HBOMundi.mx" tvg-name="HBO MUNDI"tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097903824-HBO-mundi-pequenio-b.png"group-title="E- PREMIUM",HBO MUNDI
-https://zonamovie.live:8443/play/1HVxDH_oJ7NU5Jvo75a3W5fectCznqQx86CCsoqY3JU/.m3u8?=-1
+http://117.55.203.199:25461/auth/JF-2neRuOjB_Yej7gaZt5BftmfzY_1_RKmaOS9b9Vt21A08gkaG8y2h2j3NI2txj0c6WVWZoISGXNYaDa4StOa6MAZxqzoxm2pbpnPHr3L6N-cmka1HutV5BfjoQeuzVIUhWMb0RT5l2EiuGFnatd2B3BOHf2YImSNqsOLTDZD7IegaronPDR6-oKvutcbr7PYhHQKKlnOH3XbksNFhdP_zBC9wYEnerc--EWGvxhB6EciPTNd3ll4zgU12217F3AZ8oSt3r0T_qDgycYWjd4LlKYsJdq4nOMJVkAy1tpamv8957DRglVqsJ4d9yf3MT_Fi2DzTeNbkOiTV5tTsV4sbUH6wKBKlhAZNGyATJD4hhgobGujx6YWA9XdWvRPn_VQJER8DxIV1mYE9ImVAzX0lPJRhb7KA5CESkDnaXim8GMTKZux5lMw1wTz5gHhh0QIE4SSLyt-3slqdPv20h3qjmkazkj9Y-G-QwGMsZl3Md0PbA4z7Vi1HCR_fhViYV1JEbmI_lPDlU5wXA5GGSXUNXYnz7Wqke2V1qq3J1nqD6Z-87IXLXuA5-UjFVICE39e_Qm6p-yKINpfjCx97Tr8yQIjxRKwpFdh0nrHbPGqI
 #EXTVLCOPT:http-user-agent=tv.mexicohdenvivo3/9.8 (Linux;Android 10) AndroidXMedia3/1.1.1
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -409,7 +409,7 @@ http://170.82.37.21:8000/play/a02o/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 
 #EXTINF:-1 tvg-id="HBOPOP.mx" tvg-name="HBO POP"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68134_dark_360w_270h.png"group-title="E- PREMIUM",HBO POP
-https://bgtv.xyz/play/2-802.php?idch=977.m3u8
+https://zonamovie.live:8443/play/1HVxDH_oJ7NU5Jvo75a3W5fectCznqQx86CCsoqY3JU/.m3u8?=-1
 #EXTVLCOPT:http-user-agent=tv.mexicohdenvivo3/9.8 (Linux;Android 10) AndroidXMedia3/1.1.1
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true

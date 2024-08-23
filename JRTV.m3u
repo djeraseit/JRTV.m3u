@@ -8,8 +8,8 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a62d210f0f907a0ebfb84a790d42780b:590779be25e38a41d817f6ad13f5b070
-https://live2-ott.izzigo.tv/out/u/dash/WARNER-HD/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=6e399e091d279509cc3098bf07326289e0b244169515add5e567bb9a695eec0f
+https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-PREMIER--2HR-HD/index.mpd
 
 #EXTINF:-1 xui-id="854403" tvg-id="" tvg-name="ACCESO TOTAL 1" tvg-logo="https://www.infobae.com/new-resizer/zd8PzZACA21jk1I4-ToKi5uS4Zs=/1440x810/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/UPJHB4OTDVGYROMRJ4RPJFAYPY.jpg" group-title="⭐ | LA CASA DE LOS FAMOSOS MEXICO",ACCESO TOTAL 1
 https://zonamovie.live:8443/play/1HVxDH_oJ7NU5Jvo75a3W01ehM8Dqv5tTuKD6H4iBGQ/.m3u8?=-1

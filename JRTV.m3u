@@ -32,7 +32,7 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="CANAL 5"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png"group-title="A- TV MX",CANAL 5
-https://bgtv.xyz/play/2-802.php?idch=941?=-1
+http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/46?=-1
 #EXTVLCOPT:http-UserAgent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true

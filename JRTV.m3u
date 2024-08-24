@@ -167,7 +167,7 @@ http://ultrapremium.cloud:8080/live/prm2311121/CKRxPZTZjUVu/611.ts?=-1
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PASIONES"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/pasiones-mediano.png"group-title="B- NOVELAS",PASIONES
-http://170.82.37.21:8000/play/a027/index.m3u8
+http://200.59.188.3:8000/play/a00x
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true

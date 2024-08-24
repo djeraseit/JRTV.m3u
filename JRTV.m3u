@@ -59,7 +59,7 @@ https://bgtv.xyz/play/2-802.php?idch=177.m3u8
 #EXTVLCOPT--http-reconnect=true
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AZ CLIC HD"tvg-logo="https://cdn.tvpassport.com/image/station/240x135/azclic.png"group-title="A- TV MX",AZ CLIC HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AZ CLIC HD"tvg-logo="http://x.playerlatino.live/http://x.playerlatino.live/azclic.png"group-title="A- TV MX",AZ CLIC HD
 https://bgtv.xyz/play/2-802.php?idch=165.m3u8
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTVLCOPT:network-caching=1000
@@ -88,7 +88,7 @@ http://live.budtvlight.com:25461/live/bud-1373757/bc7b1d6d87/158685.m3u8
 
 
 #EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="FORO TV"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66635_dark_360w_270h.png"group-title="A- TV MX",FORO TV
-https://bgtv.xyz/play/2-802.php?idch=1543.m3u8
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64e35aff6b1fdb0008ea8441livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTAROPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true

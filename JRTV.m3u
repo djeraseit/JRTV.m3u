@@ -408,7 +408,7 @@ http://170.82.37.21:8000/play/a02o/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 
 #EXTINF:-1 tvg-id="HBOPOP.mx" tvg-name="HBO POP"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68134_dark_360w_270h.png"group-title="E- PREMIUM",HBO POP
-https://zonamovie.live:8443/play/1HVxDH_oJ7NU5Jvo75a3W5fectCznqQx86CCsoqY3JU/.m3u8?=-1
+http://e10.cdnfree.cloud:2052/free10/172/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI0IDg6MjQ6MjUgQU0maGFzaF92YWx1ZT1NaG5EV2Q3QkZtNVhWcEdUN29EVlpRPT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTVLCOPT:http-user-agent=tv.mexicohdenvivo3/9.8 (Linux;Android 10) AndroidXMedia3/1.1.1
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true

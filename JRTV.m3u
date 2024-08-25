@@ -420,7 +420,7 @@ https://zonamovie.live:8443/play/1HVxDH_oJ7NU5Jvo75a3W2VdX9dELyeJLtIb4uXCdtw/m3u
 #EXTVLCOPT--http-reconnect=true
 
 #EXTINF:-1 tvg-id="HBOXtreme.mx" tvg-name="HBO XTREME"tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097973446-HBO-xtreme-pequenio-b.png"group-title="E- PREMIUM",HBO XTREME
-http://170.82.37.21:8000/play/a02k/index.m3u8
+http://e10.cdnfree.cloud:2052/free10/071/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI0IDg6MjY6NDcgQU0maGFzaF92YWx1ZT1ReHFrWFdxSFZ1d0k4TVU2RUFYSGlRPT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTVLCOPT:http-user-agent=tv.mexicohdenvivo3/9.8 (Linux;Android 10) AndroidXMedia3/1.1.1
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true

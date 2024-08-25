@@ -377,7 +377,7 @@ http://181.78.27.128:8000/play/a02a/index.m3u8
 
 
 #EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO HD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Hbo_blanco.png"group-title="E- PREMIUM",HBO HD
-https://bgtv.xyz/play/2-802.php?idch=654
+http://45.166.92.22:58001/play/a03s/index.m3u8
 #EXTVLCOPT:http-user-agent=tv.mexicohdenvivo3/9.8 (Linux;Android 10) AndroidXMedia3/1.1.1
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true

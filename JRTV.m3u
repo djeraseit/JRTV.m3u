@@ -47,7 +47,7 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
 
 #EXTINF:-1 tvg-id="Nu9ve.mx" tvg-name="NU9VE"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59528_dark_360w_270h.png"group-title="A- TV MX",NU9VE
-https://bgtv.xyz/play/2-802.php?idch=772.m3u8
+http://e10.cdnfree.cloud:2052/free10/048/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI0IDc6MDg6MDAgQU0maGFzaF92YWx1ZT1MWVBJN0d2eGdpeWRKbDNsdklEUzRRPT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true

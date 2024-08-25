@@ -460,7 +460,7 @@ https://bgtv.xyz/play/2-802.php?idch=905.m3u8
 
 
 #EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="DISTRITO COMEDIA"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png"group-title="F- CINE Y SERIES",DISTRITO COMEDIA
-https://bgtv.xyz/play/2-802.php?idch=32.m3u8
+http://45.5.117.182:8000/play/ihf9/index.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 

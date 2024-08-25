@@ -396,7 +396,7 @@ http://170.82.37.21:8000/play/a02m/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 
 #EXTINF:-1 tvg-id="HBOMundi.mx" tvg-name="HBO MUNDI"tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097903824-HBO-mundi-pequenio-b.png"group-title="E- PREMIUM",HBO MUNDI
-http://proxtream.us:8080/live/Victorhugo/tGjbZ2yUknBd/260483.ts?=-1
+http://e10.cdnfree.cloud:2052/free10/181/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI0IDg6MTQ6MzMgQU0maGFzaF92YWx1ZT1Gak5YY2sxOHY0M2FyRklXQVdoeW9RPT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTVLCOPT:http-user-agent=foo595855/11.bg-Oficial (Linux;Android 10) ExoPlayerLib/2.14.2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true

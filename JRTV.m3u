@@ -1,6 +1,10 @@
 #EXTM3U url-tvg=""
+
 #EXTINF:-1 xui-id="85440" tvg-id="" tvg-name="ACCESO TOTAL 1" tvg-logo="https://www.infobae.com/new-resizer/zd8PzZACA21jk1I4-ToKi5uS4Zs=/1440x810/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/UPJHB4OTDVGYROMRJ4RPJFAYPY.jpg" group-title="⭐ | LA CASA DE LOS FAMOSOS MEXICO",ACCESO TOTAL 1
-http://e10.cdnfree.cloud:2052/free10/010/playlist.m3u8?wmsAuthSign=server_time=9/30/2024 9:26:33 PM&hash_value=DWWc2tiTxhyoIHuKpKxUkw==&validminutes=240
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2362687,RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.2"
+http://e10.cdnfree.cloud:2052/free10/030/chunks.mu8?nimblesessionid=20660300&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNi8yMDI0IDI6NTM6MjQgQU0maGFzaF92YWx1ZT1ubEc4RHdOQjFVbWFmd3BIQUgwbklBPT0mdmFsaWRtaW51dGVzPTI0MA==
+
 
 #EXTINF:-1 xui-id="85440" tvg-id="" tvg-name="ACCESO TOTAL 1" tvg-logo="https://www.infobae.com/new-resizer/zd8PzZACA21jk1I4-ToKi5uS4Zs=/1440x810/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/UPJHB4OTDVGYROMRJ4RPJFAYPY.jpg" group-title="⭐ | LA CASA DE LOS FAMOSOS MEXICO",ACCESO TOTAL 1
 https://zonamovie.live:8443/play/1HVxDH_oJ7NU5Jvo75a3W01ehM8Dqv5tTuKD6H4iBGQ/.m3u8?=-1

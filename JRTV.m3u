@@ -74,7 +74,7 @@ http://45.4.85.214:58001/play/a02f
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AZ CINEMA"tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_cinema-mediano.png"group-title="A- TV MX",AZCINEMA
-https://bgtv.xyz/play/2-802.php?idch=186.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1733
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true

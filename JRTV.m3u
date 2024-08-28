@@ -462,7 +462,7 @@ https://bgtv.xyz/play/2-802.php?idch=905.m3u8
 
 
 #EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="DISTRITO COMEDIA"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png"group-title="F- CINE Y SERIES",DISTRITO COMEDIA
-http://e10.cdnfree.cloud:2052/free10/056/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI0IDc6MTQ6NTMgQU0maGFzaF92YWx1ZT1qK3lxbXZScndzYitLUC8yR0sxYUJnPT0mdmFsaWRtaW51dGVzPTI0MA==
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000494&type=stream.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 

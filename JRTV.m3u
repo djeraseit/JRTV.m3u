@@ -403,59 +403,58 @@ http://e10.cdnfree.cloud:2052/free10/181/playlist.m3u8?wmsAuthSign=c2VydmVyX3Rpb
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 
-#EXTINF:-1 tvg-id="HBOPlus.mx" tvg-name="HBO PLUS"tvg-logo="https://i.pinimg.com/originals/c7/6f/24/c76f24d8dff0df01af6152f05ccb7a9c.png"group-title="E- PREMIUM",HBOPLUS
-http://170.82.37.21:8000/play/a02o/index.m3u8
-#EXTVLCOPT:http-user-agent=tv.mexicohdenvivo3/9.8 (Linux;Android 10) AndroidXMedia3/1.1.1
+#EXTINF:-1 xui-id="239523" tvg-id="HBOPlus.mx" tvg-name="HBO PLUS"tvg-logo="https://i.pinimg.com/originals/c7/6f/24/c76f24d8dff0df01af6152f05ccb7a9c.png"group-title="E- PREMIUM",HBOPLUS
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8Sz6Mkvd6PXFCsOatelsGIf1wuL72Gj-HJcYWf-I2dwVoP/m3u8
+#EXTVLCOPT:http-user-agent=ftv_android_smarters
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 
-#EXTINF:-1 tvg-id="HBOPOP.mx" tvg-name="HBO POP"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68134_dark_360w_270h.png"group-title="E- PREMIUM",HBO POP
-http://e10.cdnfree.cloud:2052/free10/172/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI0IDg6MjQ6MjUgQU0maGFzaF92YWx1ZT1NaG5EV2Q3QkZtNVhWcEdUN29EVlpRPT0mdmFsaWRtaW51dGVzPTI0MA==
-#EXTVLCOPT:http-user-agent=tv.mexicohdenvivo3/9.8 (Linux;Android 10) AndroidXMedia3/1.1.1
+#EXTINF:-1 xui-id="244283" tvg-id="HBOPOP.mx" tvg-name="HBO POP"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68134_dark_360w_270h.png"group-title="E- PREMIUM",HBO POP
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8Sz6Mkvd6PXFCsOatelsGIf1x39OQcoVA8hRQobDS1Fs-1/m3u8
+#EXTVLCOPT:http-user-agent=ftv_android_smarters
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 
-#EXTINF:-1 tvg-id="HBOSignature.mx" tvg-name="HBO SIGNATURE"tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097951981-HBO-signature-pequenio-b.png"group-title="E- PREMIUM",HBO SIGNATURE
-https://zonamovie.live:8443/play/1HVxDH_oJ7NU5Jvo75a3W2VdX9dELyeJLtIb4uXCdtw/m3u8
-#EXTVLCOPT:http-user-agent=tv.mexicohdenvivo3/9.8 (Linux;Android 10) AndroidXMedia3/1.1.1
+#EXTINF:-1 xui-id="510158" tvg-id="HBOSignature.mx" tvg-name="HBO SIGNATURE"tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097951981-HBO-signature-pequenio-b.png"group-title="E- PREMIUM",HBO SIGNATURE
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8Sz6eIizix09c-so-GRcPKk8C79KE4ChZHeG7k3b4m6mSO/m3u8
+#EXTVLCOPT:http-user-agent=ftv_android_smarters
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 
-#EXTINF:-1 tvg-id="HBOXtreme.mx" tvg-name="HBO XTREME"tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097973446-HBO-xtreme-pequenio-b.png"group-title="E- PREMIUM",HBO XTREME
+#EXTINF:-1 xui-id="235783" tvg-id="HBOXtreme.mx" tvg-name="HBO XTREME"tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097973446-HBO-xtreme-pequenio-b.png"group-title="E- PREMIUM",HBO XTREME
 http://e10.cdnfree.cloud:2052/free10/071/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI0IDg6MjY6NDcgQU0maGFzaF92YWx1ZT1ReHFrWFdxSFZ1d0k4TVU2RUFYSGlRPT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTVLCOPT:http-user-agent=tv.mexicohdenvivo3/9.8 (Linux;Android 10) AndroidXMedia3/1.1.1
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 
 #EXTINF:-1 tvg-id="UniversalCinema.mx" tvg-name="UNIVERSAL CINEMA"tvg-logo="https://www.universalplus.com/files/channels/731381553.png"group-title="E- PREMIUM",UNIVERSAL CINEMA
-https://bgtv.xyz/play/2-802.php?idch=902.m3u8
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8Sz6Mkvd6PXFCsOatelsGIf1zr2KQ_V9FKb0BBZJF8SREH/m3u8
+#EXTVLCOPT:http-user-agent=ftv_android_smarters
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 
-#EXTINF:-1 tvg-id="UniversalComedy.mx" tvg-name="UNIVERSAL COMEDY"tvg-logo="https://www.universalplus.com/files/channels/172050409.png"group-title="E- PREMIUM",UNIVERSAL COMEDY
-http://alfatv.lat:2082/live/6xJ9crA8NAvp/4GK4cqCuN8zG/498309.m3u8
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1 xui-id="498309"  tvg-id="UniversalComedy.mx" tvg-name="UNIVERSAL COMEDY"tvg-logo="https://www.universalplus.com/files/channels/172050409.png"group-title="E- PREMIUM",UNIVERSAL COMEDY
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8Sz5SsZdHiWbtAXrKIdLfFU0Fs-iKKRTU-5ya2hrlf5lfX/m3u8
+#EXTVLCOPT:http-user-agent=ftv_android_smarters
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 
-#EXTINF:-1 tvg-id="UniversalCrime.mx" tvg-name="UNIVERSAL CRIME"tvg-logo="https://www.universalplus.com/files/channels/780277389.png"group-title="E- PREMIUM",UNIVERSAL CRIME
-http://alfatv.lat:2082/live/6xJ9crA8NAvp/4GK4cqCuN8zG/239574.m3u8
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1 xui-id="239574" tvg-id="UniversalCrime.mx" tvg-name="UNIVERSAL CRIME"tvg-logo="https://www.universalplus.com/files/channels/780277389.png"group-title="E- PREMIUM",UNIVERSAL CRIME
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8Sz6Mkvd6PXFCsOatelsGIf1xj6u6N290sAbdCBUSh_PMK/m3u8
+#EXTVLCOPT:http-user-agent=ftv_android_smarters
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 
 
 #EXTINF:-1 tvg-id="UniversalPremiere.mx" tvg-name="UNIVERSAL PREMIER"tvg-logo="https://www.universalplus.com/files/channels/398064723.png"group-title="E- PREMIUM",UNIVERSAL PREMIER
 https://bgtv.xyz/play/2-802.php?idch=901.m3u8
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTVLCOPT:http-user-agent=ftv_android_smarters
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 
-
-#EXTINF:-1 tvg-id="UniversalReality.mx" tvg-name="UNIVERSAL REALITY"tvg-logo="https://www.universalplus.com/files/channels/120254749.png"group-title="E- PREMIUM",UNIVERSAL REALITY
-http://alfatv.lat:2082/live/6xJ9crA8NAvp/4GK4cqCuN8zG/239566.m3u8
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1 xui-id="239566" tvg-id="UniversalReality.mx" tvg-name="UNIVERSAL REALITY"tvg-logo="https://www.universalplus.com/files/channels/120254749.png"group-title="E- PREMIUM",UNIVERSAL REALITY
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8Sz6Mkvd6PXFCsOatelsGIf1xVSQlYIJdrSb5gjNhspPZc/m3u8
+#EXTVLCOPT:http-user-agent=ftv_android_smarters
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 

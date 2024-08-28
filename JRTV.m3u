@@ -433,13 +433,13 @@ https://bgtv.xyz/play/2-802.php?idch=902.m3u8
 #EXTVLCOPT--http-reconnect=true
 
 #EXTINF:-1 tvg-id="UniversalComedy.mx" tvg-name="UNIVERSAL COMEDY"tvg-logo="https://www.universalplus.com/files/channels/172050409.png"group-title="E- PREMIUM",UNIVERSAL COMEDY
-https://bgtv.xyz/play/2-802.php?idch=903.m3u8
+http://alfatv.lat:2082/live/6xJ9crA8NAvp/4GK4cqCuN8zG/498309.m3u8
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 
 #EXTINF:-1 tvg-id="UniversalCrime.mx" tvg-name="UNIVERSAL CRIME"tvg-logo="https://www.universalplus.com/files/channels/780277389.png"group-title="E- PREMIUM",UNIVERSAL CRIME
-https://bgtv.xyz/play/2-802.php?idch=904.m3u8
+http://alfatv.lat:2082/live/6xJ9crA8NAvp/4GK4cqCuN8zG/239574.m3u8
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -453,7 +453,7 @@ https://bgtv.xyz/play/2-802.php?idch=901.m3u8
 
 
 #EXTINF:-1 tvg-id="UniversalReality.mx" tvg-name="UNIVERSAL REALITY"tvg-logo="https://www.universalplus.com/files/channels/120254749.png"group-title="E- PREMIUM",UNIVERSAL REALITY
-https://bgtv.xyz/play/2-802.php?idch=905.m3u8
+http://alfatv.lat:2082/live/6xJ9crA8NAvp/4GK4cqCuN8zG/239566.m3u8
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true

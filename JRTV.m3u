@@ -421,9 +421,9 @@ http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8Sz6eIizix09c-so-GRcPKk8C79KE4ChZH
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 
-#EXTINF:-1 xui-id="235783" tvg-id="HBOXtreme.mx" tvg-name="HBO XTREME"tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097973446-HBO-xtreme-pequenio-b.png"group-title="E- PREMIUM",HBO XTREME
-http://e10.cdnfree.cloud:2052/free10/071/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI0IDg6MjY6NDcgQU0maGFzaF92YWx1ZT1ReHFrWFdxSFZ1d0k4TVU2RUFYSGlRPT0mdmFsaWRtaW51dGVzPTI0MA==
-#EXTVLCOPT:http-user-agent=tv.mexicohdenvivo3/9.8 (Linux;Android 10) AndroidXMedia3/1.1.1
+#EXTINF:-1 xui-id="239538" tvg-id="HBOXtreme.mx" tvg-name="HBO XTREME"tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097973446-HBO-xtreme-pequenio-b.png"group-title="E- PREMIUM",HBO XTREME
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8Sz6Mkvd6PXFCsOatelsGIf1wLElwbyk-L_6DauLDjadI5/m3u8
+#EXTVLCOPT:http-user-agent=ftv_android_smarters
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 

@@ -594,7 +594,7 @@ http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8Sz6Mkvd6PXFCsOatelsGIf1xv1Gu1FBQ2
 #EXTVLCOPT--http-reconnect=true
 
 #EXTINF:-1 xui-id="235906" tvg-id="DePelicula.mx" tvg-name="DE PELICULA"tvg-logo="https://cdn.mitvstatic.com/channels/mx_de-pelicula-hd_m.png"group-title="F- CINE Y SERIES",DE PELICULA
-http://moontools.me:8080/Omaedemo/pCCRaxRzR2way/1310625
+http://moontools.me:8080/Omaedemo/pCCRaxRzR2way/19485
 #EXTVLCOPT:http-user-agent=ftv_android_smarters
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true

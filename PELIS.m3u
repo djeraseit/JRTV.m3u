@@ -1,4 +1,18 @@
 #EXTM3U url-tvg=""
+
+#EXTINF:-1 tvg-logo="https://services.meteored.com/img/article/tornados-2024-la-pelicula-twister-estrena-un-nuevo-capitulo-luego-de-28-anos-mira-el-avance-1715679320174_1280.jpg" group-title="ESTRENOS",TORNADOS
+http://vod.tuxchannel.mx/peliculas/720/twisters%202024.mkv
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/syndication.abcaudio.com/files/2024-07-02/e_jackpot_07022024.jpg" group-title="ESTRENOS",JACKPOT LOTERIA MORTAL
+https://www.polimor.club/movies/loteria.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Hg7McW2ogSE/maxresdefault.jpg" group-title="ESTRENOS",EXHUMAN LA TUMBA DEL DIABLO
+https://www.polimor.club/movies/exhuma.mp4
+#EXTINF:-1 tvg-logo="https://baztabonline.com/wp-content/uploads/2024/06/%D8%AA%D8%B1%DB%8C%D9%84%D8%B1-%D9%81%DB%8C%D9%84%D9%85-The-Union-%D9%85%D9%86%D8%AA%D8%B4%D8%B1-%D8%B4%D8%AF.jpg" group-title="MOVIES ESTRENOS HD",EL SINDICATO
+http://vod.tuxchannel.mx/peliculas/720/the%20union%202024.mkv
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/PYQ9AduUZ_Y/sddefault.jpg" group-title="ESTRENOS",EL SECUESTRO DEL PAPA
+https://www.polimor.club/movies/papa.mp4
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.adzIMfn8ueiST2O3rgduAQHaEK?rs=1&pid=ImgDetMain" group-title="ESTRENOS",AL RESCATE DE FONDO DE BIKINI: LA PELICULA DE ARENITA MEJILLA
+http://vod.tuxchannel.mx/peliculas/720/saving%20bikini%20bottom%20the%20sandy%20cheeks%20movie%202024.mkv
+
 #EXTINF:-1 tvg-logo="https://cdn.marvel.com/content/1x/deadpoolandwolverine_lob_log_def_03.png" group-title="ESTRENOS",DEADPOOL AND WOLVERINE
 https://www.polimor.club/movies/deadpool3.mp4
 #EXTINF:-1 tvg-logo="https://ovaciones.com/wp-content/uploads/2024/05/Daniel-Reza-2024-05-07T173633.163.png" group-title="ESTRENOS",MI VILLANO FAVORITO 4

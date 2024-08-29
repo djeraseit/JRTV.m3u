@@ -143,19 +143,13 @@ https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
 #EXTVLCOPT--http-reconnect=true
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVC"tvg-logo="https://cdn.mitvstatic.com/channels/co_tvc_m.png"group-title="A- TV MX",TVC
-https://bgtv.xyz/play/2-802.php?idch=837.m3u8
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RT"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/125px-Russia-today-logo.svg.png"group-title="A- TV MX",RT
-https://bgtv.xyz/play/2-802.php?idch=781.m3u8
+https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADN40"tvg-logo="https://cdn.mitvstatic.com/channels/adn-40-m.png"group-title="A- TV MX",ADN40
-https://bgtv.xyz/play/2-802.php?idch=447.m3u8
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTVLCOPT:https-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -174,7 +168,7 @@ http://alfatv.lat:2082/live/6xJ9crA8NAvp/4GK4cqCuN8zG/236262.m3u8?=-1
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 
-#EXTINF:-1 tvg-id="TelemundoInternacional.mx" tvg-name="TELEMUNDO FLORIDA USA"tvg-logo="https://yt3.googleusercontent.com/Y7GKGOHidJBUEzjpyjcegIfM4b2Pv4MYOZT-WoePAZ5-0Nlc1EViUx8giAqrK-PCpF4w1gP8=s900-c-k-c0x00ffffff-no-rj"group-title="B- NOVELAS",TELEMUNDO FLORIDA USA
+#EXTINF:-1 tvg-id="TelemundoInternacional.mx" tvg-name="TELEMUNDO FLORIDA USA"tvg-logo="tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64835_dark_360w_270h.png"group-title="B- NOVELAS",TELEMUNDO FLORIDA USA
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTVLCOPT:network-caching=1000

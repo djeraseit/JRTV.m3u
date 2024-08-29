@@ -307,70 +307,72 @@ https://zonamovie.live:8443/play/1HVxDH_oJ7NU5Jvo75a3W2eZqk3jzPks-xo4dk-2OBk/m3u
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 
+
+
 #EXTINF:-1 tvg-id="Tooncast.mx" tvg-name="TOONCAST"tvg-logo="https://3.bp.blogspot.com/-6TeTUuHgsxI/VrV2aR1efMI/AAAAAAAAGs0/f-yRhAXo-RU/s640/Tooncas_logo_jpg.png"group-title="D- INFANTIL",TOONCAST
-https://nffthex0kzt.xyz/rk/JdsvgxwftwfghxvnccnngdryhvddcddhFA/Cbvxfgddgjgdwehcvbbgshhbfsdhxcvhg/811.m3u8
-#EXTVLCOPT:https-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/324
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 
 #EXTINF:-1 tvg-id="DiscoveryKids.mx" tvg-name="DISCOVERY KIDS MX"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1164px-2016_Discovery_Kids_logo.svg.png"group-title="D- INFANTIL",DISCOVERY KIDS MX
-https://bgtv.xyz/play/2-802.php?idch=25.m3u8
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/95
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 
 #EXTINF:-1 tvg-id="Nickelodeon(English).mx" tvg-name="NICKELODEO"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png"group-title="D- INFANTIL",NICKELODEO
-https://bgtv.xyz/play/2-802.php?idch=184.m3u8
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/259
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NICK TEEN"tvg-logo="https://logodix.com/logo/73545.png"group-title="D- INFANTIL",NICK TEEN
 http://177.53.153.20:8001/play/a0uq/index.m3u8
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 
 #EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="CARTOON NETWORK"tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica-mediano.png"group-title="D- INFANTIL",CARTOON NETWORK
 https://bgtv.xyz/play/2-802.php?idch=17.m3u8
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 
 #EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-name="DISNEY CHANNEL"tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/disney_channel-mediano.png"group-title="D- INFANTIL",DISNEYCHANNEL
-https://bgtv.xyz/play/2-802.php?idch=29.m3u8
-#EXTVLCOPT:https-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/102
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 
 #EXTINF:-1 tvg-id="Cartoonito.mx" tvg-name="CARTOONITO"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Cartoonito_logo.svg/1280px-Cartoonito_logo.svg.png"group-title="D- INFANTIL",CARTOONITO
 https://bgtv.xyz/play/2-802.php?idch=11.m3u8
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 
 #EXTINF:-1 tvg-id="Bitme.mx" tvg-name="BIT ME"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Qdp0W8P4jdlGLHsvlOAT5g-wxLnvE79AOA&usqp=CAU"group-title="D- INFANTIL",BIT ME
 http://00322.xyz:8000/live/saabj84/CNGUPDY6RA/151648.ts
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 
 
 #EXTINF:-1 tvg-id="BabyTv.mx" tvg-name="BABY TV"tvg-logo="https://i.pinimg.com/originals/e8/3e/b9/e83eb97fac78e9328f8dd32ad2e527e7.png"group-title="D- INFANTIL",BABYTV
 https://bgtv.xyz/play/2-802.php?idch=7.m3u8
-#EXTVLCOPT:https-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 
 #EXTINF:-1 tvg-id="NickJr.mx" tvg-name="NICK JR"tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/nick_jr-mediano.png"group-title="D- INFANTIL",NICK JR
-https://bgtv.xyz/play/2-802.php?idch=79.m3u8
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/264
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISNEY JR"tvg-logo="http://3.bp.blogspot.com/-VvbUqgHc5Pw/VJIJWAJLxfI/AAAAAAAAHi0/A0nDmO29zwk/s1600/Logo%2BDisney_Junior.png"group-title="D- INFANTIL",DISNEY JR
-http://181.78.27.128:8000/play/a02a/index.m3u8
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/105
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 

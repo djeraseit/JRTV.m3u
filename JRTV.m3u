@@ -110,8 +110,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
 #EXTVLCOPT--http-reconnect=true
 
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="IMAGEN TV"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logo-Imagen-TV-MX.png/800px-Logo-Imagen-TV-MX.png"group-title="A- TV MX",IMAGEN TV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64e35aff6b1fdb0008ea8441livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTAROPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/215
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 
@@ -479,8 +479,8 @@ http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7UBWVQk9Gyx
 #EXTVLCOPT--http-reconnect=true
 
 #EXTINF:-1 tvg-id="FX.mx" tvg-name="FX HD"tvg-logo="https://logodix.com/logo/587463.png"group-title="F- CINE Y SERIES",FX HD
-http://200.115.120.1:8000/play/ca017/index.m3u8
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/176
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 
@@ -504,20 +504,20 @@ http://nffthex0kzt.xyz/play/pVJEXpVxSE1PmbahX01mKJxKcr8Wwia3r34efrVksgCYL9pnDgfb
 #EXTVLCOPT--http-reconnect=true
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WARNER HD"tvg-logo="http://img3.wikia.nocookie.net/__cb20130619050550/logopedia/images/thumb/2/27/Warner_Bros._wordless_banner.png/1157px-Warner_Bros._wordless_banner.png"group-title="F- CINE Y SERIES",WARNER HD
-http://nffthex0kzt.xyz/play/pVJEXpVxSE1PmbahX01mKJxKcr8Wwia3r34efrVksgA0lx84atQKvFS7Tw--uflf/.m3u8
-#EXTVLCOPT:http-user-agent=kY93bMe0x5gNCp8pGSHfPZFjU6bw7vbjj1v3HB7KmpuzbPbWVWe8UBV8tkwNZ2mc48YCb8272zLKPPebVhcFPSkT8DaAbtGCYeaVTt44EVEtg8b36Z3pmVz4x6UZWdk
+http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/366
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 
 #EXTINF:-1 xui-id="235791" tvg-id="TNT.mx" tvg-name="TNT"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TNT-oficial.png"group-title="F- CINE Y SERIES",TNT
-http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8Sz6Mkvd6PXFCsOatelsGIf1x76Hl3PMG6XwS0n0IUEGrB/m3u8
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/319
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 
 #EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="TNT SERIES"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TNT_Serie.svg/649px-TNT_Serie.svg.png"group-title="F- CINE Y SERIES",TNT SERIES
-https://bgtv.xyz/play/2-802.php?idch=90.m3u8
-#EXTVLCOPT:http-user-agent=ftv_android_smarters
+http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/322
+#EXTVLCOPT:http-user-agentNg9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 

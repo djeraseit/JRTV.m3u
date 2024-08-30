@@ -204,7 +204,7 @@ https://bgtv.xyz/play/2-802.php?idch=158.m3u8
 
 
 #EXTINF:-1 tvg-id="DiscoveryScience.mx" tvg-name="DISCOVERY SCIENCE"tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2014/02/tv1_sci-white.png"group-title="C- CULTURA",DISCOVERY SCIENCE
-https://bgtv.xyz/play/2-802.php?idch=26.m3u8
+http://nffthex0kzt.xyz/play/pVJEXpVxSE1PmbahX01mKJxKcr8Wwia3r34efrVksgCyvm39BsyRByt5u4E1oPyo/.m3u8
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -253,11 +253,6 @@ http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/206
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HISTORY PREMIUM"tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica-mediano.png"group-title="C- CULTURA",HISTORY PREMIUM
-https://bgtv.xyz/play/2-802.php?idch=67.m3u8
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="H2"tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png"group-title="C- CULTURA",H2
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/205
@@ -284,7 +279,7 @@ https://nffthex0kzt.xyz/rk/JdsvgxwftwfghxvnccnngdryhvddcddhFA/Cbvxfgddgjgdwehcvb
 #EXTVLCOPT--http-reconnect=true
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY ID"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png"group-title="C- CULTURA",DISCOVERY ID
-http://45.166.92.22:58001/play/a01s/index.m3u8
+http://nffthex0kzt.xyz/play/pVJEXpVxSE1PmbahX01mKJxKcr8Wwia3r34efrVksgB1vjMhALFvGGfj3UEifPp0/.m3u8
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true

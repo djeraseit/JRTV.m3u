@@ -315,11 +315,7 @@ http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/259
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NICK TEEN"tvg-logo="https://logodix.com/logo/73545.png"group-title="D- INFANTIL",NICK TEEN
-http://177.53.153.20:8001/play/a0uq/index.m3u8
-#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
+
 
 #EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="CARTOON NETWORK"tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica-mediano.png"group-title="D- INFANTIL",CARTOON NETWORK
 http://nffthex0kzt.xyz/play/pVJEXpVxSE1PmbahX01mKJxKcr8Wwia3r34efrVksgAvTS-hzcjwlLbN4bIZW-Ee/.m3u8
@@ -340,14 +336,14 @@ http://nffthex0kzt.xyz/play/pVJEXpVxSE1PmbahX01mKJxKcr8Wwia3r34efrVksgCgnet2s7Sx
 #EXTVLCOPT--http-reconnect=true
 
 #EXTINF:-1 tvg-id="Bitme.mx" tvg-name="BIT ME"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Qdp0W8P4jdlGLHsvlOAT5g-wxLnvE79AOA&usqp=CAU"group-title="D- INFANTIL",BIT ME
-http://00322.xyz:8000/live/saabj84/CNGUPDY6RA/151648.ts
+http://nffthex0kzt.xyz/play/pVJEXpVxSE1PmbahX01mKJxKcr8Wwia3r34efrVksgClOxS3CydlZq8VmI2o1KUF/.m3u8
 #EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 
 
 #EXTINF:-1 tvg-id="BabyTv.mx" tvg-name="BABY TV"tvg-logo="https://i.pinimg.com/originals/e8/3e/b9/e83eb97fac78e9328f8dd32ad2e527e7.png"group-title="D- INFANTIL",BABYTV
-https://bgtv.xyz/play/2-802.php?idch=7.m3u8
+http://nffthex0kzt.xyz/play/pVJEXpVxSE1PmbahX01mKJxKcr8Wwia3r34efrVksgDZjuoq2fQ90231qGPS5SR8/.m3u8
 #EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true

@@ -1,4 +1,10 @@
 #EXTM3U
+
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/ 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/ 
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/Cinemax.png" group-title="Premium Movies",Cinemax (Transcorp) 
+https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.8093c4913f46b6a7c9fbfd7442dc2002?rik=XMJVNX3hGLWAFg&riu=http%3a%2f%2ffanart.tv%2ffanart%2ftv%2f78020%2fhdclearart%2falf-5835b6ec28f6e.png&ehk=DpWgKU8dyXY53wBZMaQ9FaZupb3KO4yp8oG6Y0MDy%2f4%3d&risl=&pid=ImgRaw&r=0" group-title="24/7 HRS",ALF
 http://gzytv.vip:8880/43bwCE8ZXz/s8dMgq7bcV/744?=-1
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/animaniacs/images/d/d9/Animaniacs_%285%29.png" group-title="24/7 HRS",ANIMANIACS

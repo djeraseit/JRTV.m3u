@@ -1,51 +1,123 @@
 #EXTM3U
 
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/ 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/ 
-#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/Cinemax.png" group-title="Premium Movies",Cinemax (Transcorp) 
-https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Dinosaurios 24/7" tvg-logo="http://x.playerlatino.live/dinosaurios.png" group-title="A-24/7",Dinosaurios 24/7
+https://bgtv.xyz/play/2-810.php?idch=670.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Doraemon 24/7" tvg-logo="http://x.playerlatino.live/doraemon.png" group-title="A-24/7",Doraemon 24/7
+https://bgtv.xyz/play/2-810.php?idch=521.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Dragon Ball (ES) 24/7" tvg-logo="http://x.playerlatino.live/dragonball.png" group-title="B- 24/7",Dragon Ball (ES) 24/7
+https://bgtv.xyz/play/2-810.php?idch=984.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Dragon Ball 24/7" tvg-logo="http://x.playerlatino.live/dragonball.png" group-title="B- 24/7",Dragon Ball 24/7
+https://bgtv.xyz/play/2-810.php?idch=425.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Dragon Ball GT 24/7" tvg-logo="http://x.playerlatino.live/dragonballgt.png" group-title="B- 24/7",Dragon Ball GT 24/7
+https://bgtv.xyz/play/2-810.php?idch=520.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Dragon Ball Super 24/7" tvg-logo="http://x.playerlatino.live/dragonballsuper.png" group-title="B- 24/7",Dragon Ball Super 24/7
+https://bgtv.xyz/play/2-810.php?idch=424.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Dragon Ball Z 24/7" tvg-logo="http://x.playerlatino.live/dragonballz.png" group-title="B- 24/7",Dragon Ball Z 24/7
+https://bgtv.xyz/play/2-810.php?idch=329.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Dragon Ball Z Kai 24/7" tvg-logo="http://x.playerlatino.live/dragonballzkai.png" group-title="B- 24/7",Dragon Ball Z Kai 24/7
+https://bgtv.xyz/play/2-810.php?idch=993.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="El Chavo Animado 24/7" tvg-logo="http://x.playerlatino.live/elchavoanimado.png" group-title="A-24/7",El Chavo Animado 24/7
+https://bgtv.xyz/play/2-810.php?idch=790.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="El Chavo del 8 24/7" tvg-logo="http://x.playerlatino.live/elchavodel8.png" group-title="A-24/7",El Chavo del 8 24/7
+https://bgtv.xyz/play/2-810.php?idch=400.m3u8
 
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.8093c4913f46b6a7c9fbfd7442dc2002?rik=XMJVNX3hGLWAFg&riu=http%3a%2f%2ffanart.tv%2ffanart%2ftv%2f78020%2fhdclearart%2falf-5835b6ec28f6e.png&ehk=DpWgKU8dyXY53wBZMaQ9FaZupb3KO4yp8oG6Y0MDy%2f4%3d&risl=&pid=ImgRaw&r=0" group-title="24/7 HRS",ALF
-http://gzytv.vip:8880/43bwCE8ZXz/s8dMgq7bcV/744?=-1
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/animaniacs/images/d/d9/Animaniacs_%285%29.png" group-title="24/7 HRS",ANIMANIACS
-http://gzytv.vip:8880/43bwCE8ZXz/s8dMgq7bcV/333?=-1
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/lucian-films-thirteenth-deluxe-edition/images/6/64/SpongeBob_SquarePants_logo_wordmark.png" group-title="24/7 HRS",BOB SPONGE
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
-#EXTINF:-1 tvg-logo="https://www.vippng.com/png/full/201-2013595_el-chavo-el-chavo-del-8-letra.png" group-title="24/7 HRS",EL CHAVO DEL OCHO
-http://gzytv.vip:8880/43bwCE8ZXz/s8dMgq7bcV/748?=-1
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/480px-El_Chapul%C3%ADn_Colorado_logo.svg.png" group-title="24/7 HRS",CHAPULIN COLORADO
-http://gzytv.vip:8880/43bwCE8ZXz/s8dMgq7bcV/338?=-1
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/0f/50/36/0f5036f3966e6bb4fc610c4a7342869b.png" group-title="24/7 HRS",CORRECAMINOS
-http://gzytv.vip:8880/43bwCE8ZXz/s8dMgq7bcV/352?=-1
-#EXTINF:-1 tvg-logo="https://pngimg.com/uploads/futurama/futurama_PNG26.png" group-title="24/7 HRS",FUTURAMA
-http://gzytv.vip:8880/43bwCE8ZXz/s8dMgq7bcV/782?=-1
-#EXTINF:-1 tvg-logo="https://i2.wp.com/formby.es/wp-content/uploads/2014/05/pinkpantherlogo.png" group-title="24/7 HRS",PANTERA ROSA
-http://gzytv.vip:8880/43bwCE8ZXz/s8dMgq7bcV/2608?=-1
-#EXTINF:-1 tvg-logo="https://miro.medium.com/max/1380/1*5FDqv_Jqlk___XP0eFZptQ.png" group-title="24/7 HRS",DINOSAURIOS
-http://gzytv.vip:8880/43bwCE8ZXz/s8dMgq7bcV/537?=-1
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-DreamWorks-1.png" group-title="24/7 HRS",24/7 DREAMWORKS
-http://gzytv.vip:8880/43bwCE8ZXz/s8dMgq7bcV/1953?=-1
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/08/Pixar-symbol-500x155.jpg" group-title="24/7 HRS",24/7 DISNEY PIXAR
-http://gzytv.vip:8880/43bwCE8ZXz/s8dMgq7bcV/1111?=-1
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/marvelmovies/images/e/ed/Marvel_Studios_2016_Transparent_Logo.png" group-title="24/7 HRS",24/7 MARVEL
-http://185.155.103.50:8080/Tony1Cuellar/eHSreBzZkg7a/177987?=-1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZnwLln5.png" group-title="24/7 HRS",DRAGON BALL
-http://gzytv.vip:8880/43bwCE8ZXz/s8dMgq7bcV/1103?=-1
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e3/46/83/e34683b61a49dfd0974b73821de6a339.png" group-title="24/7 HRS",DRAGON BALL Z
-http://gzytv.vip:8880/43bwCE8ZXz/s8dMgq7bcV/1104?=-1
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Dragon_Ball_GT_logo.png/1280px-Dragon_Ball_GT_logo.png" group-title="24/7 HRS",DRAGON BALL GT
-http://gzytv.vip:8880/43bwCE8ZXz/s8dMgq7bcV/783?=-1
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Dragon_Ball_Super.png" group-title="24/7 HRS",DRAGON BALL SUPER
-http://gzytv.vip:8880/43bwCE8ZXz/s8dMgq7bcV/1108?=-1
-#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/4f/4f0ca4a99c82adc701d1c18856708d3a.png" group-title="24/7 HRS",NARUTO
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=eba192f4-cd23-11eb-9091-0242ac110002&sid=eba192f4-cd23-11eb-9091-0242ac110002&userId=
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R404141aa90894f89d7090785b3e1685d?rik=ml589mK99ne4GQ&pid=ImgRaw" group-title="24/7 HRS",CABALLEROS DEL ZODIACO
-http://gzytv.vip:8880/43bwCE8ZXz/s8dMgq7bcV/775?=-1
-#EXTINF:-1 tvg-logo="https://i.kym-cdn.com/photos/images/facebook/001/018/269/b21.png" group-title="24/7 HRS",THE THEORY OF BIG BANG
-http://gzytv.vip:8880/43bwCE8ZXz/s8dMgq7bcV/211?=-1
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Logo_The_Simpsons.svg/1024px-Logo_The_Simpsons.svg.png" group-title="24/7 HRS",LOS SIMPSON
-http://gzytv.vip:8880/43bwCE8ZXz/s8dMgq7bcV/773?=-1
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Thundercats_logo_2011.png/250px-Thundercats_logo_2011.png" group-title="24/7 HRS",THUNDERCATS
-http://gzytv.vip:8880/43bwCE8ZXz/s8dMgq7bcV/2621?=-1
-#EXTINF:-1 tvg-logo="https://www.malcolminthemiddle.co.uk/wp-content/uploads/2019/04/Logo.png" group-title="24/7 HRS",MALCOLM EL DE EN MEDIO
-http://tutv.online/12345678/12345678/341648?=-1
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="El Gallo Claudio 24/7" tvg-logo="http://x.playerlatino.live/elgalloclaudio.png" group-title="A-24/7",El Gallo Claudio 24/7
+https://bgtv.xyz/play/2-810.php?idch=845.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="El Principel del Rap 24/7" tvg-logo="http://x.playerlatino.live/elprincipedelrap.png" group-title="A-24/7",El Principel del Rap 24/7
+https://bgtv.xyz/play/2-810.php?idch=430.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Futurama 24/7" tvg-logo="" group-title="A-24/7",Futurama 24/7
+https://bgtv.xyz/play/2-810.php?idch=793.m3u8
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ironman 24/7" tvg-logo="http://x.playerlatino.live/ironman.png" group-title="A-24/7",Ironman 24/7
+https://bgtv.xyz/play/2-810.php?idch=948.m3u8
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="La Pantera Rosa 24/7" tvg-logo="http://x.playerlatino.live/lapanterarosa.png" group-title="A-24/7",La Pantera Rosa 24/7
+https://bgtv.xyz/play/2-810.php?idch=671.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los Picapiedra 24/7" tvg-logo="http://x.playerlatino.live/lospicapiedra.png" group-title="A-24/7",Los Picapiedra 24/7
+https://bgtv.xyz/play/2-810.php?idch=669.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los Pinguinos de Madagascar 24/7" tvg-logo="http://x.playerlatino.live/lospinguinosdemadagascar.png" group-title="A-24/7",Los Pinguinos de Madagascar 24/7
+https://bgtv.xyz/play/2-810.php?idch=794.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los Pitufos 24/7" tvg-logo="http://x.playerlatino.live/lospitufos.png" group-title="A-24/7",Los Pitufos 24/7
+https://bgtv.xyz/play/2-810.php?idch=795.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los Reyes de la Colina 24/7" tvg-logo="http://x.playerlatino.live/losreyesdelacolina.png" group-title="A-24/7",Los Reyes de la Colina 24/7
+https://bgtv.xyz/play/2-810.php?idch=796.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los Simpson (Temporadas 1-5) 24/7" tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="A-24/7",Los Simpson (Temporadas 1-5) 24/7
+https://bgtv.xyz/play/2-810.php?idch=894.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los Simpson (Temporadas 12-17) 24/7" tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="A-24/7",Los Simpson (Temporadas 12-17) 24/7
+https://bgtv.xyz/play/2-810.php?idch=896.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los Simpson (Temporadas 18-21) 24/7" tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="A-24/7",Los Simpson (Temporadas 18-21) 24/7
+https://bgtv.xyz/play/2-810.php?idch=897.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los Simpson (Temporadas 22-26) 24/7" tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="A-24/7",Los Simpson (Temporadas 22-26) 24/7
+https://bgtv.xyz/play/2-810.php?idch=898.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los Simpson (Temporadas 27-30) 24/7" tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="A-24/7",Los Simpson (Temporadas 27-30) 24/7
+https://bgtv.xyz/play/2-810.php?idch=899.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los Simpson (Temporadas 6-11) 24/7" tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="A-24/7",Los Simpson (Temporadas 6-11) 24/7
+https://bgtv.xyz/play/2-810.php?idch=895.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los Simpson 24/7" tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="A-24/7",Los Simpson 24/7
+https://bgtv.xyz/play/2-810.php?idch=357.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los Supersonicos 24/7" tvg-logo="http://x.playerlatino.live/lossupersonicos.png" group-title="A-24/7",Los Supersonicos 24/7
+https://bgtv.xyz/play/2-810.php?idch=797.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los Vengadores Unidos 24/7" tvg-logo="http://x.playerlatino.live/losvengadoresunidos.png" group-title="A-24/7",Los Vengadores Unidos 24/7
+https://bgtv.xyz/play/2-810.php?idch=818.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Malcolm 24/7" tvg-logo="http://x.playerlatino.live/malcolm.png" group-title="A-24/7",Malcolm 24/7
+https://bgtv.xyz/play/2-810.php?idch=911.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Malcolm HD 24/7" tvg-logo="http://x.playerlatino.live/malcolm.png" group-title="A-24/7",Malcolm HD 24/7
+https://bgtv.xyz/play/2-810.php?idch=798.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Max Steel 24/7" tvg-logo="http://x.playerlatino.live/maxsteel.png" group-title="A-24/7",Max Steel 24/7
+https://bgtv.xyz/play/2-810.php?idch=880.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Mr. Bean 24/7" tvg-logo="http://x.playerlatino.live/mrbean.png" group-title="A-24/7",Mr. Bean 24/7
+https://bgtv.xyz/play/2-810.php?idch=431.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Naruto 24/7" tvg-logo="http://x.playerlatino.live/naruto.png" group-title="A-24/7",Naruto 24/7
+https://bgtv.xyz/play/2-810.php?idch=523.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Padre de Familia 24/7" tvg-logo="http://x.playerlatino.live/padredefamilia.png" group-title="A-24/7",Padre de Familia 24/7
+https://bgtv.xyz/play/2-810.php?idch=416.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Patoaventuras 24/7" tvg-logo="http://x.playerlatino.live/patoaventuras.png" group-title="A-24/7",Patoaventuras 24/7
+https://bgtv.xyz/play/2-810.php?idch=819.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Patrulla Canina 24/7" tvg-logo="http://x.playerlatino.live/patrullacanina.png" group-title="A-24/7",Patrulla Canina 24/7
+https://bgtv.xyz/play/2-810.php?idch=807.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Peppa Pig 24/7" tvg-logo="http://x.playerlatino.live/peppapig.png" group-title="A-24/7",Peppa Pig 24/7
+https://bgtv.xyz/play/2-810.php?idch=787.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Pinky y Cerebro 24/7" tvg-logo="http://x.playerlatino.live/pinkyycerebro.png" group-title="A-24/7",Pinky y Cerebro 24/7
+https://bgtv.xyz/play/2-810.php?idch=721.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Pocoyo 24/7" tvg-logo="http://x.playerlatino.live/pocoyo.png" group-title="A-24/7",Pocoyo 24/7
+https://bgtv.xyz/play/2-810.php?idch=799.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Pokemon 24/7" tvg-logo="http://x.playerlatino.live/pokemon.png" group-title="A-24/7",Pokemon 24/7
+https://bgtv.xyz/play/2-810.php?idch=420.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="PopCornFlix HD" tvg-logo="http://x.playerlatino.live/popcornflix.png" group-title="A-24/7",PopCornFlix HD
+https://bgtv.xyz/play/2-810.php?idch=1536.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Prison Break 24/7" tvg-logo="http://x.playerlatino.live/prisonbreak.png" group-title="A-24/7",Prison Break 24/7
+https://bgtv.xyz/play/2-810.php?idch=884.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Sakura Card Captor 24/7" tvg-logo="http://x.playerlatino.live/sakura.png" group-title="A-24/7",Sakura Card Captor 24/7
+https://bgtv.xyz/play/2-810.php?idch=672.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Samurai X 24/7" tvg-logo="http://x.playerlatino.live/samuraix.png" group-title="A-24/7",Samurai X 24/7
+https://bgtv.xyz/play/2-810.php?idch=663.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Scooby Doo 24/7" tvg-logo="http://x.playerlatino.live/scoobydoo.png" group-title="A-24/7",Scooby Doo 24/7
+https://bgtv.xyz/play/2-810.php?idch=422.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Series Comedia 24/7" tvg-logo="http://x.playerlatino.live/cine247.png" group-title="A-24/7",Series Comedia 24/7
+https://bgtv.xyz/play/2-810.php?idch=918.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Smallville 24/7" tvg-logo="http://x.playerlatino.live/smallville.png" group-title="A-24/7",Smallville 24/7
+https://bgtv.xyz/play/2-810.php?idch=673.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="South Park 24/7" tvg-logo="http://x.playerlatino.live/southpark.png" group-title="A-24/7",South Park 24/7
+https://bgtv.xyz/play/2-810.php?idch=674.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Spiderman 24/7" tvg-logo="http://x.playerlatino.live/spiderman.png" group-title="A-24/7",Spiderman 24/7
+https://bgtv.xyz/play/2-810.php?idch=889.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Super Campeones 24/7" tvg-logo="http://x.playerlatino.live/supercampeones.png" group-title="A-24/7",Super Campeones 24/7
+https://bgtv.xyz/play/2-810.php?idch=432.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="The Big Bang Theory 24/7" tvg-logo="http://x.playerlatino.live/thebigbangtheory.png" group-title="A-24/7",The Big Bang Theory 24/7
+https://bgtv.xyz/play/2-810.php?idch=676.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="The Walking Dead 24/7" tvg-logo="" group-title="A-24/7",The Walking Dead 24/7
+https://bgtv.xyz/play/2-810.php?idch=800.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Tom y Jerry 24/7" tvg-logo="http://x.playerlatino.live/tomyjerry.png" group-title="A-24/7",Tom y Jerry 24/7
+https://bgtv.xyz/play/2-810.php?idch=421.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TrollHunters 24/7" tvg-logo="http://x.playerlatino.live/trollhunters.png" group-title="A-24/7",TrollHunters 24/7
+https://bgtv.xyz/play/2-810.php?idch=662.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Two And a Half Men 24/7" tvg-logo="http://x.playerlatino.live/twoandhalfmen.png" group-title="A-24/7",Two And a Half Men 24/7
+https://bgtv.xyz/play/2-810.php?idch=675.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Yu-Gi-Oh! 24/7" tvg-logo="http://x.playerlatino.live/yugioh.png" group-title="A-24/7",Yu-Gi-Oh! 24/7
+https://bgtv.xyz/play/2-810.php?idch=664.m3u8

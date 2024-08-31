@@ -379,7 +379,7 @@ http://nffthex0kzt.xyz/play/pVJEXpVxSE1PmbahX01mKJxKcr8Wwia3r34efrVksgAlaogPdrs2
 #EXTVLCOPT--http-reconnect=true
 
 #EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO FAMILY"tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097892735-HBO-Family-pequenio.png"group-title="E- PREMIUM",HBO FAMILY
-https://nffthex0kzt.xyz/rk/JdsvgxwftwfghxvnccnngdryhvddcddhFA/Cbvxfgddgjgdwehcvbbgshhbfsdhxcvhg/636.m3u8
+http://45.5.117.182:8000/play/a0ep/index.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 

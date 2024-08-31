@@ -1,1402 +1,703 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="INFO",20000001
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000001&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000002
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000002&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000003
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000003&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000004
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000004&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000005
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000005&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000006
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000006&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000007
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000007&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000008
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000008&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000009
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000009&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000010
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000010&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000011
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000011&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000012
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000012&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000013
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000013&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000014
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000014&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000015
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000015&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000016
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000016&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000017
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000017&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000018
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000018&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000019
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000019&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000020
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000020&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000021
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000021&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000022
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000022&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000023
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000023&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000024
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000024&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000025
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000025&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000026
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000026&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000027
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000027&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000028
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000028&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000029
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000029&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000030
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000030&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000031
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000031&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000032
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000032&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000033
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000033&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000034
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000034&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000035
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000035&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000036
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000036&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000037
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000037&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000038
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000038&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000039
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000039&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000040
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000040&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000041
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000041&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000042
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000042&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000043
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000043&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000044
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000044&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000045
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000045&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000046
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000046&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000047
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000047&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000048
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000048&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000049
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000049&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000050
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000050&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000051
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000051&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000052
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000052&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000053
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000053&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000054
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000054&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000055
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000055&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000056
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000056&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000057
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000057&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000058
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000058&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000059
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000059&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000060
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000060&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000061
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000061&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000062
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000062&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000063
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000063&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000064
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000064&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000065
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000065&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000066
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000066&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000067
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000067&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000068
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000068&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000069
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000069&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000070
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000070&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000071
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000071&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000072
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000072&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000073
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000073&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000074
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000074&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000075
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000075&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000076
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000076&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000077
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000077&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000078
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000078&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000079
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000079&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000080
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000080&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000081
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000081&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000082
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000082&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000083
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000083&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000084
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000084&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000085
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000085&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000086
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000086&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000087
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000087&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000088
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000088&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000089
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000089&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000090
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000090&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000091
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000091&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000092
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000092&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000093
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000093&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000094
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000094&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000095
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000095&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000096
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000096&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000097
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000097&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000098
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000098&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000099
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000099&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000100
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000100&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000101
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000101&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000102
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000102&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000103
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000103&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000104
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000104&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000105
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000105&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000106
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000106&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000107
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000107&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000108
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000108&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000109
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000109&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000110
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000110&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000111
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000111&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000112
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000112&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000113
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000113&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000114
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000114&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000115
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000115&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000116
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000116&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000117
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000117&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000118
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000118&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000119
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000119&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000120
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000120&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000121
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000121&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000122
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000122&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000123
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000123&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000124
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000124&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000125
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000125&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000126
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000126&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000127
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000127&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000128
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000128&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000129
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000129&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000130
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000130&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000131
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000131&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000132
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000132&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000133
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000133&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000134
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000134&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000135
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000135&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000136
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000136&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000137
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000137&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000138
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000138&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000139
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000139&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000140
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000140&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000141
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000141&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000142
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000142&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000143
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000143&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000144
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000144&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000145
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000145&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000146
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000146&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000147
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000147&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000148
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000148&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000149
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000149&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000150
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000150&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000151
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000151&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000152
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000152&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000153
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000153&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000154
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000154&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000155
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000155&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000156
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000156&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000157
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000157&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000158
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000158&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000159
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000159&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000160
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000160&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000161
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000161&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000162
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000162&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000163
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000163&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000164
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000164&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000165
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000165&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000166
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000166&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000167
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000167&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000168
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000168&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000169
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000169&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000170
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000170&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000171
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000171&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000172
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000172&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000173
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000173&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000174
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000174&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000175
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000175&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000176
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000176&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000177
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000177&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000178
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000178&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000179
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000179&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000180
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000180&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000181
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000181&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000182
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000182&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000183
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000183&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000184
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000184&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000185
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000185&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000186
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000186&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000187
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000187&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000188
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000188&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000189
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000189&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000190
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000190&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000191
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000191&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000192
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000192&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000193
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000193&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000194
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000194&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000195
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000195&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000196
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000196&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000197
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000197&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000198
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000198&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000199
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000199&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000200
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000200&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000201
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000201&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000202
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000202&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000203
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000203&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000204
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000204&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000205
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000205&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000206
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000206&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000207
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000207&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000208
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000208&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000209
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000209&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000210
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000210&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000211
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000211&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000212
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000212&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000213
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000213&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000214
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000214&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000215
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000215&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000216
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000216&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000217
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000217&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000218
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000218&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000219
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000219&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000220
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000220&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000221
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000221&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000222
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000222&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000223
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000223&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000224
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000224&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000225
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000225&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000226
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000226&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000227
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000227&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000228
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000228&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000229
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000229&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000230
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000230&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000231
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000231&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000232
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000232&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000233
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000233&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000234
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000234&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000235
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000235&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000236
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000236&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000237
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000237&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000238
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000238&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000239
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000239&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000240
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000240&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000241
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000241&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000242
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000242&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000243
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000243&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000244
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000244&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000245
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000245&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000246
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000246&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000247
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000247&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000248
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000248&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000249
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000249&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000250
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000250&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000251
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000251&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000252
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000252&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000253
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000253&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000254
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000254&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000255
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000255&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000256
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000256&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000257
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000257&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000258
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000258&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000259
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000259&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000260
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000260&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000261
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000261&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000262
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000262&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000263
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000263&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000264
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000264&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000265
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000265&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000266
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000266&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000267
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000267&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000268
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000268&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000269
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000269&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000270
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000270&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000271
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000271&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000272
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000272&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000273
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000273&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000274
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000274&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000275
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000275&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000276
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000276&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000277
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000277&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000278
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000278&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000279
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000279&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000280
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000280&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000281
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000281&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000282
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000282&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000283
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000283&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000284
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000284&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000285
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000285&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000286
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000286&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000287
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000287&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000288
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000288&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000289
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000289&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000290
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000290&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000291
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000291&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000292
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000292&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000293
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000293&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000294
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000294&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000295
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000295&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000296
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000296&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000297
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000297&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000298
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000298&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000299
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000299&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000300
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000300&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000301
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000301&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000302
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000302&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000303
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000303&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000304
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000304&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000305
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000305&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000306
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000306&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000307
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000307&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000308
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000308&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000309
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000309&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000310
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000310&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000311
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000311&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000312
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000312&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000313
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000313&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000314
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000314&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000315
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000315&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000316
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000316&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000317
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000317&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000318
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000318&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000319
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000319&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000320
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000320&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000321
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000321&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000322
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000322&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000323
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000323&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000324
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000324&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000325
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000325&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000326
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000326&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000327
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000327&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000328
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000328&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000329
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000329&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000330
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000330&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000331
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000331&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000332
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000332&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000333
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000333&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000334
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000334&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000335
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000335&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000336
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000336&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000337
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000337&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000338
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000338&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000339
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000339&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000340
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000340&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000341
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000341&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000342
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000342&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000343
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000343&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000344
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000344&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000345
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000345&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000346
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000346&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000347
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000347&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000348
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000348&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000349
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000349&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000350
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000350&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000351
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000351&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000352
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000352&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000353
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000353&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000354
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000354&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000355
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000355&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000356
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000356&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000357
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000357&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000358
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000358&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000359
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000359&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000360
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000360&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000361
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000361&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000362
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000362&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000363
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000363&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000364
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000364&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000365
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000365&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000366
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000366&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000367
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000367&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000368
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000368&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000369
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000369&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000370
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000370&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000371
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000371&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000372
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000372&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000373
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000373&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000374
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000374&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000375
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000375&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000376
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000376&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000377
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000377&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000378
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000378&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000379
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000379&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000380
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000380&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000381
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000381&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000382
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000382&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000383
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000383&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000384
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000384&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000385
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000385&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000386
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000386&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000387
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000387&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000388
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000388&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000389
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000389&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000390
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000390&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000391
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000391&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000392
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000392&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000393
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000393&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000394
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000394&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000395
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000395&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000396
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000396&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000397
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000397&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000398
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000398&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000399
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000399&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000400
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000400&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000401
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000401&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000402
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000402&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000403
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000403&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000404
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000404&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000405
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000405&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000406
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000406&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000407
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000407&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000408
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000408&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000409
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000409&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000410
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000410&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000411
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000411&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000412
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000412&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000413
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000413&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000414
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000414&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000415
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000415&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000416
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000416&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000417
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000417&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000418
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000418&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000419
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000419&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000420
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000420&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000421
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000421&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000422
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000422&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000423
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000423&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000424
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000424&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000425
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000425&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000426
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000426&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000427
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000427&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000428
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000428&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000429
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000429&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000430
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000430&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000431
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000431&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000432
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000432&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000433
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000433&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000434
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000434&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000435
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000435&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000436
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000436&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000437
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000437&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000438
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000438&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000439
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000439&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000440
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000440&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000441
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000441&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000442
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000442&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000443
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000443&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000444
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000444&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000445
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000445&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000446
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000446&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000447
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000447&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000448
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000448&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000449
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000449&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000450
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000450&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000451
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000451&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000452
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000452&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000453
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000453&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000454
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000454&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000455
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000455&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000456
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000456&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000457
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000457&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000458
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000458&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000459
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000459&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000460
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000460&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000461
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000461&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000462
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000462&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000463
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000463&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000464
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000464&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000465
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000465&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000466
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000466&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000467
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000467&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000468
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000468&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000469
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000469&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000470
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000470&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000471
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000471&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000472
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000472&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000473
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000473&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000474
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000474&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000475
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000475&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000476
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000476&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000477
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000477&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000478
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000478&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000479
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000479&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000480
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000480&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000481
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000481&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000482
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000482&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000483
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000483&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000484
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000484&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000485
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000485&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000486
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000486&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000487
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000487&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000488
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000488&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000489
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000489&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000490
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000490&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000491
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000491&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000492
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000492&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000493
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000493&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000494
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000494&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000495
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000495&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000496
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000496&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000497
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000497&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000498
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000498&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000499
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000499&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000500
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000500&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000501
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000501&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000502
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000502&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000503
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000503&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000504
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000504&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000505
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000505&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000506
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000506&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000507
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000507&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000508
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000508&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000509
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000509&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000510
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000510&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000511
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000511&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000512
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000512&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000513
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000513&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000514
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000514&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000515
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000515&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000516
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000516&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000517
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000517&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000518
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000518&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000519
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000519&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000520
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000520&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000521
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000521&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000522
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000522&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000523
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000523&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000524
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000524&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000525
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000525&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000526
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000526&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000527
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000527&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000528
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000528&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000529
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000529&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000530
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000530&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000531
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000531&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000532
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000532&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000533
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000533&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000534
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000534&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000535
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000535&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000536
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000536&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000537
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000537&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000538
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000538&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000539
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000539&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000540
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000540&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000541
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000541&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000542
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000542&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000543
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000543&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000544
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000544&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000545
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000545&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000546
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000546&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000547
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000547&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000548
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000548&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000549
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000549&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000550
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000550&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000551
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000551&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000552
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000552&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000553
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000553&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000554
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000554&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000555
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000555&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000556
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000556&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000557
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000557&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000558
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000558&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000559
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000559&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000560
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000560&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000561
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000561&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000562
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000562&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000563
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000563&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000564
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000564&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000565
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000565&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000566
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000566&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000567
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000567&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000568
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000568&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000569
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000569&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000570
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000570&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000571
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000571&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000572
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000572&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000573
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000573&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000574
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000574&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000575
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000575&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000576
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000576&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000577
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000577&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000578
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000578&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000579
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000579&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000580
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000580&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000581
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000581&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000582
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000582&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000583
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000583&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000584
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000584&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000585
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000585&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000586
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000586&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000587
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000587&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000588
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000588&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000589
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000589&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000590
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000590&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000591
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000591&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000592
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000592&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000593
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000593&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000594
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000594&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000595
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000595&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000596
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000596&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000597
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000597&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000598
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000598&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000599
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000599&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000600
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000600&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000601
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000601&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000602
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000602&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000603
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000603&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000604
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000604&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000605
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000605&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000606
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000606&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000607
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000607&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000608
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000608&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000609
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000609&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000610
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000610&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000611
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000611&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000612
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000612&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000613
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000613&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000614
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000614&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000615
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000615&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000616
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000616&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000617
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000617&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000618
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000618&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000619
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000619&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000620
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000620&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000621
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000621&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000622
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000622&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000623
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000623&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000624
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000624&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000625
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000625&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000626
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000626&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000627
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000627&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000628
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000628&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000629
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000629&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000630
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000630&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000631
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000631&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000632
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000632&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000633
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000633&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000634
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000634&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000635
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000635&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000636
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000636&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000637
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000637&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000638
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000638&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000639
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000639&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000640
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000640&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000641
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000641&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000642
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000642&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000643
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000643&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000644
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000644&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000645
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000645&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000646
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000646&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000647
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000647&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000648
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000648&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000649
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000649&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000650
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000650&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000651
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000651&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000652
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000652&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000653
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000653&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000654
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000654&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000655
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000655&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000656
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000656&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000657
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000657&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000658
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000658&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000659
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000659&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000660
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000660&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000661
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000661&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000662
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000662&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000663
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000663&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000664
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000664&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000665
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000665&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000666
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000666&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000667
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000667&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000668
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000668&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000669
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000669&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000670
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000670&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000671
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000671&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000672
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000672&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000673
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000673&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000674
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000674&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000675
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000675&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000676
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000676&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000677
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000677&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000678
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000678&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000679
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000679&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000680
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000680&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000681
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000681&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000682
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000682&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000683
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000683&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000684
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000684&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000685
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000685&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000686
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000686&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000687
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000687&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000688
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000688&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000689
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000689&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000690
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000690&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000691
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000691&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000692
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000692&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000693
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000693&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000694
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000694&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000695
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000695&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000696
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000696&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000697
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000697&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000698
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000698&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000699
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000699&type=stream.m3u8
-#EXTINF:-1 group-title="INFO",20000700
 http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000700&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000701&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000702&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000703&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000704&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000705&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000706&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000707&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000708&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000709&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000710&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000711&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000712&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000713&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000714&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000715&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000716&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000717&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000718&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000719&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000720&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000721&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000722&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000723&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000724&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000725&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000726&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000727&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000728&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000729&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000730&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000731&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000732&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000733&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000734&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000735&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000736&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000737&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000738&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000739&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000740&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000741&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000742&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000743&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000744&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000745&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000746&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000747&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000748&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000749&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000750&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000751&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000752&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000753&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000754&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000755&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000756&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000757&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000758&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000759&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000760&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000761&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000762&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000763&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000764&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000765&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000766&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000767&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000768&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000769&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000770&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000771&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000772&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000773&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000774&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000775&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000776&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000777&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000778&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000779&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000780&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000781&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000782&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000783&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000784&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000785&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000786&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000787&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000788&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000789&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000790&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000791&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000792&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000793&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000794&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000795&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000796&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000797&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000798&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000799&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000800&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000801&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000802&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000803&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000804&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000805&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000806&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000807&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000808&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000809&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000810&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000811&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000812&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000813&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000814&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000815&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000816&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000817&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000818&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000819&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000820&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000821&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000822&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000823&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000824&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000825&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000826&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000827&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000828&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000829&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000830&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000831&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000832&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000833&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000834&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000835&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000836&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000837&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000838&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000839&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000840&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000841&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000842&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000843&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000844&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000845&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000846&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000847&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000848&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000849&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000850&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000851&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000852&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000853&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000854&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000855&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000856&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000857&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000858&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000859&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000860&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000861&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000862&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000863&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000864&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000865&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000866&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000867&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000868&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000869&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000870&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000871&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000872&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000873&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000874&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000875&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000876&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000877&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000878&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000879&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000880&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000881&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000882&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000883&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000884&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000885&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000886&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000887&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000888&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000889&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000890&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000891&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000892&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000893&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000894&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000895&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000896&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000897&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000898&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000899&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000900&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000901&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000902&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000903&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000904&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000905&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000906&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000907&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000908&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000909&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000910&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000911&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000912&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000913&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000914&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000915&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000916&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000917&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000918&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000919&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000920&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000921&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000922&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000923&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000924&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000925&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000926&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000927&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000928&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000929&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000930&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000931&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000932&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000933&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000934&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000935&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000936&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000937&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000938&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000939&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000940&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000941&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000942&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000943&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000944&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000945&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000946&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000947&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000948&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000949&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000950&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000951&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000952&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000953&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000954&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000955&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000956&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000957&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000958&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000959&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000960&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000961&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000962&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000963&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000964&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000965&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000966&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000967&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000968&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000969&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000970&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000971&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000972&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000973&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000974&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000975&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000976&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000977&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000978&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000979&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000980&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000981&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000982&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000983&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000984&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000985&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000986&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000987&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000988&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000989&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000990&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000991&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000992&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000993&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000994&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000995&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000996&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000997&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000998&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000999&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001000&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001001&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001002&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001003&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001004&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001005&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001006&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001007&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001008&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001009&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001010&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001011&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001012&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001013&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001014&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001015&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001016&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001017&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001018&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001019&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001020&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001021&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001022&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001023&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001024&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001025&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001026&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001027&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001028&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001029&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001030&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001031&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001032&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001033&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001034&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001035&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001036&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001037&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001038&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001039&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001040&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001041&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001042&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001043&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001044&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001045&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001046&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001047&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001048&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001049&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001050&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001051&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001052&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001053&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001054&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001055&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001056&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001057&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001058&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001059&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001060&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001061&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001062&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001063&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001064&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001065&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001066&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001067&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001068&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001069&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001070&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001071&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001072&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001073&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001074&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001075&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001076&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001077&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001078&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001079&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001080&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001081&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001082&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001083&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001084&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001085&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001086&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001087&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001088&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001089&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001090&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001091&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001092&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001093&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001094&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001095&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001096&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001097&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001098&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001099&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001100&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001101&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001102&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001103&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001104&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001105&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001106&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001107&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001108&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001109&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001110&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001111&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001112&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001113&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001114&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001115&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001116&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001117&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001118&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001119&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001120&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001121&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001122&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001123&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001124&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001125&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001126&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001127&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001128&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001129&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001130&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001131&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001132&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001133&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001134&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001135&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001136&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001137&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001138&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001139&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001140&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001141&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001142&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001143&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001144&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001145&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001146&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001147&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001148&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001149&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001150&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001151&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001152&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001153&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001154&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001155&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001156&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001157&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001158&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001159&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001160&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001161&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001162&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001163&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001164&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001165&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001166&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001167&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001168&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001169&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001170&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001171&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001172&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001173&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001174&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001175&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001176&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001177&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001178&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001179&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001180&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001181&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001182&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001183&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001184&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001185&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001186&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001187&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001188&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001189&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001190&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001191&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001192&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001193&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001194&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001195&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001196&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001197&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001198&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001199&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001200&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001201&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001202&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001203&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001204&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001205&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001206&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001207&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001208&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001209&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001210&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001211&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001212&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001213&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001214&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001215&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001216&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001217&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001218&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001219&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001220&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001221&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001222&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001223&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001224&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001225&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001226&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001227&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001228&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001229&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001230&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001231&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001232&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001233&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001234&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001235&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001236&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001237&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001238&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001239&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001240&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001241&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001242&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001243&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001244&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001245&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001246&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001247&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001248&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001249&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001250&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001251&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001252&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001253&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001254&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001255&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001256&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001257&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001258&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001259&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001260&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001261&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001262&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001263&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001264&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001265&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001266&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001267&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001268&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001269&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001270&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001271&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001272&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001273&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001274&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001275&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001276&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001277&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001278&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001279&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001280&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001281&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001282&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001283&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001284&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001285&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001286&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001287&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001288&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001289&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001290&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001291&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001292&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001293&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001294&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001295&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001296&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001297&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001298&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001299&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001300&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001301&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001302&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001303&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001304&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001305&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001306&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001307&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001308&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001309&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001310&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001311&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001312&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001313&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001314&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001315&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001316&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001317&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001318&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001319&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001320&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001321&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001322&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001323&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001324&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001325&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001326&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001327&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001328&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001329&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001330&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001331&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001332&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001333&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001334&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001335&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001336&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001337&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001338&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001339&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001340&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001341&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001342&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001343&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001344&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001345&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001346&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001347&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001348&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001349&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001350&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001351&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001352&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001353&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001354&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001355&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001356&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001357&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001358&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001359&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001360&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001361&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001362&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001363&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001364&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001365&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001366&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001367&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001368&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001369&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001370&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001371&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001372&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001373&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001374&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001375&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001376&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001377&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001378&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001379&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001380&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001381&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001382&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001383&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001384&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001385&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001386&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001387&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001388&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001389&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001390&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001391&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001392&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001393&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001394&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001395&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001396&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001397&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001398&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001399&type=stream.m3u8
+

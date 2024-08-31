@@ -241,7 +241,7 @@ http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/238
 #EXTVLCOPT--http-reconnect=true
 
 #EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="ANIMAL PLANET"tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Animal-Planet-Logo.png"group-title="C- CULTURA",ANIMALPLANET
-https://bgtv.xyz/play/2-802.php?idch=3.m3u8
+http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/9
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true

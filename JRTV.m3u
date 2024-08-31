@@ -181,7 +181,7 @@ https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 #EXTVLCOPT--http-reconnect=true
 
 #EXTINF:-1 tvg-id="TelemundoInternacional.mx" tvg-name="TELEMUNDO INTERNACIONAL"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64835_dark_360w_270h.png"group-title="B- NOVELAS",TELEMUNDO INTERNACIONAL
-http://ultrapremium.cloud:8080/live/prm2311121/CKRxPZTZjUVu/604.ts?=-1
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000659
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -448,7 +448,7 @@ https://bgtv.xyz/play/2-810.php?idch=905.m3u8
 
 
 #EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="DISTRITO COMEDIA"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png"group-title="F- CINE Y SERIES",DISTRITO COMEDIA
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000494&type=stream.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000494
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 

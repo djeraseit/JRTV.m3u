@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reproductor HLS con Lista de Canales</title>
+    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+
+        video {
+            display: block;
+            margin: 0 auto;
+            border: 2px solid #333;
+            border-radius: 8px;
+        }
+
+        #playlist {
+            list-style-type: none;
+            padding: 0;
+            margin-top: 20px;
+        }
+
+        #playlist li {
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            padding: 10px;
+            margin: 5px 0;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+        #playlist li:hover {
+            background-color: #e0e0e0;
+        }
+
+        #playlist li.active {
+            background-color: #007bff;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <h1>Reproductor de Video HLS</h1>
+
+    <video id="video" width="640" height="360" controls></video>
+    <ul id="playlist"></ul>
+
+    <script>
+        const video = document.getElementById('video');
+        const playlistElement = document.getElementById('playlist');
+        const m3uUrl = 'https://raw.githubusercontent.com/LATINTV/JRTV.m3u/main/JRTV.m3u'; // Reemplaza con tu URL HLS
+
+        fetch(m3uUrl)
+            .then(response => response.text())
+            .then(data => {
+                const lines = data.split('\n');
+                let currentChannel;
+
+                lines.forEach(line => {
+                    if (line.startsWith('#EXTINF:')) {
+                        const channelName = line.split(',')[1].trim();
+                        currentChannel = document.createElement('li');
+                        currentChannel.textContent = channelName;
+                        currentChannel.onclick = () => playChannel(lines[lines.indexOf(line) + 1]);
+                        playlistElement.appendChild(currentChannel);
+                    }
+                });
+            })
+            .catch(err => console.error('Error al cargar el M3U:', err));
+
+        function playChannel(url) {
+            if (Hls.isSupported()) {
+                const hls = new Hls();
+                hls.loadSource(url);
+                hls.attachMedia(video);
+                hls.on(Hls.Events.MANIFEST_PARSED, function() {
+                    video.play();
+                });
+            } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+                video.src = url; // Para navegadores que soportan HLS nativamente
+                video.addEventListener('loadedmetadata', function() {
+                    video.play();
+                });
+            }
+        }
+    </script>
+</body>
+</html>

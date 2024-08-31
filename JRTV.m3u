@@ -11,7 +11,7 @@ http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8Sz5SsZdHiWbtAXrKIdLfFU0FFXkJTiJxx
 http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8Sz5SsZdHiWbtAXrKIdLfFU0EOUoC67SvjAtt0BfQOQ4c4/m3u8
 #EXTINF:-1 xui-id="463780" tvg-id="" tvg-name="BAÑO" tvg-logo="https://www.infobae.com/new-resizer/zd8PzZACA21jk1I4-ToKi5uS4Zs=/1440x810/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/UPJHB4OTDVGYROMRJ4RPJFAYPY.jpg" group-title="CASA DE LOS FAMOSOS",BAÑO
 http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8Sz5SsZdHiWbtAXrKIdLfFU0FTb0jTUjMljsAB4hae0Zm4/m3u8
-#EXTINF:-1 xui-id="463781" tvg-id="" tvg-name="SALA" tvg-logo="https://www.infobae.com/new-resizer/zd8PzZACA21jk1I4-ToKi5uS4Zs=/1440x810/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/UPJHB4OTDVGYROMRJ4RPJFAYPY.jpg" group-title="CASA DE LOS FAMOSOS",CSALA
+#EXTINF:-1 xui-id="463781" tvg-id="" tvg-name="SALA" tvg-logo="https://www.infobae.com/new-resizer/zd8PzZACA21jk1I4-ToKi5uS4Zs=/1440x810/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/UPJHB4OTDVGYROMRJ4RPJFAYPY.jpg" group-title="CASA DE LOS FAMOSOS",SALA
 http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8Sz5SsZdHiWbtAXrKIdLfFU0FII2oI0yCA2z6ukYTKaye1/m3u8
 #EXTINF:-1 xui-id="463782" tvg-id="" tvg-name="COCINA" tvg-logo="https://www.infobae.com/new-resizer/zd8PzZACA21jk1I4-ToKi5uS4Zs=/1440x810/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/UPJHB4OTDVGYROMRJ4RPJFAYPY.jpg" group-title="CASA DE LOS FAMOSOS",COCINA
 http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8Sz5SsZdHiWbtAXrKIdLfFU0HUd4Kdv9UFa7zrrripsqdG/m3u8
@@ -33,13 +33,13 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 
 
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="CANAL 5 OPC.2"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png"group-title="A- TV MX","CANAL 5 OPC.2
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="CANAL 5"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png"group-title="A- TV MX","CANAL 5 
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/46
 #EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="CANAL 5"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png"group-title="A- TV MX",CANAL 5
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="CANAL 5 OPC.2"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png"group-title="A- TV MX",OPC.2
 https://bgtv.xyz/play/2-810.php?idch=14.m3u8
 #EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 #EXTVLCOPT:network-caching=1000
@@ -195,13 +195,13 @@ http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/342
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AZ CORAZÓN"tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_corazon-mediano.png"group-title="B- NOVELAS",AZCORAZÓN
-https://bgtv.xyz/play/2-802.php?idch=834.m3u8
+https://bgtv.xyz/play/2-810.php?idch=834.m3u8
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 
 #EXTINF:-1 tvg-id="Glitz.mx" tvg-name="GLITZ"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61514_dark_360w_270h.png"group-title="B- NOVELAS",GLITZ
-https://bgtv.xyz/play/2-802.php?idch=158.m3u8
+https://bgtv.xyz/play/2-810.php?idch=158.m3u8
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -217,13 +217,13 @@ http://nffthex0kzt.xyz/play/pVJEXpVxSE1PmbahX01mKJxKcr8Wwia3r34efrVksgCyvm39BsyR
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY H&H"tvg-logo="http://2.bp.blogspot.com/-J72Tsxq1uWo/VG1hwAAg98I/AAAAAAAAkDs/CP1NNsI_Ayk/s1600/_0040_discovery_hh.png"group-title="C- CULTURA",DISCOVERY H&H
-https://bgtv.xyz/play/2-802.php?idch=24.m3u8
+https://bgtv.xyz/play/2-810.php?idch=24.m3u8
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 
 #EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="DISCOVERY WORLD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1280px-World_Discovery_HD_logo.svg.png"group-title="C- CULTURA",DISCOVERY WORLD
-https://bgtv.xyz/play/2-802.php?idch=187.m3u8
+https://bgtv.xyz/play/2-810.php?idch=187.m3u8
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -396,7 +396,7 @@ http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/201
 #EXTVLCOPT--http-reconnect=true
 
 #EXTINF:-1 tvg-id="HBOPOP.mx" tvg-name="HBO POP"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68134_dark_360w_270h.png"group-title="E- PREMIUM",HBO POP
-https://nffthex0kzt.xyz/rk/JdsvgxwftwfghxvnccnngdryhvddcddhFA/Cbvxfgddgjgdwehcvbbgshhbfsdhxcvhg/652.m3u8
+https://bgtv.xyz/play/2-810.php?idch=977
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true

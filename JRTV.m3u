@@ -515,7 +515,7 @@ http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7VrIfly44B1
 #EXTVLCOPT--http-reconnect=true
 
 #EXTINF:-1 xui-id="322539" tvg-id="AMC.mx" tvg-name="AMC"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1920px-AMC_logo_2016.svg.png"group-title="F- CINE Y SERIES",AMC
-http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7VUBu4QqAHT6xyF3GM1GHh5/m3u8
+http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/7
 #EXTVLCOPT:http-user-agent=ftv_android_smarters
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true

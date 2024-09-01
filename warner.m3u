@@ -1,1401 +1,260 @@
-#EXTM3U
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000700
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000700&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000701
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000701&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000702
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000702&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000703
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000703&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000704
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000704&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000705
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000705&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000706
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000706&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000707
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000707&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000708
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000708&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000709
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000709&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000710
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000710&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000711
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000711&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000712
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000712&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000713
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000713&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000714
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000714&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000715
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000715&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000716
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000716&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000717
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000717&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000718
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000718&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000719
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000719&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000720
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000720&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000721
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000721&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000722
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000722&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000723
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000723&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000724
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000724&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000725
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000725&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000726
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000726&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000727
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000727&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000728
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000728&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000729
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000729&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000730
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000730&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000731
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000731&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000732
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000732&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000733
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000733&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000734
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000734&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000735
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000735&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000736
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000736&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000737
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000737&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000738
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000738&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000739
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000739&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000740
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000740&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000741
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000741&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000742
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000742&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000743
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000743&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000744
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000744&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000745
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000745&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000746
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000746&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000747
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000747&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000748
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000748&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000749
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000749&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000750
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000750&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000751
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000751&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000752
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000752&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000753
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000753&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000754
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000754&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000755
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000755&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000756
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000756&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000757
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000757&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000758
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000758&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000759
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000759&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000760
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000760&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000761
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000761&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000762
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000762&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000763
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000763&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000764
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000764&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000765
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000765&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000766
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000766&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000767
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000767&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000768
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000768&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000769
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000769&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000770
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000770&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000771
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000771&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000772
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000772&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000773
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000773&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000774
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000774&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000775
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000775&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000776
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000776&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000777
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000777&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000778
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000778&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000779
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000779&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000780
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000780&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000781
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000781&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000782
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000782&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000783
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000783&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000784
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000784&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000785
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000785&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000786
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000786&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000787
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000787&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000788
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000788&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000789
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000789&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000790
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000790&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000791
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000791&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000792
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000792&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000793
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000793&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000794
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000794&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000795
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000795&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000796
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000796&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000797
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000797&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000798
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000798&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000799
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000799&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000800
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000800&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000801
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000801&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000802
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000802&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000803
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000803&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000804
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000804&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000805
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000805&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000806
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000806&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000807
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000807&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000808
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000808&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000809
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000809&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000810
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000810&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000811
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000811&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000812
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000812&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000813
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000813&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000814
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000814&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000815
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000815&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000816
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000816&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000817
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000817&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000818
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000818&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000819
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000819&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000820
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000820&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000821
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000821&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000822
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000822&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000823
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000823&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000824
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000824&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000825
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000825&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000826
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000826&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000827
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000827&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000828
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000828&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000829
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000829&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000830
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000830&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000831
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000831&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000832
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000832&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000833
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000833&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000834
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000834&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000835
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000835&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000836
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000836&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000837
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000837&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000838
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000838&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000839
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000839&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000840
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000840&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000841
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000841&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000842
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000842&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000843
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000843&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000844
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000844&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000845
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000845&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000846
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000846&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000847
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000847&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000848
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000848&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000849
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000849&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000850
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000850&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000851
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000851&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000852
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000852&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000853
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000853&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000854
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000854&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000855
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000855&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000856
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000856&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000857
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000857&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000858
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000858&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000859
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000859&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000860
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000860&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000861
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000861&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000862
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000862&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000863
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000863&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000864
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000864&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000865
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000865&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000866
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000866&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000867
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000867&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000868
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000868&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000869
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000869&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000870
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000870&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000871
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000871&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000872
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000872&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000873
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000873&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000874
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000874&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000875
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000875&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000876
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000876&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000877
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000877&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000878
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000878&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000879
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000879&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000880
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000880&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000881
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000881&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000882
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000882&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000883
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000883&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000884
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000884&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000885
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000885&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000886
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000886&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000887
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000887&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000888
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000888&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000889
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000889&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000890
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000890&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000891
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000891&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000892
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000892&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000893
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000893&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000894
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000894&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000895
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000895&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000896
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000896&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000897
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000897&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000898
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000898&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000899
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000899&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000900
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000900&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000901
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000901&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000902
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000902&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000903
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000903&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000904
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000904&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000905
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000905&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000906
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000906&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000907
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000907&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000908
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000908&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000909
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000909&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000910
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000910&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000911
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000911&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000912
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000912&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000913
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000913&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000914
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000914&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000915
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000915&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000916
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000916&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000917
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000917&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000918
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000918&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000919
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000919&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000920
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000920&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000921
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000921&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000922
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000922&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000923
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000923&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000924
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000924&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000925
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000925&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000926
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000926&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000927
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000927&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000928
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000928&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000929
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000929&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000930
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000930&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000931
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000931&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000932
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000932&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000933
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000933&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000934
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000934&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000935
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000935&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000936
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000936&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000937
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000937&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000938
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000938&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000939
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000939&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000940
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000940&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000941
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000941&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000942
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000942&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000943
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000943&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000944
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000944&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000945
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000945&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000946
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000946&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000947
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000947&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000948
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000948&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000949
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000949&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000950
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000950&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000951
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000951&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000952
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000952&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000953
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000953&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000954
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000954&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000955
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000955&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000956
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000956&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000957
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000957&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000958
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000958&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000959
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000959&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000960
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000960&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000961
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000961&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000962
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000962&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000963
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000963&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000964
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000964&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000965
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000965&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000966
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000966&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000967
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000967&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000968
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000968&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000969
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000969&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000970
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000970&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000971
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000971&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000972
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000972&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000973
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000973&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000974
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000974&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000975
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000975&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000976
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000976&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000977
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000977&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000978
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000978&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000979
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000979&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000980
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000980&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000981
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000981&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000982
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000982&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000983
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000983&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000984
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000984&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000985
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000985&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000986
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000986&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000987
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000987&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000988
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000988&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000989
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000989&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000990
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000990&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000991
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000991&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000992
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000992&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000993
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000993&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000994
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000994&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000995
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000995&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000996
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000996&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000997
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000997&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000998
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000998&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20000999
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000999&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001000
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001000&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001001
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001001&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001002
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001002&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001003
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001003&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001004
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001004&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001005
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001005&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001006
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001006&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001007
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001007&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001008
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001008&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001009
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001009&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001010
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001010&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001011
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001011&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001012
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001012&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001013
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001013&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001014
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001014&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001015
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001015&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001016
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001016&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001017
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001017&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001018
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001018&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001019
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001019&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001020
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001020&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001021
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001021&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001022
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001022&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001023
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001023&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001024
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001024&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001025
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001025&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001026
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001026&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001027
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001027&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001028
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001028&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001029
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001029&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001030
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001030&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001031
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001031&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001032
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001032&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001033
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001033&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001034
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001034&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001035
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001035&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001036
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001036&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001037
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001037&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001038
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001038&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001039
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001039&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001040
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001040&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001041
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001041&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001042
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001042&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001043
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001043&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001044
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001044&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001045
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001045&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001046
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001046&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001047
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001047&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001048
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001048&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001049
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001049&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001050
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001050&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001051
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001051&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001052
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001052&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001053
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001053&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001054
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001054&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001055
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001055&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001056
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001056&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001057
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001057&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001058
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001058&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001059
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001059&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001060
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001060&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001061
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001061&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001062
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001062&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001063
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001063&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001064
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001064&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001065
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001065&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001066
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001066&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001067
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001067&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001068
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001068&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001069
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001069&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001070
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001070&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001071
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001071&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001072
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001072&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001073
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001073&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001074
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001074&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001075
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001075&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001076
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001076&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001077
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001077&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001078
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001078&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001079
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001079&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001080
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001080&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001081
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001081&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001082
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001082&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001083
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001083&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001084
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001084&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001085
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001085&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001086
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001086&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001087
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001087&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001088
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001088&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001089
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001089&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001090
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001090&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001091
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001091&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001092
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001092&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001093
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001093&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001094
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001094&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001095
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001095&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001096
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001096&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001097
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001097&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001098
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001098&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001099
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001099&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001100
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001100&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001101
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001101&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001102
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001102&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001103
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001103&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001104
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001104&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001105
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001105&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001106
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001106&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001107
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001107&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001108
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001108&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001109
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001109&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001110
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001110&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001111
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001111&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001112
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001112&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001113
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001113&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001114
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001114&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001115
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001115&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001116
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001116&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001117
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001117&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001118
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001118&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001119
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001119&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001120
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001120&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001121
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001121&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001122
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001122&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001123
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001123&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001124
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001124&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001125
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001125&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001126
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001126&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001127
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001127&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001128
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001128&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001129
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001129&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001130
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001130&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001131
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001131&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001132
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001132&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001133
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001133&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001134
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001134&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001135
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001135&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001136
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001136&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001137
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001137&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001138
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001138&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001139
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001139&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001140
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001140&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001141
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001141&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001142
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001142&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001143
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001143&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001144
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001144&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001145
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001145&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001146
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001146&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001147
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001147&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001148
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001148&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001149
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001149&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001150
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001150&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001151
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001151&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001152
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001152&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001153
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001153&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001154
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001154&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001155
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001155&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001156
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001156&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001157
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001157&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001158
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001158&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001159
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001159&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001160
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001160&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001161
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001161&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001162
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001162&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001163
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001163&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001164
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001164&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001165
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001165&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001166
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001166&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001167
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001167&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001168
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001168&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001169
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001169&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001170
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001170&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001171
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001171&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001172
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001172&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001173
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001173&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001174
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001174&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001175
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001175&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001176
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001176&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001177
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001177&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001178
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001178&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001179
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001179&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001180
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001180&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001181
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001181&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001182
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001182&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001183
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001183&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001184
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001184&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001185
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001185&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001186
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001186&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001187
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001187&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001188
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001188&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001189
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001189&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001190
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001190&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001191
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001191&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001192
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001192&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001193
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001193&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001194
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001194&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001195
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001195&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001196
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001196&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001197
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001197&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001198
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001198&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001199
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001199&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001200
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001200&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001201
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001201&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001202
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001202&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001203
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001203&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001204
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001204&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001205
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001205&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001206
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001206&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001207
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001207&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001208
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001208&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001209
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001209&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001210
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001210&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001211
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001211&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001212
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001212&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001213
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001213&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001214
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001214&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001215
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001215&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001216
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001216&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001217
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001217&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001218
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001218&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001219
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001219&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001220
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001220&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001221
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001221&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001222
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001222&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001223
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001223&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001224
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001224&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001225
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001225&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001226
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001226&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001227
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001227&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001228
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001228&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001229
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001229&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001230
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001230&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001231
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001231&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001232
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001232&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001233
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001233&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001234
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001234&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001235
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001235&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001236
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001236&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001237
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001237&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001238
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001238&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001239
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001239&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001240
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001240&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001241
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001241&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001242
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001242&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001243
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001243&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001244
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001244&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001245
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001245&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001246
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001246&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001247
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001247&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001248
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001248&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001249
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001249&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001250
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001250&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001251
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001251&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001252
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001252&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001253
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001253&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001254
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001254&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001255
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001255&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001256
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001256&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001257
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001257&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001258
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001258&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001259
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001259&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001260
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001260&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001261
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001261&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001262
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001262&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001263
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001263&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001264
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001264&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001265
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001265&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001266
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001266&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001267
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001267&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001268
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001268&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001269
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001269&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001270
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001270&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001271
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001271&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001272
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001272&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001273
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001273&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001274
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001274&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001275
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001275&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001276
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001276&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001277
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001277&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001278
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001278&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001279
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001279&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001280
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001280&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001281
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001281&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001282
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001282&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001283
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001283&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001284
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001284&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001285
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001285&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001286
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001286&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001287
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001287&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001288
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001288&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001289
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001289&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001290
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001290&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001291
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001291&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001292
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001292&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001293
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001293&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001294
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001294&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001295
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001295&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001296
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001296&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001297
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001297&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001298
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001298&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001299
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001299&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001300
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001300&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001301
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001301&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001302
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001302&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001303
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001303&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001304
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001304&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001305
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001305&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001306
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001306&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001307
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001307&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001308
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001308&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001309
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001309&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001310
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001310&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001311
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001311&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001312
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001312&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001313
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001313&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001314
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001314&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001315
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001315&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001316
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001316&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001317
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001317&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001318
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001318&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001319
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001319&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001320
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001320&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001321
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001321&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001322
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001322&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001323
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001323&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001324
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001324&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001325
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001325&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001326
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001326&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001327
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001327&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001328
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001328&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001329
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001329&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001330
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001330&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001331
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001331&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001332
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001332&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001333
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001333&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001334
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001334&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001335
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001335&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001336
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001336&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001337
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001337&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001338
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001338&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001339
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001339&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001340
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001340&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001341
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001341&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001342
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001342&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001343
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001343&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001344
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001344&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001345
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001345&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001346
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001346&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001347
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001347&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001348
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001348&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001349
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001349&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001350
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001350&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001351
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001351&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001352
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001352&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001353
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001353&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001354
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001354&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001355
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001355&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001356
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001356&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001357
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001357&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001358
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001358&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001359
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001359&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001360
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001360&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001361
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001361&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001362
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001362&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001363
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001363&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001364
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001364&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001365
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001365&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001366
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001366&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001367
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001367&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001368
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001368&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001369
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001369&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001370
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001370&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001371
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001371&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001372
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001372&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001373
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001373&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001374
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001374&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001375
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001375&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001376
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001376&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001377
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001377&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001378
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001378&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001379
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001379&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001380
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001380&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001381
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001381&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001382
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001382&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001383
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001383&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001384
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001384&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001385
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001385&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001386
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001386&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001387
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001387&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001388
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001388&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001389
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001389&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001390
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001390&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001391
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001391&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001392
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001392&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001393
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001393&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001394
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001394&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001395
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001395&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001396
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001396&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001397
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001397&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001398
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001398&type=stream.m3u8
-#EXTINF:-1 group-title="1 Abierta" tvg-logo="", 20001399
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20001399&type=stream.m3u8
+#EXTINF:-1 xui-id="340984" tvg-id="" tvg-name="ALERTA AEROPUERTO" tvg-logo="http://alfatv.lat:2082/images/209e8ba6d715c26ad5d1f2b56de3b94d.png" group-title="TV || TOP 24/7",ALERTA
+AEROPUERTO
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7UJOUaS4KrapWwhlZM7mE0_/m3u8
+#EXTINF:-1 xui-id="341023" tvg-id="" tvg-name="BATMAN"
+tvg-logo="http://alfatv.lat:2082/images/209e8ba6d715c26ad5d1f2b56de3b94d.png" group-title="24/7
+BATMAN
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7V2fiAj6j_IebGj_J0V8AGT/m3u8
+#EXTINF:-1 xui-id="341002" tvg-id="" tvg-name="BOB ESPONJA"
+tvg-logo="http://alfatv.lat:2082/images/209e8ba6d715c26ad5d1f2b56de3b94d.png" group-title="24/7
+BOB ESPONJA
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7Un4MJTHbVz8rvR8GJibIMK/m3u8
+#EXTINF:-1 xui-id="341028" tvg-id="" tvg-name="CABALLEROS DEL ZODIACO"
+tvg-logo="http://alfatv.lat:2082/images/209e8ba6d715c26ad5d1f2b56de3b94d.png" group-title="24/7
+CABALLEROS DEL ZODIACO
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7UT0XDCsQ1P7vNZmDIlB--I/m3u8
+#EXTINF:-1 xui-id="341014" tvg-id="" tvg-name="CANTINFLAS"
+tvg-logo="http://alfatv.lat:2082/images/209e8ba6d715c26ad5d1f2b56de3b94d.png" group-title="24/7
+CANTINFLAS
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7VxyGY6uuqwzxFrLKqZTI1u/m3u8
+#EXTINF:-1 xui-id="340978" tvg-id="" tvg-name="CASO CERRADO"
+tvg-logo="http://alfatv.lat:2082/images/209e8ba6d715c26ad5d1f2b56de3b94d.png" group-title="24/7
+CASO CERRADO
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7VPwZuk-psaao-F6KJsD-OF/m3u8
+#EXTINF:-1 xui-id="340981" tvg-id="" tvg-name="CERO EN CONDUCTA"
+tvg-logo="http://alfatv.lat:2082/images/209e8ba6d715c26ad5d1f2b56de3b94d.png" group-title="24/7
+CERO EN CONDUCTA
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7V0a5N8MDoKeEtjvnywKzV6/m3u8
+#EXTINF:-1 xui-id="340976" tvg-id="" tvg-name="CHAVO DEL 8"
+tvg-logo="http://alfatv.lat:2082/images/209e8ba6d715c26ad5d1f2b56de3b94d.png" group-title="24/7
+CHAVO DEL 8
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7XEqdm97uI-j6rwdqgMG4I0/m3u8
+#EXTINF:-1 xui-id="340977" tvg-id="" tvg-name="CHESPIRITO"
+tvg-logo="http://alfatv.lat:2082/images/209e8ba6d715c26ad5d1f2b56de3b94d.png" group-title="24/7
+CHESPIRITO
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7X_BzZEgOsgW5wLoTwPt6Ur/m3u8
+#EXTINF:-1 xui-id="340970" tvg-id="" tvg-name="CHUCKY"
+tvg-logo="http://alfatv.lat:2082/images/209e8ba6d715c26ad5d1f2b56de3b94d.png" group-title="24/7
+CHUCKY
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7U8ZtRionPvNYDaMBPZplO_/m3u8
+#EXTINF:-1 xui-id="340995" tvg-id="" tvg-name="CINEMA ACCION"
+tvg-logo="http://alfatv.lat:2082/images/209e8ba6d715c26ad5d1f2b56de3b94d.png" group-title="24/7
+CINEMA ACCION
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7VP2G7OW_gLMTaj9pbQ8Sb8/m3u8
+#EXTINF:-1 xui-id="340998" tvg-id="" tvg-name="CINEMA DREAMWORKS"
+tvg-logo="http://alfatv.lat:2082/images/209e8ba6d715c26ad5d1f2b56de3b94d.png" group-title="24/7
+CINEMA DREAMWORKS
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7XnAWXdOyURKvCXZ3aXm026/m3u8
+#EXTINF:-1 xui-id="341024" tvg-id="" tvg-name="CLASICOS DISNEY"
+tvg-logo="http://alfatv.lat:2082/images/209e8ba6d715c26ad5d1f2b56de3b94d.png" group-title="24/7
+CLASICOS DISNEY
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7VQ-sO8GqpiV9KvAj97SXdl/m3u8
+#EXTINF:-1 xui-id="340982" tvg-id="" tvg-name="COMO DICE EL DICHO"
+tvg-logo="http://alfatv.lat:2082/images/209e8ba6d715c26ad5d1f2b56de3b94d.png" group-title="24/7
+COMO DICE EL DICHO
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7WJchWfjD--FIrIU5PqrX_x/m3u8
+#EXTINF:-1 xui-id="340987" tvg-id="" tvg-name="DERBEZ"
+tvg-logo="http://alfatv.lat:2082/images/209e8ba6d715c26ad5d1f2b56de3b94d.png" group-title="24/7
+DERBEZ
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7VlVwDRZaxhcQsi2h0TkgzI/m3u8
+#EXTINF:-1 xui-id="341010" tvg-id="" tvg-name="DISNEY PELÍCULAS"
+tvg-logo="http://alfatv.lat:2082/images/209e8ba6d715c26ad5d1f2b56de3b94d.png" group-title="24/7
+DISNEY PELÍCULAS
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7UApBSkDrxJilZtKZPszpI5/m3u8
+#EXTINF:-1 xui-id="340997" tvg-id="" tvg-name="DISNEY PIXAR"
+tvg-logo="http://alfatv.lat:2082/images/209e8ba6d715c26ad5d1f2b56de3b94d.png" group-title="24/7
+DISNEY PIXAR
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7XMnwjb9emj3sJvhl6tSuie/m3u8
+#EXTINF:-1 xui-id="340986" tvg-id="" tvg-name="DON GATO Y SU PANDILLA"
+tvg-logo="http://alfatv.lat:2082/images/209e8ba6d715c26ad5d1f2b56de3b94d.png" group-title="24/7
+DON GATO Y SU PANDILLA
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7Wm20kkgAyMOZaJmjifoYuB/m3u8
+#EXTINF:-1 xui-id="341006" tvg-id="" tvg-name="DRAGON BALL GT"
+tvg-logo="http://alfatv.lat:2082/images/209e8ba6d715c26ad5d1f2b56de3b94d.png" group-title="24/7
+DRAGON BALL GT
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7Wv1CSYRz7Vo3bAWejypXbN/m3u8
+#EXTINF:-1 xui-id="341004" tvg-id="" tvg-name="DRAGON BALL KAI"
+tvg-logo="http://alfatv.lat:2082/images/209e8ba6d715c26ad5d1f2b56de3b94d.png" group-title="24/7
+DRAGON BALL KAI
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7U-ALa3G8Tpxdy9Qh0xDfUL/m3u8
+#EXTINF:-1 xui-id="341005" tvg-id="" tvg-name="DRAGON BALL SUPER"
+tvg-logo="http://alfatv.lat:2082/images/209e8ba6d715c26ad5d1f2b56de3b94d.png" group-title="24/7
+DRAGON BALL SUPER
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7WTc7P6mYZtfme5NlPCWVE4/m3u8
+#EXTINF:-1 xui-id="341003" tvg-id="" tvg-name="DRAGON BALL Z"
+tvg-logo="http://alfatv.lat:2082/images/209e8ba6d715c26ad5d1f2b56de3b94d.png" group-title="24/7
+DRAGON BALL Z
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7U6lRVjZtjtS0RVaYz6wKgO/m3u8
+#EXTINF:-1 xui-id="340975" tvg-id="" tvg-name="DRAGON BALL Z"
+tvg-logo="http://alfatv.lat:2082/images/209e8ba6d715c26ad5d1f2b56de3b94d.png" group-title="24/7
+DRAGON BALL Z
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7V_qBSTPrTwezWFkFYhFkxb/m3u8
+#EXTINF:-1 xui-id="340992" tvg-id="" tvg-name="EL AUTO FANTASTICO"
+tvg-logo="http://alfatv.lat:2082/images/209e8ba6d715c26ad5d1f2b56de3b94d.png" group-title="TV || TOP 24/7",EL
+AUTO FANTASTICO
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7XeeFJ0iUsBKx_PEEhzLYXf/m3u8
+#EXTINF:-1 xui-id="340990" tvg-id="" tvg-name="EL SANTO"
+tvg-logo="http://alfatv.lat:2082/images/209e8ba6d715c26ad5d1f2b56de3b94d.png" group-title="TV || TOP 24/7",EL
+SANTO
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7Uxs2m6-hSaAeQQXSJ4c03k/m3u8
+#EXTINF:-1 xui-id="340962" tvg-id="" tvg-name="EXTRANORMAL"
+tvg-logo="http://alfatv.lat:2082/images/209e8ba6d715c26ad5d1f2b56de3b94d.png" group-title="24/7
+EXTRANORMAL
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7UcrEcnDuDtbRa2_cBzLb_a/m3u8
+#EXTINF:-1 xui-id="341012" tvg-id="" tvg-name="FAMILIA DE DIEZ"
+tvg-logo="http://alfatv.lat:2082/images/209e8ba6d715c26ad5d1f2b56de3b94d.png" group-title="24/7
+FAMILIA DE DIEZ
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7WRgenuABeNw2U7rAkYoWjq/m3u8
+#EXTINF:-1 xui-id="341027" tvg-id="" tvg-name="FAMILIA PELUCHE"
+tvg-logo="http://alfatv.lat:2082/images/209e8ba6d715c26ad5d1f2b56de3b94d.png" group-title="24/7
+FAMILIA PELUCHE
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7WZzJbcKcWJbAI2nqH3tDvz/m3u8
+#EXTINF:-1 xui-id="341001" tvg-id="" tvg-name="HARRY POTTER"
+tvg-logo="http://alfatv.lat:2082/images/209e8ba6d715c26ad5d1f2b56de3b94d.png" group-title="24/7
+HARRY POTTER
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7XIfpNfag103sC5FdWpkK1R/m3u8
+#EXTINF:-1 xui-id="341033" tvg-id="" tvg-name="JUEGO DE TRONOS"
+tvg-logo="http://alfatv.lat:2082/images/209e8ba6d715c26ad5d1f2b56de3b94d.png" group-title="24/7
+JUEGO DE TRONOS
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7UqyAcytjzfVdKSh7PiBgkn/m3u8
+#EXTINF:-1 xui-id="341037" tvg-id="" tvg-name="LA ERA DE HIELO"
+tvg-logo="http://alfatv.lat:2082/images/209e8ba6d715c26ad5d1f2b56de3b94d.png" group-title="TV || TOP 24/7",LA
+ERA DE HIELO
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7VR_8AdHCDKfaU-TDB02jJU/m3u8
+#EXTINF:-1 xui-id="340980" tvg-id="" tvg-name="LA ESCUELITA"
+tvg-logo="http://alfatv.lat:2082/images/209e8ba6d715c26ad5d1f2b56de3b94d.png" group-title="TV || TOP 24/7",LA
+ESCUELITA
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7WuK8YOEekMOiW88Hfkhn9K/m3u8
+#EXTINF:-1 xui-id="340979" tvg-id="" tvg-name="LA FEA MÁS BELLA"
+tvg-logo="http://alfatv.lat:2082/images/209e8ba6d715c26ad5d1f2b56de3b94d.png" group-title="TV || TOP 24/7",LA
+FEA MÁS BELLA
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7UzXwn7JNEu6zQRQI9pQVvX/m3u8
+#EXTINF:-1 xui-id="340991" tvg-id="" tvg-name="LA INDIA MARIA"
+tvg-logo="http://alfatv.lat:2082/images/209e8ba6d715c26ad5d1f2b56de3b94d.png" group-title="TV || TOP 24/7",LA
+INDIA MARIA
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7VbhWKQKP48OXFNgwak_04e/m3u8
+#EXTINF:-1 xui-id="341022" tvg-id="" tvg-name="LA MONJA"
+tvg-logo="http://alfatv.lat:2082/images/209e8ba6d715c26ad5d1f2b56de3b94d.png" group-title="TV || TOP 24/7",LA
+MONJA
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7V1ILK2fPtoXl4nLnCb-Kog/m3u8
+#EXTINF:-1 xui-id="340993" tvg-id="" tvg-name="LA PANTERA ROSA"
+tvg-logo="http://alfatv.lat:2082/images/209e8ba6d715c26ad5d1f2b56de3b94d.png" group-title="TV || TOP 24/7",LA
+PANTERA ROSA
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7Xt3azuxUVDu4v0l3WEKqoO/m3u8
+#EXTINF:-1 xui-id="340983" tvg-id="" tvg-name="LA ROSA DE GUADALUPE"
+tvg-logo="http://alfatv.lat:2082/images/209e8ba6d715c26ad5d1f2b56de3b94d.png" group-title="TV || TOP 24/7",LA
+ROSA DE GUADALUPE
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7USFlIxDpI8WyGsBefKCt3Q/m3u8
+#EXTINF:-1 xui-id="340969" tvg-id="" tvg-name="LA VACA Y EL POLLITO"
+tvg-logo="http://alfatv.lat:2082/images/209e8ba6d715c26ad5d1f2b56de3b94d.png" group-title="TV || TOP 24/7",LA
+VACA Y EL POLLITO
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7WzY5H8A7Us17x8DKjKk9AT/m3u8
+#EXTINF:-1 xui-id="340963" tvg-id="" tvg-name="LO QUE LA GENTE CUENTA"
+tvg-logo="http://alfatv.lat:2082/images/209e8ba6d715c26ad5d1f2b56de3b94d.png" group-title="TV || TOP 24/7",LO
+QUE LA GENTE CUENTA
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7XE5KJjwjqTKm_DEx33BjVe/m3u8
+#EXTINF:-1 xui-id="341036" tvg-id="" tvg-name="LOS JUEGOS DEL HAMBRE"
+tvg-logo="http://alfatv.lat:2082/images/209e8ba6d715c26ad5d1f2b56de3b94d.png" group-title="24/7
+LOS JUEGOS DEL HAMBRE
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7X1PH4BXW9cKKRhr64dRFoJ/m3u8
+#EXTINF:-1 xui-id="341030" tvg-id="" tvg-name="LOS SIMPSON"
+tvg-logo="http://alfatv.lat:2082/images/209e8ba6d715c26ad5d1f2b56de3b94d.png" group-title="24/7
+LOS SIMPSON
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7VhBCxihTpS6IY3STn8mC1j/m3u8
+#EXTINF:-1 xui-id="341026" tvg-id="" tvg-name="MALCOLM"
+tvg-logo="http://alfatv.lat:2082/images/209e8ba6d715c26ad5d1f2b56de3b94d.png" group-title="24/7
+MALCOLM
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7VEokbj-0v9hsDi6L6IpJzZ/m3u8
+#EXTINF:-1 xui-id="341031" tvg-id="" tvg-name="MUCHA LUCHA"
+tvg-logo="http://alfatv.lat:2082/images/209e8ba6d715c26ad5d1f2b56de3b94d.png" group-title="24/7
+MUCHA LUCHA
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7Vb-VmS1OV27sZRh8QSliCX/m3u8
+#EXTINF:-1 xui-id="340965" tvg-id="" tvg-name="NOSOTROS LOS GUAPOS"
+tvg-logo="http://alfatv.lat:2082/images/209e8ba6d715c26ad5d1f2b56de3b94d.png" group-title="24/7
+NOSOTROS LOS GUAPOS
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7VnEo0rNcw5nZ63Ih_hGYTu/m3u8
+#EXTINF:-1 xui-id="341015" tvg-id="" tvg-name="PEDRO INFANTE"
+tvg-logo="http://alfatv.lat:2082/images/209e8ba6d715c26ad5d1f2b56de3b94d.png" group-title="24/7
+PEDRO INFANTE
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7X0WjGUJr4sDJc0JCsc35eC/m3u8
+#EXTINF:-1 xui-id="340968" tvg-id="" tvg-name="PHINEAS Y FERB"
+tvg-logo="http://alfatv.lat:2082/images/209e8ba6d715c26ad5d1f2b56de3b94d.png" group-title="24/7
+PHINEAS Y FERB
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7UQsFZ2ycXD7p2ZHJq4Z8fE/m3u8
+#EXTINF:-1 xui-id="341018" tvg-id="" tvg-name="PIRATAS DEL CARIBE"
+tvg-logo="http://alfatv.lat:2082/images/209e8ba6d715c26ad5d1f2b56de3b94d.png" group-title="24/7
+PIRATAS DEL CARIBE
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7VfnRdSWiS2NazNtL2TykyP/m3u8
+#EXTINF:-1 xui-id="341016" tvg-id="" tvg-name="POKEMON"
+tvg-logo="http://alfatv.lat:2082/images/209e8ba6d715c26ad5d1f2b56de3b94d.png" group-title="24/7
+POKEMON
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7WqCmgcQjeX34LQ0mzShvxy/m3u8
+#EXTINF:-1 xui-id="341008" tvg-id="" tvg-name="ROSA DE GUADALUPE"
+tvg-logo="http://alfatv.lat:2082/images/209e8ba6d715c26ad5d1f2b56de3b94d.png" group-title="24/7
+ROSA DE GUADALUPE
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7WFakHTKfenXBePj7W4KRJF/m3u8
+#EXTINF:-1 xui-id="341019" tvg-id="" tvg-name="SAW"
+tvg-logo="http://alfatv.lat:2082/images/209e8ba6d715c26ad5d1f2b56de3b94d.png" group-title="24/7
+SAW
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7XwtMe_1JbiRyu3a6KzfqJC/m3u8
+#EXTINF:-1 xui-id="341021" tvg-id="" tvg-name="SEÑOR DE LOS ANILLOS"
+tvg-logo="http://alfatv.lat:2082/images/209e8ba6d715c26ad5d1f2b56de3b94d.png" group-title="24/7
+SEÑOR DE LOS ANILLOS
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7Ve1oafJysLnDTaW2adonvl/m3u8
+#EXTINF:-1 xui-id="341029" tvg-id="" tvg-name="SHREK"
+tvg-logo="http://alfatv.lat:2082/images/209e8ba6d715c26ad5d1f2b56de3b94d.png" group-title="24/7
+SHREK
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7VyTRIVlmQlrcR4650Gq8XO/m3u8
+#EXTINF:-1 xui-id="341009" tvg-id="" tvg-name="SPIDERMAN"
+tvg-logo="http://alfatv.lat:2082/images/209e8ba6d715c26ad5d1f2b56de3b94d.png" group-title="24/7
+SPIDERMAN
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7VBJ-hqWN-Lpm4AxEAFTO8F/m3u8
+#EXTINF:-1 xui-id="341007" tvg-id="" tvg-name="STRANGER THINGS"
+tvg-logo="http://alfatv.lat:2082/images/209e8ba6d715c26ad5d1f2b56de3b94d.png" group-title="24/7
+STRANGER THINGS
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7Uxu55Go1GrsXqx9zKpnK2O/m3u8
+#EXTINF:-1 xui-id="341032" tvg-id="" tvg-name="SUPER CAMPEONES"
+tvg-logo="http://alfatv.lat:2082/images/209e8ba6d715c26ad5d1f2b56de3b94d.png" group-title="24/7
+SUPER CAMPEONES
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7UGCScX1AYOVRG6AeUhvkiX/m3u8
+#EXTINF:-1 xui-id="341013" tvg-id="" tvg-name="THE BIG BANG THEORY"
+tvg-logo="http://alfatv.lat:2082/images/209e8ba6d715c26ad5d1f2b56de3b94d.png" group-title="24/7
+THE BIG BANG THEORY
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7WQTtHS3Krk-pbbtho1QPrn/m3u8
+#EXTINF:-1 xui-id="340966" tvg-id="" tvg-name="THUNDERCATS"
+tvg-logo="http://alfatv.lat:2082/images/209e8ba6d715c26ad5d1f2b56de3b94d.png" group-title="24/7
+THUNDERCATS
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7VE1Q_4RxuGMF00VLB9rA9q/m3u8
+#EXTINF:-1 xui-id="341000" tvg-id="" tvg-name="THUNDERCATS"
+tvg-logo="http://alfatv.lat:2082/images/209e8ba6d715c26ad5d1f2b56de3b94d.png" group-title="24/7
+THUNDERCATS
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7W4tlWzd-LQ8yywNoCFR3WK/m3u8
+#EXTINF:-1 xui-id="340994" tvg-id="" tvg-name="TOM Y JERRY"
+tvg-logo="http://alfatv.lat:2082/images/209e8ba6d715c26ad5d1f2b56de3b94d.png" group-title="24/7
+TOM Y JERRY
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7WEZi1_xp2ErBIYWz8bU4hV/m3u8
+#EXTINF:-1 xui-id="341035" tvg-id="" tvg-name="TOY STORY"
+tvg-logo="http://alfatv.lat:2082/images/209e8ba6d715c26ad5d1f2b56de3b94d.png" group-title="24/7
+TOY STORY
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7W1es5gGuBLDqo2gz3HrZY-/m3u8
+#EXTINF:-1 xui-id="341020" tvg-id="" tvg-name="TRANSFORMERS"
+tvg-logo="http://alfatv.lat:2082/images/209e8ba6d715c26ad5d1f2b56de3b94d.png" group-title="24/7
+TRANSFORMERS
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7V1wcu4aYjAqKJzC9HRwFVz/m3u8
+#EXTINF:-1 xui-id="341011" tvg-id="" tvg-name="VECINOS"
+tvg-logo="http://alfatv.lat:2082/images/209e8ba6d715c26ad5d1f2b56de3b94d.png" group-title="24/7
+VECINOS
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7XbxLSGqmZsSJiWKRiN-8uu/m3u8
+#EXTINF:-1 xui-id="340999" tvg-id="" tvg-name="VECINOS"
+tvg-logo="http://alfatv.lat:2082/images/209e8ba6d715c26ad5d1f2b56de3b94d.png" group-title="24/7
+VECINOS
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7VPXXeYP4SJzizqgmOEIm4b/m3u8
+#EXTINF:-1 xui-id="340989" tvg-id="" tvg-name="VICENTE FERNÁNDEZ"
+tvg-logo="http://alfatv.lat:2082/images/209e8ba6d715c26ad5d1f2b56de3b94d.png" group-title="24/7
+VICENTE FERNÁNDEZ
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7UHBE8n96PgpNYFct0oWgLb/m3u8
+#EXTINF:-1 xui-id="341025" tvg-id="" tvg-name="VOLVER AL FUTURO"
+tvg-logo="http://alfatv.lat:2082/images/209e8ba6d715c26ad5d1f2b56de3b94d.png" group-title="24/7
+VOLVER AL FUTURO
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7WqSX_l4LL5rV4TT4MLkwkh/m3u8
+

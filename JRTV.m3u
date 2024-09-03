@@ -27,7 +27,7 @@ http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000665
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="AZTECA 7" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116154_dark_360w_270h.png" group-title="A- TV MX",AZTECA 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NU9VE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59528_dark_360w_270h.png" group-title="A- TV MX",NU9VE
-https://zonamovie.live:8443/play/1HVxDH_oJ7NU5Jvo75a3W2n7sFwgz3sQr7I3i-21yy0/.m3u8?start=-1
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000554
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ESTRELLA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/509px-Estrella_TV_Logo_2020.png?20210701011117" group-title="A- TV MX",ESTRELLA TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="AZ CLIC HD" tvg-logo="https://x.playerlatino.live/azclic.png" group-title="A- TV MX",AZ CLIC HD
@@ -171,7 +171,7 @@ http://nffthex0kzt.xyz/play/pVJEXpVxSE1PmbahX01mKJxKcr8Wwia3r34efrVksgCocNv_g9De
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="STAR CHANNEL HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88534_dark_360w_270h.png" group-title="F- CINE Y SERIES",STAR CHANNEL HD
 http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7UBWVQk9GyxJMpSLEauFPiD/m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="FX HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46442_dark_360w_270h.png" group-title="F- CINE Y SERIES",FX HD
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/176
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000551
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="SONY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="F- CINE Y SERIES",SONY CHANNEL
 http://nffthex0kzt.xyz/play/pVJEXpVxSE1PmbahX01mKJxKcr8Wwia3r34efrVksgBumELiKOctogMWOgn7ne7o/.m3u8?=-1
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UNIVERSAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1280px-Universal_TV_logo.svg.png" group-title="F- CINE Y SERIES",UNIVERSAL HD

@@ -95,13 +95,13 @@ http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/100
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DISCOVERY THEATER" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65940_dark_360w_270h.png" group-title="C- CULTURA",DISCOVERY THEATER
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/98
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NACIONAL GEOGRAPHIC" tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeo/Images/16c2ba84acf1e35302d1189a30433414/284x160-Q75_16c2ba84acf1e35302d1189a30433414.png" group-title="C- CULTURA",NACIONAL GEOGRAPHIC
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/238
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000617
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ANIMAL PLANET" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18649_dark_360w_270h.png" group-title="C- CULTURA",ANIMAL PLANET
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/9
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000380
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HISTORY MX" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica-mediano.png" group-title="C- CULTURA",HISTORY MX
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/206
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="H2" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png" group-title="C- CULTURA",H2
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/205
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000569
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="C- CULTURA",DISCOVERY CHANNEL
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/102
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DISCOVERY ESPAÑOL" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="C- CULTURA",DISCOVERY ESPAÑOL
@@ -109,7 +109,7 @@ http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/85
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HGTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111055_dark_360w_270h.png" group-title="C- CULTURA",HGTV
 https://nffthex0kzt.xyz/rk/JdsvgxwftwfghxvnccnngdryhvddcddhFA/Cbvxfgddgjgdwehcvbbgshhbfsdhxcvhg/659.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DISCOVERY ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="C- CULTURA",DISCOVERY ID
-http://nffthex0kzt.xyz/play/pVJEXpVxSE1PmbahX01mKJxKcr8Wwia3r34efrVksgB1vjMhALFvGGfj3UEifPp0/.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000587
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DISCOVERY TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/TLC_USA_logo.png/150px-TLC_USA_logo.png" group-title="C- CULTURA",DISCOVERY TLC
 http://nffthex0kzt.xyz/play/pVJEXpVxSE1PmbahX01mKJxKcr8Wwia3r34efrVksgBChpqMRed8dzM3H-cibKWV/.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TOONCAST" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63109_dark_360w_270h.png" group-title="D- INFANTIL",TOONCAST
@@ -119,7 +119,7 @@ http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/95
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NICKELODEO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="D- INFANTIL",NICKELODEO
 https://bgtv.xyz/play/2-810.php?idch=184
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CARTOON NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59562_dark_360w_270h.png" group-title="D- INFANTIL",CARTOON NETWORK
-http://nffthex0kzt.xyz/play/pVJEXpVxSE1PmbahX01mKJxKcr8Wwia3r34efrVksgAvTS-hzcjwlLbN4bIZW-Ee/.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000425
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DISNEY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19234_dark_360w_270h.png" group-title="D- INFANTIL",DISNEY CHANNEL
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/102
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CARTOONITO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s26089_dark_360w_270h.png" group-title="D- INFANTIL",CARTOONITO
@@ -152,7 +152,7 @@ http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/202
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HBO XTREME" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="E- PREMIUM",HBO XTREME
 http://45.166.92.22:58001/play/a03w/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UNIVERSAL CINEMA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121869_dark_360w_270h.png" group-title="E- PREMIUM",UNIVERSAL CINEMA
-https://bgtv.xyz/play/play-900.php?ul=902&token=asdasfasdda
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000395
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UNIVERSAL COMEDY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121870_dark_360w_270h.png" group-title="E- PREMIUM",UNIVERSAL COMEDY
 https://bgtv.xyz/play/play-900.php?ul=903&token=asdasfasdda
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UNIVERSAL CRIME" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121868_dark_360w_270h.png" group-title="E- PREMIUM",UNIVERSAL CRIME
@@ -179,21 +179,23 @@ http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7XVgyXmo8ow
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="STUDIO UNIVERSAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29017_dark_360w_270h.png" group-title="F- CINE Y SERIES",STUDIO UNIVERSAL
 http://nffthex0kzt.xyz/play/pVJEXpVxSE1PmbahX01mKJxKcr8Wwia3r34efrVksgCYL9pnDgfbIzGHMsU28dlB/.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="WARNER HD" tvg-logo="http://img3.wikia.nocookie.net/__cb20130619050550/logopedia/images/thumb/2/27/Warner_Bros._wordless_banner.png/1157px-Warner_Bros._wordless_banner.png" group-title="F- CINE Y SERIES",WARNER HD
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/366
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000707
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TNT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71727_dark_360w_270h.png" group-title="F- CINE Y SERIES",TNT
 http://bgtv.xyz/play/play-900.php?ul=500&token=asdasfasdda
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TNT SERIES" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91993_dark_360w_270h.png" group-title="F- CINE Y SERIES",TNT SERIES
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/322
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000677
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="SPACE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68021_dark_360w_270h.png" group-title="F- CINE Y SERIES",SPACE
 http://nffthex0kzt.xyz/play/pVJEXpVxSE1PmbahX01mKJxKcr8Wwia3r34efrVksgArK-AaGHVBc28d6tE-BFSj/.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="A&E" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10035_dark_360w_270h.png" group-title="F- CINE Y SERIES",A&E
 http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7VrIfly44B143Cv66c0FXgV/m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="F- CINE Y SERIES",AMC
-https://bgtv.xyz/play/2-810.php?idch=183
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000377
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="PARAMOUNT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106214_dark_360w_270h.png" group-title="F- CINE Y SERIES",PARAMOUNT
 http://nffthex0kzt.xyz/play/pVJEXpVxSE1PmbahX01mKJxKcr8Wwia3r34efrVksgBqaFRvAFCMD0DxW2DTCLir/.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CINEMAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16794_dark_360w_270h.png" group-title="F- CINE Y SERIES",CINEMAX
 http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8Sz6Mkvd6PXFCsOatelsGIf1yAevdk_HugbkmQSraq6TOz/m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CINE LATINO" tvg-logo="https://c0.klipartz.com/pngpicture/564/311/gratis-png-festival-de-cine-latino-de-san-diego-logotipo-del-canal-de-television-cinelatino-logotipo-del-legendario-cine.png" group-title="F- CINE Y SERIES",CINE LATINO
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000437
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CINECANAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105609_dark_360w_270h.png" group-title="F- CINE Y SERIES",CINECANAL
 http://nffthex0kzt.xyz/play/pVJEXpVxSE1PmbahX01mKJxKcr8Wwia3r34efrVksgBjcZI74n3AH_uJfmvYiZkI/.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TBS" tvg-logo="http://4.bp.blogspot.com/-lxk6HVdz2ME/VgcyW0SlNNI/AAAAAAAAlMo/9-OQcQd_PdQ/s1600/TBS-logo-2015.png" group-title="F- CINE Y SERIES",TBS
@@ -205,7 +207,7 @@ http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7VdYKs7RdA2
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="GOLDEN EDGE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16423_dark_360w_270h.png" group-title="F- CINE Y SERIES",GOLDEN EDGE
 http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7X3hEKUkNMWRwhq_SUsdSzw/m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="GOLDEN PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68317_dark_360w_270h.png" group-title="F- CINE Y SERIES",GOLDEN PLUS
-http://nffthex0kzt.xyz/play/pVJEXpVxSE1PmbahX01mKJxKcr8Wwia3r34efrVksgCZvd0iZWbM6l-Y-vOj3LFm/.m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000560
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="GOLDEN PREMIER" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80596_dark_360w_270h.png" group-title="F- CINE Y SERIES",GOLDEN PREMIER
 http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8Sz6Mkvd6PXFCsOatelsGIf1xv1Gu1FBQ2GxfS0yPsS6Ye/m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DE PELICULA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16288_dark_360w_270h.png" group-title="F- CINE Y SERIES",DE PELICULA
@@ -214,7 +216,7 @@ http://nffthex0kzt.xyz/play/pVJEXpVxSE1PmbahX01mKJxKcr8Wwia3r34efrVksgBx5wPjPuTN
 http://nffthex0kzt.xyz/play/pVJEXpVxSE1PmbahX01mKJxKcr8Wwia3r34efrVksgAqiczeHV_4iBKSVchYua_V/.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Bandamax" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18101_dark_360w_270h.png" group-title="G- Musica",Bandamax
-https://bgtv.xyz/play/play-900.php?ul=8&token=asdasfasdda
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000404
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Canal de la Musica" tvg-logo="http://x.playerlatino.live/canaldelamusica.png" group-title="G- Musica",Canal de la Musica
 https://bgtv.xyz/play/play-900.php?ul=962&token=asdasfasdda
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Djing Ibiza" tvg-logo="http://x.playerlatino.live/djing.png" group-title="G- Musica",Djing Ibiza
@@ -288,8 +290,8 @@ https://dai.google.com/linear/hls/event/erhZGvvqQdmR8xTfFO3MZw/master.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.mx(m3u4u)" tvg-name="CLARO SPORTS 4" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72291_dark_360w_270h.png" group-title="H- DEPORTES",CLARO SPORTS 4
 https://dai.google.com/linear/hls/event/UDhGuB7fSvuKDebY72_m_Q/master.m3u8
 #EXTINF:-1 tvg-id="NBATV(English).mx(m3u4u)" tvg-name="NBA TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32281_dark_360w_270h.png" group-title="H- DEPORTES",NBA TV
-http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8Sz6eIizix09c-so-GRcPKk8AIhP0m0lSlwNI2OOc2WJze/m3u8
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000032
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MLB NETWORK" tvg-logo="https://img.mlbstatic.com/mlb-images/image/private/t_w372/mlb/th6vhnyqopc1hoqwym7q.jpg" group-title="H- DEPORTES",MLB NETWORK
-https://bgtv.xyz/play/2-810.php?idch=293
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000228
 #EXTINF:-1 tvg-id="NFLNetwork(English).mx(m3u4u)" tvg-name="NFL NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45399_dark_360w_270h.png" group-title="H- DEPORTES",NFL NETWORK
-https://bgtv.xyz/play/2-810.php?idch=204
+http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000263

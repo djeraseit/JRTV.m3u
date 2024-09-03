@@ -63,7 +63,8 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TLNOVELAS" tvg-logo="https://x.playerlatino.live/tlnovelas.png" group-title="B- NOVELAS",TLNOVELAS
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/318?useragent2
+# User-Agent: Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRty
+http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/318
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="PASIONES" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/pasiones-mediano.png" group-title="B- NOVELAS",PASIONES
@@ -73,7 +74,8 @@ https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TELEMUNDO INTERNACIONAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64835_dark_360w_270h.png" group-title="B- NOVELAS",TELEMUNDO INTERNACIONAL
 http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000659
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UNICABLE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16521_dark_360w_270h.png" group-title="B- NOVELAS",UNICABLE
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/342?useragent1
+# User-Agent: Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRty
+http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/342
 
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="AZ CORAZÓN" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_corazon-mediano.png" group-title="B- NOVELAS",AZ CORAZÓN
 https://bgtv.xyz/play/play-900.php?ul=834&token=asdasfasdda

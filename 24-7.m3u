@@ -129,3 +129,127 @@ http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7W1es5gGuBL
 http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7V1wcu4aYjAqKJzC9HRwFVz/.m3u8&type=stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VOLVER AL FUTURO" tvg-logo="http://alfatv.lat:2082/images/209e8ba6d715c26ad5d1f2b56de3b94d.png" group-title="F- 24/7",VOLVER AL FUTURO
 http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7WqSX_l4LL5rV4TT4MLkwkh/.m3u8&type=stream.m3u8
+
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Dinosaurios 24/7" tvg-logo="http://x.playerlatino.live/dinosaurios.png" group-title="A-24/7",Dinosaurios 24/7
+http://bgtv.xyz/play/play-900.php?ul=670&token=asdasfasdda
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Doraemon 24/7" tvg-logo="http://x.playerlatino.live/doraemon.png" group-title="A-24/7",Doraemon 24/7
+http://bgtv.xyz/play/play-900.php?ul=521&token=asdasfasdda
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Dragon Ball (ES) 24/7" tvg-logo="http://x.playerlatino.live/dragonball.png" group-title="B- 24/7",Dragon Ball (ES) 24/7
+http://bgtv.xyz/play/play-900.php?ul=984&token=asdasfasdda
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Dragon Ball 24/7" tvg-logo="http://x.playerlatino.live/dragonball.png" group-title="B- 24/7",Dragon Ball 24/7
+http://bgtv.xyz/play/play-900.php?ul=425&token=asdasfasdda
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Dragon Ball GT 24/7" tvg-logo="http://x.playerlatino.live/dragonballgt.png" group-title="B- 24/7",Dragon Ball GT 24/7
+http://bgtv.xyz/play/play-900.php?ul=520&token=asdasfasdda
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Dragon Ball Super 24/7" tvg-logo="http://x.playerlatino.live/dragonballsuper.png" group-title="B- 24/7",Dragon Ball Super 24/7
+http://bgtv.xyz/play/play-900.php?ul=424&token=asdasfasdda
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Dragon Ball Z 24/7" tvg-logo="http://x.playerlatino.live/dragonballz.png" group-title="B- 24/7",Dragon Ball Z 24/7
+http://bgtv.xyz/play/play-900.php?ul=329&token=asdasfasdda
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Dragon Ball Z Kai 24/7" tvg-logo="http://x.playerlatino.live/dragonballzkai.png" group-title="B- 24/7",Dragon Ball Z Kai 24/7
+http://bgtv.xyz/play/play-900.php?ul=993&token=asdasfasdda
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="El Chavo Animado 24/7" tvg-logo="http://x.playerlatino.live/elchavoanimado.png" group-title="A-24/7",El Chavo Animado 24/7
+http://bgtv.xyz/play/play-900.php?ul=790&token=asdasfasdda
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="El Chavo del 8 24/7" tvg-logo="http://x.playerlatino.live/elchavodel8.png" group-title="A-24/7",El Chavo del 8 24/7
+http://bgtv.xyz/play/play-900.php?ul=400&token=asdasfasdda
+
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="El Gallo Claudio 24/7" tvg-logo="http://x.playerlatino.live/elgalloclaudio.png" group-title="A-24/7",El Gallo Claudio 24/7
+http://bgtv.xyz/play/play-900.php?ul=845&token=asdasfasdda
+
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="El Principel del Rap 24/7" tvg-logo="http://x.playerlatino.live/elprincipedelrap.png" group-title="A-24/7",El Principel del Rap 24/7
+http://bgtv.xyz/play/play-900.php?ul=430&token=asdasfasdda
+
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Futurama 24/7" tvg-logo="" group-title="A-24/7",Futurama 24/7
+http://bgtv.xyz/play/play-900.php?ul=793&token=asdasfasdda
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ironman 24/7" tvg-logo="http://x.playerlatino.live/ironman.png" group-title="A-24/7",Ironman 24/7
+http://bgtv.xyz/play/play-900.php?ul=948&token=asdasfasdda
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="La Pantera Rosa 24/7" tvg-logo="http://x.playerlatino.live/lapanterarosa.png" group-title="A-24/7",La Pantera Rosa 24/7
+http://bgtv.xyz/play/play-900.php?ul=671&token=asdasfasdda
+
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los Picapiedra 24/7" tvg-logo="http://x.playerlatino.live/lospicapiedra.png" group-title="A-24/7",Los Picapiedra 24/7
+http://bgtv.xyz/play/play-900.php?ul=669&token=asdasfasdda
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los Pinguinos de Madagascar 24/7" tvg-logo="http://x.playerlatino.live/lospinguinosdemadagascar.png" group-title="A-24/7",Los Pinguinos de Madagascar 24/7
+http://bgtv.xyz/play/play-900.php?ul=794&token=asdasfasdda
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los Pitufos 24/7" tvg-logo="http://x.playerlatino.live/lospitufos.png" group-title="A-24/7",Los Pitufos 24/7
+http://bgtv.xyz/play/play-900.php?ul=795&token=asdasfasdda
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los Reyes de la Colina 24/7" tvg-logo="http://x.playerlatino.live/losreyesdelacolina.png" group-title="A-24/7",Los Reyes de la Colina 24/7
+http://bgtv.xyz/play/play-900.php?ul=796&token=asdasfasdda
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los Simpson (Temporadas 1-5) 24/7" tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="A-24/7",Los Simpson (Temporadas 1-5) 24/7
+http://bgtv.xyz/play/play-900.php?ul=894&token=asdasfasdda
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los Simpson (Temporadas 12-17) 24/7" tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="A-24/7",Los Simpson (Temporadas 12-17) 24/7
+http://bgtv.xyz/play/play-900.php?ul=896&token=asdasfasdda
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los Simpson (Temporadas 18-21) 24/7" tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="A-24/7",Los Simpson (Temporadas 18-21) 24/7
+http://bgtv.xyz/play/play-900.php?ul=897&token=asdasfasdda
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los Simpson (Temporadas 22-26) 24/7" tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="A-24/7",Los Simpson (Temporadas 22-26) 24/7
+http://bgtv.xyz/play/play-900.php?ul=898&token=asdasfasdda
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los Simpson (Temporadas 27-30) 24/7" tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="A-24/7",Los Simpson (Temporadas 27-30) 24/7
+http://bgtv.xyz/play/play-900.php?ul=899&token=asdasfasdda
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los Simpson (Temporadas 6-11) 24/7" tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="A-24/7",Los Simpson (Temporadas 6-11) 24/7
+http://bgtv.xyz/play/play-900.php?ul=895&token=asdasfasdda
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los Simpson 24/7" tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="A-24/7",Los Simpson 24/7
+http://bgtv.xyz/play/play-900.php?ul=357&token=asdasfasdda
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los Supersonicos 24/7" tvg-logo="http://x.playerlatino.live/lossupersonicos.png" group-title="A-24/7",Los Supersonicos 24/7
+http://bgtv.xyz/play/play-900.php?ul=797&token=asdasfasdda
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los Vengadores Unidos 24/7" tvg-logo="http://x.playerlatino.live/losvengadoresunidos.png" group-title="A-24/7",Los Vengadores Unidos 24/7
+http://bgtv.xyz/play/play-900.php?ul=818&token=asdasfasdda
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Malcolm 24/7" tvg-logo="http://x.playerlatino.live/malcolm.png" group-title="A-24/7",Malcolm 24/7
+http://bgtv.xyz/play/play-900.php?ul=911&token=asdasfasdda
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Malcolm HD 24/7" tvg-logo="http://x.playerlatino.live/malcolm.png" group-title="A-24/7",Malcolm HD 24/7
+http://bgtv.xyz/play/play-900.php?ul=798&token=asdasfasdda
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Max Steel 24/7" tvg-logo="http://x.playerlatino.live/maxsteel.png" group-title="A-24/7",Max Steel 24/7
+http://bgtv.xyz/play/play-900.php?ul=880&token=asdasfasdda
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Mr. Bean 24/7" tvg-logo="http://x.playerlatino.live/mrbean.png" group-title="A-24/7",Mr. Bean 24/7
+http://bgtv.xyz/play/play-900.php?ul=431&token=asdasfasdda
+
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Naruto 24/7" tvg-logo="http://x.playerlatino.live/naruto.png" group-title="A-24/7",Naruto 24/7
+http://bgtv.xyz/play/play-900.php?ul=523&token=asdasfasdda
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Padre de Familia 24/7" tvg-logo="http://x.playerlatino.live/padredefamilia.png" group-title="A-24/7",Padre de Familia 24/7
+http://bgtv.xyz/play/play-900.php?ul=416&token=asdasfasdda
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Patoaventuras 24/7" tvg-logo="http://x.playerlatino.live/patoaventuras.png" group-title="A-24/7",Patoaventuras 24/7
+http://bgtv.xyz/play/play-900.php?ul=819&token=asdasfasdda
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Patrulla Canina 24/7" tvg-logo="http://x.playerlatino.live/patrullacanina.png" group-title="A-24/7",Patrulla Canina 24/7
+http://bgtv.xyz/play/play-900.php?ul=807&token=asdasfasdda
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Peppa Pig 24/7" tvg-logo="http://x.playerlatino.live/peppapig.png" group-title="A-24/7",Peppa Pig 24/7
+http://bgtv.xyz/play/play-900.php?ul=787&token=asdasfasdda
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Pinky y Cerebro 24/7" tvg-logo="http://x.playerlatino.live/pinkyycerebro.png" group-title="A-24/7",Pinky y Cerebro 24/7
+http://bgtv.xyz/play/play-900.php?ul=721&token=asdasfasdda
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Pocoyo 24/7" tvg-logo="http://x.playerlatino.live/pocoyo.png" group-title="A-24/7",Pocoyo 24/7
+http://bgtv.xyz/play/play-900.php?ul=799&token=asdasfasdda
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Pokemon 24/7" tvg-logo="http://x.playerlatino.live/pokemon.png" group-title="A-24/7",Pokemon 24/7
+http://bgtv.xyz/play/play-900.php?ul=420&token=asdasfasdda
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="PopCornFlix HD" tvg-logo="http://x.playerlatino.live/popcornflix.png" group-title="A-24/7",PopCornFlix HD
+http://bgtv.xyz/play/play-900.php?ul=1536&token=asdasfasdda
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Prison Break 24/7" tvg-logo="http://x.playerlatino.live/prisonbreak.png" group-title="A-24/7",Prison Break 24/7
+http://bgtv.xyz/play/play-900.php?ul=884&token=asdasfasdda
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Sakura Card Captor 24/7" tvg-logo="http://x.playerlatino.live/sakura.png" group-title="A-24/7",Sakura Card Captor 24/7
+http://bgtv.xyz/play/play-900.php?ul=672&token=asdasfasdda
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Samurai X 24/7" tvg-logo="http://x.playerlatino.live/samuraix.png" group-title="A-24/7",Samurai X 24/7
+http://bgtv.xyz/play/play-900.php?ul=663&token=asdasfasdda
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Scooby Doo 24/7" tvg-logo="http://x.playerlatino.live/scoobydoo.png" group-title="A-24/7",Scooby Doo 24/7
+http://bgtv.xyz/play/play-900.php?ul=422&token=asdasfasdda
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Series Comedia 24/7" tvg-logo="http://x.playerlatino.live/cine247.png" group-title="A-24/7",Series Comedia 24/7
+http://bgtv.xyz/play/play-900.php?ul=918&token=asdasfasdda
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Smallville 24/7" tvg-logo="http://x.playerlatino.live/smallville.png" group-title="A-24/7",Smallville 24/7
+http://bgtv.xyz/play/play-900.php?ul=673&token=asdasfasdda
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="South Park 24/7" tvg-logo="http://x.playerlatino.live/southpark.png" group-title="A-24/7",South Park 24/7
+http://bgtv.xyz/play/play-900.php?ul=674&token=asdasfasdda
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Spiderman 24/7" tvg-logo="http://x.playerlatino.live/spiderman.png" group-title="A-24/7",Spiderman 24/7
+http://bgtv.xyz/play/play-900.php?ul=889&token=asdasfasdda
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Super Campeones 24/7" tvg-logo="http://x.playerlatino.live/supercampeones.png" group-title="A-24/7",Super Campeones 24/7
+http://bgtv.xyz/play/play-900.php?ul=432&token=asdasfasdda
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="The Big Bang Theory 24/7" tvg-logo="http://x.playerlatino.live/thebigbangtheory.png" group-title="A-24/7",The Big Bang Theory 24/7
+http://bgtv.xyz/play/play-900.php?ul=676&token=asdasfasdda
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="The Walking Dead 24/7" tvg-logo="" group-title="A-24/7",The Walking Dead 24/7
+http://bgtv.xyz/play/play-900.php?ul=800&token=asdasfasdda
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Tom y Jerry 24/7" tvg-logo="http://x.playerlatino.live/tomyjerry.png" group-title="A-24/7",Tom y Jerry 24/7
+http://bgtv.xyz/play/play-900.php?ul=421&token=asdasfasdda
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TrollHunters 24/7" tvg-logo="http://x.playerlatino.live/trollhunters.png" group-title="A-24/7",TrollHunters 24/7
+http://bgtv.xyz/play/play-900.php?ul=662&token=asdasfasdda
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Two And a Half Men 24/7" tvg-logo="http://x.playerlatino.live/twoandhalfmen.png" group-title="A-24/7",Two And a Half Men 24/7
+http://bgtv.xyz/play/play-900.php?ul=675&token=asdasfasdda
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Yu-Gi-Oh! 24/7" tvg-logo="http://x.playerlatino.live/yugioh.png" group-title="A-24/7",Yu-Gi-Oh! 24/7
+http://bgtv.xyz/play/play-900.php?ul=664&token=asdasfasdda

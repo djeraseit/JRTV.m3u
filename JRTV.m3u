@@ -15,20 +15,16 @@ http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8Sz5SsZdHiWbtAXrKIdLfFU0FII2oI0yCA
 http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8Sz5SsZdHiWbtAXrKIdLfFU0HUd4Kdv9UFa7zrrripsqdG/.m3u8&type=stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TODA LA CASA 24/7" tvg-logo="https://www.infobae.com/new-resizer/zd8PzZACA21jk1I4-ToKi5uS4Zs=/1440x810/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/UPJHB4OTDVGYROMRJ4RPJFAYPY.jpg" group-title="CASA DE LOS FAMOSOS",TODA LA CASA 24/7
 http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8Sz5SsZdHiWbtAXrKIdLfFU0GJTtTgRI425bO1EwCRNePr/.m3u8&type=stream.m3u8
-
-
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="AZTECA UNO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116153_dark_360w_270h.png" group-title="A- TV MX",AZTECA UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="LAS ESTRELLAS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116151_dark_360w_270h.png" group-title="A- TV MX",LAS ESTRELLAS
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CANAL 5" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png" group-title="A- TV MX",CANAL 5
 http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000665&type=stream.m3u8?start=-1
-
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="AZTECA 7" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116154_dark_360w_270h.png" group-title="A- TV MX",AZTECA 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NU9VE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59528_dark_360w_270h.png" group-title="A- TV MX",NU9VE
 http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000554&type=stream.m3u8?start=-1
-
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ESTRELLA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/509px-Estrella_TV_Logo_2020.png?20210701011117" group-title="A- TV MX",ESTRELLA TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="AZ CLIC HD" tvg-logo="https://x.playerlatino.live/azclic.png" group-title="A- TV MX",AZ CLIC HD
@@ -37,7 +33,7 @@ http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8Sz6Mkvd6PXFCsOatelsGIf1z2FPGaz1ad
 http://45.4.85.214:58001/play/a02f
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="AZ CINEMA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_cinema-mediano.png" group-title="A- TV MX",AZ CINEMA
 http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000395&type=stream.m3u8?start=-1
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NE9VE" tvg-logo="https://cdn140.picsart.com/278369393029211.png" group-title="A- TV MX",NUE9VE
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NE9VE" tvg-logo="https://cdn140.picsart.com/278369393029211.png" group-title="A- TV MX",NE9VE
 http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8Sz6Mkvd6PXFCsOatelsGIf1yIqWGvhOL6CuNGNZHOG96D/.m3u8&type=stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="FORO TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66635_dark_360w_270h.png" group-title="A- TV MX",FORO TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64e35aff6b1fdb0008ea8441livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTAROPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
@@ -59,15 +55,8 @@ https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
 https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ADN40" tvg-logo="https://cdn.mitvstatic.com/channels/adn-40-m.png" group-title="A- TV MX",ADN40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TLNOVELAS" tvg-logo="https://x.playerlatino.live/tlnovelas.png" group-title="B- NOVELAS",TLNOVELAS
-# User-Agent: Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRty
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TLNOVELAS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s140026_dark_360w_270h.png" group-title="B- NOVELAS",TLNOVELAS
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/318
-
-
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="PASIONES" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/pasiones-mediano.png" group-title="B- NOVELAS",PASIONES
 http://alfatv.lat:2082/live/6xJ9crA8NAvp/4GK4cqCuN8zG/236262.m3u8?=-1
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TELEMUNDO FLORIDA USA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64835_dark_360w_270h.png" group-title="B- NOVELAS",TELEMUNDO FLORIDA USA
@@ -75,57 +64,49 @@ https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TELEMUNDO INTERNACIONAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64835_dark_360w_270h.png" group-title="B- NOVELAS",TELEMUNDO INTERNACIONAL
 http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000659&type=stream.m3u8?start=-1
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UNICABLE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16521_dark_360w_270h.png" group-title="B- NOVELAS",UNICABLE
-#User-Agent: Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRty
-https://tvfullprime.site:443/Geovanny22/qR4DDA4ZQYgE/190853.ts&type=stream.m3u8?start=-1
-
+http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/342
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="AZ CORAZÓN" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_corazon-mediano.png" group-title="B- NOVELAS",AZ CORAZÓN
 https://tvfullprime.site:443/Geovanny22/qR4DDA4ZQYgE/190670.ts&type=stream.m3u8?start=-1
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="GLITZ" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61514_dark_360w_270h.png" group-title="B- NOVELAS",GLITZ
 https://tvfullprime.site:443/Geovanny22/qR4DDA4ZQYgE/190736.ts&type=stream.m3u8?start=-1
-
-
-
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s48527_dark_360w_270h.png" group-title="C- CULTURA",DISCOVERY SCIENCE
-http://nffthex0kzt.xyz/play/pVJEXpVxSE1PmbahX01mKJxKcr8Wwia3r34efrVksgCyvm39BsyRByt5u4E1oPyo/.m3u8
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8Sz6Mkvd6PXFCsOatelsGIf1zHfu18FaLsivAOGMyocJkW/.m3u8&type=stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DISCOVERY H&H" tvg-logo="http://2.bp.blogspot.com/-J72Tsxq1uWo/VG1hwAAg98I/AAAAAAAAkDs/CP1NNsI_Ayk/s1600/_0040_discovery_hh.png" group-title="C- CULTURA",DISCOVERY H&H
-https://tvfullprime.site:443/Geovanny22/qR4DDA4ZQYgE/183361.ts&type=stream.m3u8?start=-1
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8Sz6Mkvd6PXFCsOatelsGIf1yIluqjucSuTAPzSzoA9cPr/.m3u8&type=stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DISCOVERY WORLD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66488_dark_360w_270h.png" group-title="C- CULTURA",DISCOVERY WORLD
-https://tvfullprime.site:443/Geovanny22/qR4DDA4ZQYgE/241173.ts&type=stream.m3u8?start=-1
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8Sz6Mkvd6PXFCsOatelsGIf1ztQ22TaJ1HXNws5Rm92Gsy/.m3u8&type=stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DISCOVERY TURBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46608_dark_360w_270h.png" group-title="C- CULTURA",DISCOVERY TURBO
-https://tvfullprime.site:443/Geovanny22/qR4DDA4ZQYgE/190701.ts&type=stream.m3u8?start=-1
+http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/100
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DISCOVERY THEATER" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65940_dark_360w_270h.png" group-title="C- CULTURA",DISCOVERY THEATER
-https://tvfullprime.site:443/Geovanny22/qR4DDA4ZQYgE/241172.ts&type=stream.m3u8?start=-1
+http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/98
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NACIONAL GEOGRAPHIC" tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeo/Images/16c2ba84acf1e35302d1189a30433414/284x160-Q75_16c2ba84acf1e35302d1189a30433414.png" group-title="C- CULTURA",NACIONAL GEOGRAPHIC
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000617&type=stream.m3u8?start=-1
+http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/236
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ANIMAL PLANET" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18649_dark_360w_270h.png" group-title="C- CULTURA",ANIMAL PLANET
 http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000380&type=stream.m3u8?start=-1
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HISTORY MX" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica-mediano.png" group-title="C- CULTURA",HISTORY MX
-https://tvfullprime.site:443/Geovanny22/qR4DDA4ZQYgE/190740.ts&type=stream.m3u8?start=-1
+http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/206
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="H2" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png" group-title="C- CULTURA",H2
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000569&type=stream.m3u8?start=-1
+ http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/205
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="C- CULTURA",DISCOVERY CHANNEL
-https://tvfullprime.site:443/Geovanny22/qR4DDA4ZQYgE/190695.ts&type=stream.m3u8?start=-1
-
+http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/102
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HGTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111055_dark_360w_270h.png" group-title="C- CULTURA",HGTV
-https://nffthex0kzt.xyz/rk/JdsvgxwftwfghxvnccnngdryhvddcddhFA/Cbvxfgddgjgdwehcvbbgshhbfsdhxcvhg/659.m3u8
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7VUV-Yjp8poC370w6uIoOYt/.m3u8&type=stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DISCOVERY ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="C- CULTURA",DISCOVERY ID
 http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000587&type=stream.m3u8?start=-1
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DISCOVERY TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/TLC_USA_logo.png/150px-TLC_USA_logo.png" group-title="C- CULTURA",DISCOVERY TLC
-http://nffthex0kzt.xyz/play/pVJEXpVxSE1PmbahX01mKJxKcr8Wwia3r34efrVksgBChpqMRed8dzM3H-cibKWV/.m3u8
-
-
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7Wyyq8jhEYBtdPHmlkWu5-B/.m3u8&type=stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TOONCAST" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63109_dark_360w_270h.png" group-title="D- INFANTIL",TOONCAST
-http://bgtv.xyz/play/play-900.php?ul=95&token=asdasfasdda
+http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/324
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DISCOVERY KIDS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16680_dark_360w_270h.png" group-title="D- INFANTIL",DISCOVERY KIDS
-http://bgtv.xyz/play/play-900.php?ul=25&token=asdasfasdda
+http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/95
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NICKELODEO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="D- INFANTIL",NICKELODEO
-http://bgtv.xyz/play/play-900.php?ul=1586&token=asdasfasdda
+http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/259
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CARTOON NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59562_dark_360w_270h.png" group-title="D- INFANTIL",CARTOON NETWORK
 http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000425&type=stream.m3u8?start=-1
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DISNEY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19234_dark_360w_270h.png" group-title="D- INFANTIL",DISNEY CHANNEL
-http://bgtv.xyz/play/play-900.php?ul=30&token=asdasfasdda
+http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/102
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CARTOONITO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s26089_dark_360w_270h.png" group-title="D- INFANTIL",CARTOONITO
-http://bgtv.xyz/play/play-900.php?ul=11&token=asdasfasdda
+http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/41
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="BIT ME" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72801_dark_360w_270h.png" group-title="D- INFANTIL",BIT ME
 http://nffthex0kzt.xyz/play/pVJEXpVxSE1PmbahX01mKJxKcr8Wwia3r34efrVksgClOxS3CydlZq8VmI2o1KUF/.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="BABY TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56036_dark_360w_270h.png" group-title="D- INFANTIL",BABY TV
@@ -134,105 +115,80 @@ http://nffthex0kzt.xyz/play/pVJEXpVxSE1PmbahX01mKJxKcr8Wwia3r34efrVksgDZjuoq2fQ9
 http://bgtv.xyz/play/play-900.php?ul=79&token=asdasfasdda
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DISNEY JR" tvg-logo="http://3.bp.blogspot.com/-VvbUqgHc5Pw/VJIJWAJLxfI/AAAAAAAAHi0/A0nDmO29zwk/s1600/Logo%2BDisney_Junior.png" group-title="D- INFANTIL",DISNEY JR
 http://bgtv.xyz/play/play-900.php?ul=743&token=asdasfasdda
-
-
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HBO HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="E- PREMIUM",HBO HD
-http://nffthex0kzt.xyz/play/pVJEXpVxSE1PmbahX01mKJxKcr8Wwia3r34efrVksgC6fFV-A2dSvpQ8Bq-aG9U9/.m3u8&type=stream.m3u8
+ http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/198
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HBO HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="E- PREMIUM",HBO HD
 http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8Sz6Mkvd6PXFCsOatelsGIf1zSt42FwZIMn0Qbjf-oqXR_/.m3u8&type=stream.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HBO2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="E- PREMIUM",HBO2
-http://nffthex0kzt.xyz/play/pVJEXpVxSE1PmbahX01mKJxKcr8Wwia3r34efrVksgAlaogPdrs25A7FrZjzpEKS/.m3u8&type=stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HBO2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="E- PREMIUM",HBO2
 http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8Sz6Mkvd6PXFCsOatelsGIf1yFZ9X6isNvE--kX35WZ5j1/.m3u8&type=stream.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HBO FAMILY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="E- PREMIUM",HBO FAMILY
-http://45.5.117.182:8000/play/a0ep/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HBO FAMILY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="E- PREMIUM",HBO FAMILY
 http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7Wu1UeuSVDWEdMzzv3IHApu/.m3u8&type=stream.m3u8
-
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HBO MUNDI" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70081_dark_360w_270h.png" group-title="E- PREMIUM",HBO MUNDI
 http://dnsmv.xyz:8080/live/alexisgranada/bdJf6UULLn/93499.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HBO PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png" group-title="E- PREMIUM",HBO PLUS
-http://bgtv.xyz/play/play-900.php?ul=728&token=asdasfasdda
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HBO PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png" group-title="E- PREMIUM",HBO PLUS
 http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8Sz6Mkvd6PXFCsOatelsGIf1wuL72Gj-HJcYWf-I2dwVoP/.m3u8&type=stream.m3u8
-
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HBO POP" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68134_dark_360w_270h.png" group-title="E- PREMIUM",HBO POP
 http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8Sz6Mkvd6PXFCsOatelsGIf1x39OQcoVA8hRQobDS1Fs-1/.m3u8&type=stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HBO SIGNATURE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80120_dark_360w_270h.png" group-title="E- PREMIUM",HBO SIGNATURE
-http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8Sz6Mkvd6PXFCsOatelsGIf1y79mG2wSYhvkTDghU755Lv/.m3u8&type=stream.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HBO XTREME" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="E- PREMIUM",HBO XTREME
-http://45.166.92.22:58001/play/a03w/index.m3u8
+http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/202
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HBO XTREME" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="E- PREMIUM",HBO XTREME
 http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8Sz6Mkvd6PXFCsOatelsGIf1wLElwbyk-L_6DauLDjadI5/.m3u8&type=stream.m3u8
-
-
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UNIVERSAL CINEMA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121869_dark_360w_270h.png" group-title="E- PREMIUM",UNIVERSAL CINEMA
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000395&type=stream.m3u8?start=-1
+http://new-tv.cloud:25461/live/Jul11Men62/Izt10Int21/689310.m3u8&type=stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UNIVERSAL COMEDY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121870_dark_360w_270h.png" group-title="E- PREMIUM",UNIVERSAL COMEDY
-http://bgtv.xyz/play/play-900.php?ul=903&token=asdasfasdda
+http://new-tv.cloud:25461/live/Jul11Men62/Izt10Int21/689311.m3u8&type=stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UNIVERSAL CRIME" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121868_dark_360w_270h.png" group-title="E- PREMIUM",UNIVERSAL CRIME
-http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8Sz5SsZdHiWbtAXrKIdLfFU0Fs-iKKRTU-5ya2hrlf5lfX/.m3u8&type=stream.m3u8
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8Sz6Mkvd6PXFCsOatelsGIf1xj6u6N290sAbdCBUSh_PMK/.m3u8&type=stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UNIVERSAL PREMIER" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121866_dark_360w_270h.png" group-title="E- PREMIUM",UNIVERSAL PREMIER
-http://bgtv.xyz/play/play-900.php?ul=901&token=asdasfasdda
+http://new-tv.cloud:25461/live/Jul11Men62/Izt10Int21/689308.m3u8&type=stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UNIVERSAL REALITY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121867_dark_360w_270h.png" group-title="E- PREMIUM",UNIVERSAL REALITY
-http://bgtv.xyz/play/play-900.php?ul=905&token=asdasfasdda
-
-
-
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8Sz6Mkvd6PXFCsOatelsGIf1xVSQlYIJdrSb5gjNhspPZc/.m3u8&type=stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DISTRITO COMEDIA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s55980_dark_360w_270h.png" group-title="F- CINE Y SERIES",DISTRITO COMEDIA
 http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000494&type=stream.m3u8?start=-1
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="COMEDY CENTRAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76326_dark_360w_270h.png" group-title="F- CINE Y SERIES",COMEDY CENTRAL
-http://nffthex0kzt.xyz/play/pVJEXpVxSE1PmbahX01mKJxKcr8Wwia3r34efrVksgCocNv_g9DegfzVnTJLXC9i/.m3u8
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8Sz5SsZdHiWbtAXrKIdLfFU0FmMhAVNdisDM19ETdMK9Yb/.m3u8&type=stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="STAR CHANNEL HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88534_dark_360w_270h.png" group-title="F- CINE Y SERIES",STAR CHANNEL HD
-http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7UBWVQk9GyxJMpSLEauFPiD/m3u8
+http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/157
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="FX HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46442_dark_360w_270h.png" group-title="F- CINE Y SERIES",FX HD
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000551&type=stream.m3u8?start=-1
+ http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/176
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="SONY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="F- CINE Y SERIES",SONY CHANNEL
-http://nffthex0kzt.xyz/play/pVJEXpVxSE1PmbahX01mKJxKcr8Wwia3r34efrVksgBumELiKOctogMWOgn7ne7o/.m3u8?=-1
+ http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/284
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UNIVERSAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1280px-Universal_TV_logo.svg.png" group-title="F- CINE Y SERIES",UNIVERSAL HD
-http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7XVgyXmo8owvOPbXiWndhVg/m3u8
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7XVgyXmo8owvOPbXiWndhVg/.m3u8&type=stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="STUDIO UNIVERSAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29017_dark_360w_270h.png" group-title="F- CINE Y SERIES",STUDIO UNIVERSAL
-http://nffthex0kzt.xyz/play/pVJEXpVxSE1PmbahX01mKJxKcr8Wwia3r34efrVksgCYL9pnDgfbIzGHMsU28dlB/.m3u8
+http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/288
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="WARNER HD" tvg-logo="http://img3.wikia.nocookie.net/__cb20130619050550/logopedia/images/thumb/2/27/Warner_Bros._wordless_banner.png/1157px-Warner_Bros._wordless_banner.png" group-title="F- CINE Y SERIES",WARNER HD
 http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000707&type=stream.m3u8?start=-1
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TNT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71727_dark_360w_270h.png" group-title="F- CINE Y SERIES",TNT
-http://190.60.38.114:1010/play/a07z/index.m3u8
+http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/319
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TNT SERIES" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91993_dark_360w_270h.png" group-title="F- CINE Y SERIES",TNT SERIES
 http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000677&type=stream.m3u8?start=-1
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="SPACE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68021_dark_360w_270h.png" group-title="F- CINE Y SERIES",SPACE
-http://nffthex0kzt.xyz/play/pVJEXpVxSE1PmbahX01mKJxKcr8Wwia3r34efrVksgArK-AaGHVBc28d6tE-BFSj/.m3u8
+http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/286
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="A&E" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10035_dark_360w_270h.png" group-title="F- CINE Y SERIES",A&E
-http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7VrIfly44B143Cv66c0FXgV/m3u8
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7VrIfly44B143Cv66c0FXgV/.m3u8&type=stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="F- CINE Y SERIES",AMC
 http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000377&type=stream.m3u8?start=-1
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="PARAMOUNT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106214_dark_360w_270h.png" group-title="F- CINE Y SERIES",PARAMOUNT
-http://nffthex0kzt.xyz/play/pVJEXpVxSE1PmbahX01mKJxKcr8Wwia3r34efrVksgBqaFRvAFCMD0DxW2DTCLir/.m3u8
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8Sz6Mkvd6PXFCsOatelsGIf1wZ1UpGljxrzSwVDJEdMqnv/.m3u8&type=stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CINEMAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16794_dark_360w_270h.png" group-title="F- CINE Y SERIES",CINEMAX
-http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8Sz6Mkvd6PXFCsOatelsGIf1yAevdk_HugbkmQSraq6TOz/m3u8
+http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/65
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CINE LATINO" tvg-logo="https://c0.klipartz.com/pngpicture/564/311/gratis-png-festival-de-cine-latino-de-san-diego-logotipo-del-canal-de-television-cinelatino-logotipo-del-legendario-cine.png" group-title="F- CINE Y SERIES",CINE LATINO
 http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000437&type=stream.m3u8?start=-1
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CINECANAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105609_dark_360w_270h.png" group-title="F- CINE Y SERIES",CINECANAL
-http://nffthex0kzt.xyz/play/pVJEXpVxSE1PmbahX01mKJxKcr8Wwia3r34efrVksgBjcZI74n3AH_uJfmvYiZkI/.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TBS" tvg-logo="http://4.bp.blogspot.com/-lxk6HVdz2ME/VgcyW0SlNNI/AAAAAAAAlMo/9-OQcQd_PdQ/s1600/TBS-logo-2015.png" group-title="F- CINE Y SERIES",TBS
-http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8Sz6eIizix09c-so-GRcPKk8CR_KUQVOvhUM2c7lxhXe7R/m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TCM" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19246_dark_360w_270h.png" group-title="F- CINE Y SERIES",TCM
-http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8Sz6eIizix09c-so-GRcPKk8D-WiuhgunFiimEnp57N0-J/m3u8
+http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/63
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="GOLDEN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50709_dark_360w_270h.png" group-title="F- CINE Y SERIES",GOLDEN
-http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7VdYKs7RdA2_8sF5oadYxz7/m3u8
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7VdYKs7RdA2_8sF5oadYxz7/.m3u8&type=stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="GOLDEN EDGE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16423_dark_360w_270h.png" group-title="F- CINE Y SERIES",GOLDEN EDGE
-http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7X3hEKUkNMWRwhq_SUsdSzw/m3u8
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7X3hEKUkNMWRwhq_SUsdSzw/.m3u8&type=stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="GOLDEN PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68317_dark_360w_270h.png" group-title="F- CINE Y SERIES",GOLDEN PLUS
 http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000560&type=stream.m3u8?start=-1
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="GOLDEN PREMIER" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80596_dark_360w_270h.png" group-title="F- CINE Y SERIES",GOLDEN PREMIER
-http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8Sz6Mkvd6PXFCsOatelsGIf1xv1Gu1FBQ2GxfS0yPsS6Ye/m3u8
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8Sz6Mkvd6PXFCsOatelsGIf1xv1Gu1FBQ2GxfS0yPsS6Ye/.m3u8&type=stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DE PELICULA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16288_dark_360w_270h.png" group-title="F- CINE Y SERIES",DE PELICULA
-http://nffthex0kzt.xyz/play/pVJEXpVxSE1PmbahX01mKJxKcr8Wwia3r34efrVksgBx5wPjPuTN_Rq3wdDz9nlE/.m3u8
+http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/77
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DE PELICULA PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74016_dark_360w_270h.png" group-title="F- CINE Y SERIES",DE PELICULA PLUS
-http://nffthex0kzt.xyz/play/pVJEXpVxSE1PmbahX01mKJxKcr8Wwia3r34efrVksgAqiczeHV_4iBKSVchYua_V/.m3u8
-
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8Sz6Mkvd6PXFCsOatelsGIf1zddx6Q9_WF9dFeze83R9-g/.m3u8&type=stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Bandamax" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18101_dark_360w_270h.png" group-title="G- Musica",Bandamax
 http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000404&type=stream.m3u8?start=-1
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Canal de la Musica" tvg-logo="http://x.playerlatino.live/canaldelamusica.png" group-title="G- Musica",Canal de la Musica
@@ -279,38 +235,35 @@ http://bgtv.xyz/play/play-900.php?ul=433&token=asdasfasdda
 http://bgtv.xyz/play/play-900.php?ul=435&token=asdasfasdda
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Videos: Dream TV" tvg-logo="http://x.playerlatino.live/play.png" group-title="G- Musica",Videos: Dream TV
 http://bgtv.xyz/play/play-900.php?ul=439&token=asdasfasdda
-
-
 #EXTINF:-1 tvg-id="ESPN.mx(m3u4u)" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="H- DEPORTES",ESPN
-http://nffthex0kzt.xyz/play/pVJEXpVxSE1PmbahX01mKJxKcr8Wwia3r34efrVksgCf2s5toAoawNXknm5TX7Qg/.m3u8
+ http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/120
 #EXTINF:-1 tvg-id="ESPN2.mx(m3u4u)" tvg-name="ESPN 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="H- DEPORTES",ESPN 2
-http://nffthex0kzt.xyz/play/pVJEXpVxSE1PmbahX01mKJxKcr8Wwia3r34efrVksgAG2FOfb1_wc7KzjF5MExMF/.m3u8
+http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/123
 #EXTINF:-1 tvg-id="ESPN3.mx(m3u4u)" tvg-name="ESPN 3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73833_dark_360w_270h.png" group-title="H- DEPORTES",ESPN 3
-http://nffthex0kzt.xyz/play/pVJEXpVxSE1PmbahX01mKJxKcr8Wwia3r34efrVksgCWKqmjPCdd6bMUjiwuXnj8/.m3u8
-#EXTINF:-1 tvg-id="ESPN.mx(m3u4u)" tvg-name="ESPN 4" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="H- DEPORTES",ESPN 4
-http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8Sz6eIizix09c-so-GRcPKk8A97p7-wtm4y9bVIuVH6n9m/m3u8
+http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/126
+#EXTINF:-1 tvg-id="ESPN.mx(m3u4u)" tvg-name="ESPN DEPORTES" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="H- DEPORTES",ESPN DEPORTES
+http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/128
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx(m3u4u)" tvg-name="Fox Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="H- DEPORTES",Fox Sports
-http://nffthex0kzt.xyz/play/pVJEXpVxSE1PmbahX01mKJxKcr8Wwia3r34efrVksgATmr8WXxH9rrKPVwDoZRR9/.m3u8
+http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/163
 #EXTINF:-1 tvg-id="FoxSports2.mx(m3u4u)" tvg-name="Fox Sports 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66365_dark_360w_270h.png" group-title="H- DEPORTES",Fox Sports 2
-http://nffthex0kzt.xyz/play/pVJEXpVxSE1PmbahX01mKJxKcr8Wwia3r34efrVksgBMCACUUaCCnzYco3qg5k7y/.m3u8
+http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/166
 #EXTINF:-1 tvg-id="FoxSports3.mx(m3u4u)" tvg-name="Fox Sports 3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105006_dark_360w_270h.png" group-title="H- DEPORTES",Fox Sports 3
-http://nffthex0kzt.xyz/play/pVJEXpVxSE1PmbahX01mKJxKcr8Wwia3r34efrVksgBavImkFSCSJ38wujF0t1ez/.m3u8
-#EXTINF:-1 tvg-id="FoxSportsPremium.mx(m3u4u)" tvg-name="FOX SPORTS PREMIUM" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s123582_dark_360w_270h.png" group-title="H- DEPORTES",FOX SPORTS PREMIUM
-http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7VFfb2c7pL03KfxXi-w0DeJ/.m3u8&type=stream.m3u8
+http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/169
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="FOX SPORTS PREMIUM" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s123582_dark_360w_270h.png" group-title="H- DEPORTES",FOX SPORTS PREMIUM
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8Sz6Mkvd6PXFCsOatelsGIf1zIhHitKl6SxOQs6jrzgJWx/.m3u8&type=stream.m3u8
 #EXTINF:-1 tvg-id="TUDN.mx(m3u4u)" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="H- DEPORTES",TUDN
-http://nffthex0kzt.xyz/play/pVJEXpVxSE1PmbahX01mKJxKcr8Wwia3r34efrVksgDG71-pUg4PfQgdh6tIYac2/.m3u8
+ http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/332
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TUDN USA" tvg-logo="http://x.playerlatino.live/tudn.png" group-title="H- DEPORTES",TUDN USA
-http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8Sz6Mkvd6PXFCsOatelsGIf1wvdZIRZkY1pApG2o0njmLN/m3u8
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8Sz6Mkvd6PXFCsOatelsGIf1wvdZIRZkY1pApG2o0njmLN/.m3u8&type=stream.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.mx(m3u4u)" tvg-name="CLARO SPORTS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72291_dark_360w_270h.png" group-title="H- DEPORTES",CLARO SPORTS
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/68
 #EXTINF:-1 tvg-id="ClaroSports.mx(m3u4u)" tvg-name="CLARO SPORTS 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72291_dark_360w_270h.png" group-title="H- DEPORTES",CLARO SPORTS 2
 https://dai.google.com/linear/hls/event/erhZGvvqQdmR8xTfFO3MZw/master.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.mx(m3u4u)" tvg-name="CLARO SPORTS 4" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72291_dark_360w_270h.png" group-title="H- DEPORTES",CLARO SPORTS 4
 https://dai.google.com/linear/hls/event/UDhGuB7fSvuKDebY72_m_Q/master.m3u8
-#EXTINF:-1 tvg-id="NBATV(English).mx(m3u4u)" tvg-name="NBA TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32281_dark_360w_270h.png" group-title="H- DEPORTES",NBA TV
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NBA TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32281_dark_360w_270h.png" group-title="H- DEPORTES",NBA TV
 http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000032&type=stream.m3u8?start=-1
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MLB NETWORK" tvg-logo="https://img.mlbstatic.com/mlb-images/image/private/t_w372/mlb/th6vhnyqopc1hoqwym7q.jpg" group-title="H- DEPORTES",MLB NETWORK
 http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000228&type=stream.m3u8?start=-1
-#EXTINF:-1 tvg-id="NFLNetwork(English).mx(m3u4u)" tvg-name="NFL NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45399_dark_360w_270h.png" group-title="H- DEPORTES",NFL NETWORK
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NFL NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45399_dark_360w_270h.png" group-title="H- DEPORTES",NFL NETWORK
 http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000263&type=stream.m3u8?start=-1
-

@@ -55,7 +55,7 @@ https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
 https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ADN40" tvg-logo="https://cdn.mitvstatic.com/channels/adn-40-m.png" group-title="A- TV MX",ADN40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TLNOVELAS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s140026_dark_360w_270h.png" group-title="B- NOVELAS",TLNOVELAS
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TLNOVELAS" tvg-logo="https://x.playerlatino.live/tlnovelas.png" group-title="B- NOVELAS",TLNOVELAS
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/318
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="PASIONES" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/pasiones-mediano.png" group-title="B- NOVELAS",PASIONES
 http://alfatv.lat:2082/live/6xJ9crA8NAvp/4GK4cqCuN8zG/236262.m3u8?=-1
@@ -116,8 +116,6 @@ http://bgtv.xyz/play/play-900.php?ul=79&token=asdasfasdda
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DISNEY JR" tvg-logo="http://3.bp.blogspot.com/-VvbUqgHc5Pw/VJIJWAJLxfI/AAAAAAAAHi0/A0nDmO29zwk/s1600/Logo%2BDisney_Junior.png" group-title="D- INFANTIL",DISNEY JR
 http://bgtv.xyz/play/play-900.php?ul=743&token=asdasfasdda
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HBO HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="E- PREMIUM",HBO HD
- http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/198
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HBO HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="E- PREMIUM",HBO HD
 http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8Sz6Mkvd6PXFCsOatelsGIf1zSt42FwZIMn0Qbjf-oqXR_/.m3u8&type=stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HBO2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="E- PREMIUM",HBO2
 http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8Sz6Mkvd6PXFCsOatelsGIf1yFZ9X6isNvE--kX35WZ5j1/.m3u8&type=stream.m3u8
@@ -150,9 +148,9 @@ http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8Sz5SsZdHiWbtAXrKIdLfFU0FmMhAVNdis
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="STAR CHANNEL HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88534_dark_360w_270h.png" group-title="F- CINE Y SERIES",STAR CHANNEL HD
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/157
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="FX HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46442_dark_360w_270h.png" group-title="F- CINE Y SERIES",FX HD
- http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/176
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7UsEqhZNZZ8Pag6DYFGjNdn/.m3u8&type=stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="SONY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="F- CINE Y SERIES",SONY CHANNEL
- http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/284
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7U1L75UZDCd7lTT2NcOsT4O/.m3u8&type=stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UNIVERSAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1280px-Universal_TV_logo.svg.png" group-title="F- CINE Y SERIES",UNIVERSAL HD
 http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8SzxyAWD5f9WlZ7VP5AE_Ef7XVgyXmo8owvOPbXiWndhVg/.m3u8&type=stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="STUDIO UNIVERSAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29017_dark_360w_270h.png" group-title="F- CINE Y SERIES",STUDIO UNIVERSAL
@@ -236,9 +234,9 @@ http://bgtv.xyz/play/play-900.php?ul=435&token=asdasfasdda
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Videos: Dream TV" tvg-logo="http://x.playerlatino.live/play.png" group-title="G- Musica",Videos: Dream TV
 http://bgtv.xyz/play/play-900.php?ul=439&token=asdasfasdda
 #EXTINF:-1 tvg-id="ESPN.mx(m3u4u)" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="H- DEPORTES",ESPN
- http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/120
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8Sz6eIizix09c-so-GRcPKk8AOlxhb61oWd1dkn3PUS1S0/.m3u8&type=stream.m3u8
 #EXTINF:-1 tvg-id="ESPN2.mx(m3u4u)" tvg-name="ESPN 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="H- DEPORTES",ESPN 2
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/123
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8Sz6eIizix09c-so-GRcPKk8AJdgONJBpVPW7Bs6JSV9Zj/.m3u8&type=stream.m3u8
 #EXTINF:-1 tvg-id="ESPN3.mx(m3u4u)" tvg-name="ESPN 3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73833_dark_360w_270h.png" group-title="H- DEPORTES",ESPN 3
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/126
 #EXTINF:-1 tvg-id="ESPN.mx(m3u4u)" tvg-name="ESPN DEPORTES" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="H- DEPORTES",ESPN DEPORTES
@@ -252,7 +250,7 @@ http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/169
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="FOX SPORTS PREMIUM" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s123582_dark_360w_270h.png" group-title="H- DEPORTES",FOX SPORTS PREMIUM
 http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8Sz6Mkvd6PXFCsOatelsGIf1zIhHitKl6SxOQs6jrzgJWx/.m3u8&type=stream.m3u8
 #EXTINF:-1 tvg-id="TUDN.mx(m3u4u)" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="H- DEPORTES",TUDN
- http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/332
+http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8Sz6Mkvd6PXFCsOatelsGIf1x3YuJFwyvDNg6U-eAXxf9m/.m3u8&type=stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TUDN USA" tvg-logo="http://x.playerlatino.live/tudn.png" group-title="H- DEPORTES",TUDN USA
 http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8Sz6Mkvd6PXFCsOatelsGIf1wvdZIRZkY1pApG2o0njmLN/.m3u8&type=stream.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.mx(m3u4u)" tvg-name="CLARO SPORTS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72291_dark_360w_270h.png" group-title="H- DEPORTES",CLARO SPORTS
